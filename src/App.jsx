@@ -4,8 +4,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import { useTranslation } from "react-i18next";
-import { Header, Home, About, Speakers, Sponsors, Agenda, Footer } from './views';
+import { Header, Home, Speakers, Sponsors, Agenda, Footer } from './views';
 
 import './styles.scss';
 

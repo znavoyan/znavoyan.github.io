@@ -10,7 +10,7 @@ import styles from './styles.module.scss';
 
 const SponsorsSection = () => {
 
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     return (
         <div className={styles["sponsors"]}>
@@ -26,22 +26,22 @@ const SponsorsSection = () => {
 
                     <div className="flex">
                         <div className={styles['img-content']}>
-                            <a href="https://company.com" className="underlined" target="_anchor" rel="noopener noreferrer">
+                            <a href="https://company.com" className="underlined" target="_blank" rel="noopener noreferrer">
                                 <img src={sponsor_vector_1} className="icon-box" alt="" />
                             </a>
                         </div>
                         <div className={styles['img-content']}>
-                            <a href="https://www.simplytechnologies.net" className="underlined" target="_anchor" rel="noopener noreferrer">
+                            <a href="https://www.simplytechnologies.net" className="underlined" target="_blank" rel="noopener noreferrer">
                                 <img src={sponsor_vector_2} className="icon-simply" alt="" />
                             </a>
                         </div>
                         <div className={styles['img-content']}>
-                            <a href="https://company.com" className="underlined" target="_anchor" rel="noopener noreferrer">
+                            <a href="https://company.com" className="underlined" target="_blank" rel="noopener noreferrer">
                                 <img src={sponsor_vector_3} className="icon-fb" alt="" />
                             </a>
                         </div>
                         <div className={styles['img-content']}>
-                            <a href="https://company.com" className="underlined" target="_anchor" rel="noopener noreferrer">
+                            <a href="https://company.com" className="underlined" target="_blank" rel="noopener noreferrer">
                                 <img src={sponsor_vector_4} className="icon-t" alt="" />
                             </a>
                         </div>

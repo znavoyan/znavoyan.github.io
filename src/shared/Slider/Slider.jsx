@@ -19,13 +19,13 @@ import styles from "./styles.module.scss";
 
 const Slider = () => {
 
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     return (
         <div className={styles["Marquee"]}>
             <div className={styles["Marquee-content"]}>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/erik-harutyunyan-293458131" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/erik-harutyunyan-293458131" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_1} alt="" className="rounded" />
                             <p className="img-title">
@@ -39,7 +39,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/stepansargsyan" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/stepansargsyan" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_2} alt="" className="rounded" />
                             <p className="img-title">
@@ -53,7 +53,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/levan-tsinadze-246a1b2a" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/levan-tsinadze-246a1b2a" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_3} alt="" className="rounded" />
                             <p className="img-title">
@@ -67,7 +67,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/davidkocharian" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/davidkocharian" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_4} alt="" className="rounded" />
                             <p className="img-title">
@@ -81,7 +81,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://github.com/hrayrhar" className="link-no-decoration" target="_anchor">
+                    <a href="https://github.com/hrayrhar" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_5} alt="" className="rounded" />
                             <p className="img-title">
@@ -95,7 +95,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/shant-navasardyan-1302aa149" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/shant-navasardyan-1302aa149" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_6} alt="" className="rounded" />
                             <p className="img-title">
@@ -109,7 +109,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://ru.linkedin.com/in/manvelavetisian" className="link-no-decoration" target="_anchor">
+                    <a href="https://ru.linkedin.com/in/manvelavetisian" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_7} alt="" className="rounded" />
                             <p className="img-title">
@@ -123,7 +123,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/robert-yenokyan" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/robert-yenokyan" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_8} alt="" className="rounded" />
                             <p className="img-title">
@@ -137,7 +137,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    {/* <a href="#" className="link-no-decoration" target="_anchor"> */}
+                    {/* <a href="#" className="link-no-decoration" target="_blank" rel="noopener noreferrer"> */}
                     <div className="flex column">
                         <img src={speaker_9} alt="" className="rounded" />
                         <p className="img-title">
@@ -151,7 +151,7 @@ const Slider = () => {
                     {/* </a> */}
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    {/* <a href="#" className="link-no-decoration" target="_anchor"> */}
+                    {/* <a href="#" className="link-no-decoration" target="_blank" rel="noopener noreferrer"> */}
                     <div className="flex column">
                         <img src={speaker_10} alt="" className="rounded" />
                         <p className="img-title">
@@ -165,7 +165,7 @@ const Slider = () => {
                     {/* </a> */}
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_11} alt="" className="rounded" />
                             <p className="img-title">
@@ -179,7 +179,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/andranik-khachatryan-4b6b82145" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/andranik-khachatryan-4b6b82145" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_12} alt="" className="rounded" />
                             <p className="img-title">
@@ -193,7 +193,7 @@ const Slider = () => {
                     </a>
                 </div>
                 <div className={styles["Marquee-tag"]}>
-                    <a href="https://www.linkedin.com/in/zavennavoyan" className="link-no-decoration" target="_anchor">
+                    <a href="https://www.linkedin.com/in/zavennavoyan" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_13} alt="" className="rounded" />
                             <p className="img-title">

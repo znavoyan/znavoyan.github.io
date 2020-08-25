@@ -7,7 +7,7 @@ import styles from './styles.module.scss';
 
 const SpeakersSection = () => {
 
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     return (
         <div className={styles["slider"]}>

@@ -5,14 +5,11 @@ import agendaFrame from "../../images/agendaFrame.png";
 import number_1 from "../../images/number_1.svg";
 import number_2 from "../../images/number_2.svg";
 import number_3 from "../../images/number_3.svg";
-import number_4 from "../../images/number_4.svg";
-import number_5 from "../../images/number_5.svg";
-import number_6 from "../../images/number_6.svg";
 
 const Agenda = () => {
 
     const episodeSection = useRef(null);
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     const scrollDown = () => {
         episodeSection.current.scrollIntoView({ behavior: "smooth", block: "start" });
