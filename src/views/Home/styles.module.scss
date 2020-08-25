@@ -1,0 +1,140 @@
+.home-text {
+    font-size: 4.8em;
+    line-height: 1.1666em;
+    color: #FFFFFF;
+
+    span {
+        font-family: FuturaBoldUnicode;
+    }
+}
+
+.btn-text {
+    margin-right: 15px;
+}
+
+.arrow-down {
+    position: absolute;
+    right: 25px;
+    display: block;
+    width: 13px;
+    height: 8px;
+    background: url('../../images/arrowDown.svg');
+    background-repeat: no-repeat; 
+    animation: abd 1.5s infinite;
+
+    &:first-child {
+        top: 1px;
+        animation-delay: .15s;
+    }
+
+    &:last-child {
+        top: 8px;
+        animation-delay: .3s;
+    }
+
+}
+
+@keyframes abd {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  .slider {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+
+    .shadow-left {
+        background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+        position: absolute;
+
+        width: 100px;
+        height: 100%;
+        z-index: 100;
+    }
+
+    .shadow-right {
+        background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+        position: absolute;
+        right:0;
+
+        width: 100px;
+        height: 100%;
+        z-index: 100;
+    }
+
+      img {
+          padding: 0 10px; 
+      }
+  }
+
+  .sponsors {
+        width: 100%;
+        height: 70em;
+        position: relative;
+        background-size: cover;
+        background-position: bottom center;
+        background-repeat: no-repeat;
+        background-image: linear-gradient(108.22deg, rgba(#C9509C, .7) 0%, rgba(#D3ABAA, .7) 98.5%), url('../../images/sponsorsBackground.svg');
+
+
+        .img-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: auto;
+            width: 20%;
+        } 
+  }
+
+  .organisers {
+        .img-content {
+            position: relative;
+            .text {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                background-color: #000000;
+
+                font-size: 24px;
+                line-height: 32px;
+
+                color: #FFFFFF;
+                span {
+                    line-height: 21px;
+                    display: block;
+                    font-family: FuturaBoldUnicode;
+                }
+            }
+        }
+  }
+
+  .map {
+      position: relative;
+      width: 100%;
+      height: 390px;
+
+      .map-content {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 390px;
+      }
+  }
+
+  @media screen and (max-width: 660px) {
+    .organisers {
+        .img-content {
+            margin-bottom: 30px;
+        }
+    }
+  }
+
+ 

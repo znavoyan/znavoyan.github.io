@@ -1,0 +1,152 @@
+{
+    "header": {
+        "speakers": "speakers",
+        "sponsors": "sponsors",
+        "agenda": "agenda",
+        "register": "Register"
+    },
+    "home": {
+        "main": {
+            "international": "International",
+            "dataFestival": "<span>&#x00023;DataFestival</span> in",
+            "in": "in",
+            "yerevan": "Yerevan",
+            "register": "Register",
+            "scrollDown": "Scroll down"
+        },
+        "about": {
+            "title_first_part": "What is",
+            "title_second_part": "DataFest Yerevan",
+            "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
+            "facebookPage": "Follow us on Facebook -",
+            "facebookEventPage": "Facebook event page -",
+            "followUs": "Follow us",
+            "facebookPageText": "Facebook page",
+            "facebookEventText": "Facebook event",
+            "topic_title": "Topics of this Year",
+            "topic_1": "NLP",
+            "topic_2": "Computer Vision",
+            "topic_3": "Engineering"
+        }
+    },
+    "sponsors": {
+        "our": "Our",
+        "title": "Sponsors",
+        "seeAll": "See all",
+        "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2020, whose support made this event possible."
+    },
+    "agenda": {
+        "our": "Our",
+        "title": "Agenda",
+        "month": "september",
+        "text": "DataFest Yerevan 2020 will be held online. The agenda will be posted closer to the start of the conference. Zoom links to the talks and additional info will be posted in conference’s Slack.",
+        "1": {
+            "topic_1": "10:00-11:00 Registration",
+            "topic_2": "11:00-13:00 Something cool",
+            "topic_3": "13:00-14:00 Something cool",
+            "topic_4": "14:00-16:00 Something cool",
+            "topic_5": "16:00-16:30 Something cool",
+            "topic_6": "16:30-19:00 Something cool"
+        },
+        "2": {
+            "topic_1": "10:00-11:00 Registration",
+            "topic_2": "11:00-13:00 Something cool",
+            "topic_3": "13:00-14:00 Something cool",
+            "topic_4": "14:00-16:00 Something cool",
+            "topic_5": "16:00-16:30 Something cool",
+            "topic_6": "16:30-19:00 Something cool"
+        },
+        "3": {
+            "topic_1": "10:00-11:00 Registration",
+            "topic_2": "11:00-13:00 Something cool",
+            "topic_3": "13:00-14:00 Something cool",
+            "topic_4": "14:00-16:00 Something cool",
+            "topic_5": "16:00-16:30 Something cool",
+            "topic_6": "16:30-19:00 Something cool"
+        }
+    },
+    "organisers": "Organisers",
+    "speakers": {
+        "our": "Our",
+        "title": "Speakers",
+        "more": "More",
+        "speaker_1": {
+            "name": "Erik",
+            "surname": "Harutyunyan",
+            "position": "Machine Learning Engineer at",
+            "company": "SuperAnnotate"
+        },
+        "speaker_2": {
+            "name": "Stepan",
+            "surname": "Sargsyan",
+            "position": "Architect, ML at",
+            "company": "Krisp"
+        },
+        "speaker_3": {
+            "name": "Levan",
+            "surname": "Tsinadze",
+            "position": "Head of AI at",
+            "company": "Maxin.ai"
+        },
+        "speaker_4": {
+            "name": "Davit",
+            "surname": "Kocharian",
+            "position": "Senior Data Scientist, User Behavior Team Lead at",
+            "company": "PicsArt"
+        },
+        "speaker_5": {
+            "name": "Hrayr",
+            "surname": "Harutyunyan",
+            "position": "PhD student at",
+            "company": "University of Southern California"
+        },
+        "speaker_6": {
+            "name": "Shant",
+            "surname": "Navasardyan",
+            "position": "Senior Machine Learning Researcher / Team Lead at",
+            "company": "PicsArt"
+        },
+        "speaker_7": {
+            "name": "Manvel",
+            "surname": "Avetisian",
+            "position": "Managing Director at",
+            "company": "Sberbank AI Lab"
+        },
+        "speaker_8": {
+            "name": "Robert",
+            "surname": "Yenokyan",
+            "position": "Data Scientist at",
+            "company": "Metric.am"
+        },
+        "speaker_9": {
+            "name": "Karen",
+            "surname": "Hambardzumyan",
+            "position": "ML researcher at",
+            "company": "YerevaNN"
+        },
+        "speaker_10": {
+            "name": "Hrant",
+            "surname": "Khachatrian",
+            "position": "Director at",
+            "company": "YerevaNN"
+        },
+        "speaker_11": {
+            "name": "Arsen",
+            "surname": "Yeghiazaryan",
+            "position": "ML Team Lead at",
+            "company": "Webb Fontaine"
+        },
+        "speaker_12": {
+            "name": "Andranik",
+            "surname": "Khachatryan",
+            "position": "ML Specialist, Consultant at",
+            "company": "Toptal"
+        },
+        "speaker_13": {
+            "name": "Zaven",
+            "surname": "Navoyan",
+            "position": "Director of AI/ML at",
+            "company": "Intent.ai"
+        }
+    }
+}

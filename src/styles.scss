@@ -1,0 +1,764 @@
+@font-face {
+    src: url(fonts/Futura.ttf);
+    font-family: Futura;
+}
+
+@font-face {
+  src: url(fonts/FuturaBoldUnicode.ttf);
+  font-family: FuturaBoldUnicode;
+}
+
+html, body {
+  height: 100vh;
+}
+
+#root, .app {
+  height: auto;
+}
+
+body {
+    background-color: #000;
+    font-family: Futura;
+    margin: 0;
+    color: #FFFFFF;
+
+    font-size: 10px;
+}
+
+//MAIN
+
+.container {
+  width: 95.4em;
+  height: inherit;
+  margin: auto;
+  padding: 10px;
+}
+
+.full {
+  width: 100%;
+  height: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+.align-start {
+  align-items: flex-start;
+}
+
+.flex-end {
+  justify-content: end;
+}
+
+.flex-space-between {
+  justify-content: space-between;
+}
+
+.flex-space-around {
+  justify-content: space-around;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.left {
+  text-align: left !important;
+}
+
+.margin-off {
+  margin: 0 !important;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.small-text {
+  span {
+    font-size: 1.7em !important;
+  }
+
+  p {
+    font-size: 2.5em !important;
+  }
+}
+
+//SECTIONS
+
+.home {
+  height: 100vh;
+  img.main {
+    height: 27.3em;
+    width: 55em;
+  }
+}
+
+.about {
+  // img.main {
+  //   height: 32.2em;
+  //   width: 40.3em;
+  // }
+
+  // img.festivalPic {
+  //   height: 51.6em;
+  //   width: 95.4em;
+  // }
+
+  .topics {
+    font-size: 4.8em;
+    line-height: 1.1666em;
+  }
+}
+
+.sponsors {
+  img.main {
+    height: 35.3em;
+    width: 35.9em;
+  }
+}
+
+img.icon-1 {
+  height: 7.4em;
+  width: 6.475em;
+}
+
+img.icon-2 {
+  height: 6.7em;
+  width: 6.7em;
+}
+
+img.icon-3 {
+  height: 7.4em;
+  width: 7.4em;
+}
+
+img.icon-4 {
+  height: 6.7em;
+  width: 6.4em;
+}
+
+img.icon-5 {
+  height: 7.4em;
+  width: 6.8em;
+}
+
+.speakers {
+  img.main {
+    height: 18.7em;
+    width: 52.3em;
+  }
+}
+
+.sponsors-icons {
+
+  .link {
+    a {
+      font-size: 1em !important;
+    }
+  }
+
+  img.icon-box {
+    height: 12em;
+  }
+
+  img.icon-simply {
+    width: 28em;
+  }
+
+  img.icon-fb {
+    width: 13em;
+  }
+
+  img.icon-t {
+    width: 6.2em;
+  }
+
+  img.icon-a {
+    width: 13em;
+  }
+
+  img.icon-ball {
+    width: 13em;
+  }
+
+  img.icon-twitt {
+    width: 13em;
+  }
+
+} 
+
+.agenda {
+  img.main {
+    height: 25.6em;
+    width: 50.662em;
+  }
+
+  img.icon {
+    height: 15em;
+  }
+}
+
+//BUTTONS
+
+.btn {
+
+    &.fixed {
+      position: fixed;
+      right: 160px;
+    }
+
+    position: relative;
+    cursor: pointer;
+
+      .btn-cover {
+        width: auto;
+        min-width: 149.8px;
+        height: 38px;
+        
+        border-radius: 41.8551px;
+        position: absolute;
+        opacity: 0;
+        transition: all .2s;
+
+        z-index: -1;
+
+        &.big-btn-cover {
+          width: auto;
+          min-width: 252px;
+          height: 64px;
+
+          border-radius: 70.4927px;
+        }
+
+        &.medium-btn-cover {
+          width: 220px;
+          height: 64px;
+        }
+
+        &.blue-btn-cover {
+          background: rgba(#289ACC, .6);
+        }
+  
+        &.pink-btn-cover {
+          background: rgba(#CA519C, .6);
+        }
+
+        &.white-btn-cover {
+          background: rgba(#FFFFFF, .6);
+        }
+
+      }
+
+      button {
+        width: auto;
+        min-width: 149.8px;
+        height: 38px;
+        border-radius: 41.8551px;
+        font-family: Futura;
+        font-size: 16.5217px;
+        line-height: 19px;
+        text-align: center;
+        border: none;
+        color: #FFFFFF;
+        outline: none;
+
+        cursor: pointer;
+
+        &.blue {
+          background: #289ACC;
+        }
+
+        &.pink {
+          background: #CA519C;
+        }
+
+        &.white {
+          background: #FFFFFF;
+        }
+      
+      }
+
+      &.big-pink {
+        width: auto;
+        min-width: 220px;
+        height: 64px;
+        border-radius: 70.4927px;
+      }
+
+      &.big-white {
+        width: auto;
+        min-width: 252px;
+        height: 64px;
+        border-radius: 70.4927px;
+        background: #FFFFFF;
+        span {
+          color: #C9519C;
+        }
+
+      }
+
+      .medium {
+        min-width: 220px !important;
+      }
+
+      .bordered {
+        background: #000000;
+        box-sizing: border-box;
+        border-radius: 51.5879px;
+        width: auto;
+        min-width: 163px;
+        height: 37px;
+        border-radius: 51.5879px;
+        transition: all .2s;
+
+        cursor: pointer;
+
+        &.white-border {
+          border: 1.46364px solid #FFFFFF;
+        }
+
+        &.big-pink-border {
+          border: 2px solid #CA519C;
+
+          &:hover {
+            background: #CA519C;
+          }
+        }
+
+        &.big-white-border {
+          border: 2px solid #FFFFFF;
+        }
+
+        span {
+          font-weight: 500;
+          font-size: 12px;
+          line-height: 16px;
+        }
+      }
+
+      .big {
+        width: auto;
+        min-width: 252px;
+        height: 64px;
+        border-radius: 70.4927px;
+
+        span {
+          font-weight: 500;
+          font-size: 24px;
+          line-height: 32px;
+        }
+      }
+
+      &:hover {
+        .btn-cover{
+            opacity: 1;
+            filter: blur(30px);
+        }
+
+        .big-btn-cover{
+          opacity: 1;
+          filter: blur(20px);
+      }
+        
+      }
+}
+
+.url {
+  position: relative;
+
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: all .2s;
+  font-size: 1.5em;
+
+  .tooltip {
+    display: block;
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    bottom: 130%;
+    transition: all .2s;
+
+    height: 20px;
+    width: auto;
+    min-width: 200px;
+
+    background: rgba(#000000, 1);
+    border: 1px solid #FFFFFF;
+    border-radius: 4px;
+
+    .tooltip-text {
+      position: absolute;
+      top: -13px;
+      text-align: center;
+      width: 100%;
+
+      font-size: 13px;
+      line-height: 20px;
+      font-weight: 400!important;
+    }
+
+    &:after {
+      position: absolute;
+      border-right: 6px solid transparent;
+      border-top: 6px solid rgba(#FFFFFF,1); 
+      border-left: 6px solid transparent;
+      content: '';
+      height: 0;
+      top: 100%;
+      left: 10px;
+      width: 0;
+    }
+  }
+
+  .icon-shadow {
+    position: absolute;
+    top:0;
+    height: 1em;
+    width: 1em;
+    background: rgba(#FFFFFF, 1);
+    opacity: 0;
+    filter: blur(20px);
+    transition: all .2s;
+  }
+
+  &:hover {
+
+    .tooltip {
+      opacity: .5;
+    }
+
+    .icon-shadow {
+      opacity: .3;
+    }
+  }
+
+
+
+}
+
+
+
+.link-no-decoration {
+  text-decoration: none;
+}
+
+.link {
+  a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 2.4em;
+    line-height: 1.333em;
+    text-align: center;
+    color: #FFFFFF;
+    transition: all .2s;
+
+    &.underlined {
+      color: #C9C9C9;
+      text-decoration: underline;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.dot {
+  display: inline-block;
+  margin-right: 20px;
+  height: 15px;
+  width: 15px;
+  background: #289ACC;
+}
+
+//TEXTS
+
+.topic-icons {
+  
+  .paragraph {
+    font-size: 3.8em;
+    line-height: 1.1666em;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+.title {
+  font-weight: 500;
+  font-size: 2.8em;
+  line-height: 1.321em;
+  text-align: center;
+  color: #FFFFFF;
+
+  &.big {
+    font-size: 3.6em;
+    line-height: 1.166em;
+  }
+
+  span {
+    font-family: FuturaBoldUnicode;
+  }
+}
+
+.paragraph {
+  font-size: 2.4em;
+  line-height: 1.166em;
+  text-align: center;
+
+  color: #C9C9C9;
+
+  span {
+    font-family: FuturaBoldUnicode;
+  }
+}
+
+.big-text {
+  font-size: 6.4em;
+  line-height: 1.015em;
+  color: #FFFFFF;
+
+  span {
+    font-family: FuturaBoldUnicode;
+  }
+
+}
+
+.rounded {
+  border-radius: 50%;;
+  width: 27.3em;
+  height: 27.3em;
+}
+
+.img-title {
+
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-style: normal;
+  font-size: 2.4em;
+  line-height: 1.333em;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  span {
+    font-family: FuturaBoldUnicode;
+  }
+}
+
+.img-paragraph {
+  margin: 0;
+  font-size: 1.8em;
+  line-height: 1.166em;
+  text-align: center;
+  max-width: 200px;
+
+  color: #FFFFFF;
+
+  span {
+    color: #16C6E0;
+  }
+}
+
+//SPACES
+
+.space-85-height {
+  height: 8.5em;
+}
+
+.space-40-height {
+  height: 4em;
+}
+
+.space-25-height {
+  height: 2.5em;
+}
+
+.space-100-height {
+  height: 10em;
+}
+
+.space-20-height {
+  height: 2em;
+}
+
+.space-250-height {
+  height: 25em;
+}
+
+.space-35-height {
+  height: 3.5em;
+}
+
+.space-25-width {
+  width: 2.5em;
+}
+
+.space-10-height {
+  height: 1em;
+}
+
+.space-80-height {
+  height: 8em;
+}
+
+.space-60-width {
+  width: 6em;
+}
+
+@media screen and (max-width: 1400px) {
+  body {
+    font-size: 8px;
+  }
+
+  .btn {
+    &.fixed {
+      right: 130px;
+    }
+  }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1400px) {
+  .agenda {
+    justify-content: center;
+    .episodes {
+      
+      .col {
+        & > div {
+          flex-direction: column;
+          align-items: center;
+          .img-title {
+            span {
+              width: 100%;
+              margin-top: 20px;
+              display: block;
+              text-align: center;
+            }
+            
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    font-size: 7.5px;
+  }
+
+  .about, .speakers, .sponsors, .agenda {
+    padding-top: 80px;
+  }
+  
+}
+
+@media screen and (max-width: 805px) {
+  body {
+    font-size: 6px;
+  }
+
+  .agenda {
+    .episodes {
+      flex-direction: column;
+    }
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .btn {
+    &.fixed {
+      top: 120px;
+      right: 20px;
+    }
+  }
+}
+
+@media screen and (max-width: 660px) {
+  body {
+    font-size: 7px;
+  }
+
+  .container {
+    width: auto;
+  }
+
+  .topic-icons {
+    flex-direction: column;
+  }
+
+  .paragraph {
+    padding: 0 10px;
+    text-align: left;
+  }
+
+  .about {
+    img.festivalPic {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .small-text {
+    width: 175px;
+  }
+
+  .home, .about, .speakers, .sponsors, .agenda {
+    img.main{
+      display: none;
+    }
+  }
+
+  .speakers {
+    .speakers-images {
+      flex-direction: column;
+    }
+  }
+
+  .organisers-images {
+    flex-direction: column;
+    &:last-child {
+      margin-top: -55px;
+    }
+  }
+
+  .sponsors {
+    img.icon-box {
+      height: 12em !important;
+    }
+  }
+
+  .sponsors-icons {
+    flex-direction: column;
+  
+    img {
+      margin-top: 2.5em;
+      height: 5em !important;
+    }
+  
+  } 
+}
+
