@@ -8,7 +8,7 @@ import {
 import { Tooltip } from "../../shared";
 
 const AboutSection = () => {
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
     const facebookPageUrl = "https://facebook.com/datafestYerevan";
     const facebookEventPageUrl = "https://facebook.com/events/3676170732411668";
 
@@ -25,13 +25,13 @@ const AboutSection = () => {
                     <div className="flex">
                         <p>{t('home.about.followUs')}</p>
                         <div className="space-25-width"></div>
-                        <a href={facebookPageUrl} className="url" target="_anchor">
+                        <a href={facebookPageUrl} className="url" target="_blank" rel="noopener noreferrer">
                             <Tooltip tooltipText={t('home.about.facebookPageText')} />
                             <FacebookOutlined />
                             <div className="icon-shadow"></div>
                         </a>
                         <div className="space-25-width"></div>
-                        <a href={facebookEventPageUrl} className="url" target="_anchor">
+                        <a href={facebookEventPageUrl} className="url" target="_blank" rel="noopener noreferrer">
                             <Tooltip tooltipText={t('home.about.facebookEventText')} />
                             <CalendarOutlined />
                             <div className="icon-shadow"></div>

@@ -14,7 +14,7 @@ import styles from './styles.module.scss';
 
 const Home = () => {
 
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     const aboutBlock = useRef(null);
 
@@ -37,7 +37,7 @@ const Home = () => {
                             <div className="space-40-height"></div>
                             <div className="btn">
                                 <div className="btn-cover blue-btn-cover"></div>
-                                <a href="https://forms.gle/LZviScoxDHaSB1TJ8" target="_blank"><button className="blue">{t('home.main.register')}</button></a>
+                                <a href="https://forms.gle/LZviScoxDHaSB1TJ8" target="_blank" rel="noopener noreferrer"><button className="blue">{t('home.main.register')}</button></a>
                             </div>
                         </div>
                         <img src={homeFrame} className="main" alt="" />

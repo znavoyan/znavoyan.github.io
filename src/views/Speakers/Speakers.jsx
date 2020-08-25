@@ -18,7 +18,7 @@ import speaker_13 from '../../images/Zaven_Navoyan.jpg';
 
 const Speakers = () => {
 
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     return <div className="container">
         <div className="speakers">
@@ -47,7 +47,7 @@ const Speakers = () => {
                 <div className="flex speakers-images">
 
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/erik-harutyunyan-293458131" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/erik-harutyunyan-293458131" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_1} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_1.name')}</span> {t('speakers.speaker_1.surname')}
@@ -60,7 +60,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/stepansargsyan" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/stepansargsyan" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_2} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_2.name')}</span> {t('speakers.speaker_2.surname')}
@@ -73,7 +73,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/levan-tsinadze-246a1b2a" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/levan-tsinadze-246a1b2a" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_3} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_3.name')}</span> {t('speakers.speaker_3.surname')}
@@ -89,7 +89,7 @@ const Speakers = () => {
                 <div className="space-25-height"></div>
                 <div className="flex speakers-images">
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/davidkocharian" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/davidkocharian" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_4} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_4.name')}</span> {t('speakers.speaker_4.surname')}
@@ -102,7 +102,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://github.com/hrayrhar" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://github.com/hrayrhar" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_5} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_5.name')}</span> {t('speakers.speaker_5.surname')}
@@ -115,7 +115,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/shant-navasardyan-1302aa149" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/shant-navasardyan-1302aa149" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_6} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_6.name')}</span> {t('speakers.speaker_6.surname')}
@@ -131,7 +131,7 @@ const Speakers = () => {
                 <div className="space-25-height"></div>
                 <div className="flex speakers-images">
                     <div className="flex column">
-                        <a href="https://ru.linkedin.com/in/manvelavetisian" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://ru.linkedin.com/in/manvelavetisian" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_7} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_7.name')}</span> {t('speakers.speaker_7.surname')}
@@ -144,7 +144,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/robert-yenokyan" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/robert-yenokyan" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_8} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_8.name')}</span> {t('speakers.speaker_8.surname')}
@@ -186,7 +186,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_11} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_11.name')}</span> {t('speakers.speaker_11.surname')}
@@ -199,7 +199,7 @@ const Speakers = () => {
                     </div>
                     <div className="space-25-height"></div>
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/andranik-khachatryan-4b6b82145" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/andranik-khachatryan-4b6b82145" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_12} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_12.name')}</span> {t('speakers.speaker_12.surname')}
@@ -215,7 +215,7 @@ const Speakers = () => {
                 <div className="space-25-height"></div>
                 <div className="flex speakers-images">
                     <div className="flex column">
-                        <a href="https://www.linkedin.com/in/zavennavoyan" className="flex center column link-no-decoration" target="_anchor">
+                        <a href="https://www.linkedin.com/in/zavennavoyan" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_13} alt="" className="rounded" />
                             <p className="img-title">
                                 <span>{t('speakers.speaker_13.name')}</span> {t('speakers.speaker_13.surname')}

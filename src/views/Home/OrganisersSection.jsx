@@ -10,7 +10,7 @@ import styles from './styles.module.scss';
 
 const OrganisersSection = () => {
 
-    const { t, i18n } = useTranslation('common');
+    const { t } = useTranslation('common');
 
     return (
         <div className={styles["organisers"]}>
@@ -27,7 +27,7 @@ const OrganisersSection = () => {
 
                         <div className="flex organisers-images">
                             <div className={styles['img-content']}>
-                                <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721" className="link-no-decoration" target="_anchor">
+                                <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                                     <img src={organiser_vector_1} alt="" className="rounded" />
                                     <div className={styles['text']}>
                                         <span>{t('speakers.speaker_11.name')}</span> {t('speakers.speaker_11.surname')}
@@ -45,7 +45,7 @@ const OrganisersSection = () => {
                         <div className="space-85-height"></div>
                         <div className="flex organisers-images">
                             <div className={styles['img-content']}>
-                                <a href="https://www.linkedin.com/in/zavennavoyan" className="link-no-decoration" target="_anchor">
+                                <a href="https://www.linkedin.com/in/zavennavoyan" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                                     <img src={organiser_vector_3} alt="" className="rounded" />
                                     <div className={styles['text']}>
                                         <span>{t('speakers.speaker_13.name')}</span> {t('speakers.speaker_13.surname')}
@@ -53,7 +53,7 @@ const OrganisersSection = () => {
                                 </a>
                             </div>
                             <div className={styles['img-content']}>
-                                <a href="https://www.linkedin.com/in/andranik-khachatryan-4b6b82145" className="link-no-decoration" target="_anchor">
+                                <a href="https://www.linkedin.com/in/andranik-khachatryan-4b6b82145" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                                     <img src={organiser_vector_4} alt="" className="rounded" />
                                     <div className={styles['text']}>
                                         <span>{t('speakers.speaker_12.name')}</span> {t('speakers.speaker_12.surname')}

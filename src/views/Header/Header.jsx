@@ -85,7 +85,7 @@ const Header = ({ changeFooterHeight, ...props }) => {
                     </ul>
 
                     <div className="btn fixed"><div className="btn-cover blue-btn-cover"></div>
-                        <a href={registerUrl} target="_blank"><button className="blue">{t('header.register')}</button></a>
+                        <a href={registerUrl} target="_blank" rel="noopener noreferrer"><button className="blue">{t('header.register')}</button></a>
                     </div>
 
 
