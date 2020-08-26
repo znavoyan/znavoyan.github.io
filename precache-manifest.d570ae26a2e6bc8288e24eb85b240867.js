@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "420e1c4401b3583356c8735cb66ee210",
+    "revision": "0f8ac473b6377e2e8993763c8d2c4449",
     "url": "/znavoyan.github.io/index.html"
   },
   {
-    "revision": "dbe0c485ecc9fd658402",
+    "revision": "36de869d1913027a4a08",
     "url": "/znavoyan.github.io/static/css/main.ad324a2a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/znavoyan.github.io/static/js/2.b4205ae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dbe0c485ecc9fd658402",
-    "url": "/znavoyan.github.io/static/js/main.cb0ea334.chunk.js"
+    "revision": "36de869d1913027a4a08",
+    "url": "/znavoyan.github.io/static/js/main.13fac849.chunk.js"
   },
   {
     "revision": "d31b81d004e24233aa25",
