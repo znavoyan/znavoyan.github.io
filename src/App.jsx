@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
@@ -45,7 +45,7 @@ function App(props) {
       <div className="app">
         <Header changeFooterHeight={changeFooterHeight} />
         <Switch>
-          <Route exact path="/">
+          <Route path="/">
             <Home />
           </Route>
           {/* <Route path="/about">
