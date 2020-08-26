@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6098eb3bb755d9a37df8f3c046945be",
+    "revision": "50137115b02289ce209ef25df196d6a9",
     "url": "/znavoyan.github.io/index.html"
   },
   {
-    "revision": "2a85b797e1314fb3fb87",
+    "revision": "00bb099a426952fba4c9",
     "url": "/znavoyan.github.io/static/css/main.ad324a2a.chunk.css"
   },
   {
-    "revision": "14559f7b8abc2cb9c2e1",
-    "url": "/znavoyan.github.io/static/js/2.8b47d2ff.chunk.js"
+    "revision": "45be77cba7d992ae58c6",
+    "url": "/znavoyan.github.io/static/js/2.b4205ae2.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/znavoyan.github.io/static/js/2.8b47d2ff.chunk.js.LICENSE.txt"
+    "url": "/znavoyan.github.io/static/js/2.b4205ae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a85b797e1314fb3fb87",
-    "url": "/znavoyan.github.io/static/js/main.1e95ac2c.chunk.js"
+    "revision": "00bb099a426952fba4c9",
+    "url": "/znavoyan.github.io/static/js/main.3aa6170c.chunk.js"
   },
   {
     "revision": "d31b81d004e24233aa25",
