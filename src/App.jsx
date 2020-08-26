@@ -41,7 +41,7 @@ function App(props) {
   });
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="app">
         <Header changeFooterHeight={changeFooterHeight} />
         <Switch>
