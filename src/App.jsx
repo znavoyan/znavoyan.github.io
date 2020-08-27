@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import {
   HashRouter as Router,
   Switch,
-  Route,
+  Route
 } from "react-router-dom";
 import { Header, Home, Speakers, Sponsors, Agenda, Footer } from './views';
 
@@ -35,8 +35,16 @@ function App(props) {
   };
 
   useEffect(() => {
-    const currenUrl = window.location.pathname.replace("/", "")
-    changeFooterHeight(currenUrl);
+    const pageUrl = window.location.href;
+    const currentPathName = pageUrl.substr(pageUrl.lastIndexOf('/') + 1);
+    const pathArray = window.location.pathname.split('/');
+
+    if (!currentPathName) {
+      const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
+      window.history.pushState({}, null, getCurrenturl);
+    }
+
+    changeFooterHeight(currentPathName);
 
   });
 
