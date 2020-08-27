@@ -29,6 +29,11 @@ const Header = ({ changeFooterHeight, ...props }) => {
             setOpenMenu(false);
         }
 
+        if (!window.location.href.includes('#')) {
+            const getCurrenturl = `${window.location.href}#/`;
+            window.history.pushState({}, null, getCurrenturl);
+        }
+
         changeFooterHeight(section);
     }
 
