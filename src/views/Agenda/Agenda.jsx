@@ -134,7 +134,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {t('agenda.1.topic_7.text')}
+                                        <span className="name">{t('agenda.1.topic_7.text')}</span>
                                     </p>
                                 </div>
 
@@ -219,7 +219,11 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {t('agenda.2.topic_7.text')}
+                                        <span className="name">{t('agenda.2.topic_7.text')}</span> <br />
+                                        {t('speakers.speaker_15.name')} {t('speakers.speaker_15.surname')},&nbsp;
+                                        {t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')},&nbsp;
+                                        {t('speakers.speaker_9.name')} {t('speakers.speaker_9.surname')},&nbsp;
+                                        {t('speakers.speaker_11.name')} {t('speakers.speaker_11.surname')}
                                     </p>
                                 </div>
 
@@ -304,7 +308,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {t('agenda.3.topic_7.text')}
+                                        <span className="name">{t('agenda.3.topic_7.text')}</span>
                                     </p>
                                 </div>
                             </div>
