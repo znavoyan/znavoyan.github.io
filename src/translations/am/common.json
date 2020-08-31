@@ -24,9 +24,9 @@
             "facebookPageText": "Ֆեյսբուքյան էջ",
             "facebookEventText": "Ֆեյսբուքյան միջոցառում",
             "topic_title": "Այս տարվա թեմաները",
-            "topic_1": "NLP",
-            "topic_2": "Computer Vision",
-            "topic_3": "Engineering"
+            "topic_1": "Բնական լեզվի մշակում",
+            "topic_2": "Համակարգչային տեսողություն",
+            "topic_3": "Ճարտարագիտություն"
         }
     },
     "sponsors": {
@@ -55,7 +55,7 @@
             },
             "topic_4": {
                 "time": "12:30-13:00",
-                "text": "CV for ag"
+                "text": "Crop yield prediction using satellite imagery"
             },
             "topic_5": {
                 "time": "14:30-15:00",
@@ -67,7 +67,7 @@
             },
             "topic_7": {
                 "time": "15:30-16:30",
-                "text": "Panel"
+                "text": "Պանելային քննարկում"
             }
         },
         "2": {
@@ -97,7 +97,7 @@
             },
             "topic_7": {
                 "time": "15:00-16:00",
-                "text": "Panel"
+                "text": "Պանելային քննարկում"
             }
         },
         "3": {
@@ -127,7 +127,7 @@
             },
             "topic_7": {
                 "time": "15:00-16:00",
-                "text": "Panel"
+                "text": "Պանելային քննարկում"
             }
         }
     },
@@ -181,7 +181,7 @@
         "speaker_8": {
             "name": "Ռոբերտ",
             "surname": "Ենոքյան",
-            "position": "Տվյալագետ",
+            "position": "Ավագ տվյալագետ",
             "company": "Metric.am"
         },
         "speaker_9": {
