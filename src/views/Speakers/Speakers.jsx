@@ -46,7 +46,7 @@ const Speakers = () => {
                 <div className="space-100-height"></div>
                 <div className="space-40-height"></div>
 
-                <div className="flex speakers-images">
+                <div className="flex speakers-images align-start">
 
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/erik-harutyunyan-293458131" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
@@ -89,7 +89,7 @@ const Speakers = () => {
                 </div>
                 <div className="space-25-height"></div>
                 <div className="space-25-height"></div>
-                <div className="flex speakers-images">
+                <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/davidkocharian" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_4} alt="" className="rounded" />
@@ -131,7 +131,7 @@ const Speakers = () => {
                 </div>
                 <div className="space-25-height"></div>
                 <div className="space-25-height"></div>
-                <div className="flex speakers-images">
+                <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <a href="https://ru.linkedin.com/in/manvelavetisian" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_7} alt="" className="rounded" />
@@ -173,7 +173,7 @@ const Speakers = () => {
                 </div>
                 <div className="space-25-height"></div>
                 <div className="space-25-height"></div>
-                <div className="flex speakers-images">
+                <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <div className="flex center column">
                             <img src={speaker_10} alt="" className="rounded" />
@@ -215,7 +215,7 @@ const Speakers = () => {
                 </div>
                 <div className="space-25-height"></div>
                 <div className="space-25-height"></div>
-                <div className="flex speakers-images">
+                <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/zavennavoyan" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_13} alt="" className="rounded" />
