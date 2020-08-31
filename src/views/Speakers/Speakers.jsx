@@ -15,6 +15,8 @@ import speaker_10 from '../../images/Hrant_Khachatrian.jpg';
 import speaker_11 from '../../images/Arsen_Yeghiazaryan.jpg';
 import speaker_12 from '../../images/Andranik_Khachatryan.jpg';
 import speaker_13 from '../../images/Zaven_Navoyan.jpg';
+import speaker_14 from '../../images/Artur_Kobelyan.png';
+import speaker_15 from '../../images/Ines_Montani.jpg';
 
 const Speakers = () => {
 
@@ -222,7 +224,31 @@ const Speakers = () => {
                             </p>
                             <p className="img-paragraph">
                                 {t('speakers.speaker_13.position')} <br></br>
-                                {t('speakers.speaker_1.company')}
+                                {t('speakers.speaker_13.company')}
+                            </p>
+                        </a>
+                    </div>
+                    <div className="flex column">
+                        <a href="https://www.linkedin.com/in/akobel" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
+                            <img src={speaker_14} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_14.name')}</span> {t('speakers.speaker_14.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_14.position')} <br></br>
+                                {t('speakers.speaker_14.company')}
+                            </p>
+                        </a>
+                    </div>
+                    <div className="flex column">
+                        <a href="http://linkedin.com/in/inesmontani" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
+                            <img src={speaker_15} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_15.name')}</span> {t('speakers.speaker_15.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_15.position')} <br></br>
+                                {t('speakers.speaker_15.company')}
                             </p>
                         </a>
                     </div>

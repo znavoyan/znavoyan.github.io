@@ -33,36 +33,102 @@
         "our": "Our",
         "title": "Sponsors",
         "seeAll": "See all",
-        "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2020, whose support made this event possible."
+        "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2020, whose support made this event possible"
     },
     "agenda": {
         "our": "Our",
         "title": "Agenda",
         "month": "september",
-        "text": "DataFest Yerevan 2020 will be held online. The agenda will be posted closer to the start of the conference. Zoom links to the talks and additional info will be posted in conference’s Slack.",
+        "text": "DataFest Yerevan 2020 will be held online. The agenda will be posted closer to the start of the conference. Zoom links to the talks and additional info will be posted in conference’s Slack",
         "1": {
-            "topic_1": "10:00-11:00 Registration",
-            "topic_2": "11:00-13:00 Something cool",
-            "topic_3": "13:00-14:00 Something cool",
-            "topic_4": "14:00-16:00 Something cool",
-            "topic_5": "16:00-16:30 Something cool",
-            "topic_6": "16:30-19:00 Something cool"
+            "topic_1": {
+                "time": "10:00-11:00",
+                "text": "Self-supervised representation learning in computer vision"
+            },
+            "topic_2": {
+                "time": "11:00-11:30",
+                "text": "Image processing and video segmentation"
+            },
+            "topic_3": {
+                "time": "12:00-12:30",
+                "text": "AI in Healthcare: challenges and solutions"
+            },
+            "topic_4": {
+                "time": "12:30-13:00",
+                "text": "CV for ag"
+            },
+            "topic_5": {
+                "time": "14:30-15:00",
+                "text": "Speeding up contour detection networks using channel pruning and knowledge distillation"
+            },
+            "topic_6": {
+                "time": "15:00-15:30",
+                "text": "Attention Mechanism in Computer Vision. An Application in Image Inpainting Problem"
+            },
+            "topic_7": {
+                "time": "15:30-16:30",
+                "text": "Panel"
+            }
         },
         "2": {
-            "topic_1": "10:00-11:00 Registration",
-            "topic_2": "11:00-13:00 Something cool",
-            "topic_3": "13:00-14:00 Something cool",
-            "topic_4": "14:00-16:00 Something cool",
-            "topic_5": "16:00-16:30 Something cool",
-            "topic_6": "16:30-19:00 Something cool"
+            "topic_1": {
+                "time": "10:00-10:30",
+                "text": "Information Retrieval. Search Engine powered by ML"
+            },
+            "topic_2": {
+                "time": "10:30-11:00",
+                "text": "TBD"
+            },
+            "topic_3": {
+                "time": "11:30-12:00",
+                "text": "TBD"
+            },
+            "topic_4": {
+                "time": "12:00-12:30",
+                "text": "TBD"
+            },
+            "topic_5": {
+                "time": "14:00-14:30",
+                "text": "AI generated music for the WCIT concert"
+            },
+            "topic_6": {
+                "time": "14:30-15:00",
+                "text": "Speech enhancement and dereverberation"
+            },
+            "topic_7": {
+                "time": "15:00-16:00",
+                "text": "Panel"
+            }
         },
         "3": {
-            "topic_1": "10:00-11:00 Registration",
-            "topic_2": "11:00-13:00 Something cool",
-            "topic_3": "13:00-14:00 Something cool",
-            "topic_4": "14:00-16:00 Something cool",
-            "topic_5": "16:00-16:30 Something cool",
-            "topic_6": "16:30-19:00 Something cool"
+            "topic_1": {
+                "time": "10:00-10:30",
+                "text": "Improving Generalization by Controlling Label-Noise Information in Neural Network Weights"
+            },
+            "topic_2": {
+                "time": "10:30-11:00",
+                "text": "TBD"
+            },
+            "topic_3": {
+                "time": "11:30-12:00",
+                "text": "Machine Learning in the Cloud with Amazon SageMaker"
+            },
+            "topic_4": {
+                "time": "12:00-12:30",
+                "text": "TBD"
+            },
+            "topic_5": {
+                "time": "14:00-14:30",
+                "text": "TBD"
+            },
+            "topic_6": {
+                "time": "14:30-15:00",
+                "text": "TBD"
+            },
+            "topic_7": {
+                "time": "15:00-16:00",
+                "text": "Panel"
+            }
         }
     },
     "organisers": "Organisers",
@@ -147,6 +213,18 @@
             "surname": "Navoyan",
             "position": "Director of AI/ML at",
             "company": "Intent.ai"
+        },
+        "speaker_14": {
+            "name": "Artur",
+            "surname": "Kobelyan",
+            "position": "Principal engineer, ML at",
+            "company": "Krisp"
+        },
+        "speaker_15": {
+            "name": "Ines",
+            "surname": "Montani",
+            "position": "Founder at",
+            "company": "Explosion"
         }
     }
 }

@@ -41,28 +41,94 @@
         "month": "սեպտեմբերի",
         "text": "Դատաֆեստ Երևան 2020-ը կանցկացվի առցանց (օնլայն)։ Ծրագիրը հասանելի կլինի կոնֆերանսի մեկնարկի նախօրեին։ Բանախոսությունների Zoom հղումներն ու հավելյալ տեղեկատվությունը կտեղադրվի կոնֆերանսի Slack-ում։",
         "1": {
-            "topic_1": "10:00-11:00 Գրանցում",
-            "topic_2": "11:00-13:00 Հետաքրքիր թեմա",
-            "topic_3": "13:00-14:00 Հետաքրքիր թեմա",
-            "topic_4": "14:00-16:00 Հետաքրքիր թեմա",
-            "topic_5": "16:00-16:30 Հետաքրքիր թեմա",
-            "topic_6": "16:30-19:00 Հետաքրքիր թեմա"
+            "topic_1": {
+                "time": "10:00-11:00",
+                "text": "Self-supervised representation learning in computer vision"
+            },
+            "topic_2": {
+                "time": "11:00-11:30",
+                "text": "Image processing and video segmentation"
+            },
+            "topic_3": {
+                "time": "12:00-12:30",
+                "text": "AI in Healthcare: challenges and solutions"
+            },
+            "topic_4": {
+                "time": "12:30-13:00",
+                "text": "CV for ag"
+            },
+            "topic_5": {
+                "time": "14:30-15:00",
+                "text": "Speeding up contour detection networks using channel pruning and knowledge distillation"
+            },
+            "topic_6": {
+                "time": "15:00-15:30",
+                "text": "Attention Mechanism in Computer Vision. An Application in Image Inpainting Problem."
+            },
+            "topic_7": {
+                "time": "15:30-16:30",
+                "text": "Panel"
+            }
         },
         "2": {
-            "topic_1": "10:00-11:00 Գրանցում",
-            "topic_2": "11:00-13:00 Հետաքրքիր թեմա",
-            "topic_3": "13:00-14:00 Հետաքրքիր թեմա",
-            "topic_4": "14:00-16:00 Հետաքրքիր թեմա",
-            "topic_5": "16:00-16:30 Հետաքրքիր թեմա",
-            "topic_6": "16:30-19:00 Հետաքրքիր թեմա"
+            "topic_1": {
+                "time": "10:00-10:30",
+                "text": "Information Retrieval. Search Engine powered by ML."
+            },
+            "topic_2": {
+                "time": "10:30-11:00",
+                "text": "TBD"
+            },
+            "topic_3": {
+                "time": "11:30-12:00",
+                "text": "TBD"
+            },
+            "topic_4": {
+                "time": "12:00-12:30",
+                "text": "TBD"
+            },
+            "topic_5": {
+                "time": "14:00-14:30",
+                "text": "AI generated music for the WCIT concert"
+            },
+            "topic_6": {
+                "time": "14:30-15:00",
+                "text": "Speech enhancement and dereverberation"
+            },
+            "topic_7": {
+                "time": "15:00-16:00",
+                "text": "Panel"
+            }
         },
         "3": {
-            "topic_1": "10:00-11:00 Գրանցում",
-            "topic_2": "11:00-13:00 Հետաքրքիր թեմա",
-            "topic_3": "13:00-14:00 Հետաքրքիր թեմա",
-            "topic_4": "14:00-16:00 Հետաքրքիր թեմա",
-            "topic_5": "16:00-16:30 Հետաքրքիր թեմա",
-            "topic_6": "16:30-19:00 Հետաքրքիր թեմա"
+            "topic_1": {
+                "time": "10:00-10:30",
+                "text": "Improving Generalization by Controlling Label-Noise Information in Neural Network Weights"
+            },
+            "topic_2": {
+                "time": "10:30-11:00",
+                "text": "TBD"
+            },
+            "topic_3": {
+                "time": "11:30-12:00",
+                "text": "Machine Learning in the Cloud with Amazon SageMaker"
+            },
+            "topic_4": {
+                "time": "12:00-12:30",
+                "text": "TBD"
+            },
+            "topic_5": {
+                "time": "14:00-14:30",
+                "text": "TBD"
+            },
+            "topic_6": {
+                "time": "14:30-15:00",
+                "text": "TBD"
+            },
+            "topic_7": {
+                "time": "15:00-16:00",
+                "text": "Panel"
+            }
         }
     },
     "organisers": "Կազմակերպիչներ",
@@ -71,82 +137,94 @@
         "title": "Խոսնակները",
         "more": "Ավելին",
         "speaker_1": {
-            "name": "Erik",
-            "surname": "Harutyunyan",
-            "position": "Machine Learning Engineer at",
+            "name": "Էրիկ",
+            "surname": "Հարությունյան",
+            "position": "Մեքենայական ուսուցման ճարտարագետ",
             "company": "SuperAnnotate"
         },
         "speaker_2": {
-            "name": "Stepan",
-            "surname": "Sargsyan",
-            "position": "Architect, ML at",
+            "name": "Ստեփան",
+            "surname": "Սարգսյան",
+            "position": "Ծրագրային ապահովման ճարտարապետ, մեքենայական ուսուցում",
             "company": "Krisp"
         },
         "speaker_3": {
-            "name": "Levan",
-            "surname": "Tsinadze",
-            "position": "Head of AI at",
+            "name": "Լևան",
+            "surname": "Ծինաձե",
+            "position": "AI ղեկավար",
             "company": "Maxin.ai"
         },
         "speaker_4": {
-            "name": "Davit",
-            "surname": "Kocharian",
-            "position": "Senior Data Scientist, User Behavior Team Lead at",
+            "name": "Դավիթ",
+            "surname": "Քոչարյան",
+            "position": "Ավագ տվյալագետ, Օգտատերերի վարքագծի թիմի ղեկավար",
             "company": "PicsArt"
         },
         "speaker_5": {
-            "name": "Hrayr",
-            "surname": "Harutyunyan",
-            "position": "PhD student at",
+            "name": "Հրայր",
+            "surname": "Հարությունյան",
+            "position": "Ասպիրանտ",
             "company": "University of Southern California"
         },
         "speaker_6": {
-            "name": "Shant",
-            "surname": "Navasardyan",
-            "position": "Senior Machine Learning Researcher / Team Lead at",
+            "name": "Շանթ",
+            "surname": "Նավասարդյան",
+            "position": "Մեքենայական ուսուցման ավագ հետազոտող / Թիմի ղեկավար",
             "company": "PicsArt"
         },
         "speaker_7": {
-            "name": "Manvel",
-            "surname": "Avetisian",
-            "position": "Managing Director at",
+            "name": "Մանվել",
+            "surname": "Ավետիսյան",
+            "position": "Կառավարող տնօրեն",
             "company": "Sberbank AI Lab"
         },
         "speaker_8": {
-            "name": "Robert",
-            "surname": "Yenokyan",
-            "position": "Data Scientist at",
+            "name": "Ռոբերտ",
+            "surname": "Ենոքյան",
+            "position": "Տվյալագետ",
             "company": "Metric.am"
         },
         "speaker_9": {
-            "name": "Karen",
-            "surname": "Hambardzumyan",
-            "position": "ML researcher at",
+            "name": "Կարեն",
+            "surname": "Համբարձումյան",
+            "position": "Մեքենայական ուսուցման հետազոտող",
             "company": "YerevaNN"
         },
         "speaker_10": {
-            "name": "Hrant",
-            "surname": "Khachatrian",
-            "position": "Director at",
+            "name": "Հրանտ",
+            "surname": "Խաչատրյան",
+            "position": "Տնօրեն",
             "company": "YerevaNN"
         },
         "speaker_11": {
-            "name": "Arsen",
-            "surname": "Yeghiazaryan",
-            "position": "ML Team Lead at",
+            "name": "Արսեն",
+            "surname": "Եղիազարյան",
+            "position": "Մեքենայական ուսուցման թիմի ղեկավար",
             "company": "Webb Fontaine"
         },
         "speaker_12": {
-            "name": "Andranik",
-            "surname": "Khachatryan",
-            "position": "ML Specialist, Consultant at",
+            "name": "Անդրանիկ",
+            "surname": "Խաչատրյան",
+            "position": "Մեքենայական ուսուցման մասնագետ, խորհրդատու",
             "company": "Toptal"
         },
         "speaker_13": {
-            "name": "Zaven",
-            "surname": "Navoyan",
-            "position": "Director of AI/ML at",
+            "name": "Զավեն",
+            "surname": "Նավոյան",
+            "position": "AI/ML տնօրեն",
             "company": "Intent.ai"
+        },
+        "speaker_14": {
+            "name": "Արթուր",
+            "surname": "Կոբելյան",
+            "position": "Գլխավոր ճարտարագետ, մեքենայական ուսուցում",
+            "company": "Krisp"
+        },
+        "speaker_15": {
+            "name": "Ինես",
+            "surname": "Մոնտանի",
+            "position": "Հիմնադիր",
+            "company": "Explosion"
         }
     }
 }
