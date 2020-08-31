@@ -55,7 +55,7 @@
             },
             "topic_4": {
                 "time": "12:30-13:00",
-                "text": "CV for ag"
+                "text": "Crop yield prediction using satellite imagery"
             },
             "topic_5": {
                 "time": "14:30-15:00",
@@ -67,7 +67,7 @@
             },
             "topic_7": {
                 "time": "15:30-16:30",
-                "text": "Panel"
+                "text": "Panel discussion"
             }
         },
         "2": {
@@ -97,7 +97,7 @@
             },
             "topic_7": {
                 "time": "15:00-16:00",
-                "text": "Panel"
+                "text": "Panel discussion"
             }
         },
         "3": {
@@ -127,7 +127,7 @@
             },
             "topic_7": {
                 "time": "15:00-16:00",
-                "text": "Panel"
+                "text": "Panel discussion"
             }
         }
     },
