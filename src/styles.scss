@@ -178,32 +178,20 @@ img.icon-5 {
     }
   }
 
-  img.icon-box {
-    height: 12em;
+  img.icon-webb-fontaine {
+    height: 4em;
   }
 
   img.icon-simply {
-    width: 28em;
+    height: 3.8em;
   }
 
-  img.icon-fb {
-    width: 13em;
+  img.icon-krisp {
+    height: 5em;
   }
 
-  img.icon-t {
-    width: 6.2em;
-  }
-
-  img.icon-a {
-    width: 13em;
-  }
-
-  img.icon-ball {
-    width: 13em;
-  }
-
-  img.icon-twitt {
-    width: 13em;
+  img.icon-picsart {
+    height: 6.2em;
   }
 
 } 
@@ -253,6 +241,7 @@ img.icon-5 {
 
         &.medium-btn-cover {
           width: 220px;
+          min-width: 220px;
           height: 64px;
         }
 
@@ -532,6 +521,20 @@ img.icon-5 {
   span {
     font-family: FuturaBoldUnicode;
   }
+  span.time {
+    display: block;
+    font-family: FuturaBoldUnicode;
+    font-size: 1.1em !important;
+    min-width: 6.8em;
+  }
+
+  span.name {
+    font-family: Futura;
+    font-size: 1.1em !important;
+    font-weight: 600;
+    // font-style: italic;
+  }
+
 }
 
 .big-text {
@@ -723,7 +726,7 @@ img.icon-5 {
   }
 
   .small-text {
-    width: 175px;
+    // width: 175px;
   }
 
   .home, .about, .speakers, .sponsors, .agenda {
@@ -746,13 +749,17 @@ img.icon-5 {
   }
 
   .sponsors {
-    img.icon-box {
-      height: 12em !important;
+    img.icon-webb-fontaine {
+      // height: 12em !important;
     }
   }
 
   .sponsors-icons {
     flex-direction: column;
+
+    .flex {
+      flex-direction: column;
+    }
   
     img {
       margin-top: 2.5em;
