@@ -89,7 +89,6 @@ const Speakers = () => {
                     </div>
                 </div>
                 <div className="space-25-height"></div>
-                <div className="space-25-height"></div>
                 <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/davidkocharian" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
@@ -130,7 +129,6 @@ const Speakers = () => {
                         </a>
                     </div>
                 </div>
-                <div className="space-25-height"></div>
                 <div className="space-25-height"></div>
                 <div className="flex speakers-images align-start">
                     <div className="flex column">
@@ -173,7 +171,6 @@ const Speakers = () => {
                     </div>
                 </div>
                 <div className="space-25-height"></div>
-                <div className="space-25-height"></div>
                 <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <div className="flex center column">
@@ -215,7 +212,6 @@ const Speakers = () => {
                     </div>
                 </div>
                 <div className="space-25-height"></div>
-                <div className="space-25-height"></div>
                 <div className="flex speakers-images align-start">
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/zavennavoyan" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
@@ -229,6 +225,7 @@ const Speakers = () => {
                             </p>
                         </a>
                     </div>
+                    <div className="space-25-height"></div>
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/akobel" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_14} alt="" className="rounded" />
@@ -241,6 +238,7 @@ const Speakers = () => {
                             </p>
                         </a>
                     </div>
+                    <div className="space-25-height"></div>
                     <div className="flex column">
                         <a href="http://linkedin.com/in/inesmontani" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_15} alt="" className="rounded" />
@@ -269,10 +267,8 @@ const Speakers = () => {
                             </p>
                         </a>
                     </div>
-                    <div className="space-25-height"></div>
-                    <div className="space-25-height"></div>
                 </div>
-
+                <div className="space-25-height"></div>
             </div>
             <div className="space-100-height"></div>
             <div className="space-20-height"></div>
