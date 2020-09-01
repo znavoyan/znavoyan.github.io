@@ -51,7 +51,7 @@ const SponsorsSection = () => {
                 <div className="space-25-height"></div>
                 <div className="flex">
                     <div className="link">
-                        <a href="/sponsors">
+                        <a href="/#/sponsors">
                             <span>{t('sponsors.seeAll')}</span>
                         </a>
                     </div>
