@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.184841db.chunk.css",
-    "main.js": "/static/js/main.e752c09b.chunk.js",
-    "main.js.map": "/static/js/main.e752c09b.chunk.js.map",
+    "main.css": "/static/css/main.f4482ecd.chunk.css",
+    "main.js": "/static/js/main.df230feb.chunk.js",
+    "main.js.map": "/static/js/main.df230feb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba2dcd13.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba2dcd13.js.map",
-    "static/js/2.e16a1fbf.chunk.js": "/static/js/2.e16a1fbf.chunk.js",
-    "static/js/2.e16a1fbf.chunk.js.map": "/static/js/2.e16a1fbf.chunk.js.map",
+    "static/js/2.f0c312cc.chunk.js": "/static/js/2.f0c312cc.chunk.js",
+    "static/js/2.f0c312cc.chunk.js.map": "/static/js/2.f0c312cc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ab9e630fd9dcadaddec47638b3a62301.js": "/precache-manifest.ab9e630fd9dcadaddec47638b3a62301.js",
+    "precache-manifest.7ac7a7b5b81af794387469aff2103143.js": "/precache-manifest.7ac7a7b5b81af794387469aff2103143.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.184841db.chunk.css.map": "/static/css/main.184841db.chunk.css.map",
-    "static/js/2.e16a1fbf.chunk.js.LICENSE.txt": "/static/js/2.e16a1fbf.chunk.js.LICENSE.txt",
+    "static/css/main.f4482ecd.chunk.css.map": "/static/css/main.f4482ecd.chunk.css.map",
+    "static/js/2.f0c312cc.chunk.js.LICENSE.txt": "/static/js/2.f0c312cc.chunk.js.LICENSE.txt",
     "static/media/Andranik_Khachatryan.jpg": "/static/media/Andranik_Khachatryan.3d7caca9.jpg",
     "static/media/Artur_Kobelyan.png": "/static/media/Artur_Kobelyan.796feed1.png",
     "static/media/Davit_Kocharian.png": "/static/media/Davit_Kocharian.0604f22a.png",
@@ -25,6 +25,7 @@
     "static/media/Robert_Yenokyan.jpg": "/static/media/Robert_Yenokyan.10798e8d.jpg",
     "static/media/Shant_Navasardyan.jpg": "/static/media/Shant_Navasardyan.6ed50e26.jpg",
     "static/media/Stepan_Sargsyan.jpg": "/static/media/Stepan_Sargsyan.e4a9ad6f.jpg",
+    "static/media/Tigran_Nazaryan.jpg": "/static/media/Tigran_Nazaryan.aa4d28a4.jpg",
     "static/media/aboutFrame.svg": "/static/media/aboutFrame.490f1935.svg",
     "static/media/agendaFrame.png": "/static/media/agendaFrame.0c60ba70.png",
     "static/media/styles.module.scss": "/static/media/sponsorsBackground.05ea60c5.svg",
@@ -44,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ba2dcd13.js",
-    "static/js/2.e16a1fbf.chunk.js",
-    "static/css/main.184841db.chunk.css",
-    "static/js/main.e752c09b.chunk.js"
+    "static/js/2.f0c312cc.chunk.js",
+    "static/css/main.f4482ecd.chunk.css",
+    "static/js/main.df230feb.chunk.js"
   ]
 }
