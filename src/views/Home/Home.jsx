@@ -35,7 +35,7 @@ const Home = () => {
                                 <div>{t('home.main.yerevan')}</div>
                             </div>
                             <div className="space-40-height"></div>
-                            <div className="btn">
+                            <div className="btn register">
                                 <div className="btn-cover blue-btn-cover"></div>
                                 <a href="https://forms.gle/LZviScoxDHaSB1TJ8" target="_blank" rel="noopener noreferrer"><button className="blue">{t('home.main.register')}</button></a>
                             </div>
