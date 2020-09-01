@@ -61,10 +61,6 @@
                 "time": "12:30-13:00",
                 "text": "Crop yield prediction using satellite imagery"
             },
-            "lunch_break": {
-                "time": "13:00-14:30",
-                "text": "Lunch Break"
-            },
             "topic_5": {
                 "time": "14:30-15:00",
                 "text": "Speeding up contour detection networks using channel pruning and knowledge distillation"
@@ -75,7 +71,7 @@
             },
             "topic_7": {
                 "time": "15:30-16:30",
-                "text": "Panel"
+                "text": "Panel discussion"
             }
         },
         "2": {
@@ -113,7 +109,7 @@
             },
             "topic_7": {
                 "time": "15:30-16:30",
-                "text": "Panel"
+                "text": "Panel discussion"
             }
         },
         "3": {
@@ -151,7 +147,7 @@
             },
             "topic_7": {
                 "time": "15:00-16:00",
-                "text": "Panel"
+                "text": "Panel discussion"
             }
         }
     },
