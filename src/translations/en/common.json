@@ -49,6 +49,10 @@
                 "time": "11:00-11:30",
                 "text": "Image processing and video segmentation"
             },
+            "short_break": {
+                "time": "11:30-12:00",
+                "text": "Short Break"
+            },
             "topic_3": {
                 "time": "12:00-12:30",
                 "text": "AI in Healthcare: challenges and solutions"
@@ -56,6 +60,10 @@
             "topic_4": {
                 "time": "12:30-13:00",
                 "text": "Crop yield prediction using satellite imagery"
+            },
+            "lunch_break": {
+                "time": "13:00-14:30",
+                "text": "Lunch Break"
             },
             "topic_5": {
                 "time": "14:30-15:00",
@@ -72,31 +80,39 @@
         },
         "2": {
             "topic_1": {
-                "time": "10:00-10:30",
-                "text": "Information Retrieval. Search Engine powered by ML"
+                "time": "10:00-11:00",
+                "text": "AI generated music for the WCIT concert"
             },
             "topic_2": {
-                "time": "10:30-11:00",
-                "text": "TBD"
+                "time": "11:00-11:30",
+                "text": "Speech enhancement and dereverberation"
+            },
+            "short_break": {
+                "time": "11:30-12:00",
+                "text": "Short Break"
             },
             "topic_3": {
-                "time": "11:30-12:00",
-                "text": "TBD"
-            },
-            "topic_4": {
                 "time": "12:00-12:30",
                 "text": "TBD"
             },
+            "topic_4": {
+                "time": "12:30-13:00",
+                "text": "TBD"
+            },
+            "lunch_break": {
+                "time": "13:00-14:30",
+                "text": "Lunch Break"
+            },
             "topic_5": {
-                "time": "14:00-14:30",
-                "text": "AI generated music for the WCIT concert"
+                "time": "14:30-15:00",
+                "text": "Information Retrieval. Search Engine powered by ML."
             },
             "topic_6": {
-                "time": "14:30-15:00",
-                "text": "Speech enhancement and dereverberation"
+                "time": "15:00-15:30",
+                "text": "TBD"
             },
             "topic_7": {
-                "time": "15:00-16:00",
+                "time": "15:30-16:30",
                 "text": "Panel discussion"
             }
         },
@@ -109,6 +125,10 @@
                 "time": "10:30-11:00",
                 "text": "TBD"
             },
+            "short_break": {
+                "time": "11:00-11:30",
+                "text": "Short Break"
+            },
             "topic_3": {
                 "time": "11:30-12:00",
                 "text": "Machine Learning in the Cloud with Amazon SageMaker"
@@ -116,6 +136,10 @@
             "topic_4": {
                 "time": "12:00-12:30",
                 "text": "TBD"
+            },
+            "lunch_break": {
+                "time": "12:30-14:00",
+                "text": "Lunch Break"
             },
             "topic_5": {
                 "time": "14:00-14:30",
@@ -225,6 +249,12 @@
             "surname": "Montani",
             "position": "Founder at",
             "company": "Explosion"
+        },
+        "speaker_16": {
+            "name": "Tigran",
+            "surname": "Nazaryan",
+            "position": "R&D Team Lead & VP of Engineering at",
+            "company": "10web"
         }
     }
 }

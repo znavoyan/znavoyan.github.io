@@ -22,7 +22,7 @@ const SponsorsSection = () => {
             <div className="space-25-height"></div>
             <div className="space-40-height"></div>
             <div className="flex column center">
-                <div className="container sponsors-icons">
+                <div className="sponsors-icons">
 
                     <div className="flex">
                         <div className={styles['img-content']}>

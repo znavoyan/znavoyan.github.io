@@ -62,7 +62,7 @@ const Agenda = () => {
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 10</span></p>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_1.time')}</span>
                                     </p>
@@ -73,7 +73,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_2.time')}</span>
                                     </p>
@@ -84,7 +84,17 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
+                                        <span className="time pink-text">{t('agenda.1.short_break.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left pink-text">
+                                        <span className="name">{t('agenda.1.short_break.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_3.time')}</span>
                                     </p>
@@ -95,7 +105,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_4.time')}</span>
                                     </p>
@@ -106,7 +116,17 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
+                                        <span className="time pink-text">{t('agenda.1.lunch_break.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left pink-text">
+                                        <span className="name">{t('agenda.1.lunch_break.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_5.time')}</span>
                                     </p>
@@ -117,7 +137,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_6.time')}</span>
                                     </p>
@@ -128,7 +148,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_7.time')}</span>
                                     </p>
@@ -147,29 +167,39 @@ const Agenda = () => {
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 11</span></p>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_1.time')}</span>
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_13.name')} {t('speakers.speaker_13.surname')} <br /></span>
                                         {t('agenda.2.topic_1.text')}
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_2.time')}</span>
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {/* <span className="name">{t('speakers.speaker_14.name')} {t('speakers.speaker_14.surname')} <br /></span> */}
+                                        <span className="name">{t('speakers.speaker_2.name')} {t('speakers.speaker_2.surname')} <br /></span>
                                         {t('agenda.2.topic_2.text')}
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
+                                        <span className="time pink-text">{t('agenda.2.short_break.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left pink-text">
+                                        <span className="name">{t('agenda.2.short_break.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_3.time')}</span>
                                     </p>
@@ -180,7 +210,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_4.time')}</span>
                                     </p>
@@ -191,29 +221,39 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
+                                        <span className="time pink-text">{t('agenda.2.lunch_break.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left pink-text">
+                                        <span className="name">{t('agenda.2.lunch_break.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_5.time')}</span>
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_13.name')} {t('speakers.speaker_13.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')} <br /></span>
                                         {t('agenda.2.topic_5.text')}
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_6.time')}</span>
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_2.name')} {t('speakers.speaker_2.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_16.name')} {t('speakers.speaker_16.surname')} <br /></span>
                                         {t('agenda.2.topic_6.text')}
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.2.topic_7.time')}</span>
                                     </p>
@@ -236,7 +276,7 @@ const Agenda = () => {
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 12</span></p>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_1.time')}</span>
                                     </p>
@@ -247,7 +287,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_2.time')}</span>
                                     </p>
@@ -258,7 +298,17 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
+                                        <span className="time pink-text">{t('agenda.3.short_break.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left pink-text">
+                                        <span className="name">{t('agenda.3.short_break.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_3.time')}</span>
                                     </p>
@@ -269,7 +319,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_4.time')}</span>
                                     </p>
@@ -280,7 +330,17 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
+                                        <span className="time pink-text">{t('agenda.3.lunch_break.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left pink-text">
+                                        <span className="name">{t('agenda.3.lunch_break.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_5.time')}</span>
                                     </p>
@@ -291,7 +351,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_6.time')}</span>
                                     </p>
@@ -302,7 +362,7 @@ const Agenda = () => {
                                     </p>
                                 </div>
                                 <div className="space-25-height"></div>
-                                <div className="flex align-start flex-start">
+                                <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_7.time')}</span>
                                     </p>

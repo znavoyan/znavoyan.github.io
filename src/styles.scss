@@ -391,7 +391,7 @@ img.icon-5 {
 
     height: 20px;
     width: auto;
-    min-width: 200px;
+    min-width: 5.55em;
 
     background: rgba(#000000, 1);
     border: 1px solid #FFFFFF;
@@ -483,6 +483,10 @@ img.icon-5 {
 }
 
 //TEXTS
+
+.pink-text {
+  color: #C9509C !important;
+}
 
 .topic-icons {
   
@@ -747,6 +751,11 @@ img.icon-5 {
     &:last-child {
       margin-top: -55px;
     }
+  }
+
+  .mobile-width {
+    max-width: 300px !important;
+    flex-direction: column !important;
   }
 
   .sponsors {

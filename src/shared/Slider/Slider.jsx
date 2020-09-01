@@ -16,6 +16,7 @@ import speaker_12 from '../../images/Andranik_Khachatryan.jpg';
 import speaker_13 from '../../images/Zaven_Navoyan.jpg';
 import speaker_14 from '../../images/Artur_Kobelyan.png';
 import speaker_15 from '../../images/Ines_Montani.jpg';
+import speaker_16 from '../../images/Tigran_Nazaryan.jpg';
 
 import styles from "./styles.module.scss";
 
@@ -232,6 +233,20 @@ const Slider = () => {
                             <p className="img-paragraph">
                                 {t('speakers.speaker_15.position')} <br></br>
                                 {t('speakers.speaker_15.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/tnazaryan" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_16} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_16.name')}</span> {t('speakers.speaker_16.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_16.position')} <br></br>
+                                {t('speakers.speaker_16.company')}
                             </p>
                         </div>
                     </a>
