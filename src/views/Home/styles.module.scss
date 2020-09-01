@@ -91,6 +91,7 @@
             align-items: center;
             height: auto;
             width: 20%;
+            margin: 0 20px;
         } 
   }
 
@@ -132,7 +133,7 @@
   @media screen and (max-width: 660px) {
     .organisers {
         .img-content {
-            margin-bottom: 30px;
+            margin-bottom: 50px;
         }
     }
   }
