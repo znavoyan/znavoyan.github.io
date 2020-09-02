@@ -60,7 +60,8 @@ const Agenda = () => {
                             {/* <img src={number_1} className="icon" alt="" /> */}
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
-                                <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 10</span></p>
+                                <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 10</span></p><div className="space-25-width"></div>
+                                <span>{t('agenda.yerevanTime')}</span>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -68,7 +69,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_3.name')} {t('speakers.speaker_3.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_3.name')} {t('speakers.speaker_3.surname')} ( {t('speakers.speaker_3.company')} ) <br /></span>
                                         {t('agenda.1.topic_1.text')}
                                     </p>
                                 </div>
@@ -79,7 +80,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_14.name')} {t('speakers.speaker_14.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_17.name')} {t('speakers.speaker_17.surname')} ( {t('speakers.speaker_17.company')} ) <br /></span>
                                         {t('agenda.1.topic_2.text')}
                                     </p>
                                 </div>
@@ -100,7 +101,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_7.name')} {t('speakers.speaker_7.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_7.name')} {t('speakers.speaker_7.surname')} ( {t('speakers.speaker_7.company')} ) <br /></span>
                                         {t('agenda.1.topic_3.text')}
                                     </p>
                                 </div>
@@ -111,7 +112,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_8.name')} {t('speakers.speaker_8.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_8.name')} {t('speakers.speaker_8.surname')} ( {t('speakers.speaker_8.company')} ) <br /></span>
                                         {t('agenda.1.topic_4.text')}
                                     </p>
                                 </div>
@@ -132,7 +133,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_1.name')} {t('speakers.speaker_1.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_1.name')} {t('speakers.speaker_1.surname')} ( {t('speakers.speaker_1.company')} )<br /></span>
                                         {t('agenda.1.topic_5.text')}
                                     </p>
                                 </div>
@@ -143,7 +144,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_6.name')} {t('speakers.speaker_6.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_6.name')} {t('speakers.speaker_6.surname')} ( {t('speakers.speaker_6.company')} )<br /></span>
                                         {t('agenda.1.topic_6.text')}
                                     </p>
                                 </div>
@@ -166,6 +167,7 @@ const Agenda = () => {
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 11</span></p>
+                                <span>{t('agenda.yerevanTime')}</span>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -173,7 +175,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_13.name')} {t('speakers.speaker_13.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_13.name')} {t('speakers.speaker_13.surname')} ( {t('speakers.speaker_13.company')} )<br /></span>
                                         {t('agenda.2.topic_1.text')}
                                     </p>
                                 </div>
@@ -184,7 +186,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_2.name')} {t('speakers.speaker_2.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_2.name')} {t('speakers.speaker_2.surname')} ( {t('speakers.speaker_2.company')} )<br /></span>
                                         {t('agenda.2.topic_2.text')}
                                     </p>
                                 </div>
@@ -205,7 +207,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_11.name')} {t('speakers.speaker_11.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_11.name')} {t('speakers.speaker_11.surname')} ( {t('speakers.speaker_11.company')} )<br /></span>
                                         {t('agenda.2.topic_3.text')}
                                     </p>
                                 </div>
@@ -216,7 +218,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_9.name')} {t('speakers.speaker_9.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_9.name')} {t('speakers.speaker_9.surname')} ( {t('speakers.speaker_9.company')} )<br /></span>
                                         {t('agenda.2.topic_4.text')}
                                     </p>
                                 </div>
@@ -237,7 +239,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')} ( {t('speakers.speaker_4.company')} )<br /></span>
                                         {t('agenda.2.topic_5.text')}
                                     </p>
                                 </div>
@@ -248,7 +250,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_16.name')} {t('speakers.speaker_16.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_16.name')} {t('speakers.speaker_16.surname')} ( {t('speakers.speaker_16.company')} )<br /></span>
                                         {t('agenda.2.topic_6.text')}
                                     </p>
                                 </div>
@@ -275,6 +277,7 @@ const Agenda = () => {
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 12</span></p>
+                                <span>{t('agenda.yerevanTime')}</span>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -282,7 +285,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_5.name')} {t('speakers.speaker_5.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_5.name')} {t('speakers.speaker_5.surname')} ( {t('speakers.speaker_5.company')} )<br /></span>
                                         {t('agenda.3.topic_1.text')}
                                     </p>
                                 </div>
@@ -293,7 +296,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_10.name')} {t('speakers.speaker_10.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_10.name')} {t('speakers.speaker_10.surname')} ( {t('speakers.speaker_10.company')} )<br /></span>
                                         {t('agenda.3.topic_2.text')}
                                     </p>
                                 </div>
@@ -314,7 +317,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('speakers.speaker_12.name')} {t('speakers.speaker_12.surname')} <br /></span>
+                                        <span className="name">{t('speakers.speaker_12.name')} {t('speakers.speaker_12.surname')} ( {t('speakers.speaker_12.company')} )<br /></span>
                                         {t('agenda.3.topic_3.text')}
                                     </p>
                                 </div>
@@ -346,7 +349,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {/* <span className="name">{t('speakers.speaker_1.name')} {t('speakers.speaker_1.surname')} <br /></span> */}
+                                        <span className="name">{t('speakers.speaker_18.name')} {t('speakers.speaker_18.surname')} ( {t('speakers.speaker_18.company')} )<br /></span>
                                         {t('agenda.3.topic_5.text')}
                                     </p>
                                 </div>
@@ -357,7 +360,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {/* <span className="name">{t('speakers.speaker_6.name')} {t('speakers.speaker_6.surname')} <br /></span> */}
+                                        <span className="name">{t('speakers.speaker_19.name')} {t('speakers.speaker_19.surname')} ( {t('speakers.speaker_19.company')} )<br /></span>
                                         {t('agenda.3.topic_6.text')}
                                     </p>
                                 </div>
