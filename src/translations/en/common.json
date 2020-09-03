@@ -39,6 +39,7 @@
         "our": "Our",
         "title": "Agenda",
         "month": "september",
+        "yerevanTime": "All times are in Yerevan time (UTC+4)",
         "text": "DataFest Yerevan 2020 will be held online. The agenda will be posted closer to the start of the conference. Zoom links to the talks and additional info will be posted in conference’s Slack",
         "1": {
             "topic_1": {
@@ -93,7 +94,7 @@
             },
             "topic_3": {
                 "time": "12:00-12:30",
-                "text": "TBD"
+                "text": "Information Extraction from Unstructured Invoices"
             },
             "topic_4": {
                 "time": "12:30-13:00",
@@ -255,6 +256,24 @@
             "surname": "Nazaryan",
             "position": "R&D Team Lead & VP of Engineering at",
             "company": "10web"
+        },
+        "speaker_17": {
+            "name": "Hakob",
+            "surname": "Tamazyan",
+            "position": "Senior Machine Learning Engineer at",
+            "company": "Krisp"
+        },
+        "speaker_18": {
+            "name": "Stefan",
+            "surname": "Papp",
+            "position": "Co-Founder and Managing Director at",
+            "company": "Sophron Engineering"
+        },
+        "speaker_19": {
+            "name": "Bernhard",
+            "surname": "Ortner",
+            "position": "",
+            "company": ""
         }
     }
 }

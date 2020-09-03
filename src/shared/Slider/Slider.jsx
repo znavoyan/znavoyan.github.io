@@ -17,6 +17,8 @@ import speaker_13 from '../../images/Zaven_Navoyan.jpg';
 import speaker_14 from '../../images/Artur_Kobelyan.png';
 import speaker_15 from '../../images/Ines_Montani.jpg';
 import speaker_16 from '../../images/Tigran_Nazaryan.jpg';
+import speaker_17 from '../../images/Hakob_Tamazyan.jpg';
+import speaker_18 from '../../images/Stefan_Papp.jpg';
 
 import styles from "./styles.module.scss";
 
@@ -247,6 +249,34 @@ const Slider = () => {
                             <p className="img-paragraph">
                                 {t('speakers.speaker_16.position')} <br></br>
                                 {t('speakers.speaker_16.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://am.linkedin.com/in/hakob-tamazyan-51aa67102" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_17} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_17.name')}</span> {t('speakers.speaker_17.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_17.position')} <br></br>
+                                {t('speakers.speaker_17.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/stefanpapp" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_18} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_18.name')}</span> {t('speakers.speaker_18.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_18.position')} <br></br>
+                                {t('speakers.speaker_18.company')}
                             </p>
                         </div>
                     </a>
