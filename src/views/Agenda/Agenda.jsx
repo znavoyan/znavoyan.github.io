@@ -28,6 +28,7 @@ const Agenda = () => {
                             <div>{t('agenda.our')}</div>
                             <div><span>{t('agenda.title')}</span></div>
                         </div>
+                        <p className="small-text"><span>{t('agenda.yerevanTime')}</span></p>
                     </div>
 
                     <img src={agendaFrame} className="main" alt="" />
@@ -61,7 +62,6 @@ const Agenda = () => {
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 10</span></p><div className="space-25-width"></div>
-                                <span>{t('agenda.yerevanTime')}</span>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -167,7 +167,6 @@ const Agenda = () => {
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 11</span></p>
-                                <span>{t('agenda.yerevanTime')}</span>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -262,10 +261,10 @@ const Agenda = () => {
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
                                         <span className="name">{t('agenda.2.topic_7.text')}</span> <br />
-                                        {t('speakers.speaker_15.name')} {t('speakers.speaker_15.surname')},&nbsp;
+                                        {/* {t('speakers.speaker_15.name')} {t('speakers.speaker_15.surname')},&nbsp;
                                         {t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')},&nbsp;
                                         {t('speakers.speaker_9.name')} {t('speakers.speaker_9.surname')},&nbsp;
-                                        {t('speakers.speaker_11.name')} {t('speakers.speaker_11.surname')}
+                                        {t('speakers.speaker_11.name')} {t('speakers.speaker_11.surname')} */}
                                     </p>
                                 </div>
 
@@ -277,7 +276,6 @@ const Agenda = () => {
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
                                 <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 12</span></p>
-                                <span>{t('agenda.yerevanTime')}</span>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">

@@ -39,7 +39,7 @@
         "our": "Our",
         "title": "Agenda",
         "month": "september",
-        "yerevanTime": "Yerevan Time (UTC+4)",
+        "yerevanTime": "All times are in Yerevan time (UTC+4)",
         "text": "DataFest Yerevan 2020 will be held online. The agenda will be posted closer to the start of the conference. Zoom links to the talks and additional info will be posted in conference’s Slack",
         "1": {
             "topic_1": {
@@ -260,14 +260,14 @@
         "speaker_17": {
             "name": "Hakob",
             "surname": "Tamazyan",
-            "position": "Senior Machine Learning Engineer",
+            "position": "Senior Machine Learning Engineer at",
             "company": "Krisp"
         },
         "speaker_18": {
             "name": "Stefan",
             "surname": "Papp",
-            "position": "",
-            "company": ""
+            "position": "Co-Founder and Managing Director at",
+            "company": "Sophron Engineering"
         },
         "speaker_19": {
             "name": "Bernhard",
