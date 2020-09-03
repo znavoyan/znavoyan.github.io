@@ -61,7 +61,7 @@ const Agenda = () => {
                             {/* <img src={number_1} className="icon" alt="" /> */}
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
-                                <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 10</span></p><div className="space-25-width"></div>
+                                <p className="img-title margin-off left"><span className="uppercase left">{t('agenda.month')} 10</span></p><div className="space-25-width"></div>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -166,7 +166,7 @@ const Agenda = () => {
                             {/* <img src={number_2} className="icon" alt="" /> */}
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
-                                <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 11</span></p>
+                                <p className="img-title margin-off left"><span className="uppercase left">{t('agenda.month')} 11</span></p>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
@@ -275,7 +275,7 @@ const Agenda = () => {
                             {/* <img src={number_3} className="icon" alt="" /> */}
                             {/* <div className="space-60-width"></div> */}
                             <div className="small-text">
-                                <p className="img-title margin-off left"><span className="uppercase">{t('agenda.month')} 12</span></p>
+                                <p className="img-title margin-off left"><span className="uppercase left">{t('agenda.month')} 12</span></p>
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">

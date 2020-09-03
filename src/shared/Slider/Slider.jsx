@@ -281,6 +281,90 @@ const Slider = () => {
                         </div>
                     </a>
                 </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/erik-harutyunyan-293458131" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_1} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_1.name')}</span> {t('speakers.speaker_1.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_1.position')} <br></br>
+                                {t('speakers.speaker_1.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/stepansargsyan" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_2} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_2.name')}</span> {t('speakers.speaker_2.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_2.position')} <br></br>
+                                {t('speakers.speaker_2.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/levan-tsinadze-246a1b2a" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_3} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_3.name')}</span> {t('speakers.speaker_3.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_3.position')} <br></br>
+                                {t('speakers.speaker_3.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/davidkocharian" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_4} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_4.name')}</span> {t('speakers.speaker_4.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_4.position')} <br></br>
+                                {t('speakers.speaker_4.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://github.com/hrayrhar" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_5} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_5.name')}</span> {t('speakers.speaker_5.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_5.position')} <br></br>
+                                {t('speakers.speaker_5.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div className={styles["Marquee-tag"]}>
+                    <a href="https://www.linkedin.com/in/shant-navasardyan-1302aa149" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
+                        <div className="flex column">
+                            <img src={speaker_6} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_6.name')}</span> {t('speakers.speaker_6.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_6.position')} <br></br>
+                                {t('speakers.speaker_6.company')}
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     );
