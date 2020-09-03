@@ -94,7 +94,7 @@
             },
             "topic_3": {
                 "time": "12:00-12:30",
-                "text": "TBD"
+                "text": "Information Extraction from Unstructured Invoices"
             },
             "topic_4": {
                 "time": "12:30-13:00",
@@ -110,7 +110,7 @@
             },
             "topic_6": {
                 "time": "15:00-15:30",
-                "text": "TBD"
+                "text": "Learning semantic structures of web pages for AI website builder and assistant"
             },
             "topic_7": {
                 "time": "15:30-16:30",
@@ -124,7 +124,7 @@
             },
             "topic_2": {
                 "time": "10:30-11:00",
-                "text": "TBD"
+                "text": "Robust classification under dataset shift"
             },
             "short_break": {
                 "time": "11:00-11:30",
@@ -144,7 +144,7 @@
             },
             "topic_5": {
                 "time": "14:00-14:30",
-                "text": "TBD"
+                "text": "Lessons learned from Platform migration projects"
             },
             "topic_6": {
                 "time": "14:30-15:00",
