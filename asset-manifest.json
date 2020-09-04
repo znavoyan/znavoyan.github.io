@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.541b1690.chunk.css",
-    "main.js": "/static/js/main.c18585e5.chunk.js",
-    "main.js.map": "/static/js/main.c18585e5.chunk.js.map",
+    "main.js": "/static/js/main.5c841d19.chunk.js",
+    "main.js.map": "/static/js/main.5c841d19.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba2dcd13.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba2dcd13.js.map",
-    "static/js/2.d2e18cc5.chunk.js": "/static/js/2.d2e18cc5.chunk.js",
-    "static/js/2.d2e18cc5.chunk.js.map": "/static/js/2.d2e18cc5.chunk.js.map",
+    "static/js/2.6259ccb8.chunk.js": "/static/js/2.6259ccb8.chunk.js",
+    "static/js/2.6259ccb8.chunk.js.map": "/static/js/2.6259ccb8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fc0761753e3261d8f19dd21837b16ec9.js": "/precache-manifest.fc0761753e3261d8f19dd21837b16ec9.js",
+    "precache-manifest.8e453ecff31a300f3fb6b3b00e3e8965.js": "/precache-manifest.8e453ecff31a300f3fb6b3b00e3e8965.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.541b1690.chunk.css.map": "/static/css/main.541b1690.chunk.css.map",
-    "static/js/2.d2e18cc5.chunk.js.LICENSE.txt": "/static/js/2.d2e18cc5.chunk.js.LICENSE.txt",
+    "static/js/2.6259ccb8.chunk.js.LICENSE.txt": "/static/js/2.6259ccb8.chunk.js.LICENSE.txt",
     "static/media/Andranik_Khachatryan.jpg": "/static/media/Andranik_Khachatryan.3d7caca9.jpg",
     "static/media/Artur_Kobelyan.png": "/static/media/Artur_Kobelyan.796feed1.png",
     "static/media/Davit_Kocharian.png": "/static/media/Davit_Kocharian.0604f22a.png",
@@ -23,6 +23,7 @@
     "static/media/Ines_Montani.jpg": "/static/media/Ines_Montani.08469de4.jpg",
     "static/media/Levan_Tsinadze.png": "/static/media/Levan_Tsinadze.86b3f4a3.png",
     "static/media/Manvel_Avetissian.jpeg": "/static/media/Manvel_Avetissian.05f0bd56.jpeg",
+    "static/media/Miklos_Petridisz.jpg": "/static/media/Miklos_Petridisz.d8266b77.jpg",
     "static/media/Robert_Yenokyan.jpg": "/static/media/Robert_Yenokyan.10798e8d.jpg",
     "static/media/Shant_Navasardyan.jpg": "/static/media/Shant_Navasardyan.6ed50e26.jpg",
     "static/media/Stefan_Papp.jpg": "/static/media/Stefan_Papp.d19477f7.jpg",
@@ -47,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ba2dcd13.js",
-    "static/js/2.d2e18cc5.chunk.js",
+    "static/js/2.6259ccb8.chunk.js",
     "static/css/main.541b1690.chunk.css",
-    "static/js/main.c18585e5.chunk.js"
+    "static/js/main.5c841d19.chunk.js"
   ]
 }
