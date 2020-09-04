@@ -136,7 +136,7 @@
             },
             "topic_4": {
                 "time": "12:00-12:30",
-                "text": "TBD"
+                "text": "Managing the Machine Learning Lifecycle with MLFlow"
             },
             "lunch_break": {
                 "time": "12:30-14:00",
@@ -274,6 +274,12 @@
             "surname": "Ortner",
             "position": "",
             "company": ""
+        },
+        "speaker_20": {
+            "name": "Miklos",
+            "surname": "Petridisz",
+            "position": "Data Engineering Consultant at",
+            "company": "Datapao"
         }
     }
 }
