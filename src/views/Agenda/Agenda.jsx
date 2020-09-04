@@ -326,7 +326,7 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        {/* <span className="name">{t('speakers.speaker_8.name')} {t('speakers.speaker_8.surname')} <br /></span> */}
+                                        <span className="name">{t('speakers.speaker_20.name')} {t('speakers.speaker_20.surname')} ( {t('speakers.speaker_20.company')} )<br /></span>
                                         {t('agenda.3.topic_4.text')}
                                     </p>
                                 </div>
