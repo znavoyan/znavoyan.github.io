@@ -14,7 +14,7 @@ import speaker_10 from '../../images/Hrant_Khachatrian.jpg';
 import speaker_11 from '../../images/Arsen_Yeghiazaryan.jpg';
 import speaker_12 from '../../images/Andranik_Khachatryan.jpg';
 import speaker_13 from '../../images/Zaven_Navoyan.jpg';
-import speaker_14 from '../../images/Artur_Kobelyan.png';
+// import speaker_14 from '../../images/Artur_Kobelyan.png';
 import speaker_15 from '../../images/Ines_Montani.jpg';
 import speaker_16 from '../../images/Tigran_Nazaryan.jpg';
 import speaker_17 from '../../images/Hakob_Tamazyan.jpg';
@@ -212,7 +212,7 @@ const Slider = () => {
                         </div>
                     </a>
                 </div>
-                <div className={styles["Marquee-tag"]}>
+                {/* <div className={styles["Marquee-tag"]}>
                     <a href="https://www.linkedin.com/in/akobel" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">
                             <img src={speaker_14} alt="" className="rounded" />
@@ -225,7 +225,7 @@ const Slider = () => {
                             </p>
                         </div>
                     </a>
-                </div>
+                </div> */}
                 <div className={styles["Marquee-tag"]}>
                     <a href="http://linkedin.com/in/inesmontani" className="link-no-decoration" target="_blank" rel="noopener noreferrer">
                         <div className="flex column">

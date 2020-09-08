@@ -362,7 +362,7 @@ const Agenda = () => {
                                         {t('agenda.3.topic_6.text')}
                                     </p>
                                 </div>
-                                <div className="space-25-height"></div>
+                                {/* <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.3.topic_7.time')}</span>
@@ -371,7 +371,7 @@ const Agenda = () => {
                                     <p className="paragraph margin-off left">
                                         <span className="name">{t('agenda.3.topic_7.text')}</span>
                                     </p>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                         <div className="space-80-height"></div>
