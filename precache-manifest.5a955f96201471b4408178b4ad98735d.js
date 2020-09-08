@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08f2320365ff17214bdec9028d778b75",
+    "revision": "5dec3da1927fb762c718a79a9fa9f2d4",
     "url": "/index.html"
   },
   {
-    "revision": "5ecfb2430952bc90e2ea",
+    "revision": "398175dff9e238b8b511",
     "url": "/static/css/main.541b1690.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d2e18cc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ecfb2430952bc90e2ea",
-    "url": "/static/js/main.00f33ebb.chunk.js"
+    "revision": "398175dff9e238b8b511",
+    "url": "/static/js/main.cb825df9.chunk.js"
   },
   {
     "revision": "c617e9e0c3affd445c9f",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "08469de4da7afa33709e0813603a85e0",
     "url": "/static/media/Ines_Montani.08469de4.jpg"
+  },
+  {
+    "revision": "925da213cbdd3c14a044d70aae3ad40f",
+    "url": "/static/media/Karen_Hambardzumyan.925da213.jpg"
   },
   {
     "revision": "86b3f4a34144315967a454fae00267ba",
