@@ -15,7 +15,7 @@ import speaker_10 from '../../images/Hrant_Khachatrian.jpg';
 import speaker_11 from '../../images/Arsen_Yeghiazaryan.jpg';
 import speaker_12 from '../../images/Andranik_Khachatryan.jpg';
 import speaker_13 from '../../images/Zaven_Navoyan.jpg';
-import speaker_14 from '../../images/Artur_Kobelyan.png';
+// import speaker_14 from '../../images/Artur_Kobelyan.png';
 import speaker_15 from '../../images/Ines_Montani.jpg';
 import speaker_16 from '../../images/Tigran_Nazaryan.jpg';
 import speaker_17 from '../../images/Hakob_Tamazyan.jpg';
@@ -228,7 +228,7 @@ const Speakers = () => {
                             </p>
                         </a>
                     </div>
-                    <div className="space-25-height"></div>
+                    {/* <div className="space-25-height"></div>
                     <div className="flex column">
                         <a href="https://www.linkedin.com/in/akobel" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
                             <img src={speaker_14} alt="" className="rounded" />
@@ -240,7 +240,7 @@ const Speakers = () => {
                                 {t('speakers.speaker_14.company')}
                             </p>
                         </a>
-                    </div>
+                    </div> */}
                     <div className="space-25-height"></div>
                     <div className="flex column">
                         <a href="http://linkedin.com/in/inesmontani" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
