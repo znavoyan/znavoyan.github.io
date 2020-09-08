@@ -44,8 +44,8 @@ const Agenda = () => {
             <div className="space-100-height"></div>
             <div className="flex center">
                 <div className="btn">
-                    <div className="btn-cover medium-btn-cover white-btn-cover big-btn-cover"></div>
-                    <button className="big bordered medium big-white-border" onClick={scrollDown}>
+                    <div className="btn-cover white-btn-cover big-btn-cover"></div>
+                    <button className="big bordered big-white-border" onClick={scrollDown}>
                         <span className="uppercase">{t('agenda.month')} 10-12</span>
                     </button>
                 </div>

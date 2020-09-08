@@ -148,7 +148,7 @@
             },
             "topic_6": {
                 "time": "14:30-15:00",
-                "text": "TBD"
+                "text": "Hybrid cloud urban traffic management"
             },
             "topic_7": {
                 "time": "15:00-16:00",
@@ -272,8 +272,8 @@
         "speaker_19": {
             "name": "Bernhard",
             "surname": "Ortner",
-            "position": "",
-            "company": ""
+            "position": "Chief Data Officer at",
+            "company": "Wiener Linien"
         },
         "speaker_20": {
             "name": "Miklos",

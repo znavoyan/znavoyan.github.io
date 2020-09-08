@@ -20,6 +20,7 @@ import speaker_15 from '../../images/Ines_Montani.jpg';
 import speaker_16 from '../../images/Tigran_Nazaryan.jpg';
 import speaker_17 from '../../images/Hakob_Tamazyan.jpg';
 import speaker_18 from '../../images/Stefan_Papp.jpg';
+import speaker_19 from '../../images/Bernhard_Ortner.jpg';
 import speaker_20 from '../../images/Miklos_Petridisz.jpg';
 
 const Speakers = () => {
@@ -311,6 +312,20 @@ const Speakers = () => {
                     </div>
                 </div>
                 <div className="space-25-height"></div>
+                <div className="flex speakers-images align-start">
+                    <div className="flex column">
+                        <a href="https://at.linkedin.com/in/bortner" className="flex center column link-no-decoration" target="_blank" rel="noopener noreferrer">
+                            <img src={speaker_19} alt="" className="rounded" />
+                            <p className="img-title">
+                                <span>{t('speakers.speaker_19.name')}</span> {t('speakers.speaker_19.surname')}
+                            </p>
+                            <p className="img-paragraph">
+                                {t('speakers.speaker_19.position')} <br></br>
+                                {t('speakers.speaker_19.company')}
+                            </p>
+                        </a>
+                    </div>
+                </div>
             </div>
             <div className="space-100-height"></div>
             <div className="space-20-height"></div>
