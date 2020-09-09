@@ -65,6 +65,16 @@ const Agenda = () => {
                                 <div className="space-25-height"></div>
                                 <div className="flex align-start flex-start mobile-width">
                                     <p className="paragraph margin-off left">
+                                        <span className="time blue-text">{t('agenda.1.opening.time')}</span>
+                                    </p>
+                                    <div className="space-25-width"></div>
+                                    <p className="paragraph margin-off left blue-text">
+                                        <span className="name">{t('agenda.1.opening.text')}</span>
+                                    </p>
+                                </div>
+                                <div className="space-25-height"></div>
+                                <div className="flex align-start flex-start mobile-width">
+                                    <p className="paragraph margin-off left">
                                         <span className="time">{t('agenda.1.topic_1.time')}</span>
                                     </p>
                                     <div className="space-25-width"></div>
@@ -155,7 +165,11 @@ const Agenda = () => {
                                     </p>
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
-                                        <span className="name">{t('agenda.1.topic_7.text')}</span>
+                                        <span className="name">{t('agenda.1.topic_7.text')}</span> <br />
+                                        {t('speakers.speaker_3.name')} {t('speakers.speaker_3.surname')},&nbsp;
+                                        {t('speakers.speaker_23.name')} {t('speakers.speaker_23.surname')},&nbsp;
+                                        {t('speakers.speaker_7.name')} {t('speakers.speaker_7.surname')},&nbsp;
+                                        {t('speakers.speaker_10.name')} {t('speakers.speaker_10.surname')} ( {t('speakers.speaker_10.panelJob')} )
                                     </p>
                                 </div>
 
@@ -261,10 +275,10 @@ const Agenda = () => {
                                     <div className="space-25-width"></div>
                                     <p className="paragraph margin-off left">
                                         <span className="name">{t('agenda.2.topic_7.text')}</span> <br />
-                                        {/* {t('speakers.speaker_15.name')} {t('speakers.speaker_15.surname')},&nbsp;
-                                        {t('speakers.speaker_4.name')} {t('speakers.speaker_4.surname')},&nbsp;
+                                        {t('speakers.speaker_15.name')} {t('speakers.speaker_15.surname')},&nbsp;
                                         {t('speakers.speaker_9.name')} {t('speakers.speaker_9.surname')},&nbsp;
-                                        {t('speakers.speaker_11.name')} {t('speakers.speaker_11.surname')} */}
+                                        {t('speakers.speaker_21.name')} {t('speakers.speaker_21.surname')},&nbsp;
+                                        {t('speakers.speaker_22.name')} {t('speakers.speaker_22.surname')} ( {t('speakers.speaker_22.panelJob')} )
                                     </p>
                                 </div>
 
