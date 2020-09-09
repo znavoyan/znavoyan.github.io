@@ -42,6 +42,10 @@
         "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
         "text": "Դատաֆեստ Երևան 2020-ը կանցկացվի առցանց (օնլայն)։ Բանախոսությունների Zoom հղումներն ու հավելյալ տեղեկատվությունը կտեղադրվի կոնֆերանսի Slack-ում։",
         "1": {
+            "opening": {
+                "time": "9:55-10:00",
+                "text": "Բացում"
+            },
             "topic_1": {
                 "time": "10:00-11:00",
                 "text": "Self-supervised representation learning in computer vision"
@@ -219,7 +223,8 @@
             "name": "Հրանտ",
             "surname": "Խաչատրյան",
             "position": "Տնօրեն",
-            "company": "YerevaNN"
+            "company": "YerevaNN",
+            "panelJob": "մոդերատոր"
         },
         "speaker_11": {
             "name": "Արսեն",
@@ -280,6 +285,19 @@
             "surname": "Պետրիդիս",
             "position": "Տվյալների ճարտարագետ, խորհրդատու",
             "company": "Datapao"
+        },
+        "speaker_21": {
+            "name": "Թամեր",
+            "surname": "ԱլՆասեր"
+        },
+        "speaker_22": {
+            "name": "Ադամ",
+            "surname": "Բիթլինգմայեր",
+            "panelJob": "մոդերատոր"
+        },
+        "speaker_23": {
+            "name": "Վահան",
+            "surname": "Պետրոսյան"
         }
     }
 }

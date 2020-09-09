@@ -42,6 +42,10 @@
         "yerevanTime": "All times are in Yerevan time (UTC+4)",
         "text": "DataFest Yerevan 2020 will be held online. Zoom links to the talks and additional info will be posted in conference’s Slack",
         "1": {
+            "opening": {
+                "time": "9:55-10:00",
+                "text": "Opening"
+            },
             "topic_1": {
                 "time": "10:00-11:00",
                 "text": "Self-supervised representation learning in computer vision"
@@ -219,7 +223,8 @@
             "name": "Hrant",
             "surname": "Khachatrian",
             "position": "Director at",
-            "company": "YerevaNN"
+            "company": "YerevaNN",
+            "panelJob": "moderator"
         },
         "speaker_11": {
             "name": "Arsen",
@@ -280,6 +285,19 @@
             "surname": "Petridisz",
             "position": "Data Engineering Consultant at",
             "company": "Datapao"
+        },
+        "speaker_21": {
+            "name": "Tamer",
+            "surname": "AlNasser"
+        },
+        "speaker_22": {
+            "name": "Adam",
+            "surname": "Bittlingmayer",
+            "panelJob": "moderator"
+        },
+        "speaker_23": {
+            "name": "Vahan",
+            "surname": "Petrosyan"
         }
     }
 }
