@@ -4,6 +4,8 @@ import { useTranslation } from "react-i18next";
 
 import styles from './styles.module.scss';
 
+const { REACT_APP_GOOGLE_MAP_API_KEY } = process.env;
+
 const mapStyles = {
     position: 'absolute',
     left: '0',
@@ -40,4 +42,4 @@ const MapSection = ({ google }) => {
     );
 };
 
-export default GoogleApiWrapper({ apiKey: ('AIzaSyBZqz_TG-_tbyOd3qczRRPC1o4xjCTCZlE') })(MapSection);
+export default GoogleApiWrapper({ apiKey: (REACT_APP_GOOGLE_MAP_API_KEY) })(MapSection);
