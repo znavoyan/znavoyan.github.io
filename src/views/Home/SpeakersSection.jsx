@@ -15,7 +15,7 @@ const SpeakersSection = () => {
             <div className="space-85-height"></div>
             <div className="space-85-height"></div>
             <h2 className="title">
-                {t('speakers.our')} <span>{t('speakers.title')}</span>
+                <div dangerouslySetInnerHTML={{ __html: t('speakers.title') }}></div>
             </h2>
             <div className="space-40-height"></div>
             <div className="space-25-height"></div>
@@ -29,7 +29,7 @@ const SpeakersSection = () => {
                     <div className="btn big-pink">
                         <div className="btn-cover medium-btn-cover pink-btn-cover"></div>
                         <button className="big bordered medium big-pink-border">
-                            <span>{t('speakers.more')}</span>
+                            <span>{t('speakers.btnText')}</span>
                         </button>
 
                     </div>

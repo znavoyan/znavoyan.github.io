@@ -17,6 +17,7 @@ const Header = ({ changeFooterHeight, ...props }) => {
     const [openMenu, setOpenMenu] = useState(false);
     const [langSelectedValue, setLangSelectedValue] = useState(language);
     const [dropdownOpen, setDropdownOpen] = useState(false);
+    const navbarItems = t('header.navbarItems', { returnObjects: true });
 
     const registerUrl = "https://forms.gle/LZviScoxDHaSB1TJ8";
 
@@ -70,36 +71,22 @@ const Header = ({ changeFooterHeight, ...props }) => {
                 <a href={`/`} className={styles["logo"]}>
                     <img src={logo} alt="logo" />
                 </a>
+                <div className={styles["dates"]}>
+                    Past Events <a href={registerUrl} target="_blank" className="link-no-decoration"><span>2020</span></a>
+                </div>
                 <div className={styles["navbar"]}>
                     <ul className={classnames({ [styles["active"]]: openMenu })}>
-                        {/* <li className={styles["link"]}>
-                            <NavLink to="/about" activeClassName={styles["active"]} onClick={() => onLinkClick("about")}>about</NavLink>
-                        </li> */}
-                        <li className={styles["link"]}>
-                            <NavLink to="/speakers" activeClassName={styles["active"]} onClick={() => onLinkClick("speakers")}>{t('header.speakers')}</NavLink>
-                        </li>
-                        <li className={styles["link"]}>
-                            <NavLink to="/sponsors" activeClassName={styles["active"]} onClick={() => onLinkClick("sponsors")}>{t('header.sponsors')}</NavLink>
-                        </li>
-                        <li className={styles["link"]}>
-                            <NavLink to="/agenda" activeClassName={styles["active"]} onClick={() => onLinkClick("agenda")}>{t('header.agenda')}</NavLink>
-                        </li>
-                        {/* <li className={styles["link"]}>
-                            <a href="/#location">location</a>
-                        </li> */}
+                        {navbarItems.map((value, index) => {
+                            return <li className={styles["link"]} key={index}>
+                                        <NavLink to={`/${value.key}`} activeClassName={styles["active"]} onClick={() => onLinkClick(`/${value}`)}>{value.name}</NavLink>
+                                    </li>
+                        })}
                     </ul>
 
                     <div className="btn fixed"><div className="btn-cover blue-btn-cover"></div>
                         <a href={registerUrl} target="_blank" rel="noopener noreferrer"><button className="blue">{t('header.register')}</button></a>
                     </div>
-
-
                 </div>
-
-
-                {/* <div className={styles["dates"]}>
-                    previous years <span>2018 2019</span>
-                </div> */}
             </div>
             <div className={styles["language"]}>
                 <div onClick={toggleLanguageDropDown} className={styles["dropdown-btn"]}>

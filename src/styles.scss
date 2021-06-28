@@ -133,8 +133,8 @@ body {
 
 .sponsors {
   img.main {
-    height: 35.3em;
-    width: 35.9em;
+    height: 25em;
+    width: 25em;
   }
 }
 
@@ -170,7 +170,12 @@ img.icon-5 {
   }
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .sponsors-icons {
+  width: 100%;
 
   .link {
     a {
@@ -178,7 +183,7 @@ img.icon-5 {
     }
   }
 
-  img.icon-webb-fontaine {
+  img.icon-sponsor {
     height: 4em;
   }
 
@@ -192,6 +197,10 @@ img.icon-5 {
 
   img.icon-picsart {
     height: 6.2em;
+  }
+
+  img {
+    margin: 2.6em 3em;
   }
 
 } 
@@ -546,7 +555,7 @@ img.icon-5 {
 }
 
 .big-text {
-  font-size: 6.4em;
+  font-size: 5em;
   line-height: 1.015em;
   color: #FFFFFF;
 
@@ -589,6 +598,24 @@ img.icon-5 {
 
   span {
     color: #16C6E0;
+  }
+}
+
+.organisers-images {
+  width: 80%;
+  & > div {
+    margin-bottom: 11em; 
+    &:nth-child(odd){
+      margin-right: 11em;
+    }
+    &:nth-child(even){
+      margin-left: 11em;
+    }
+  }
+
+  .rounded {
+    width: 20.3em;
+    height: 20.3em;
   }
 }
 
@@ -761,9 +788,6 @@ img.icon-5 {
 
   .organisers-images {
     flex-direction: column;
-    &:last-child {
-      margin-top: -55px;
-    }
   }
 
   .mobile-width {
@@ -772,8 +796,8 @@ img.icon-5 {
   }
 
   .sponsors {
-    img.icon-webb-fontaine {
-      // height: 12em !important;
+    .sponsors-icons {
+      width: 100%;
     }
   }
 
