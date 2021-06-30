@@ -72,7 +72,7 @@ const Header = ({ changeFooterHeight, ...props }) => {
                     <img src={logo} alt="logo" />
                 </a>
                 <div className={styles["dates"]}>
-                    Past Events <a href={registerUrl} target="_blank" className="link-no-decoration"><span>2020</span></a>
+                    Past Events <a href="https://datafestt2020.herokuapp.com/" target="_blank" className="link-no-decoration"><span>2020</span></a>
                 </div>
                 <div className={styles["navbar"]}>
                     <ul className={classnames({ [styles["active"]]: openMenu })}>

@@ -138,6 +138,14 @@ body {
   }
 }
 
+.sponsors-columns {
+  display: flex;
+  flex-wrap: wrap;
+  & > * {
+    flex: 0 0 30em;
+  }
+}
+
 img.icon-1 {
   height: 7.4em;
   width: 6.475em;

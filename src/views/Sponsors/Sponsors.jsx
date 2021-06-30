@@ -44,7 +44,7 @@ const Sponsors = () => {
                     </h2>
                     <div className="space-40-height"></div>
 
-                    <div className="flex flex-wrap flex-start">
+                    <div className="sponsors-columns flex flex-wrap flex-start">
                         {generalSponsorsList.map((sponsor, index) => {
                             return (<div key={index}>
                                         <a href={sponsor.linkedUrl} className="underlined" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@ const Sponsors = () => {
                     <div className="space-25-height"></div>
                     <div className="space-40-height"></div>
 
-                    <div className="flex flex-wrap">
+                    <div className="sponsors-columns flex flex-wrap flex-start">
                         {sponsorsList.map((sponsor, index) => {
                             return (<div key={index}>
                                         <a href={sponsor.linkedUrl} className="underlined" target="_blank" rel="noopener noreferrer">

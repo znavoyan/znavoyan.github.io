@@ -1,5 +1,5 @@
 import React from "react";
-import { Map, GoogleApiWrapper } from 'google-maps-react';
+import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
 import { useTranslation } from "react-i18next";
 
 import styles from './styles.module.scss';
@@ -31,11 +31,15 @@ const MapSection = ({ google }) => {
                         google={google}
                         zoom={14}
                         style={mapStyles}
+                        marker
                         initialCenter={{
                             lat: `${t('location.lat')}`,
                             lng: `${t('location.lng')}`
                         }}
-                    ></Map>
+                    >
+                        <Marker 
+                            name={'Current location'} />
+                    </Map>
                 </div>
             </div>
         </div>

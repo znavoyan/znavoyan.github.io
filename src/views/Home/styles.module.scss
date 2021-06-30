@@ -86,11 +86,10 @@
 
         .img-content {
             display: flex;
-            justify-content: center;
             align-items: center;
             height: auto;
-            width: 20%;
-            margin: 0 20px;
+            width: 30em;
+            margin: 0 10px;
         } 
 
         .sponsors-icons {
@@ -119,16 +118,10 @@
             }
         }
   }
-
   .map {
       position: relative;
       width: 100%;
       height: 390px;
-
-      filter: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="g"><feColorMatrix type="matrix" values="0.3 0.3 0.3 0 0 0.3 0.3 0.3 0 0 0.3 0.3 0.3 0 0 0 0 0 1 0"/></filter></svg>#g');
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);    
-    filter: progid:DXImageTransform.Microsoft.BasicImage(grayScale=1);
 
       .map-content {
         position: absolute;
