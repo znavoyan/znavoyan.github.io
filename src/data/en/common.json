@@ -24,7 +24,7 @@
             "eventDate": "September 10-12"
         },
         "about": {
-            "title": "What is <span>DataFest Yerevan</span>",
+            "title": "What is <span>DataFest Yerevan 2021</span>",
             "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
             "followUs": "Follow us",
             "facebookPage": "Follow us on Facebook -",
@@ -61,6 +61,42 @@
             {
                 "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
                 "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
+            },
+               {
+                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+                "linkedUrl": "https://picsart.com/"
             }
         ],
         "sponsorsList": []
@@ -70,157 +106,25 @@
         "title": "Our <span>Agenda</span>",
         "yerevanTime": "All times are in Yerevan time (UTC+4)",
         "text": "DataFest Yerevan 2020 will be held online. Zoom links to the talks and additional info will be posted in conference’s Slack",
-        "aboveText": "",
-        "bottomText": "",
+        "aboveText": "Above Text test",
+        "bottomText": "Below Text text",
         "days": [
             {
                 "date": "september 10",
                 "agendaList": [
-                    {
-                        "time": "9:55-10:00",
-                        "title": "Opening",
-                        "key": "opening"
-                    },
-                    {
-                        "time": "10:00-11:00",
-                        "title": "Levan Tsinadze ( Maxin.ai )",
-                        "text": "Self-supervised representation learning in computer vision"
-                    },
-                    {
-                        "time": "11:00-11:30",
-                        "title": "Hakob Tamazyan ( Krisp )",
-                        "text": "Image processing and video segmentation"
-                    },
-                    {
-                        "time": "11:30-12:00",
-                        "title": "Short Break",
-                        "key": "break"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "title": "Manvel Avetisian ( Sberbank AI Lab )",
-                        "text": "AI in Healthcare: challenges and solutions"
-                    },
-                    {
-                        "time": "12:30-13:00",
-                        "title": "Robert Yenokyan ( Metric.am )",
-                        "text": "Crop yield prediction using satellite imagery"
-                    },
-                    {
-                        "time": "13:00-14:30",
-                        "title": "Lunch Break",
-                        "key": "break"
-                    },
-                    {
-                        "time": "14:30-15:00",
-                        "title": "Erik Harutyunyan ( SuperAnnotate )",
-                        "text": "Speeding up contour detection networks using channel pruning and knowledge distillation"
-                    },
-                    {
-                        "time": "15:00-15:30",
-                        "title": "Shant Navasardyan ( PicsArt )",
-                        "text": "Attention Mechanism in Computer Vision. An Application in Image Inpainting Problem"
-                    },
-                    {
-                        "time": "16:00-16:30",
-                        "title": "Panel discussion",
-                        "text": "Levan Tsinadze, Vahan Petrosyan, Manvel Avetisian, Hrant Khachatrian ( moderator ) "
-                    }
+               
                 ]
             },
             {
                 "date": "september 11",
                 "agendaList": [
-                    {
-                        "time": "10:00-11:00",
-                        "title": "Zaven Navoyan ( Intent.ai )",
-                        "text": "AI generated music for the WCIT concert"
-                    },
-                    {
-                        "time": "11:00-11:30",
-                        "title": "Stepan Sargsyan ( Krisp )",
-                        "text": "Speech enhancement and dereverberation"
-                    },
-                    {
-                        "time": "11:30-12:00",
-                        "title": "Short Break",
-                        "key": "break"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "title": "Arsen Yeghiazaryan ( Webb Fontaine )",
-                        "text": "Information Extraction from Unstructured Invoices"
-                    },
-                    {
-                        "time": "12:30-13:00",
-                        "title": "Karen Hambardzumyan ( YerevaNN )",
-                        "text": "Coding best practices for deep learning"
-                    },
-                    {
-                        "time": "13:00-14:30",
-                        "title": "Lunch Break",
-                        "key": "break"
-                    },
-                    {
-                        "time": "14:30-15:00",
-                        "title": "Davit Kocharian ( PicsArt )",
-                        "text": "Information Retrieval. Search Engine powered by ML."
-                    },
-                    {
-                        "time": "15:00-15:30",
-                        "title": "Tigran Nazaryan ( 10web )",
-                        "text": "Learning semantic structures of web pages for AI website builder and assistant"
-                    },
-                    {
-                        "time": "16:00-16:30",
-                        "title": "Panel discussion",
-                        "text": "Ines Montani, Karen Hambardzumyan, Tamer AlNasser, Adam Bittlingmayer ( moderator )"
-                    }
+                   
                 ]
             },
             {
                 "date": "september 12",
                 "agendaList": [
-                    {
-                        "time": "10:00-10:30",
-                        "title": "Hrayr Harutyunyan ( University of Southern California )",
-                        "text": "Improving Generalization by Controlling Label-Noise Information in Neural Network Weights"
-                    },
-                    {
-                        "time": "10:30-11:00",
-                        "title": "Hrant Khachatrian ( YerevaNN )",
-                        "text": "Robust classification under dataset shift"
-                    },
-                    {
-                        "time": "11:00-11:30",
-                        "title": "Short Break",
-                        "key": "break"
-                    },
-                    {
-                        "time": "11:30-12:00",
-                        "title": "Andranik Khachatryan ( Toptal )",
-                        "text": "Machine Learning in the Cloud with Amazon SageMaker"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "title": "Miklos Petridisz ( Datapao )",
-                        "text": "Managing the Machine Learning Lifecycle with MLFlow"
-                    },
-                    {
-                        "time": "12:30-14:00",
-                        "title": "Lunch Break",
-                        "key": "break"
-                    },
-                    {
-                        "time": "14:00-14:30",
-                        "title": "Stefan Papp ( Sophron Engineering )",
-                        "text": "Lessons learned from Platform migration projects"
-                    },
-                    {
-                        "time": "14:30-15:00",
-                        "title": "Bernhard Ortner ( Wiener Linien )",
-                        "text": "Hybrid cloud urban traffic management"
-                    }
+                  
                 ]
             }
         ]
