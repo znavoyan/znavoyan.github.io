@@ -142,7 +142,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   & > * {
-    flex: 0 0 20em;
+    flex: 0 0 23em;
   }
 }
 
@@ -190,25 +190,10 @@ img.icon-5 {
       font-size: 1em !important;
     }
   }
-
-  img.icon-sponsor {
-    height: 4em;
-  }
-
-  img.icon-simply {
-    height: 3.8em;
-  }
-
-  img.icon-krisp {
-    height: 5em;
-  }
-
-  img.icon-picsart {
-    height: 6.2em;
-  }
-
+  
   img {
-    margin: 2.6em 3em;
+    margin: 2.6em 5px;
+    height: 3.3em;
   }
 
 } 
