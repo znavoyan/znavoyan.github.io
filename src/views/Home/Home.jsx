@@ -7,7 +7,7 @@ import AboutSection from './AboutSection';
 import SpeakersSection from './SpeakersSection';
 import SponsorsSection from './SponsorsSection';
 import OrganisersSection from './OrganisersSection';
-// import MapSection from './MapSection';
+import MapSection from './MapSection';
 
 import styles from './styles.module.scss';
 
@@ -30,11 +30,11 @@ const Home = () => {
                     <div className="flex flex-space-between full-width first-section">
                         <div className="flex align-start column">
                             <div className={styles["home-text"]}>
-                                <div>{t('home.main.international')}</div>
-                                <div dangerouslySetInnerHTML={{ __html: t('home.main.dataFestival') }}></div>
-                                <div>{t('home.main.yerevan')}</div>
+                                <div dangerouslySetInnerHTML={{ __html: t('home.main.text') }}></div>
                             </div>
                             <div className="space-40-height"></div>
+                            { t('home.main.eventDate') && <div className="small-text"><span>{t('home.main.eventDate')}</span></div>}
+                            <div className="space-20-height"></div>
                             <div className="btn register">
                                 <div className="btn-cover blue-btn-cover"></div>
                                 <a href="https://forms.gle/LZviScoxDHaSB1TJ8" target="_blank" rel="noopener noreferrer"><button className="blue">{t('home.main.register')}</button></a>
@@ -63,15 +63,13 @@ const Home = () => {
 
             <SpeakersSection />
 
+            <div id="location">
+                <MapSection />
+            </div>
+
             <SponsorsSection />
 
             <OrganisersSection />
-
-            {/* <div id="location">
-                <MapSection />
-            </div> */}
-
-
 
         </div>
     );

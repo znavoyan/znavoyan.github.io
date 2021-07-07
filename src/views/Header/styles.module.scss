@@ -131,8 +131,8 @@ header {
         text-align: center;
         color: #424242;
         position: absolute;
-        right: 212px;
-        top: 72px;
+        left: 169px;
+        top: 46px;
 
         span {
           color: #289ACC;
@@ -248,11 +248,6 @@ header {
             }
                 
         }
-
-        .dates {
-          right: 24px;
-          top: 90px;
-        }
       }
     }
   }
@@ -261,6 +256,12 @@ header {
     .header {
       .language {
         right: 20px;
+      }
+
+      .dates {
+        right: 20px !important;
+        top: 150px !important;
+        left: auto !important;
       }
     }
   }

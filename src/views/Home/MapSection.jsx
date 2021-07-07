@@ -1,6 +1,10 @@
 import React from "react";
-import { Map, GoogleApiWrapper } from 'google-maps-react';
+import { Map, GoogleApiWrapper, Marker } from 'google-maps-react';
+import { useTranslation } from "react-i18next";
+
 import styles from './styles.module.scss';
+
+const { REACT_APP_GOOGLE_MAP_API_KEY } = process.env;
 
 const mapStyles = {
     position: 'absolute',
@@ -10,14 +14,14 @@ const mapStyles = {
 };
 
 const MapSection = ({ google }) => {
-
+    const { t } = useTranslation('common');
 
     return (
         <div className="full-width">
             <div className="space-25-height"></div>
             <div className="space-25-height"></div>
             <h2 className="title big">
-                <span>Where to find us</span>
+                <span>{t('location.title')}</span>
             </h2>
             <div className="space-40-height"></div>
 
@@ -27,29 +31,19 @@ const MapSection = ({ google }) => {
                         google={google}
                         zoom={14}
                         style={mapStyles}
+                        marker
                         initialCenter={{
-                            lat: -1.2884,
-                            lng: 36.8233
+                            lat: `${t('location.lat')}`,
+                            lng: `${t('location.lng')}`
                         }}
-                    ></Map>
+                    >
+                        <Marker 
+                            name={'Current location'} />
+                    </Map>
                 </div>
             </div>
-
-            <div className="container">
-                <div className="space-20-height"></div>
-                <div className="space-25-height"></div>
-                <div className="space-85-height"></div>
-                <h2 className="title">
-                    Lorem ipsum <span>dolor sit</span>
-                </h2>
-                <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et felis congue, malesuada metus nec, gravida neque.
-                </p>
-                <div className="space-250-height"></div>
-            </div>
-
         </div>
     );
 };
 
-export default GoogleApiWrapper({ apiKey: ('') })(MapSection);
+export default GoogleApiWrapper({ apiKey: (REACT_APP_GOOGLE_MAP_API_KEY) })(MapSection);

@@ -5,8 +5,8 @@ import i18next from "i18next";
 
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import common_am from "./translations/am/common.json";
-import common_en from "./translations/en/common.json";
+import common_am from "./data/am/common.json";
+import common_en from "./data/en/common.json";
 import { loadState } from './localStorage/localStorage';
 import './index.css';
 
