@@ -37,8 +37,9 @@ function App(props) {
   useEffect(() => {
 
     const pageUrl = window.location.href;
-
+console.log("666", pageUrl.includes('www'));
     if(pageUrl.includes('www')){
+      console.log("111", pageUrl.includes('www'));
       const currentUrl = window.location.href.replace("www.", "");
       window.location.href = currentUrl;
     }
