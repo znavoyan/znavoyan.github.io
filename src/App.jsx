@@ -35,13 +35,21 @@ function App(props) {
   };
 
   useEffect(() => {
+
     const pageUrl = window.location.href;
+
+    if(pageUrl.includes('www')){
+      const currentUrl = window.location.href.replace("www.", "");
+      window.location.href = currentUrl;
+    }
+
     const currentPathName = pageUrl.substr(pageUrl.lastIndexOf('/') + 1);
     const pathArray = window.location.pathname.split('/');
 
+
     if (!currentPathName) {
-      const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
-      window.history.pushState({}, null, getCurrenturl);
+      const currentUrl = window.location.href.replace(`${pathArray[1]}#/`, "");
+      window.history.pushState({}, null, currentUrl);
     }
 
     changeFooterHeight(currentPathName);
