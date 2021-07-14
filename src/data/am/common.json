@@ -1,429 +1,293 @@
 {
-    "header": {
-        "navbarItems": [
-            {
-                "name": "խոսնակներ",
-                "key": "speakers"
-            },
-            {
-                "name": "հովանավորներ",
-                "key": "sponsors"
-            },
-            {
-                "name": "օրակարգ",
-                "key": "agenda"
-            }
-        ],
-        "register": "Գրանցվել"
+  "header": {
+    "navbarItems": [
+      {
+        "name": "խոսնակներ",
+        "key": "speakers"
+      },
+      {
+        "name": "հովանավորներ",
+        "key": "sponsors"
+      },
+      {
+        "name": "օրակարգ",
+        "key": "agenda"
+      }
+    ],
+    "register": "Գրանցվել"
+  },
+  "home": {
+    "main": {
+      "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
+      "register": "Գրանցվել",
+      "scrollDown": "Դեպի ներքև",
+      "eventDate": "Սեպտեմբերի 10-12"
     },
-    "home": {
-        "main": {
-            "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
-            "register": "Գրանցվել",
-            "scrollDown": "Դեպի ներքև",
-            "eventDate": "Սեպտեմբերի 10-12"
-        },
-        "about": {
-            "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
-            "text": "Դատաֆեստ Երևանը մեքենայական ուսուցմանը նվիրված կոնֆերանս է, ուր քննարկվելու են ոլորտային տարաբնույթ թեմաներ՝ շեշտադրելով ինժեներական և կիրառական խնդիրները։ Այն մտքերի փոխանակման և համագործակցության խթանման հարթակ է։",
-            "followUs": "Հետևեք մեզ",
-            "facebookPage": "Հետևեք մեզ ֆեյսբուքում -",
-            "facebookEventPage": "Ֆեյսբուքյան միջոցառման հղում -",
-            "facebookPageUrl": "https://facebook.com/datafestYerevan",
-            "facebookEventPageUrl": "https://facebook.com/events/3676170732411668",
-            "facebookPageText": "Ֆեյսբուքյան էջ",
-            "facebookEventText": "Ֆեյսբուքյան միջոցառում",
-            "youTubePageText": "Յութուբյան Էջ",
-            "youTubeEventPageUrl": "https://www.youtube.com/playlist?list=PLvwlJZXG6IkW-Yk4EJjSIwHuoXrr9_hsY"
-        }
-    },
-    "sponsors": {
-        "title": "Մեր <span>Հովանավորները</span>",
-        "generalSponsorsTitle": "Գլխավոր <span>Հովանավորները</span>",
-        "sponsorsTitle": "<span>Հովանավորները</span>",
-        "seeAll": "Տեսնել ամբողջը",
-        "text": "Շնորհակալ ենք Դատաֆեստ Երևան  2020-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
-        "aboveText": "",
-        "bottomText": "",
-        "generalSponsorsList": [
-            {
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
-                "linkedUrl": "https://webbfontaine.com/"
-            },
-            {
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
-                "linkedUrl": "https://www.simplytechnologies.net/"
-            },
-            {
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
-                "linkedUrl": "https://krisp.ai/"
-            },
-            {
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
-                "linkedUrl": "https://picsart.com/"
-            }
-        ],
-        "sponsorsList": []
-    },
-    "agenda": {
-        "btnText": "սեպտեմբերի 10-12",
-        "title": "Մեր <span>Օրակարգը</span>",
-        "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
-        "text": "Դատաֆեստ Երևան 2020-ը կանցկացվի առցանց (օնլայն)։ Բանախոսությունների Zoom հղումներն ու հավելյալ տեղեկատվությունը կտեղադրվի կոնֆերանսի Slack-ում։",
-        "aboveText": "",
-        "bottomText": "",
-        "days": [
-            {
-                "date": "սեպտեմբերի 10",
-                "agendaList": [
-                    {
-                        "time": "9:55-10:00",
-                        "title": "Բացում",
-                        "key": "opening"
-                    },
-                    {
-                        "time": "10:00-11:00",
-                        "title": "Լևան Ծինաձե ( Maxin.ai )",
-                        "text": "Self-supervised representation learning in computer vision"
-                    },
-                    {
-                        "time": "11:00-11:30",
-                        "title": "Հակոբ Թամազյան ( Krisp )",
-                        "text": "Image processing and video segmentation"
-                    },
-                    {
-                        "time": "11:30-12:00",
-                        "title": "Կարճ ընդմիջում",
-                        "key": "break"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "title": "Մանվել Ավետիսյան ( Sberbank AI Lab )",
-                        "text": "AI in Healthcare: challenges and solutions"
-                    },
-                    {
-                        "time": "12:30-13:00",
-                        "title": "Ռոբերտ Ենոքյան ( Metric.am )",
-                        "text": "Crop yield prediction using satellite imagery"
-                    },
-                    {
-                        "time": "13:00-14:30",
-                        "title": "Ընդմիջում",
-                        "key": "break"
-                    },
-                    {
-                        "time": "14:30-15:00",
-                        "title": "Էրիկ Հարությունյան ( SuperAnnotate )",
-                        "text": "Speeding up contour detection networks using channel pruning and knowledge distillation"
-                    },
-                    {
-                        "time": "15:00-15:30",
-                        "title": "Շանթ Նավասարդյան ( PicsArt )",
-                        "text": "Attention Mechanism in Computer Vision. An Application in Image Inpainting Problem"
-                    },
-                    {
-                        "time": "16:00-16:30",
-                        "title": "Պանելային քննարկում",
-                        "text": "Levan Tsinadze, Vahan Petrosyan, Manvel Avetisian, Hrant Khachatrian ( moderator ) "
-                    }
-                ]
-            },
-            {
-                "date": "սեպտեմբերի 11",
-                "agendaList": [
-                    {
-                        "time": "10:00-11:00",
-                        "title": "Զավեն Նավոյան ( Intent.ai )",
-                        "text": "AI generated music for the WCIT concert"
-                    },
-                    {
-                        "time": "11:00-11:30",
-                        "title": "Ստեփան Սարգսյան ( Krisp )",
-                        "text": "Speech enhancement and dereverberation"
-                    },
-                    {
-                        "time": "11:30-12:00",
-                        "title": "Կարճ ընդմիջում",
-                        "key": "break"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "title": "Արսեն Եղիազարյան ( Webb Fontaine )",
-                        "text": "Information Extraction from Unstructured Invoices"
-                    },
-                    {
-                        "time": "12:30-13:00",
-                        "title": "Կարեն Համբարձումյան ( YerevaNN )",
-                        "text": "Coding best practices for deep learning"
-                    },
-                    {
-                        "time": "13:00-14:30",
-                        "title": "Ընդմիջում",
-                        "key": "break"
-                    },
-                    {
-                        "time": "14:30-15:00",
-                        "title": "Դավիթ Քոչարյան ( PicsArt )",
-                        "text": "Information Retrieval. Search Engine powered by ML."
-                    },
-                    {
-                        "time": "15:00-15:30",
-                        "title": "Տիգրան Նազարյան ( 10web )",
-                        "text": "Learning semantic structures of web pages for AI website builder and assistant"
-                    },
-                    {
-                        "time": "16:00-16:30",
-                        "title": "Պանելային քննարկում",
-                        "text": "Ines Montani, Karen Hambardzumyan, Tamer AlNasser, Adam Bittlingmayer ( moderator )"
-                    }
-                ]
-            },
-            {
-                "date": "սեպտեմբերի 12",
-                "agendaList": [
-                    {
-                        "time": "10:00-10:30",
-                        "title": "Հրայր Հարությունյան ( University of Southern California )",
-                        "text": "Improving Generalization by Controlling Label-Noise Information in Neural Network Weights"
-                    },
-                    {
-                        "time": "10:30-11:00",
-                        "title": "Հրանտ Խաչատրյան ( YerevaNN )",
-                        "text": "Robust classification under dataset shift"
-                    },
-                    {
-                        "time": "11:00-11:30",
-                        "title": "Կարճ ընդմիջում",
-                        "key": "break"
-                    },
-                    {
-                        "time": "11:30-12:00",
-                        "title": "Անդրանիկ Խաչատրյան ( Toptal )",
-                        "text": "Machine Learning in the Cloud with Amazon SageMaker"
-                    },
-                    {
-                        "time": "12:00-12:30",
-                        "title": "Միկլոշ Պետրիդիս ( Datapao )",
-                        "text": "Managing the Machine Learning Lifecycle with MLFlow"
-                    },
-                    {
-                        "time": "12:30-14:00",
-                        "title": "Ընդմիջում",
-                        "key": "break"
-                    },
-                    {
-                        "time": "14:00-14:30",
-                        "title": "Ստեֆան Պապպ ( Sophron Engineering )",
-                        "text": "Lessons learned from Platform migration projects"
-                    },
-                    {
-                        "time": "14:30-15:00",
-                        "title": "Բերնհարդ Օրտներ ( Wiener Linien )",
-                        "text": "Hybrid cloud urban traffic management"
-                    }
-                ]
-            }
-        ]
-    },
-    "organisers": {
-        "title": "Կազմակերպիչներ",
-        "organisersList": [
-            {
-                "name": "Արսեն",
-                "surname": "Եղիազարյան",
-                "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639409/datafest/speakers/Arsen_Yeghiazaryan_pw5sno.jpg"
-            },
-            {
-                "name": "Հրանտ",
-                "surname": "Խաչատրյան",
-                "linkedUrl": "",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
-            },
-            {
-                "name": "Զավեն",
-                "surname": "Նավոյան",
-                "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
-            },
-            {
-                "name": "Անդրանիկ",
-                "surname": "Խաչատրյան",
-                "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
-            }
-        ]
-    },
-    "speakers": {
-        "title": "Մեր <span>Խոսնակները</span>",
-        "btnText": "Ավելին",
-        "aboveText": "",
-        "bottomText": "",
-        "speakersList": [
-            {
-                "name": "Էրիկ",
-                "surname": "Հարությունյան",
-                "position": "Մեքենայական ուսուցման ճարտարագետ",
-                "company": "SuperAnnotate",
-                "linkedUrl": "https://www.linkedin.com/in/erik-harutyunyan-293458131",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639414/datafest/speakers/Erik_Harutyunyan_l7goj3.jpg"
-            },
-            {
-                "name": "Ստեփան",
-                "surname": "Սարգսյան",
-                "position": "Ծրագրային ապահովման ճարտարապետ, մեքենայական ուսուցում",
-                "company": "Krisp",
-                "linkedUrl": "https://www.linkedin.com/in/stepansargsyan",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639437/datafest/speakers/Stepan_Sargsyan_fozcgn.jpg"
-            },
-            {
-                "name": "Լևան",
-                "surname": "Ծինաձե",
-                "position": "AI ղեկավար",
-                "company": "Maxin.ai",
-                "linkedUrl": "https://www.linkedin.com/in/levan-tsinadze-246a1b2a",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639424/datafest/speakers/Levan_Tsinadze_t4obga.png"
-            },
-            {
-                "name": "Դավիթ",
-                "surname": "Քոչարյան",
-                "position": "Ավագ տվյալագետ, Օգտատերերի վարքագծի թիմի ղեկավար",
-                "company": "PicsArt",
-                "linkedUrl": "https://www.linkedin.com/in/davidkocharian",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639447/datafest/speakers/Davit_Kocharian_zx88au.png"
-            },
-            {
-                "name": "Հրայր",
-                "surname": "Հարությունյան",
-                "position": "Ասպիրանտ",
-                "company": "University of Southern California",
-                "linkedUrl": "https://github.com/hrayrhar",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639421/datafest/speakers/Hrayr_Harutyunyan_gpu7km.png"
-            },
-            {
-                "name": "Շանթ",
-                "surname": "Նավասարդյան",
-                "position": "Մեքենայական ուսուցման ավագ հետազոտող / Թիմի ղեկավար",
-                "company": "PicsArt",
-                "linkedUrl": "https://www.linkedin.com/in/shant-navasardyan-1302aa149",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639444/datafest/speakers/Shant_Navasardyan_swmf7z.jpg"
-            },
-            {
-                "name": "Մանվել",
-                "surname": "Ավետիսյան",
-                "position": "Կառավարող տնօրեն",
-                "company": "Sberbank AI Lab",
-                "linkedUrl": "https://ru.linkedin.com/in/manvelavetisian",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Manvel_Avetissian_pxbcaw.jpg"
-            },
-            {
-                "name": "Ռոբերտ",
-                "surname": "Ենոքյան",
-                "position": "Ավագ տվյալագետ",
-                "company": "Metric.am",
-                "linkedUrl": "https://www.linkedin.com/in/robert-yenokyan",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639451/datafest/speakers/Robert_Yenokyan_yw64ut.jpg"
-            },
-            {
-                "name": "Կարեն",
-                "surname": "Համբարձումյան",
-                "position": "Մեքենայական ուսուցման հետազոտող",
-                "company": "YerevaNN",
-                "linkedUrl": "",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639423/datafest/speakers/Karen_Hambardzumyan_p33sss.jpg"
-            },
-            {
-                "name": "Հրանտ",
-                "surname": "Խաչատրյան",
-                "position": "Տնօրեն",
-                "company": "YerevaNN",
-                "panelJob": "մոդերատոր",
-                "linkedUrl": "",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
-            },
-            {
-                "name": "Արսեն",
-                "surname": "Եղիազարյան",
-                "position": "Մեքենայական ուսուցման թիմի ղեկավար",
-                "company": "Webb Fontaine",
-                "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639409/datafest/speakers/Arsen_Yeghiazaryan_pw5sno.jpg"
-            },
-            {
-                "name": "Անդրանիկ",
-                "surname": "Խաչատրյան",
-                "position": "Մեքենայական ուսուցման մասնագետ, խորհրդատու",
-                "company": "Toptal",
-                "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
-            },
-            {
-                "name": "Զավեն",
-                "surname": "Նավոյան",
-                "position": "AI/ML տնօրեն",
-                "company": "Intent.ai",
-                "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
-            },
-            {
-                "name": "Արթուր",
-                "surname": "Կոբելյան",
-                "position": "Գլխավոր ճարտարագետ, մեքենայական ուսուցում",
-                "company": "Krisp",
-                "linkedUrl": "",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639413/datafest/speakers/Artur_Kobelyan_ubgavo.png"
-            },
-            {
-                "name": "Ինես",
-                "surname": "Մոնտանի",
-                "position": "Հիմնադիր",
-                "company": "Explosion",
-                "linkedUrl": "http://linkedin.com/in/inesmontani",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639421/datafest/speakers/Ines_Montani_hhyytd.jpg"
-            },
-            {
-                "name": "Տիգրան",
-                "surname": "Նազարյան",
-                "position": "Հետազոտական թիմի ղեկավար, փոխտնօրեն",
-                "company": "10web",
-                "linkedUrl": "https://www.linkedin.com/in/tnazaryan",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639438/datafest/speakers/Tigran_Nazaryan_nmy0ub.jpg"
-            },
-            {
-                "name": "Հակոբ",
-                "surname": "Թամազյան",
-                "position": "Մեքենայական ուսուցման ավագ ճարտարագետ",
-                "company": "Krisp",
-                "linkedUrl": "https://am.linkedin.com/in/hakob-tamazyan-51aa67102",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639418/datafest/speakers/Hakob_Tamazyan_lsnsq6.jpg"
-            },
-            {
-                "name": "Ստեֆան",
-                "surname": "Պապպ",
-                "position": "Համահիմնադիր և տնօրեն",
-                "company": "Sophron Engineering",
-                "linkedUrl": "https://www.linkedin.com/in/stefanpapp",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639436/datafest/speakers/Stefan_Papp_fzs2ze.jpg"
-            },
-            {
-                "name": "Բերնհարդ",
-                "surname": "Օրտներ",
-                "position": "Գլխավոր տվյալագետ",
-                "company": "Wiener Linien",
-                "linkedUrl": "https://at.linkedin.com/in/bortner",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Bernhard_Ortner_okogq9.jpg"
-            },
-            {
-                "name": "Թամեր",
-                "surname": "ԱլՆասեր",
-                "linkedUrl": "",
-                "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639430/datafest/speakers/Miklos_Petridisz_cqjdbq.jpg"
-            }
-        ]
-    },
-    "location": {
-        "title": "Where to find us",
-        "lat": "40.193410592591526",
-        "lng": "44.504402153484406"
+    "about": {
+      "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
+      "text": "Դատաֆեստ Երևանը մեքենայական ուսուցմանը նվիրված կոնֆերանս է, ուր քննարկվելու են ոլորտային տարաբնույթ թեմաներ՝ շեշտադրելով ինժեներական և կիրառական խնդիրները։ Այն մտքերի փոխանակման և համագործակցության խթանման հարթակ է։",
+      "followUs": "Հետևեք մեզ",
+      "facebookPage": "Հետևեք մեզ ֆեյսբուքում -",
+      "facebookEventPage": "Ֆեյսբուքյան միջոցառման հղում -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://facebook.com/events/3676170732411668",
+      "facebookPageText": "Ֆեյսբուքյան էջ",
+      "facebookEventText": "Ֆեյսբուքյան միջոցառում",
+      "youTubePageText": "Յութուբյան Էջ",
+      "youTubeEventPageUrl": "https://www.youtube.com/playlist?list=PLvwlJZXG6IkW-Yk4EJjSIwHuoXrr9_hsY"
     }
+  },
+  "sponsors": {
+    "title": "Մեր <span>Հովանավորները</span>",
+    "generalSponsorsTitle": "Գլխավոր <span>Հովանավորները</span>",
+    "sponsorsTitle": "<span>Հովանավորները</span>",
+    "seeAll": "Տեսնել ամբողջը",
+    "text": "Շնորհակալ ենք Դատաֆեստ Երևան  2020-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
+    "aboveText": "",
+    "bottomText": "",
+    "generalSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
+        "linkedUrl": "https://webbfontaine.com/"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
+        "linkedUrl": "https://www.simplytechnologies.net/"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
+        "linkedUrl": "https://krisp.ai/"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+        "linkedUrl": "https://picsart.com/"
+      }
+    ],
+    "sponsorsList": []
+  },
+  "agenda": {
+    "btnText": "սեպտեմբերի 10-12",
+    "title": "Մեր <span>Օրակարգը</span>",
+    "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
+    "text": "Դատաֆեստ Երևան 2021-ը կանցկացվի կանցկացվի Սեպտեմբեր 10, 11 ին:",
+    "aboveText": "",
+    "bottomText": "",
+    "days": [
+      {
+        "date": "սեպտեմբերի 10",
+        "agendaList": [
+          {
+            "time": "9:55-10:00",
+            "title": "Բացում",
+            "key": "opening"
+          }
+        ]
+      },
+      {
+        "date": "սեպտեմբերի 11",
+        "agendaList": []
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Կազմակերպիչներ",
+    "organisersList": [
+      {
+        "name": "Արսեն",
+        "surname": "Եղիազարյան",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639409/datafest/speakers/Arsen_Yeghiazaryan_pw5sno.jpg"
+      },
+      {
+        "name": "Հրանտ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Զավեն",
+        "surname": "Նավոյան",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Անդրանիկ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Մեր <span>Խոսնակները</span>",
+    "btnText": "Ավելին",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+      {
+        "name": "Էրիկ",
+        "surname": "Հարությունյան",
+        "position": "Մեքենայական ուսուցման ճարտարագետ",
+        "company": "SuperAnnotate",
+        "linkedUrl": "https://www.linkedin.com/in/erik-harutyunyan-293458131",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639414/datafest/speakers/Erik_Harutyunyan_l7goj3.jpg"
+      },
+      {
+        "name": "Ստեփան",
+        "surname": "Սարգսյան",
+        "position": "Ծրագրային ապահովման ճարտարապետ, մեքենայական ուսուցում",
+        "company": "Krisp",
+        "linkedUrl": "https://www.linkedin.com/in/stepansargsyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639437/datafest/speakers/Stepan_Sargsyan_fozcgn.jpg"
+      },
+      {
+        "name": "Լևան",
+        "surname": "Ծինաձե",
+        "position": "AI ղեկավար",
+        "company": "Maxin.ai",
+        "linkedUrl": "https://www.linkedin.com/in/levan-tsinadze-246a1b2a",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639424/datafest/speakers/Levan_Tsinadze_t4obga.png"
+      },
+      {
+        "name": "Դավիթ",
+        "surname": "Քոչարյան",
+        "position": "Ավագ տվյալագետ, Օգտատերերի վարքագծի թիմի ղեկավար",
+        "company": "PicsArt",
+        "linkedUrl": "https://www.linkedin.com/in/davidkocharian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639447/datafest/speakers/Davit_Kocharian_zx88au.png"
+      },
+      {
+        "name": "Հրայր",
+        "surname": "Հարությունյան",
+        "position": "Ասպիրանտ",
+        "company": "University of Southern California",
+        "linkedUrl": "https://github.com/hrayrhar",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639421/datafest/speakers/Hrayr_Harutyunyan_gpu7km.png"
+      },
+      {
+        "name": "Շանթ",
+        "surname": "Նավասարդյան",
+        "position": "Մեքենայական ուսուցման ավագ հետազոտող / Թիմի ղեկավար",
+        "company": "PicsArt",
+        "linkedUrl": "https://www.linkedin.com/in/shant-navasardyan-1302aa149",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639444/datafest/speakers/Shant_Navasardyan_swmf7z.jpg"
+      },
+      {
+        "name": "Մանվել",
+        "surname": "Ավետիսյան",
+        "position": "Կառավարող տնօրեն",
+        "company": "Sberbank AI Lab",
+        "linkedUrl": "https://ru.linkedin.com/in/manvelavetisian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Manvel_Avetissian_pxbcaw.jpg"
+      },
+      {
+        "name": "Ռոբերտ",
+        "surname": "Ենոքյան",
+        "position": "Ավագ տվյալագետ",
+        "company": "Metric.am",
+        "linkedUrl": "https://www.linkedin.com/in/robert-yenokyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639451/datafest/speakers/Robert_Yenokyan_yw64ut.jpg"
+      },
+      {
+        "name": "Կարեն",
+        "surname": "Համբարձումյան",
+        "position": "Մեքենայական ուսուցման հետազոտող",
+        "company": "YerevaNN",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639423/datafest/speakers/Karen_Hambardzumyan_p33sss.jpg"
+      },
+      {
+        "name": "Հրանտ",
+        "surname": "Խաչատրյան",
+        "position": "Տնօրեն",
+        "company": "YerevaNN",
+        "panelJob": "մոդերատոր",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Արսեն",
+        "surname": "Եղիազարյան",
+        "position": "Մեքենայական ուսուցման թիմի ղեկավար",
+        "company": "Webb Fontaine",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639409/datafest/speakers/Arsen_Yeghiazaryan_pw5sno.jpg"
+      },
+      {
+        "name": "Անդրանիկ",
+        "surname": "Խաչատրյան",
+        "position": "Մեքենայական ուսուցման մասնագետ, խորհրդատու",
+        "company": "Toptal",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      },
+      {
+        "name": "Զավեն",
+        "surname": "Նավոյան",
+        "position": "AI/ML տնօրեն",
+        "company": "Intent.ai",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Արթուր",
+        "surname": "Կոբելյան",
+        "position": "Գլխավոր ճարտարագետ, մեքենայական ուսուցում",
+        "company": "Krisp",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639413/datafest/speakers/Artur_Kobelyan_ubgavo.png"
+      },
+      {
+        "name": "Ինես",
+        "surname": "Մոնտանի",
+        "position": "Հիմնադիր",
+        "company": "Explosion",
+        "linkedUrl": "http://linkedin.com/in/inesmontani",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639421/datafest/speakers/Ines_Montani_hhyytd.jpg"
+      },
+      {
+        "name": "Տիգրան",
+        "surname": "Նազարյան",
+        "position": "Հետազոտական թիմի ղեկավար, փոխտնօրեն",
+        "company": "10web",
+        "linkedUrl": "https://www.linkedin.com/in/tnazaryan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639438/datafest/speakers/Tigran_Nazaryan_nmy0ub.jpg"
+      },
+      {
+        "name": "Հակոբ",
+        "surname": "Թամազյան",
+        "position": "Մեքենայական ուսուցման ավագ ճարտարագետ",
+        "company": "Krisp",
+        "linkedUrl": "https://am.linkedin.com/in/hakob-tamazyan-51aa67102",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639418/datafest/speakers/Hakob_Tamazyan_lsnsq6.jpg"
+      },
+      {
+        "name": "Ստեֆան",
+        "surname": "Պապպ",
+        "position": "Համահիմնադիր և տնօրեն",
+        "company": "Sophron Engineering",
+        "linkedUrl": "https://www.linkedin.com/in/stefanpapp",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639436/datafest/speakers/Stefan_Papp_fzs2ze.jpg"
+      },
+      {
+        "name": "Բերնհարդ",
+        "surname": "Օրտներ",
+        "position": "Գլխավոր տվյալագետ",
+        "company": "Wiener Linien",
+        "linkedUrl": "https://at.linkedin.com/in/bortner",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Bernhard_Ortner_okogq9.jpg"
+      },
+      {
+        "name": "Թամեր",
+        "surname": "ԱլՆասեր",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639430/datafest/speakers/Miklos_Petridisz_cqjdbq.jpg"
+      }
+    ]
+  },
+  "location": {
+    "title": "Where to find us",
+    "lat": "40.193410592591526",
+    "lng": "44.504402153484406"
+  }
 }
