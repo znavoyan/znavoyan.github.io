@@ -124,21 +124,61 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-      {
-        "name": "Erik",
+	  {
+        "name": "Amazasp",
+        "surname": "Shaumyan",
+        "position": "Principal Data Scientist at",
+        "company": "OpenTable",
+        "linkedUrl": "https://www.linkedin.com/in/amazasp-shaumyan-9999a6138/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Amazasp_Shaumyan_fbgblp.jpg"
+      },
+	  {
+        "name": "Mikhail",
+        "surname": "Burtsev",
+        "position": "Founder and Leader at",
+        "company": "DeepPavlov.ai",
+        "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Mikhail_Burtsev_ijonqf.jpg"
+      },
+	  {
+        "name": "Michal",
+        "surname": "Valko",
+        "position": "Staff Research Scientist at",
+        "company": "DeepMind",
+        "linkedUrl": "https://www.linkedin.com/in/michalvalko",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Michal_Valko_clcaja.jpg"
+      },
+	  {
+        "name": "Edouard",
+        "surname": "Oyallon",
+        "position": "CNRS Researcher at",
+        "company": "LIP6",
+        "linkedUrl": "https://edouardoyallon.github.io/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Edouard_Oyallon_h2i5zl.jpg"
+      },
+	  {
+        "name": "Grigory",
+        "surname": "Sapunov",
+        "position": "Co-founder and CTO at",
+        "company": "Intento",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Grigory_Sapunov_hejdil.jpg"
+      },
+	  {
+        "name": "Sevak",
         "surname": "Harutyunyan",
         "position": "Machine Learning Engineer at",
-        "company": "SuperAnnotate",
-        "linkedUrl": "https://www.linkedin.com/in/erik-harutyunyan-293458131",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639414/datafest/speakers/Erik_Harutyunyan_l7goj3.jpg"
+        "company": "Webb Fontaine",
+        "linkedUrl": "https://www.linkedin.com/in/sevak-harutyunyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Sevak_Harutyunyan_gb0b5s.jpg"
       },
-      {
+	  {
         "name": "Stepan",
         "surname": "Sargsyan",
-        "position": "Architect, ML at",
+        "position": "Chief Scientist at",
         "company": "Krisp",
-        "linkedUrl": "https://www.linkedin.com/in/stepansargsyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639437/datafest/speakers/Stepan_Sargsyan_fozcgn.jpg"
+        "linkedUrl": "https://www.linkedin.com/in/stepansargsyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Stepan_Sargsyan_inttdn.jpg"
       },
       {
         "name": "Levan",
@@ -149,44 +189,12 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639424/datafest/speakers/Levan_Tsinadze_t4obga.png"
       },
       {
-        "name": "Davit",
-        "surname": "Kocharian",
-        "position": "Senior Data Scientist, User Behavior Team Lead at",
-        "company": "PicsArt",
-        "linkedUrl": "https://www.linkedin.com/in/davidkocharian",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639447/datafest/speakers/Davit_Kocharian_zx88au.png"
-      },
-      {
-        "name": "Hrayr",
-        "surname": "Harutyunyan",
-        "position": "PhD student at",
-        "company": "University of Southern California",
-        "linkedUrl": "https://github.com/hrayrhar",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639421/datafest/speakers/Hrayr_Harutyunyan_gpu7km.png"
-      },
-      {
-        "name": "Shant",
-        "surname": "Navasardyan",
-        "position": "Senior Machine Learning Researcher / Team Lead at",
-        "company": "PicsArt",
-        "linkedUrl": "https://www.linkedin.com/in/shant-navasardyan-1302aa149",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639444/datafest/speakers/Shant_Navasardyan_swmf7z.jpg"
-      },
-      {
         "name": "Manvel",
         "surname": "Avetisian",
         "position": "Managing Director at",
         "company": "Sberbank AI Lab",
         "linkedUrl": "https://ru.linkedin.com/in/manvelavetisian",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Manvel_Avetissian_pxbcaw.jpg"
-      },
-      {
-        "name": "Robert",
-        "surname": "Yenokyan",
-        "position": "Lead Data Scientist at",
-        "company": "Metric.am",
-        "linkedUrl": "https://www.linkedin.com/in/robert-yenokyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639451/datafest/speakers/Robert_Yenokyan_yw64ut.jpg"
       },
       {
         "name": "Karen",
@@ -197,91 +205,12 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639423/datafest/speakers/Karen_Hambardzumyan_p33sss.jpg"
       },
       {
-        "name": "Hrant",
-        "surname": "Khachatrian",
-        "position": "Director at",
-        "company": "YerevaNN",
-        "panelJob": "moderator",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
-      },
-      {
-        "name": "Arsen",
-        "surname": "Yeghiazaryan",
-        "position": "ML Team Lead at",
-        "company": "Webb Fontaine",
-        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639409/datafest/speakers/Arsen_Yeghiazaryan_pw5sno.jpg"
-      },
-      {
-        "name": "Andranik",
-        "surname": "Khachatryan",
-        "position": "ML Specialist, Consultant at",
-        "company": "Toptal",
-        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
-      },
-      {
-        "name": "Zaven",
-        "surname": "Navoyan",
-        "position": "Director of AI/ML at",
-        "company": "Intent.ai",
-        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
-      },
-      {
-        "name": "Artur",
-        "surname": "Kobelyan",
-        "position": "Principal engineer, ML at",
-        "company": "Krisp",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639413/datafest/speakers/Artur_Kobelyan_ubgavo.png"
-      },
-      {
-        "name": "Ines",
-        "surname": "Montani",
-        "position": "Founder at",
-        "company": "Explosion",
-        "linkedUrl": "http://linkedin.com/in/inesmontani",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639421/datafest/speakers/Ines_Montani_hhyytd.jpg"
-      },
-      {
-        "name": "Tigran",
-        "surname": "Nazaryan",
-        "position": "R&D Team Lead & VP of Engineering at",
-        "company": "10web",
-        "linkedUrl": "https://www.linkedin.com/in/tnazaryan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639438/datafest/speakers/Tigran_Nazaryan_nmy0ub.jpg"
-      },
-      {
-        "name": "Hakob",
-        "surname": "Tamazyan",
-        "position": "Senior Machine Learning Engineer at",
-        "company": "Krisp",
-        "linkedUrl": "https://am.linkedin.com/in/hakob-tamazyan-51aa67102",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639418/datafest/speakers/Hakob_Tamazyan_lsnsq6.jpg"
-      },
-      {
-        "name": "Stefan",
-        "surname": "Papp",
-        "position": "Co-Founder and Managing Director at",
-        "company": "Sophron Engineering",
-        "linkedUrl": "https://www.linkedin.com/in/stefanpapp",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639436/datafest/speakers/Stefan_Papp_fzs2ze.jpg"
-      },
-      {
         "name": "Bernhard",
         "surname": "Ortner",
         "position": "Chief Data Officer at",
         "company": "Wiener Linien",
         "linkedUrl": "https://at.linkedin.com/in/bortner",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Bernhard_Ortner_okogq9.jpg"
-      },
-      {
-        "name": "Tamer",
-        "surname": "AlNasser",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639430/datafest/speakers/Miklos_Petridisz_cqjdbq.jpg"
       }
     ]
   },
