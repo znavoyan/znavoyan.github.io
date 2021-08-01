@@ -219,7 +219,16 @@
         "company": "Wiener Linien",
         "linkedUrl": "https://at.linkedin.com/in/bortner",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639428/datafest/speakers/Bernhard_Ortner_okogq9.jpg"
+      },
+      {
+        "name": "Navid",
+        "surname": "Shahdi",
+        "position": "Head of AI and Big Data at",
+        "company": "Digikala.com",
+        "linkedUrl": "https://www.linkedin.com/in/shahdi",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627798819/datafest/speakers/Navid_Shahdi_urw80v.jpg"
       }
+      
     ]
   },
   "location": {
