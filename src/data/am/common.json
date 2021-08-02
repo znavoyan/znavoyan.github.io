@@ -41,6 +41,7 @@
     "title": "Մեր <span>Հովանավորները</span>",
     "generalSponsorsTitle": "Գլխավոր <span>Հովանավորները</span>",
     "sponsorsTitle": "<span>Հովանավորները</span>",
+    "siteSponsorsTitle": "<span>Կայքի Հովանավորները</span>",
     "seeAll": "Տեսնել ամբողջը",
     "text": "Շնորհակալ ենք Դատաֆեստ Երևան  2020-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
     "aboveText": "",
@@ -63,7 +64,8 @@
         "linkedUrl": "https://picsart.com/"
       }
     ],
-    "sponsorsList": []
+    "sponsorsList": [],
+    "siteSponsorsList": []
   },
   "agenda": {
     "btnText": "սեպտեմբերի 10-12",
@@ -132,7 +134,7 @@
         "linkedUrl": "https://www.linkedin.com/in/amazasp-shaumyan-9999a6138/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Amazasp_Shaumyan_fbgblp.jpg"
       },
-	  {
+      {
         "name": "Միխաիլ",
         "surname": "Բուրցև",
         "position": "Հիմնադիր և տնօրեն",
@@ -140,7 +142,7 @@
         "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Mikhail_Burtsev_ijonqf.jpg"
       },
-	  {
+      {
         "name": "Միխալ",
         "surname": "Վալկո",
         "position": "Հետազոտող գիտնական",
@@ -148,7 +150,7 @@
         "linkedUrl": "https://www.linkedin.com/in/michalvalko",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Michal_Valko_clcaja.jpg"
       },
-	  {
+      {
         "name": "Էդուարդ",
         "surname": "Օյալոն",
         "position": "CNRS հետազոտող",
@@ -156,7 +158,7 @@
         "linkedUrl": "https://edouardoyallon.github.io/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Edouard_Oyallon_h2i5zl.jpg"
       },
-	  {
+      {
         "name": "Գրիգորի",
         "surname": "Սապունով",
         "position": "Համահիմնադիր և տեխ. տնօրեն",
@@ -164,7 +166,7 @@
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Grigory_Sapunov_hejdil.jpg"
       },
-	  {
+      {
         "name": "Սեվակ",
         "surname": "Հարությունյան",
         "position": "Մեքենայական ուսուցման ինժեներ",
@@ -172,7 +174,7 @@
         "linkedUrl": "https://www.linkedin.com/in/sevak-harutyunyan",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Sevak_Harutyunyan_gb0b5s.jpg"
       },
-	  {
+      {
         "name": "Ստեփան",
         "surname": "Սարգսյան",
         "position": "Գլխավոր գիտաշխատող",

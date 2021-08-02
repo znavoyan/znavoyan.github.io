@@ -41,6 +41,7 @@
     "title": "Our <span>Sponsors</span>",
     "generalSponsorsTitle": "General <span>Sponsors</span>",
     "sponsorsTitle": "<span>Sponsors</span>",
+    "siteSponsorsTitle": "<span>Site Sponsors</span>",
     "seeAll": "See all",
     "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2020, whose support made this event possible",
     "aboveText": "",
@@ -63,7 +64,8 @@
         "linkedUrl": "https://picsart.com/"
       }
     ],
-    "sponsorsList": []
+    "sponsorsList": [],
+    "siteSponsorsList": []
   },
   "agenda": {
     "btnText": "september 10-12",
@@ -124,7 +126,7 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-	  {
+      {
         "name": "Amazasp",
         "surname": "Shaumyan",
         "position": "Principal Data Scientist at",
@@ -132,7 +134,7 @@
         "linkedUrl": "https://www.linkedin.com/in/amazasp-shaumyan-9999a6138/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Amazasp_Shaumyan_fbgblp.jpg"
       },
-	  {
+      {
         "name": "Mikhail",
         "surname": "Burtsev",
         "position": "Founder and Leader at",
@@ -140,7 +142,7 @@
         "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Mikhail_Burtsev_ijonqf.jpg"
       },
-	  {
+      {
         "name": "Michal",
         "surname": "Valko",
         "position": "Staff Research Scientist at",
@@ -148,7 +150,7 @@
         "linkedUrl": "https://www.linkedin.com/in/michalvalko",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Michal_Valko_clcaja.jpg"
       },
-	  {
+      {
         "name": "Edouard",
         "surname": "Oyallon",
         "position": "CNRS Researcher at",
@@ -156,7 +158,7 @@
         "linkedUrl": "https://edouardoyallon.github.io/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Edouard_Oyallon_h2i5zl.jpg"
       },
-	  {
+      {
         "name": "Grigory",
         "surname": "Sapunov",
         "position": "Co-founder and CTO at",
@@ -164,7 +166,7 @@
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Grigory_Sapunov_hejdil.jpg"
       },
-	  {
+      {
         "name": "Sevak",
         "surname": "Harutyunyan",
         "position": "Machine Learning Engineer at",
@@ -172,7 +174,7 @@
         "linkedUrl": "https://www.linkedin.com/in/sevak-harutyunyan",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881161/datafest/speakers/Sevak_Harutyunyan_gb0b5s.jpg"
       },
-	  {
+      {
         "name": "Stepan",
         "surname": "Sargsyan",
         "position": "Chief Scientist at",
@@ -228,7 +230,6 @@
         "linkedUrl": "https://www.linkedin.com/in/shahdi",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627798819/datafest/speakers/Navid_Shahdi_urw80v.jpg"
       }
-      
     ]
   },
   "location": {
