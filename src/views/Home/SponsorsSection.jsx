@@ -37,7 +37,7 @@ const SponsorsSection = () => {
                     <div className="space-25-height"></div>
                 </div>}
 
-                {!!sponsorsList.length && <div className="sponsors-icons">
+                {!!sponsorsList.length && <div className={`sponsors-icons ${styles["sponsors-icons"]}`}>
 
                     <h2 className="title big">
                         <div dangerouslySetInnerHTML={{ __html: t('sponsors.sponsorsTitle') }}></div>
@@ -58,7 +58,7 @@ const SponsorsSection = () => {
                     <div className="space-25-height"></div>
                 </div>}
 
-                {!!siteSponsorsList.length && <div className="sponsors-icons">
+                {!!siteSponsorsList.length && <div className={`sponsors-icons ${styles["sponsors-icons"]}`}>
 
                     <h2 className="title big">
                         <div dangerouslySetInnerHTML={{ __html: t('sponsors.siteSponsorsTitle') }}></div>
