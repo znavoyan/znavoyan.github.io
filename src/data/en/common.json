@@ -56,16 +56,22 @@
         "linkedUrl": "https://webbfontaine.com/"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
-        "linkedUrl": "https://www.simplytechnologies.net/"
-      },
-      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
         "linkedUrl": "https://picsart.com/"
       }
     ],
-    "sponsorsList": [],
-    "siteSponsorsList": []
+    "sponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
+        "linkedUrl": "https://www.vmware.com/"
+      }
+    ],
+    "siteSponsorsList": [
+     {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
+        "linkedUrl": "https://www.simplytechnologies.net/"
+      }
+    ]
   },
   "agenda": {
     "btnText": "september 10-12",
