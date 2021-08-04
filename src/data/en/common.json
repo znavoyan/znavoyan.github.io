@@ -39,7 +39,7 @@
   },
   "sponsors": {
     "title": "Our <span>Sponsors</span>",
-    "generalSponsorsTitle": "General <span>Sponsors</span>",
+    "generalSponsorsTitle": "<span>General Sponsors</span>",
     "sponsorsTitle": "<span>Sponsors</span>",
     "siteSponsorsTitle": "<span>Site Sponsors</span>",
     "seeAll": "See all",
@@ -49,27 +49,32 @@
     "generalSponsorsList": [
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
-        "linkedUrl": "https://krisp.ai/"
+        "linkedUrl": "https://krisp.ai/",
+        "width": "10.3em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
-        "linkedUrl": "https://webbfontaine.com/"
+        "linkedUrl": "https://webbfontaine.com/",
+        "width": "22.3em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
-        "linkedUrl": "https://picsart.com/"
+        "linkedUrl": "https://picsart.com/",
+        "width": "17.3em"
       }
     ],
     "sponsorsList": [
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
-        "linkedUrl": "https://www.vmware.com/"
+        "linkedUrl": "https://www.vmware.com/",
+        "width": "17.2em"
       }
     ],
     "siteSponsorsList": [
-     {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
-        "linkedUrl": "https://www.simplytechnologies.net/"
+        "linkedUrl": "https://www.simplytechnologies.net/",
+        "width": "24.3em"
       }
     ]
   },
@@ -99,7 +104,15 @@
   },
   "organisers": {
     "title": "Organisers",
+    "teamTitle": "DataFest Team",
     "organisersList": [
+      {
+        "imgUrl": "https://aua.am/wp-content/uploads/2018/06/aua-logo.png",
+        "linkedUrl": "https://aua.am/",
+        "width": "28em"
+      }
+    ],
+    "teamList": [
       {
         "name": "Arsen",
         "surname": "Yeghiazaryan",

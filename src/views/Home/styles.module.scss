@@ -90,14 +90,19 @@
             height: auto;
             width: 23em;
             margin: 0 10px;
+            justify-content: center;
         } 
 
         .sponsors-icons {
-            width: 70% !important;
+            // width: 70% !important;
+        }
+
+        span {
+            font-style: italic !important;
         }
   }
 
-  .organisers {
+  .team {
         .img-content {
             position: relative;
             .text {

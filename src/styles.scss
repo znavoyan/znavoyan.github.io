@@ -136,14 +136,28 @@ body {
     height: 25em;
     width: 25em;
   }
+
+  .img-content {
+    display: flex;
+    align-items: center;
+    height: auto;
+    width: 23em;
+    margin: 0 10px;
+    justify-content: center;
+  } 
+
+  .title {
+    font-style: italic !important;
+  }
 }
 
 .sponsors-columns {
   display: flex;
-  flex-wrap: wrap;
-  & > * {
-    flex: 0 0 23em;
-  }
+  justify-content: center;
+  // flex-wrap: wrap;
+  // & > * {
+  //   flex: 0 0 23em;
+  // }
 }
 
 img.icon-1 {
@@ -193,7 +207,6 @@ img.icon-5 {
   
   img {
     margin: 2.6em 5px;
-    height: 3.3em;
   }
 
 } 
@@ -595,6 +608,12 @@ img.icon-5 {
 }
 
 .organisers-images {
+  .logo {
+    margin-right: 23em;
+  }
+}
+
+.team-images {
   width: 80%;
   & > div {
     margin-bottom: 11em; 
@@ -779,7 +798,7 @@ img.icon-5 {
     }
   }
 
-  .organisers-images {
+  .team-images {
     flex-direction: column;
   }
 

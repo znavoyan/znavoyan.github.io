@@ -39,7 +39,7 @@
   },
   "sponsors": {
     "title": "Մեր <span>Հովանավորները</span>",
-    "generalSponsorsTitle": "Գլխավոր <span>Հովանավորները</span>",
+    "generalSponsorsTitle": "<span>Գլխավոր Հովանավորները</span>",
     "sponsorsTitle": "<span>Հովանավորները</span>",
     "siteSponsorsTitle": "<span>Կայքի Հովանավորները</span>",
     "seeAll": "Տեսնել ամբողջը",
@@ -48,24 +48,35 @@
     "bottomText": "",
     "generalSponsorsList": [
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
-        "linkedUrl": "https://webbfontaine.com/"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
-        "linkedUrl": "https://www.simplytechnologies.net/"
-      },
-      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
-        "linkedUrl": "https://krisp.ai/"
+        "linkedUrl": "https://krisp.ai/",
+        "width": "10.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
+        "linkedUrl": "https://webbfontaine.com/",
+        "width": "22.3em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
-        "linkedUrl": "https://picsart.com/"
+        "linkedUrl": "https://picsart.com/",
+        "width": "17.3em"
       }
     ],
-    "sponsorsList": [],
-    "siteSponsorsList": []
+    "sponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
+        "linkedUrl": "https://www.vmware.com/",
+        "width": "17.2em"
+      }
+    ],
+    "siteSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
+        "linkedUrl": "https://www.simplytechnologies.net/",
+        "width": "24.3em"
+      }
+    ]
   },
   "agenda": {
     "btnText": "սեպտեմբերի 10-12",
@@ -93,7 +104,15 @@
   },
   "organisers": {
     "title": "Կազմակերպիչներ",
+    "teamTitle": "Դատաֆեստ Թիմ",
     "organisersList": [
+      {
+        "imgUrl": "https://aua.am/wp-content/uploads/2018/06/aua-logo.png",
+        "linkedUrl": "https://aua.am/",
+        "width": "28em"
+      }
+    ],
+    "teamList": [
       {
         "name": "Արսեն",
         "surname": "Եղիազարյան",
