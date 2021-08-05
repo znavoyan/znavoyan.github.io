@@ -154,6 +154,7 @@ body {
 .sponsors-columns {
   display: flex;
   justify-content: center;
+  align-items: center;
   // flex-wrap: wrap;
   // & > * {
   //   flex: 0 0 23em;
@@ -610,11 +611,14 @@ img.icon-5 {
 .organisers-images {
   .logo {
     margin-right: 23em;
+    img {
+      width: 27em;
+    }
   }
 }
 
 .team-images {
-  width: 80%;
+  width: 70%;
   & > div {
     margin-bottom: 11em; 
     &:nth-child(odd){
@@ -626,8 +630,8 @@ img.icon-5 {
   }
 
   .rounded {
-    width: 20.3em;
-    height: 20.3em;
+    width: 15.3em;
+    height: 15.3em;
   }
 }
 
