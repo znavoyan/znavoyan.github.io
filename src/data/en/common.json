@@ -53,7 +53,7 @@
         "width": "10.3em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
         "linkedUrl": "https://webbfontaine.com/",
         "width": "22.3em"
       },
@@ -77,6 +77,11 @@
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
         "linkedUrl": "https://www.intelinair.com/",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628165152/datafest/sponsors/ST_Logo_Landscape_White_zr5y6w.png",
+        "linkedUrl": "https://www.servicetitan.com/",
         "width": "17.2em"
       }
     ],
