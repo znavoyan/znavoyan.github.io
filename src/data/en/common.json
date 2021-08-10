@@ -14,7 +14,8 @@
         "key": "agenda"
       }
     ],
-    "register": "Free Registration"
+    "register": "Free Registration",
+    "registerUrl": "https://forms.gle/LZviScoxDHaSB1TJ8"
   },
   "home": {
     "main": {

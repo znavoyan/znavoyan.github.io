@@ -19,7 +19,7 @@ const Header = ({ changeFooterHeight, ...props }) => {
     const [dropdownOpen, setDropdownOpen] = useState(false);
     const navbarItems = t('header.navbarItems', { returnObjects: true });
 
-    const registerUrl = "https://forms.gle/LZviScoxDHaSB1TJ8";
+    const registerUrl = t('header.registerUrl');
 
     const toggleMenu = () => {
         setOpenMenu(!openMenu);
