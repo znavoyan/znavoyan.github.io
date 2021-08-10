@@ -54,7 +54,7 @@
         "width": "10.3em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704549/datafest/sponsors/webbFontaine_v7fmbp.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
         "linkedUrl": "https://webbfontaine.com/",
         "width": "22.3em"
       },
@@ -78,6 +78,16 @@
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
         "linkedUrl": "https://www.intelinair.com/",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628165152/datafest/sponsors/ST_Logo_Landscape_White_zr5y6w.png",
+        "linkedUrl": "https://www.servicetitan.com/",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628243964/datafest/sponsors/envoy_logos_h0v281.png",
+        "linkedUrl": "https://www.envoymediagroup.com",
         "width": "17.2em"
       }
     ],
@@ -128,7 +138,7 @@
         "name": "Arsen",
         "surname": "Yeghiazaryan",
         "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639409/datafest/speakers/Arsen_Yeghiazaryan_pw5sno.jpg"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
       },
       {
         "name": "Hrant",
@@ -259,6 +269,14 @@
         "company": "Digikala.com",
         "linkedUrl": "https://www.linkedin.com/in/shahdi",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627798819/datafest/speakers/Navid_Shahdi_urw80v.jpg"
+      },
+      {
+        "name": "Davit",
+        "surname": "Abgaryan",
+        "position": "Senior Data Scientist at",
+        "company": "DISQO",
+        "linkedUrl": "https://www.linkedin.com/in/davitabgaryanphd",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628247339/datafest/speakers/Davit_Abgaryan_cecxew.jpg"
       }
     ]
   },
