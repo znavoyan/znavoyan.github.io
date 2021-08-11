@@ -59,8 +59,13 @@
         "width": "22.3em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704511/datafest/sponsors/picsart_hmeuwt.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
         "linkedUrl": "https://picsart.com/",
+        "width": "17.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692282/datafest/sponsors/ameria_white_vsbnxs.png",
+        "linkedUrl": "https://ameriabank.am/",
         "width": "17.3em"
       }
     ],
@@ -68,12 +73,7 @@
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
         "linkedUrl": "https://www.vmware.com/",
-        "width": "17.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628153108/datafest/sponsors/DISQO_Logo_AllWhite_roviyx.png",
-        "linkedUrl": "https://www.disqo.com/",
-        "width": "17.2em"
+        "width": "19.2em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
@@ -88,6 +88,11 @@
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628243964/datafest/sponsors/envoy_logos_h0v281.png",
         "linkedUrl": "https://www.envoymediagroup.com",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628153108/datafest/sponsors/DISQO_Logo_AllWhite_roviyx.png",
+        "linkedUrl": "https://www.disqo.com/",
         "width": "17.2em"
       }
     ],
