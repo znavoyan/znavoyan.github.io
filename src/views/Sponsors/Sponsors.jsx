@@ -68,7 +68,7 @@ const Sponsors = () => {
 
                     <div className="sponsors-columns">
                         {sponsorsList.map((sponsor, index) => {
-                            return (<div key={index}>
+                            return (<div key={index} className="img-content">
                                         <a href={sponsor.linkedUrl} className="underlined" target="_blank" rel="noopener noreferrer">
                                             <img src={sponsor.imgUrl} style={{width: sponsor.width}} className="icon-sponsor" alt="" />
                                         </a>
