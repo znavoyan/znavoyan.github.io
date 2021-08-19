@@ -298,6 +298,38 @@
         "company": "BetConstruct",
         "linkedUrl": "https://www.linkedin.com/in/khoren-petrosyan-02b409141",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629183596/datafest/speakers/Khoren_Petrosyan_wnpukc.jpg"
+      },
+      {
+        "name": "Tevos",
+        "surname": "Matevosyan",
+        "position": "Senior Datascientist at",
+        "company": "Philip Morris International",
+        "linkedUrl": "https://www.linkedin.com/in/tevos-matevosyan-828848146",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629355753/datafest/speakers/Tevos_Matevosyan_goc9k1.jpg"
+      },
+      {
+        "name": "Erekle",
+        "surname": "Magradze",
+        "position": "Lead Systems Engineer at",
+        "company": "EPAM Systems",
+        "linkedUrl": "https://www.linkedin.com/in/erekle-magradze-73303650/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629355661/datafest/speakers/Erekle_Magradze_ilyasu.jpg"
+      },
+      {
+        "name": "Stefan",
+        "surname": "Papp",
+        "position": "Co-Founder and Managing Director at",
+        "company": "Sophron Engineering",
+        "linkedUrl": "https://www.linkedin.com/in/stefanpapp",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639436/datafest/speakers/Stefan_Papp_fzs2ze.jpg"
+      },
+      {
+        "name": "Nikita",
+        "surname": "Orlov",
+        "position": "Team Leader at",
+        "company": "PicsArt",
+        "linkedUrl": "https://www.linkedin.com/in/nukich74",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629355650/datafest/speakers/Nikita_Orlov_mr0vjs.jpg"
       }
     ]
   },
