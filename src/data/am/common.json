@@ -298,7 +298,39 @@
         "company": "BetConstruct",
         "linkedUrl": "https://www.linkedin.com/in/khoren-petrosyan-02b409141",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629183596/datafest/speakers/Khoren_Petrosyan_wnpukc.jpg"
-      }
+      },
+      {
+        "name": "Թևոս",
+        "surname": "Մաթևոսյան",
+        "position": "Ավագ տվյալագետ",
+        "company": "Philip Morris International",
+        "linkedUrl": "https://www.linkedin.com/in/tevos-matevosyan-828848146",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629355753/datafest/speakers/Tevos_Matevosyan_goc9k1.jpg"
+      },
+      {
+        "name": "Էրեկլե",
+        "surname": "Մագրազձե",
+        "position": "Համակարգերի առաջատար ինժեներ",
+        "company": "EPAM Systems",
+        "linkedUrl": "https://www.linkedin.com/in/erekle-magradze-73303650/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629355661/datafest/speakers/Erekle_Magradze_ilyasu.jpg"
+      },
+      {
+        "name": "Ստեֆան",
+        "surname": "Պապպ",
+        "position": "Հիմնադիր և տնօրեն",
+        "company": "Sophron Engineering",
+        "linkedUrl": "https://www.linkedin.com/in/stefanpapp",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639436/datafest/speakers/Stefan_Papp_fzs2ze.jpg"
+      },
+      {
+        "name": "Նիկիտա",
+        "surname": "Օրլով",
+        "position": "Թիմի ղեկավար",
+        "company": "PicsArt",
+        "linkedUrl": "https://www.linkedin.com/in/nukich74",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1629355650/datafest/speakers/Nikita_Orlov_mr0vjs.jpg"
+      }   
     ]
   },
   "location": {
