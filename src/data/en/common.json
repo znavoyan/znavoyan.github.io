@@ -346,6 +346,14 @@
         "company": "Picsart",
         "linkedUrl": "https://www.linkedin.com/in/victoria-muradyan-772a21218",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630055994/datafest/speakers/Victoria_Muradyan_xuo0d3.jpg"
+      },
+      {
+        "name": "Ruben",
+        "surname": "Hasratyan",
+        "position": "Senior ML Engineer II at",
+        "company": "Krisp",
+        "linkedUrl": "https://www.linkedin.com/in/rubenhasratyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630392631/datafest/speakers/Ruben_Hasratyan_ibzg1x.jpg"
       }
     ]
   },
