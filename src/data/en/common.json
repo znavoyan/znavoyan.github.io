@@ -133,12 +133,12 @@
           {
             "time": "11:00-11:30",
             "title": "[Big Hall] Karen Hambardzumyan ",
-            "key": "Prompt is all you need"
+            "text": "Prompt is all you need"
           },
           {
             "time": "11:00-11:30",
             "title": "[113W] Stepan Sargsyan ",
-            "key": "Speech enhancement in challenging conditions"
+            "text": "Speech enhancement in challenging conditions"
           },
           {
             "time": "11:30-12:00",
@@ -219,12 +219,12 @@
           {
             "time": "11:00-11:30",
             "title": "[Big Hall] Razmik Melikbekyan ",
-            "key": "Real-world applications of machine learning in agriculture"
+            "text": "Real-world applications of machine learning in agriculture"
           },
           {
             "time": "11:00-11:30",
             "title": "[113W] Bernhard Ortner ",
-            "key": "Digital Infrastructure Twin"
+            "text": "Digital Infrastructure Twin"
           },
           {
             "time": "11:30-12:00",
