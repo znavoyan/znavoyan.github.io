@@ -110,10 +110,10 @@
     ]
   },
   "agenda": {
-    "btnText": "september 10-12",
+    "btnText": "september 10-11",
     "title": "Our <span>Agenda</span>",
     "yerevanTime": "All times are in Yerevan time (UTC+4)",
-    "text": "DataFest Yerevan 2021 will be held on September 10, 11. The talks and additional info will be also posted in conference’s Slack",
+    "text": "DataFest Yerevan 2021 will be held on September 10, 11.",
     "aboveText": "",
     "bottomText": "",
     "days": [
