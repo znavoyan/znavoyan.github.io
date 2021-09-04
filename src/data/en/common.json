@@ -121,15 +121,66 @@
         "date": "september 10",
         "agendaList": [
           {
-            "time": "9:55-10:00",
-            "title": "Opening",
-            "key": "opening"
+            "time": "9:00-10:00",
+            "title": "Registration",
+            "key": "Registration"
           },
           {
             "time": "10:00-11:00",
-            "title": "Grigory Sapunov, Transformers in 2021",
+            "title": "Grigory Sapunov. Transformers in 2021.",
             "key": "Transformers in 2021"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "Karen Hambardzumyan. Prompt is all you need.",
+            "key": ""
+          },
+          {
+            "time": "11:30-12:00",
+            "title": "Coffee break.",
+            "key": ""
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "Edouard Oyallon. Asynchronous Decoupled Training of CNNs.",
+            "key": ""
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "Ruben Hasratyan. Visual emotion recognition.",
+            "key": ""
+          },
+          {
+            "time": "13:00-14:30",
+            "title": "Lunch.",
+            "key": ""
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "Nikita Orlov. AI Fonts.",
+            "key": ""
+          },
+          {
+            "time": "15:00-15:30",
+            "title": "Stefan Papp. Sustainability - The next big thing in AI?",
+            "key": ""
+          },
+          {
+            "time": "15:30-16:00",
+            "title": "Coffee break.",
+            "key": ""
+          },
+          {
+            "time": "16:00-16:30",
+            "title": "Navid Shahdi. Digikala Big Data platform: the current state and the journey.",
+            "key": ""
+          },
+          {
+            "time": "16:30-17:00",
+            "title": "Khoren Petrosyan. How to Build an AI Agent That Plays Poker.",
+            "key": ""
           }
+          
         ]
       },
       {
