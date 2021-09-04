@@ -113,7 +113,7 @@
     "btnText": "սեպտեմբերի 10-11",
     "title": "Մեր <span>Օրակարգը</span>",
     "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
-    "text": "ԴատաՖեստ Երևան 2021-ը տեղի կունենա Սեպտեմբերի 10-ին և 11-ին",
+    "text": "ԴատաՖեստ Երևան 2021-ը տեղի կունենա սեպտեմբերի 10-ին և 11-ին",
     "aboveText": "",
     "bottomText": "",
     "days": [
@@ -370,7 +370,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Grigory_Sapunov_hejdil.jpg"
       },
       {
-        "name": "Սեվակ",
+        "name": "Սևակ",
         "surname": "Հարությունյան",
         "position": "Մեքենայական ուսուցման ինժեներ",
         "company": "Webb Fontaine",
