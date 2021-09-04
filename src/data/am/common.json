@@ -121,15 +121,168 @@
         "date": "սեպտեմբերի 10",
         "agendaList": [
           {
-            "time": "9:55-10:00",
-            "title": "Բացում",
+            "time": "9:00-10:00",
+            "title": "Գրանցում",
             "key": "opening"
+          },
+          {
+            "time": "10:00-11:00",
+            "title": "[Big Hall] Գրիգորի Սապունով ",
+            "text": "Transformers in 2021"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[Big Hall] Կարեն Համբարձումյան ",
+            "text": "Prompt is all you need"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[113W] Ստեփան Սարգսյան ",
+            "text": "Speech enhancement in challenging conditions"
+          },
+          {
+            "time": "11:30-12:00",
+            "title": "Սրճի ընդմիջում",
+            "key": "break"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[Big Hall] Էդուարդ Օյալոն ",
+            "text": "Asynchronous Decoupled Training of CNNs"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[113W] Լիլիթ Զարգարյան ",
+            "text": "Template for an entire MLOps journey"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[Big Hall] Ռուբեն Հասրաթյան ",
+            "text": "Visual emotion recognition"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[113W] Սևակ Հարությունյան ",
+            "text": "Model Serving as a RESTful Web API: The Complete Reference"
+          },
+          {
+            "time": "13:00-14:30",
+            "title": "Ճաշի ընդմիջում",
+            "key": "break"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[Big Hall] Նիկիտա Օրլով ",
+            "text": "AI Fonts"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[113W] Վահան Պետրոսյան ",
+            "text": "Tools to share datasets and find imperfect data in computer vision"
+          },
+          {
+            "time": "15:00-15:30",
+            "title": "[Big Hall] Ստեֆան Պապպ ",
+            "text": "Sustainability - The next big thing in AI?"
+          },
+          {
+            "time": "15:30-16:00",
+            "title": "Սրճի ընդմիջում",
+            "key": "break"
+          },
+          {
+            "time": "16:00-16:30",
+            "title": "[Big Hall] Նավիդ Շահդի ",
+            "text": "Digikala Big Data platform: the current state and the journey"
+          },
+          {
+            "time": "16:30-17:00",
+            "title": "[Big Hall] Խորեն Պետրոսյան ",
+            "text": "How to Build an AI Agent That Plays Poker"
           }
+          
         ]
       },
       {
         "date": "սեպտեմբերի 11",
-        "agendaList": []
+        "agendaList": [
+          {
+            "time": "9:00-10:00",
+            "title": "Գրանցում",
+            "key": "opening"
+          },
+          {
+            "time": "10:00-11:00",
+            "title": "[Big Hall] Միխալ Վալկո ",
+            "text": "Bootstrap Your Own Latent: A new approach to self-supervised learning"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[Big Hall] Ռազմիկ Մելիքբեկյան ",
+            "text": "Real-world applications of machine learning in agriculture"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[113W] Բերնհարդ Օրտներ ",
+            "text": "Digital Infrastructure Twin"
+          },
+          {
+            "time": "11:30-12:00",
+            "title": "Սրճի ընդմիջում",
+            "key": "break"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[Big Hall] Միխայիլ Բուրցև ",
+            "text": "Conversational AI with DeepPavlov"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[113W] Վիկտորիա Մուրադյան ",
+            "text": "3D Scene Representation and View Synthesis"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[Big Hall] Զարուհի Նավասարդյան ",
+            "text": "Few-shot learning in practice: categorizing websites into industries based on textual content"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[113W] Թևոս Մաթևոսյան ",
+            "text": "Rules extraction algorithms as link between the business and ML"
+          },
+          {
+            "time": "13:00-14:30",
+            "title": "Ճաշի ընդմիջում",
+            "key": "break"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[Big Hall] Մանվել Ավետիսյան ",
+            "text": "Sber AI Lab vs. COVID-19: Solutions to fight the pandemic"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[113W] Լևան Ծինաձե ",
+            "text": "Projections of multidimensional relations for self-supervised representation learning with multi-augmentation"
+          },
+          {
+            "time": "15:00-15:30",
+            "title": "[Big Hall] Էրեկլե Մագրադձե ",
+            "text": "Overview of Time Series Forecasting Techniques"
+          },
+          {
+            "time": "15:30-16:00",
+            "title": "[Big Hall] Դավիթ Աբգարյան ",
+            "text": "Recommendation Systems in Market Research"
+          },
+          {
+            "time": "16:00-16:30",
+            "title": "[Big Hall] Փակում + զրույցներ ",
+            "key": "break"
+          }
+          
+        ]
       }
     ]
   },
@@ -185,7 +338,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Amazasp_Shaumyan_fbgblp.jpg"
       },
       {
-        "name": "Միխաիլ",
+        "name": "Միխայիլ",
         "surname": "Բուրցև",
         "position": "Հիմնադիր և ղեկավար DeepPavlov.ai, Գիտական տնօրեն",
         "company": "AIRI",
@@ -314,7 +467,7 @@
       },
       {
         "name": "Էրեկլե",
-        "surname": "Մագրազձե",
+        "surname": "Մագրադձե",
         "position": "Համակարգերի առաջատար ինժեներ",
         "company": "EPAM Systems",
         "linkedUrl": "https://www.linkedin.com/in/erekle-magradze-73303650/",
