@@ -120,6 +120,11 @@
       {
         "date": "september 10",
         "agendaList": [
+           {
+            "time": "",
+            "title": "Big Hall",
+            "key": ""
+          },
           {
             "time": "9:00-10:00",
             "title": "Registration",
