@@ -120,70 +120,85 @@
       {
         "date": "september 10",
         "agendaList": [
-           {
-            "time": "",
-            "title": "Big Hall",
-            "key": "break"
-          },
           {
             "time": "9:00-10:00",
-            "title": "Registration.",
+            "title": "Registration",
             "key": "opening"
           },
           {
             "time": "10:00-11:00",
-            "title": "Grigory Sapunov,",
-            "text": "Transformers in 2021."
+            "title": "[Big Hall] Grigory Sapunov ",
+            "text": "Transformers in 2021"
           },
           {
             "time": "11:00-11:30",
-            "title": "Karen Hambardzumyan. Prompt is all you need.",
-            "key": ""
+            "title": "[Big Hall] Karen Hambardzumyan ",
+            "key": "Prompt is all you need"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[113W] Stepan Sargsyan ",
+            "key": "Speech enhancement in challenging conditions"
           },
           {
             "time": "11:30-12:00",
-            "title": "Coffee break.",
-            "key": ""
+            "title": "Coffee break",
+            "key": "break"
           },
           {
             "time": "12:00-12:30",
-            "title": "Edouard Oyallon. Asynchronous Decoupled Training of CNNs.",
-            "key": ""
+            "title": "[Big Hall] Edouard Oyallon ",
+            "text": "Asynchronous Decoupled Training of CNNs"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[113W] Lilit Zargaryan ",
+            "text": "Template for an entire MLOps journey"
           },
           {
             "time": "12:30-13:00",
-            "title": "Ruben Hasratyan. Visual emotion recognition.",
-            "key": ""
+            "title": "[Big Hall] Ruben Hasratyan ",
+            "text": "Visual emotion recognition"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[113W] Sevak Harutyunyan ",
+            "text": "Model Serving as a RESTful Web API: The Complete Reference"
           },
           {
             "time": "13:00-14:30",
-            "title": "Lunch.",
-            "key": ""
+            "title": "Lunch",
+            "key": "break"
           },
           {
             "time": "14:30-15:00",
-            "title": "Nikita Orlov. AI Fonts.",
-            "key": ""
+            "title": "[Big Hall] Nikita Orlov ",
+            "text": "AI Fonts"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[113W] Vahan Petrosyan ",
+            "text": "Tools to share datasets and find imperfect data in computer vision"
           },
           {
             "time": "15:00-15:30",
-            "title": "Stefan Papp. Sustainability - The next big thing in AI?",
-            "key": ""
+            "title": "[Big Hall] Stefan Papp ",
+            "text": "Sustainability - The next big thing in AI?"
           },
           {
             "time": "15:30-16:00",
-            "title": "Coffee break.",
-            "key": ""
+            "title": "Coffee break",
+            "key": "break"
           },
           {
             "time": "16:00-16:30",
-            "title": "Navid Shahdi. Digikala Big Data platform: the current state and the journey.",
-            "key": ""
+            "title": "[Big Hall] Navid Shahdi ",
+            "title": "Digikala Big Data platform: the current state and the journey"
           },
           {
             "time": "16:30-17:00",
-            "title": "Khoren Petrosyan. How to Build an AI Agent That Plays Poker.",
-            "key": ""
+            "title": "[Big Hall] Khoren Petrosyan ",
+            "key": "How to Build an AI Agent That Plays Poker"
           }
           
         ]
