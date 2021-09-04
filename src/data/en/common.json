@@ -124,6 +124,11 @@
             "time": "9:55-10:00",
             "title": "Opening",
             "key": "opening"
+          },
+          {
+            "time": "10:00-11:00",
+            "title": "Grigory Sapunov, Transformers in 2021",
+            "key": "Transformers in 2021"
           }
         ]
       },
@@ -359,6 +364,14 @@
         "company": "Krisp",
         "linkedUrl": "https://www.linkedin.com/in/rubenhasratyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630392631/datafest/speakers/Ruben_Hasratyan_ibzg1x.jpg"
+      },
+      {
+        "name": "Razmik",
+        "surname": "Melikbekyan",
+        "position": "Senior Data Scientist at",
+        "company": "IntelinAir",
+        "linkedUrl": "https://www.linkedin.com/in/razmik-melikbekyan-56754514a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630755791/datafest/speakers/Razmik_Melikbekyan_fofb4f.jpg"
       }
     ]
   },
