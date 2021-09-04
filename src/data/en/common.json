@@ -123,17 +123,17 @@
            {
             "time": "",
             "title": "Big Hall",
-            "key": ""
+            "key": "break"
           },
           {
             "time": "9:00-10:00",
             "title": "Registration.",
-            "key": "Registration."
+            "key": "opening"
           },
           {
             "time": "10:00-11:00",
-            "title": "Grigory Sapunov. Transformers in 2021.",
-            "key": "Transformers in 2021"
+            "title": "Grigory Sapunov,",
+            "text": "Transformers in 2021."
           },
           {
             "time": "11:00-11:30",
