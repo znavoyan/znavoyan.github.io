@@ -193,19 +193,96 @@
           {
             "time": "16:00-16:30",
             "title": "[Big Hall] Navid Shahdi ",
-            "title": "Digikala Big Data platform: the current state and the journey"
+            "text": "Digikala Big Data platform: the current state and the journey"
           },
           {
             "time": "16:30-17:00",
             "title": "[Big Hall] Khoren Petrosyan ",
-            "key": "How to Build an AI Agent That Plays Poker"
+            "text": "How to Build an AI Agent That Plays Poker"
           }
           
         ]
       },
       {
         "date": "september 11",
-        "agendaList": []
+        "agendaList": [
+          {
+            "time": "9:00-10:00",
+            "title": "Registration",
+            "key": "opening"
+          },
+          {
+            "time": "10:00-11:00",
+            "title": "[Big Hall] Michal Valko ",
+            "text": "Bootstrap Your Own Latent: A new approach to self-supervised learning"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[Big Hall] Razmik Melikbekyan ",
+            "key": "Real-world applications of machine learning in agriculture"
+          },
+          {
+            "time": "11:00-11:30",
+            "title": "[113W] Bernhard Ortner ",
+            "key": "Digital Infrastructure Twin"
+          },
+          {
+            "time": "11:30-12:00",
+            "title": "Coffee break",
+            "key": "break"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[Big Hall] Mikhail Burtsev ",
+            "text": "Conversational AI with DeepPavlov"
+          },
+          {
+            "time": "12:00-12:30",
+            "title": "[113W] Victoria Muradyan ",
+            "text": "3D Scene Representation and View Synthesis"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[Big Hall] Zaruhi Navasardyan ",
+            "text": "Few-shot learning in practice: categorizing websites into industries based on textual content"
+          },
+          {
+            "time": "12:30-13:00",
+            "title": "[113W] Tevos Matevosyan ",
+            "text": "Rules extraction algorithms as link between the business and ML"
+          },
+          {
+            "time": "13:00-14:30",
+            "title": "Lunch",
+            "key": "break"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[Big Hall] Manvel Avetisyan ",
+            "text": "Sber AI Lab vs. COVID-19: Solutions to fight the pandemic"
+          },
+          {
+            "time": "14:30-15:00",
+            "title": "[113W] Levan Tsinadze ",
+            "text": "Projections of multidimensional relations for self-supervised representation learning with multi-augmentation"
+          },
+          {
+            "time": "15:00-15:30",
+            "title": "[Big Hall] Erekle Magradze ",
+            "text": "Overview of Time Series Forecasting Techniques"
+          },
+          {
+            "time": "15:30-16:00",
+            "title": "[Big Hall] Davit Abgaryan",
+            "text": "Recommendation Systems in Market Research"
+          },
+          {
+            "time": "16:00-16:30",
+            "title": "[Big Hall] ",
+            "key": "Closing + Networking"
+          }
+          
+        ]
       }
     ]
   },
