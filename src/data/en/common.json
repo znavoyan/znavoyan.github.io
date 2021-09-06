@@ -329,15 +329,7 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-      {
-        "name": "Amazasp",
-        "surname": "Shaumyan",
-        "position": "Senior Manager, Machine Learning at",
-        "company": "OpenTable",
-        "linkedUrl": "https://www.linkedin.com/in/amazasp-shaumyan-9999a6138/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1626881162/datafest/speakers/Amazasp_Shaumyan_fbgblp.jpg"
-      },
-      {
+     {
         "name": "Mikhail",
         "surname": "Burtsev",
         "position": "Founder and Leader at DeepPavlov.ai, Scientific Director at",
