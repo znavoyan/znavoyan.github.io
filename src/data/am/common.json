@@ -163,7 +163,7 @@
           {
             "time": "12:30-13:00",
             "title": "[113W] Սևակ Հարությունյան ",
-            "text": "Model Serving as a RESTful Web API: The Complete Reference"
+            "text": "Model Serving as a RESTful API: The Complete Reference"
           },
           {
             "time": "13:00-14:30",
@@ -278,8 +278,13 @@
           },
           {
             "time": "16:00-16:30",
-            "title": "[Big Hall] Փակում + զրույցներ ",
+            "title": "[Big Hall] Փակում",
             "key": "break"
+          },
+          {
+            "time": "20:00-23:00",
+            "title": "Հետխնջույք :) [վայրը լրացուցիչ կհայտարարվի]",
+            "key": "opening"
           }
           
         ]
