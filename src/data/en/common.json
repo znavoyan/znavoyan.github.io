@@ -163,7 +163,7 @@
           {
             "time": "12:30-13:00",
             "title": "[113W] Sevak Harutyunyan ",
-            "text": "Model Serving as a RESTful Web API: The Complete Reference"
+            "text": "Model Serving as a RESTful API: The Complete Reference"
           },
           {
             "time": "13:00-14:30",
@@ -280,8 +280,12 @@
             "time": "16:00-16:30",
             "title": "[Big Hall] Closing + Networking ",
             "key": "break"
+          },
+          {
+            "time": "20:00-23:00",
+            "title": "Afterparty :) [the location will be announced later]",
+            "key": "opening"
           }
-          
         ]
       }
     ]
