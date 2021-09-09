@@ -213,12 +213,12 @@
           },
           {
             "time": "10:00-11:00",
-            "title": "[Big Hall] Միխալ Վալկո ",
+            "title": "[Manoogian Hall] Միխալ Վալկո ",
             "text": "Bootstrap Your Own Latent: A new approach to self-supervised learning"
           },
           {
             "time": "11:00-11:30",
-            "title": "[Big Hall] Ռազմիկ Մելիքբեկյան ",
+            "title": "[Manoogian Hall] Ռազմիկ Մելիքբեկյան ",
             "text": "Real-world applications of machine learning in agriculture"
           },
           {
@@ -233,7 +233,7 @@
           },
           {
             "time": "12:00-12:30",
-            "title": "[Big Hall] Միխայիլ Բուրցև ",
+            "title": "[Manoogian Hall] Միխայիլ Բուրցև ",
             "text": "Conversational AI with DeepPavlov"
           },
           {
@@ -243,7 +243,7 @@
           },
           {
             "time": "12:30-13:00",
-            "title": "[Big Hall] Զարուհի Նավասարդյան ",
+            "title": "[Manoogian Hall] Զարուհի Նավասարդյան ",
             "text": "Few-shot learning in practice: categorizing websites into industries based on textual content"
           },
           {
@@ -258,7 +258,7 @@
           },
           {
             "time": "14:30-15:00",
-            "title": "[Big Hall] Մանվել Ավետիսյան ",
+            "title": "[Manoogian Hall] Մանվել Ավետիսյան ",
             "text": "Sber AI Lab vs. COVID-19: Solutions to fight the pandemic"
           },
           {
@@ -268,17 +268,17 @@
           },
           {
             "time": "15:00-15:30",
-            "title": "[Big Hall] Էրեկլե Մագրադձե ",
+            "title": "[Manoogian Hall] Էրեկլե Մագրադձե ",
             "text": "Overview of Time Series Forecasting Techniques"
           },
           {
             "time": "15:30-16:00",
-            "title": "[Big Hall] Դավիթ Աբգարյան ",
+            "title": "[Manoogian Hall] Դավիթ Աբգարյան ",
             "text": "Recommendation Systems in Market Research"
           },
           {
             "time": "16:00-16:30",
-            "title": "[Big Hall] Փակում",
+            "title": "[Manoogian Hall] Փակում",
             "key": "break"
           },
           {
@@ -298,7 +298,7 @@
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692014/datafest/sponsors/AUA-WHITE_l9j8mf.png",
         "linkedUrl": "https://aua.am/",
-        "width": "18em"
+        "width": "50em"
       }
     ],
     "teamList": [
