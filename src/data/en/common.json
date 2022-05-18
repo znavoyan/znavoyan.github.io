@@ -127,12 +127,12 @@
           },
           {
             "time": "10:00-11:00",
-            "title": "[Big Hall] Grigory Sapunov ",
+            "title": "[Manoogian Hall] Grigory Sapunov ",
             "text": "Transformers in 2021"
           },
           {
             "time": "11:00-11:30",
-            "title": "[Big Hall] Karen Hambardzumyan ",
+            "title": "[Manoogian Hall] Karen Hambardzumyan ",
             "text": "Prompt is all you need"
           },
           {
@@ -147,7 +147,7 @@
           },
           {
             "time": "12:00-12:30",
-            "title": "[Big Hall] Edouard Oyallon ",
+            "title": "[Manoogian Hall] Edouard Oyallon ",
             "text": "Asynchronous Decoupled Training of CNNs"
           },
           {
@@ -157,7 +157,7 @@
           },
           {
             "time": "12:30-13:00",
-            "title": "[Big Hall] Ruben Hasratyan ",
+            "title": "[Manoogian Hall] Ruben Hasratyan ",
             "text": "Visual emotion recognition"
           },
           {
@@ -172,7 +172,7 @@
           },
           {
             "time": "14:30-15:00",
-            "title": "[Big Hall] Nikita Orlov ",
+            "title": "[Manoogian Hall] Nikita Orlov ",
             "text": "AI Fonts"
           },
           {
@@ -182,7 +182,7 @@
           },
           {
             "time": "15:00-15:30",
-            "title": "[Big Hall] Stefan Papp ",
+            "title": "[Manoogian Hall] Stefan Papp ",
             "text": "Sustainability - The next big thing in AI?"
           },
           {
@@ -192,12 +192,12 @@
           },
           {
             "time": "16:00-16:30",
-            "title": "[Big Hall] Navid Shahdi ",
+            "title": "[Manoogian Hall] Navid Shahdi ",
             "text": "Digikala Big Data platform: the current state and the journey"
           },
           {
             "time": "16:30-17:00",
-            "title": "[Big Hall] Khoren Petrosyan ",
+            "title": "[Manoogian Hall] Khoren Petrosyan ",
             "text": "How to Build an AI Agent That Plays Poker"
           }
           
@@ -213,12 +213,12 @@
           },
           {
             "time": "10:00-11:00",
-            "title": "[Big Hall] Michal Valko ",
+            "title": "[Manoogian Hall] Michal Valko ",
             "text": "Bootstrap Your Own Latent: A new approach to self-supervised learning"
           },
           {
             "time": "11:00-11:30",
-            "title": "[Big Hall] Razmik Melikbekyan ",
+            "title": "[Manoogian Hall] Razmik Melikbekyan ",
             "text": "Real-world applications of machine learning in agriculture"
           },
           {
@@ -233,7 +233,7 @@
           },
           {
             "time": "12:00-12:30",
-            "title": "[Big Hall] Mikhail Burtsev ",
+            "title": "[Manoogian Hall] Mikhail Burtsev ",
             "text": "Conversational AI with DeepPavlov"
           },
           {
@@ -243,7 +243,7 @@
           },
           {
             "time": "12:30-13:00",
-            "title": "[Big Hall] Zaruhi Navasardyan ",
+            "title": "[Manoogian Hall] Zaruhi Navasardyan ",
             "text": "Few-shot learning in practice: categorizing websites into industries based on textual content"
           },
           {
@@ -258,7 +258,7 @@
           },
           {
             "time": "14:30-15:00",
-            "title": "[Big Hall] Manvel Avetisyan ",
+            "title": "[Manoogian Hall] Manvel Avetisyan ",
             "text": "Sber AI Lab vs. COVID-19: Solutions to fight the pandemic"
           },
           {
@@ -268,22 +268,22 @@
           },
           {
             "time": "15:00-15:30",
-            "title": "[Big Hall] Erekle Magradze ",
+            "title": "[Manoogian Hall] Erekle Magradze ",
             "text": "Overview of Time Series Forecasting Techniques"
           },
           {
             "time": "15:30-16:00",
-            "title": "[Big Hall] Davit Abgaryan ",
+            "title": "[Manoogian Hall] Davit Abgaryan ",
             "text": "Recommendation Systems in Market Research"
           },
           {
             "time": "16:00-16:30",
-            "title": "[Big Hall] Closing + Networking ",
+            "title": "[Manoogian Hall] Closing + Networking ",
             "key": "break"
           },
           {
             "time": "20:00-23:00",
-            "title": "Afterparty :) [the location will be announced later]",
+            "title": "Afterparty @ Cloud7 Rooftop Bar, 7th Floor, Holiday Inn Republic Square Hotel.",
             "key": "opening"
           }
         ]
@@ -295,9 +295,9 @@
     "teamTitle": "DataFest Team",
     "organisersList": [
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628077456/datafest/sponsors/AUA__ACSE__SM_2_mqi375.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692014/datafest/sponsors/AUA-WHITE_l9j8mf.png",
         "linkedUrl": "https://aua.am/",
-        "width": "18em"
+        "width": "50em"
       }
     ],
     "teamList": [
