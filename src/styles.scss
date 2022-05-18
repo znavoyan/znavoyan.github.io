@@ -136,14 +136,30 @@ body {
     height: 25em;
     width: 25em;
   }
+
+  .img-content {
+    display: flex;
+    align-items: center;
+    height: auto;
+    width: 23em;
+    margin: 0 10px;
+    justify-content: center;
+  } 
+
+  .title {
+    font-style: italic !important;
+  }
 }
 
 .sponsors-columns {
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
-  & > * {
-    flex: 0 0 23em;
-  }
+  // flex-wrap: wrap;
+  // & > * {
+  //   flex: 0 0 23em;
+  // }
 }
 
 img.icon-1 {
@@ -193,7 +209,6 @@ img.icon-5 {
   
   img {
     margin: 2.6em 5px;
-    height: 3.3em;
   }
 
 } 
@@ -595,7 +610,16 @@ img.icon-5 {
 }
 
 .organisers-images {
-  width: 80%;
+  .logo {
+    margin-right: 23em;
+    img {
+      width: 27em;
+    }
+  }
+}
+
+.team-images {
+  width: 70%;
   & > div {
     margin-bottom: 11em; 
     &:nth-child(odd){
@@ -607,8 +631,8 @@ img.icon-5 {
   }
 
   .rounded {
-    width: 20.3em;
-    height: 20.3em;
+    width: 15.3em;
+    height: 15.3em;
   }
 }
 
@@ -779,7 +803,7 @@ img.icon-5 {
     }
   }
 
-  .organisers-images {
+  .team-images {
     flex-direction: column;
   }
 
@@ -811,11 +835,6 @@ img.icon-5 {
 
     .flex {
       flex-direction: column;
-    }
-  
-    img {
-      margin-top: 2.5em;
-      height: 5em !important;
     }
   
   } 

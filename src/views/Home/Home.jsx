@@ -15,6 +15,7 @@ import styles from './styles.module.scss';
 const Home = () => {
 
     const { t } = useTranslation('common');
+    const registerUrl = t('header.registerUrl');
 
     const aboutBlock = useRef(null);
 
@@ -37,7 +38,7 @@ const Home = () => {
                             <div className="space-20-height"></div>
                             <div className="btn register">
                                 <div className="btn-cover blue-btn-cover"></div>
-                                <a href="https://forms.gle/LZviScoxDHaSB1TJ8" target="_blank" rel="noopener noreferrer"><button className="blue">{t('home.main.register')}</button></a>
+                                <a href={registerUrl} target="_blank" rel="noopener noreferrer"><button className="blue">{t('home.main.register')}</button></a>
                             </div>
                         </div>
                         <img src={homeFrame} className="main" alt="" />
