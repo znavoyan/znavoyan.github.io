@@ -7,7 +7,7 @@ import { saveState, loadState, removeState } from "../../localStorage/localStora
 import logo from "../../logo.svg";
 import styles from "./styles.module.scss";
 
-const Header = ({ changeFooterHeight, ...props }) => {
+const Header = ({ changeFooterHeight, year, ...props }) => {
 
     const { t, i18n } = useTranslation('common');
     const languages = ['en', 'am'];
@@ -78,7 +78,7 @@ const Header = ({ changeFooterHeight, ...props }) => {
                     <ul className={classnames({ [styles["active"]]: openMenu })}>
                         {navbarItems.map((value, index) => {
                             return <li className={styles["link"]} key={index}>
-                                        <NavLink to={`/${value.key}`} activeClassName={styles["active"]} onClick={() => onLinkClick(`/${value}`)}>{value.name}</NavLink>
+                                        <NavLink to={`/${year}/${value.key}`} activeClassName={styles["active"]} onClick={() => onLinkClick(`/${value}`)}>{value.name}</NavLink>
                                     </li>
                         })}
                     </ul>
