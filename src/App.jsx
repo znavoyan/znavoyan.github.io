@@ -45,9 +45,9 @@ function App(props) {
 
     if (!currentPathName) {
       
-      const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
-      console.log('getCurrenturl',pathArray[1]);
-      window.history.pushState({}, null, getCurrenturl);
+      // const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
+      // console.log('getCurrenturl',pathArray[1]);
+      // window.history.pushState({}, null, getCurrenturl);
     }
 
     changeFooterHeight(currentPathName);
