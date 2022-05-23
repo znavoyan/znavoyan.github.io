@@ -40,7 +40,7 @@ function App(props) {
   useEffect(() => {
     const pageUrl = window.location.href;
     const currentPathName = pageUrl.substr(pageUrl.lastIndexOf('/') + 1);
-    console.log('currentPathName', pageUrl.lastIndexOf('/'));
+    console.log('currentPathName','Finally');
     const pathArray = window.location.pathname.split('/');
 
     if (!currentPathName) {
