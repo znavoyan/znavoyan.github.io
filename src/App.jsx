@@ -39,10 +39,10 @@ function App(props) {
     const currentPathName = pageUrl.substr(pageUrl.lastIndexOf('/') + 1);
     const pathArray = window.location.pathname.split('/');
 
-    if (!currentPathName) {
-      const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
-      window.history.pushState({}, null, getCurrenturl);
-    }
+    // if (!currentPathName) {
+    //   const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
+    //   window.history.pushState({}, null, getCurrenturl);
+    // }
 
     changeFooterHeight(currentPathName);
 
