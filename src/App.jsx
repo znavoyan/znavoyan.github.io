@@ -3,17 +3,17 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
   Redirect,
 } from "react-router-dom";
-import { Header, Home, Speakers, Sponsors, Agenda, Footer } from './views';
+import { Header, Home, Speakers, Sponsors, Agenda, Footer } from "./views";
 
-import './styles.scss';
+import "./styles.scss";
 
-function App(props) {
-
+function App() {
   const [currentFooterHeight, setCurrentFooterHeight] = useState(500);
-  const year = 2021;//Get from url
+  const pathArray = window.location.pathname.split("/");
+  const currentYear = new Date().getFullYear();
+  const year = pathArray[1] || currentYear;
 
   const changeFooterHeight = (url) => {
     switch (url) {
@@ -39,71 +39,36 @@ function App(props) {
 
   useEffect(() => {
     const pageUrl = window.location.href;
-    const currentPathName = pageUrl.substr(pageUrl.lastIndexOf('/') + 1);
-    console.log('currentPathName','Finally');
-    const pathArray = window.location.pathname.split('/');
-
-    // if (!currentPathName) {
-      
-      // const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
-      // console.log('getCurrenturl',pathArray[1]);
-      // window.history.pushState({}, null, getCurrenturl);
-    // }
+    const currentPathName = pageUrl.substr(pageUrl.lastIndexOf("/") + 1);
 
     changeFooterHeight(currentPathName);
-
   });
 
   return (
     <Router>
-      <div>
-
-        <Header changeFooterHeight={changeFooterHeight} year={year}/>
-
+      <div className="app">
+      {currentYear}
+        <Header changeFooterHeight={changeFooterHeight} year={year} />
         <Switch>
-                <Route exact path={`/${year}`}>
-                  <Home />
-                </Route>
-                <Route path={`/${year}/speakers`}>
-                  <Speakers />
-                </Route>
-                <Route path={`/${year}/sponsors`}>
-                  <Sponsors />
-                </Route>
-                <Route path={`/${year}/agenda`}>
-                  <Agenda />
-                </Route>
-                <Route exact path="/">
-                  <Redirect to={`/${year}`} />
-              </Route>
-              </Switch>
+          <Route exact path={`/${year}`}>
+            <Home />
+          </Route>
+          <Route path={`/${year}/speakers`}>
+            <Speakers />
+          </Route>
+          <Route path={`/${year}/sponsors`}>
+            <Sponsors />
+          </Route>
+          <Route path={`/${year}/agenda`}>
+            <Agenda />
+          </Route>
+          <Route path="/">
+            <Redirect to={`/${year}`} />
+          </Route>
+        </Switch>
         <Footer currentFooterHeight={currentFooterHeight} />
       </div>
     </Router>
-    // <Router>
-    //   <div className="app">
-    //     <Header changeFooterHeight={changeFooterHeight} year={year}/>
-    //     <Switch>
-    //       <Route exact path={`/${year}`}>
-            
-    //       </Route>
-    //       {/* <Route path="/about">
-    //           <About />
-    //         </Route> */}
-    //         <Route path={`/${year}/speakers`}>
-    //           <Speakers />
-    //         </Route>
-    //         <Route path={`/${year}/sponsors`}>
-    //           <Sponsors />
-    //         </Route>
-    //         <Route path={`/${year}/agenda`}>
-    //           <Agenda />
-    //         </Route>
-    //     </Switch>
-    //     <Footer currentFooterHeight={currentFooterHeight} />
-    //   </div>
-    // </Router>
-
   );
 }
 

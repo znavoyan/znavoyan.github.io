@@ -636,6 +636,17 @@ img.icon-5 {
   }
 }
 
+//MAP
+.leaflet-container {
+  position: relative;
+  width: 100%;
+  height: 390px;
+}
+
+.leaflet-control-attribution {
+  display: none;
+}
+
 //SPACES
 
 .space-85-height {
