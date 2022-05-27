@@ -51,7 +51,7 @@ function App() {
         <Header changeFooterHeight={changeFooterHeight} year={year} />
         <Switch>
           <Route exact path={`/${year}`}>
-            <Home />
+            <Home year={year} />
           </Route>
           <Route path={`/${year}/speakers`}>
             <Speakers />

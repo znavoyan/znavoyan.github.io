@@ -12,7 +12,7 @@ import MapSection from './MapSection';
 import styles from './styles.module.scss';
 
 
-const Home = () => {
+const Home = ({year}) => {
 
     const { t } = useTranslation('common');
     const registerUrl = t('header.registerUrl');
@@ -64,9 +64,9 @@ const Home = () => {
 
             <SpeakersSection />
 
-            <div id="location">
+            { year !== '2020' && <div id="location">
                 <MapSection />
-            </div>
+            </div>}
 
             <SponsorsSection />
 

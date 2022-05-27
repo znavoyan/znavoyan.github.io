@@ -14,6 +14,7 @@
         "key": "agenda"
       }
     ],
+    "pastEvents": [2020],
     "register": "Գրանցվել",
     "registerUrl": "https://forms.gle/17SXp2SrWqgXc5rT8"
   },
