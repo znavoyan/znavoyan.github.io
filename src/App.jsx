@@ -1,16 +1,19 @@
 import React, { useState, useEffect } from "react";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
-  Route
+  Route,
+  Redirect,
 } from "react-router-dom";
-import { Header, Home, Speakers, Sponsors, Agenda, Footer } from './views';
+import { Header, Home, Speakers, Sponsors, Agenda, Footer } from "./views";
 
-import './styles.scss';
+import "./styles.scss";
 
-function App(props) {
-
+function App() {
   const [currentFooterHeight, setCurrentFooterHeight] = useState(500);
+  const pathArray = window.location.pathname.split("/");
+  const currentYear = new Date().getFullYear();
+  const year = pathArray[1] || currentYear;
 
   const changeFooterHeight = (url) => {
     switch (url) {
@@ -36,43 +39,36 @@ function App(props) {
 
   useEffect(() => {
     const pageUrl = window.location.href;
-    const currentPathName = pageUrl.substr(pageUrl.lastIndexOf('/') + 1);
-    const pathArray = window.location.pathname.split('/');
-
-    // if (!currentPathName) {
-    //   const getCurrenturl = window.location.href.replace(`${pathArray[1]}#/`, "");
-    //   window.history.pushState({}, null, getCurrenturl);
-    // }
+    const currentPathName = pageUrl.substr(pageUrl.lastIndexOf("/") + 1);
 
     changeFooterHeight(currentPathName);
-
   });
 
   return (
     <Router>
       <div className="app">
-        <Header changeFooterHeight={changeFooterHeight} />
+      {currentYear}
+        <Header changeFooterHeight={changeFooterHeight} year={year} />
         <Switch>
-          <Route exact path="/">
-            <Home />
+          <Route exact path={`/${year}`}>
+            <Home year={year} />
           </Route>
-          {/* <Route path="/about">
-            <About />
-          </Route> */}
-          <Route path="/speakers">
+          <Route path={`/${year}/speakers`}>
             <Speakers />
           </Route>
-          <Route path="/sponsors">
+          <Route path={`/${year}/sponsors`}>
             <Sponsors />
           </Route>
-          <Route path="/agenda">
+          <Route path={`/${year}/agenda`}>
             <Agenda />
+          </Route>
+          <Route path="/">
+            <Redirect to={`/${year}`} />
           </Route>
         </Switch>
         <Footer currentFooterHeight={currentFooterHeight} />
       </div>
     </Router>
-
   );
 }
 

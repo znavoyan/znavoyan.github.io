@@ -7,7 +7,7 @@ import { saveState, loadState, removeState } from "../../localStorage/localStora
 import logo from "../../logo.svg";
 import styles from "./styles.module.scss";
 
-const Header = ({ changeFooterHeight, ...props }) => {
+const Header = ({ changeFooterHeight, year, ...props }) => {
 
     const { t, i18n } = useTranslation('common');
     const languages = ['en', 'am'];
@@ -18,6 +18,7 @@ const Header = ({ changeFooterHeight, ...props }) => {
     const [langSelectedValue, setLangSelectedValue] = useState(language);
     const [dropdownOpen, setDropdownOpen] = useState(false);
     const navbarItems = t('header.navbarItems', { returnObjects: true });
+    const pastEvents = t('header.pastEvents', { returnObjects: true });
 
     const registerUrl = t('header.registerUrl');
 
@@ -68,17 +69,20 @@ const Header = ({ changeFooterHeight, ...props }) => {
                 <div className={classnames({ [styles["hamburder"]]: true, [styles["active"]]: openMenu })} onClick={toggleMenu}>
                     <span></span>
                 </div>
-                <a href={`/`} className={styles["logo"]}>
+                <a href={`/${year}`} className={styles["logo"]}>
                     <img src={logo} alt="logo" />
                 </a>
                 <div className={styles["dates"]}>
-                    Past Events <a href="https://2020.datafest.am/" target="_blank" className="link-no-decoration"><span>2020</span></a>
+                    {!!pastEvents.length && <span>Past Events </span>}
+                    {pastEvents.map((value, index) => {
+                        return <a href={`https://datafest.am/${value}`} target="_blank" className="link-no-decoration" key={index}><span>{value} </span></a>
+                    })}
                 </div>
                 <div className={styles["navbar"]}>
                     <ul className={classnames({ [styles["active"]]: openMenu })}>
                         {navbarItems.map((value, index) => {
                             return <li className={styles["link"]} key={index}>
-                                        <NavLink to={`/${value.key}`} activeClassName={styles["active"]} onClick={() => onLinkClick(`/${value}`)}>{value.name}</NavLink>
+                                        <NavLink to={`/${year}/${value.key}`} activeClassName={styles["active"]} onClick={() => onLinkClick(`/${value}`)}>{value.name}</NavLink>
                                     </li>
                         })}
                     </ul>

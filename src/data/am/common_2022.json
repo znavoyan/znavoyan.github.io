@@ -1,0 +1,191 @@
+{
+  "header": {
+    "navbarItems": [
+      {
+        "name": "խոսնակներ",
+        "key": "speakers"
+      },
+      {
+        "name": "հովանավորներ",
+        "key": "sponsors"
+      },
+      {
+        "name": "օրակարգ",
+        "key": "agenda"
+      }
+    ],
+    "pastEvents": [2020, 2021],
+    "register": "Գրանցվել",
+    "registerUrl": "https://forms.gle/17SXp2SrWqgXc5rT8"
+  },
+  "home": {
+    "main": {
+      "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
+      "register": "Գրանցվել",
+      "scrollDown": "Դեպի ներքև",
+      "eventDate": "Սեպտեմբերի 10-11"
+    },
+    "about": {
+      "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
+      "text": "Դատաֆեստ Երևանը մեքենայական ուսուցմանը նվիրված կոնֆերանս է, ուր քննարկվելու են ոլորտի տարաբնույթ թեմաներ՝ շեշտադրելով ինժեներական և կիրառական խնդիրները։ Այն մտքերի փոխանակման և համագործակցության խթանման հարթակ է։",
+      "followUs": "Հետևեք մեզ",
+      "facebookPage": "Հետևեք մեզ ֆեյսբուքում -",
+      "facebookEventPage": "Ֆեյսբուքյան միջոցառման հղում -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://facebook.com/events/3676170732411668",
+      "facebookPageText": "Ֆեյսբուքյան էջ",
+      "facebookEventText": "Ֆեյսբուքյան միջոցառում",
+      "youTubePageText": "Յութուբյան Էջ",
+      "youTubeEventPageUrl": "https://www.youtube.com/playlist?list=PLvwlJZXG6IkW-Yk4EJjSIwHuoXrr9_hsY"
+    }
+  },
+  "sponsors": {
+    "title": "Մեր <span>Հովանավորները</span>",
+    "generalSponsorsTitle": "<span>Գլխավոր Հովանավորները</span>",
+    "sponsorsTitle": "<span>Հովանավորները</span>",
+    "siteSponsorsTitle": "<span>Կայքի Հովանավորները</span>",
+    "seeAll": "Տեսնել ամբողջը",
+    "text": "Շնորհակալ ենք Դատաֆեստ Երևան  2021-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
+    "aboveText": "",
+    "bottomText": "",
+    "generalSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
+        "linkedUrl": "https://krisp.ai/",
+        "width": "10.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
+        "linkedUrl": "https://webbfontaine.com/",
+        "width": "22.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
+        "linkedUrl": "https://picsart.com/",
+        "width": "17.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692282/datafest/sponsors/ameria_white_vsbnxs.png",
+        "linkedUrl": "https://ameriabank.am/",
+        "width": "22.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630477841/datafest/sponsors/PMI_j6biev.png",
+        "linkedUrl": "https://www.pmi.com/",
+        "width": "22.3em"
+      }
+    ],
+    "sponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
+        "linkedUrl": "https://www.vmware.com/",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
+        "linkedUrl": "https://www.intelinair.com/",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628165152/datafest/sponsors/ST_Logo_Landscape_White_zr5y6w.png",
+        "linkedUrl": "https://www.servicetitan.com/",
+        "width": "18.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628243964/datafest/sponsors/envoy_logos_h0v281.png",
+        "linkedUrl": "https://www.envoymediagroup.com",
+        "width": "17.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628153108/datafest/sponsors/DISQO_Logo_AllWhite_roviyx.png",
+        "linkedUrl": "https://www.disqo.com/",
+        "width": "15.2em"
+      }
+    ],
+    "siteSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704548/datafest/sponsors/simplytech_q8qwjj.png",
+        "linkedUrl": "https://www.simplytechnologies.net/",
+        "width": "24.3em"
+      }
+    ]
+  },
+  "agenda": {
+    "btnText": "սեպտեմբերի 10-11",
+    "title": "Մեր <span>Օրակարգը</span>",
+    "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
+    "text": "ԴատաՖեստ Երևան 2021-ը տեղի կունենա սեպտեմբերի 10-ին և 11-ին",
+    "aboveText": "",
+    "bottomText": "",
+    "days": [
+      {
+        "date": "սեպտեմբերի 10",
+        "agendaList": [
+          {
+            "time": "",
+            "title": "",
+            "key": ""
+          }
+        ]
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Կազմակերպիչներ",
+    "teamTitle": "Դատաֆեստ Թիմ",
+    "organisersList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692014/datafest/sponsors/AUA-WHITE_l9j8mf.png",
+        "linkedUrl": "https://aua.am/",
+        "width": "50em"
+      }
+    ],
+    "teamList": [
+      {
+        "name": "Արսեն",
+        "surname": "Եղիազարյան",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+      },
+      {
+        "name": "Հրանտ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Զավեն",
+        "surname": "Նավոյան",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Անդրանիկ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Մեր <span>Խոսնակները</span>",
+    "btnText": "Ավելին",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+     {
+        "name": "",
+        "surname": "",
+        "position": "",
+        "company": "",
+        "linkedUrl": "",
+        "imgUrl": ""
+      }
+    ]
+  },
+  "location": {
+    "title": "Where to find us",
+    "lat": "40.193410592591526",
+    "lng": "44.504402153484406"
+  }
+}
