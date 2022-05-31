@@ -62,13 +62,13 @@ const Home = ({year}) => {
 
             </div>
 
-            <SpeakersSection />
+            <SpeakersSection year={year}/>
 
             { year !== '2020' && <div id="location">
                 <MapSection />
             </div>}
 
-            <SponsorsSection />
+            <SponsorsSection year={year}/>
 
             <OrganisersSection />
 

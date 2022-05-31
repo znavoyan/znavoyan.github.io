@@ -5,7 +5,7 @@ import { Slider } from '../../shared';
 
 import styles from './styles.module.scss';
 
-const SpeakersSection = () => {
+const SpeakersSection = ({year}) => {
 
     const { t } = useTranslation('common');
 
@@ -25,7 +25,7 @@ const SpeakersSection = () => {
 
             <div className="space-40-height"></div>
             <div className="flex center">
-                <a href="/#/speakers">
+                <a href={`${year}/speakers`}>
                     <div className="btn big-pink">
                         <div className="btn-cover medium-btn-cover pink-btn-cover"></div>
                         <button className="big bordered medium big-pink-border">

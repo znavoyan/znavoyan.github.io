@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 
 import styles from './styles.module.scss';
 
-const SponsorsSection = () => {
+const SponsorsSection = ({year}) => {
 
     const { t } = useTranslation('common');
     const generalSponsorsList = t('sponsors.generalSponsorsList', { returnObjects: true });
@@ -81,7 +81,7 @@ const SponsorsSection = () => {
 
                 <div className="flex">
                     <div className="link">
-                        <a href="/#/sponsors">
+                        <a href={`${year}/sponsors`}>
                             <span>{t('sponsors.seeAll')}</span>
                         </a>
                     </div>
