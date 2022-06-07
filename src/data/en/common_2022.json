@@ -23,7 +23,7 @@
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
       "register": "Free Registration",
       "scrollDown": "Scroll down",
-      "eventDate": "September 10-11"
+      "eventDate": "September 2-3, 2022"
     },
     "about": {
       "title": "What is <span>DataFest Yerevan</span>",
@@ -111,15 +111,15 @@
     ]
   },
   "agenda": {
-    "btnText": "september 10-11",
+    "btnText": "september 2-3",
     "title": "Our <span>Agenda</span>",
     "yerevanTime": "All times are in Yerevan time (UTC+4)",
-    "text": "DataFest Yerevan 2021 will be held on September 10, 11.",
+    "text": "DataFest Yerevan 2022 will be held on September 2 and 3.",
     "aboveText": "",
     "bottomText": "",
     "days": [
       {
-        "date": "september 10",
+        "date": "september 2",
         "agendaList": [
           {
             "time": "9:00-10:00",
