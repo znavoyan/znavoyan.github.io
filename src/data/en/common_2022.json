@@ -174,12 +174,12 @@
     "bottomText": "",
     "speakersList": [
      {
-        "name": "Elvina",
-        "surname": "Makaryan",
-        "position": "Deicsion Maker",
-        "company": "Lavernt LLC",
-        "linkedUrl": "https://www.linkedin.com/company/deem-communications/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1655386113/datafest/speakers/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270_zxymhx.webp"
+        "name": "",
+        "surname": "",
+        "position": "",
+        "company": "",
+        "linkedUrl": "",
+        "imgUrl": ""
       }
     ]
   },
