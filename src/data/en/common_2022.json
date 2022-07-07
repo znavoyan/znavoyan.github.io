@@ -212,6 +212,14 @@
         "company": "NVIDIA",
         "linkedUrl": "https://www.linkedin.com/in/dima-mironov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657175724/DATAFEST%202022/SPEAKERS/Dmitry_Mironov_zyug6z.jpg"
+      },
+     {
+        "name": "Grigory ",
+        "surname": "Sapunov",
+        "position": "Co-Founder & CTO at",
+        "company": "inten.to",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657178275/DATAFEST%202022/SPEAKERS/Grigory_Sapunov_hejdil_vqghyh.jpg"
       }
     ]
   },
