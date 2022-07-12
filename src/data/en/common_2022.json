@@ -214,6 +214,30 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657185341/DATAFEST%202022/SPEAKERS/Dmitry_Mironov_oswvpx.png"
       },
      {
+        "name": "Leandro",
+        "surname": "Loos",
+        "position": "DevOps Engineering Lead at",
+        "company": "Philip Morris International",
+        "linkedUrl": "https://www.linkedin.com/in/lealoos/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613784/DATAFEST%202022/SPEAKERS/Leandro_Loos_ueuwnd.png"
+      },
+      {
+        "name": "Vazgen",
+        "surname": "Mikayelyan",
+        "position": "Principal Machine Learning Scientist/Engineer, Tech Lead at",
+        "company": "Krisp",
+        "linkedUrl": "https://www.linkedin.com/in/vazgenmikayelyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613523/DATAFEST%202022/SPEAKERS/Vazgen_Mikayelyan_iqeq1k.png"
+      },
+      {
+        "name": "Sevak ",
+        "surname": "Harutyunyan",
+        "position": "ML Engineer at",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/sevak-harutyunyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613408/DATAFEST%202022/SPEAKERS/Sevak_Harutyunyan_mjj7yw.png"
+      },
+      {
         "name": "Grigory ",
         "surname": "Sapunov",
         "position": "Co-Founder & CTO at",
