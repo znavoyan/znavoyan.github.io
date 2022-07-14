@@ -174,7 +174,7 @@
     "bottomText": "",
     "speakersList": [
      {
-        "name": "Գլեբ",
+        "name": "Լեանդրո",
         "surname": "ֆոն Վերրա",
         "position": "Մեքենայական ուսուցման ինժեներ",
         "company": "HuggingFace",
@@ -182,7 +182,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Leandro_Von_Werra_ik3ktn.png"
       },
        {
-        "name": "Լեանդրո",
+        "name": "Գլեբ",
         "surname": "Աբրոսկին",
         "position": "Մեքենայական ուսուցման ինժեներ",
         "company": "Funcorp",
