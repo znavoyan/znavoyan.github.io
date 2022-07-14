@@ -174,6 +174,22 @@
     "bottomText": "",
     "speakersList": [
      {
+        "name": "Gleb",
+        "surname": "Abroskin",
+        "position": "ML Engineer at",
+        "company": "Funcorp",
+        "linkedUrl": "https://www.linkedin.com/in/gasabr/",
+        "imgUrl": https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Gleb_Abroskin_zgz4ns.jpg"
+      }, 
+      {
+        "name": "Leandro",
+        "surname": "von Werra",
+        "position": "Machine Learning Engineer at",
+        "company": "HuggingFace",
+        "linkedUrl": "https://www.linkedin.com/in/lvwerra/",
+        "imgUrl": https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Leandro_Von_Werra_ik3ktn.png"
+      }, 
+      {
         "name": "Omar",
         "surname": "Sanseviero",
         "position": "Machine Learning Lead at",
