@@ -180,6 +180,14 @@
         "linkedUrl": "https://www.linkedin.com/in/victor-lempitsky-73aa2b3b/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657808623/DATAFEST%202022/SPEAKERS/Victor_Lempitsky_skmlwg.png"
       },
+             {
+        "name": "Գլեբ",
+        "surname": "Աբրոսկին",
+        "position": "Մեքենայական ուսուցման ինժեներ",
+        "company": "Funcorp",
+        "linkedUrl": "https://www.linkedin.com/in/gasabr/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Gleb_Abroskin_zgz4ns.jpg"
+      },
      {
         "name": "Լեանդրո",
         "surname": "ֆոն Վերրա",
@@ -187,14 +195,6 @@
         "company": "HuggingFace",
         "linkedUrl": "https://www.linkedin.com/in/lvwerra/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Leandro_Von_Werra_ik3ktn.png"
-      },
-       {
-        "name": "Գլեբ",
-        "surname": "Աբրոսկին",
-        "position": "Մեքենայական ուսուցման ինժեներ",
-        "company": "Funcorp",
-        "linkedUrl": "https://www.linkedin.com/in/gasabr/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Gleb_Abroskin_zgz4ns.jpg"
       },
       {
         "name": "Օմար",
