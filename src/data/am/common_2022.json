@@ -173,6 +173,13 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
+      {
+        "name": "Վիկտոր",
+        "surname": "Լեմպիտսկի",
+        "position": "Հետազոտող, Համակարգչային տեսողություն",
+        "linkedUrl": "https://www.linkedin.com/in/victor-lempitsky-73aa2b3b/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657808623/DATAFEST%202022/SPEAKERS/Victor_Lempitsky_skmlwg.png"
+      },
      {
         "name": "Լեանդրո",
         "surname": "ֆոն Վերրա",
