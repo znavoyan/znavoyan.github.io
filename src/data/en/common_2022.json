@@ -267,6 +267,14 @@
         "company": "inten.to",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657178275/DATAFEST%202022/SPEAKERS/Grigory_Sapunov_hejdil_vqghyh.jpg"
+      },
+        {
+        "name": "Martin ",
+        "surname": "Danelljan",
+        "position": "Research Team Leader at",
+        "company": "ETH Zurich",
+        "linkedUrl": "https://www.linkedin.com/in/martin-danelljan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657891394/DATAFEST%202022/SPEAKERS/Martin-Danelljan_wm2pal.png"
       }
     ]
   },
