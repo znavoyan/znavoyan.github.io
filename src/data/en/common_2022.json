@@ -58,11 +58,6 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
         "linkedUrl": "https://picsart.com/",
         "width": "15.2em"
-      },
-      {
-        "imgUrl": "",
-        "linkedUrl": "",
-        "width": ""
       }
     ],
     "sponsorsList": [
@@ -79,16 +74,6 @@
        {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
         "linkedUrl": "https://krisp.ai/",
-        "width": "24.3em"
-      },
-        {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658323519/DATAFEST%202022/SPONSORS/OMD_Logo_New-01_jojvzz.png",
-        "linkedUrl": "https://www.onetick.com/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658323519/DATAFEST%202022/SPONSORS/Plat_AI_logo_2x__1___2_-01_olpwrx.png",
-        "linkedUrl": "https://plat.ai/",
         "width": "24.3em"
       },
       {
