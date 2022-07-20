@@ -54,15 +54,15 @@
         "linkedUrl": "https://intent.ai/",
         "width": "17.3em"
       },
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658324406/DATAFEST%202022/SPONSORS/HORIZONTAL_BLUE_MASTER_RGB-01_oykuqd.png",
+        "linkedUrl": "https://www.pmi.com/",
+        "width": "15.2em"
+      },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
         "linkedUrl": "https://picsart.com/",
         "width": "15.2em"
-      },
-      {
-        "imgUrl": "",
-        "linkedUrl": "",
-        "width": ""
       }
     ],
     "sponsorsList": [
