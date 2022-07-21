@@ -278,6 +278,38 @@
         "company": "ETH Zurich",
         "linkedUrl": "https://www.linkedin.com/in/martin-danelljan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657891394/DATAFEST%202022/SPEAKERS/Martin-Danelljan_wm2pal.png"
+      },
+      {
+        "name": "Mohamed",
+        "surname": "H. Elhoseiny",
+        "position": "Assistant Professor of Computer Science at",
+        "company": "KAUST",
+        "linkedUrl": "https://www.linkedin.com/in/mohamed-elhoseiny-8a836215/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Mohamed_H_sxdhrf.png"
+      },
+      {
+        "name": "Lusine",
+        "surname": "Sargsyan",
+        "position": "Director at",
+        "company": "Plat.ai",
+        "linkedUrl": "https://www.linkedin.com/in/lusine-sargsyan-0b50638b/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Lusine_Sargsyan_mhsshl.png"
+      },
+       {
+        "name": "Tatiana",
+        "surname": "Kuvshinova",
+        "position": "Data Scientist at",
+        "company": "Disqo",
+        "linkedUrl": "https://www.linkedin.com/in/tatiana-kuvshinova-197010235/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Tatiana_Kuvshinova_znbdxx.png"
+      },
+      {
+        "name": "Artak",
+        "surname": "Kamalyan",
+        "position": "Data Scientist at",
+        "company": "Plat.ai",
+        "linkedUrl": "https://www.linkedin.com/in/artak-kamalyan-4440291a7/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Artak_Kamalyan_yxwbba.png"
       }
     ]
   },
