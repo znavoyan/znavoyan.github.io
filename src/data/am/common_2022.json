@@ -55,21 +55,26 @@
         "width": "17.3em"
       },
        {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658324406/DATAFEST%202022/SPONSORS/HORIZONTAL_BLUE_MASTER_RGB-01_oykuqd.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/PMI-Science1_e6il7c.png",
         "linkedUrl": "https://www.pmiscience.com/en/",
-        "width": "24.3em"
+        "width": "17.3em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
         "linkedUrl": "https://picsart.com/",
         "width": "15.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/Portmind_kptrcs.png",
+        "linkedUrl": "",
+        "width": "15.2em"
       }
     ],
     "sponsorsList": [
        {
-        "imgUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/AimHub_icxtup.png",
         "linkedUrl": "",
-        "width": ""
+        "width": "17.3em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658320035/DATAFEST%202022/SPONSORS/digitain_gysxxp.png",
@@ -77,12 +82,12 @@
         "width": "24.3em"
       },
        {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/krisp_aexifh.png",
         "linkedUrl": "https://krisp.ai/",
         "width": "15.2em"
       },
        {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658323519/DATAFEST%202022/SPONSORS/OMD_Logo_New-01_jojvzz.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/OMD_xom7sf.png",
         "linkedUrl": "https://www.onetick.com/",
         "width": "24.3em"
       },
@@ -92,8 +97,8 @@
         "width": "15.2em"
       },
       {
-        "imgUrl": "",
-        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/DeeM_nto7jv.png",
+        "linkedUrl": "https://deemcommunications.com/en/",
         "width": "24.3em"
       }
     ],
