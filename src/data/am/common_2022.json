@@ -331,6 +331,14 @@
         "company": "Հայկական Ծրագրեր",
         "linkedUrl": "",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
+      },
+       {
+        "name": "Վահան",
+        "surname": "Արսենյան",
+        "position": "Ավագ տվյալագետ",
+        "company": "ServiceTitan",
+        "linkedUrl": "https://www.linkedin.com/in/vahan-arsenyan-a41390140/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658839961/DATAFEST%202022/SPEAKERS/Vahan_Arsenyann_colruh.jpg"
       }
     ]
   },
