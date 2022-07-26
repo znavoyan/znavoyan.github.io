@@ -323,6 +323,14 @@
         "company": "PMI",
         "linkedUrl": "https://www.linkedin.com/in/dineshweb/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658470947/DATAFEST%202022/SPEAKERS/Dinesh_Pothineni_nxabzl.jpg"
+      },
+         {
+        "name": "Ashot ",
+        "surname": "Vasilyan",
+        "position": "VP of Engineering at",
+        "company": "ArmSoft",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
       }
     ]
   },
