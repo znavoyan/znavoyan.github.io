@@ -54,6 +54,11 @@
         "linkedUrl": "https://intent.ai/",
         "width": "17.3em"
       },
+        {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658320035/DATAFEST%202022/SPONSORS/digitain_gysxxp.png",
+        "linkedUrl": "https://www.digitain.com/",
+        "width": "24.3em"
+      },
        {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/PMI-Science1_e6il7c.png",
         "linkedUrl": "https://www.pmiscience.com/en/",
@@ -72,14 +77,9 @@
     ],
     "sponsorsList": [
        {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/AimHub_icxtup.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658935535/DATAFEST%202022/SPONSORS/AimStack_gn0hgk.png",
         "linkedUrl": "",
         "width": "17.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658320035/DATAFEST%202022/SPONSORS/digitain_gysxxp.png",
-        "linkedUrl": "https://www.digitain.com/",
-        "width": "24.3em"
       },
        {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/krisp_aexifh.png",
@@ -87,12 +87,12 @@
         "width": "15.2em"
       },
        {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/OMD_xom7sf.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658935536/DATAFEST%202022/SPONSORS/OMD_jxxyct.png",
         "linkedUrl": "https://www.onetick.com/",
         "width": "24.3em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658323519/DATAFEST%202022/SPONSORS/Plat_AI_logo_2x__1___2_-01_olpwrx.png",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658935535/DATAFEST%202022/SPONSORS/plat.AI_kbls29.png",
         "linkedUrl": "https://plat.ai/",
         "width": "15.2em"
       },
