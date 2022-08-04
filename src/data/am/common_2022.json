@@ -379,6 +379,14 @@
         "company": "Unum",
         "linkedUrl": "http://linkedin.com/in/ashvardanian",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659504635/DATAFEST%202022/SPEAKERS/Ashot_Vardanian_q9jbns.jpg"
+      },
+       {
+        "name": "Հարութ",
+        "surname": "Մարտիրոսյան",
+        "position": "Տեխնիկական գծով տնօրեն",
+        "company": "Intent.ai",
+        "linkedUrl": "https://www.linkedin.com/in/harutyun/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659589797/DATAFEST%202022/SPEAKERS/Harut_Martirosyan_euxk3c.jpg"
       }
     ]
   },
