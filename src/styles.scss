@@ -460,11 +460,7 @@ img.icon-5 {
     }
   }
 
-
-
 }
-
-
 
 .link-no-decoration {
   text-decoration: none;
@@ -498,6 +494,255 @@ img.icon-5 {
   width: 15px;
   background: #289ACC;
 }
+
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+  background: #000; 
+  color: #000;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #000; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #000; 
+}
+
+//AGENDA TABS
+
+.MuiTableBody-root .css-apqrd9-MuiTableBody-root {
+  &:last-child {
+    display: none !important;
+  }
+}
+
+.Label-label .Label-emptyLabel .css-1fbp63r {
+  display: none !important;
+}
+
+.css-18tcpub-MuiTableCell-root.Cell-cell:hover {
+  background-color: #000 !important;
+}
+
+.css-6eykea-MuiTable-root.Table-table {
+  min-width: 950px !important;
+}
+
+.css-1ps6pg7-MuiPaper-root, .css-1my4mrz .MainLayout-background, .css-1my4mrz .MainLayout-stickyElement {
+  background-color: #000 !important;
+}
+
+.css-1my4mrz .MainLayout-header {
+  z-index: 200 !important;
+}
+
+.css-5g40bp-MuiTableCell-root .Cell-text {
+  color: #fff !important;
+}
+
+.css-1my4mrz .MainLayout-brightLeftPanelBorder {
+  // border: none !important;
+  z-index: 100 !important;
+  border-right: 1px solid #353535 !important;
+}
+
+.css-1my4mrz .MainLayout-brightHeaderBorder {
+  border-bottom: none !important;
+}
+
+.css-18tcpub-MuiTableCell-root.Cell-cell, .css-ngju2w-MuiTableCell-root.Cell-cell, .css-5g40bp-MuiTableCell-root.Cell-cell {
+  border: 1px solid #353535 !important;
+  &:hover {
+    background-color: #000 !important;
+  }
+}
+
+.css-1my4mrz .MainLayout-ordinaryHeaderBorder {
+  border: none !important;
+}
+
+.css-1my4mrz .MainLayout-ordinaryLeftPanelBorder {
+  border-right: 1px solid #353535 !important;
+}
+
+.css-xd4oto-MuiTableCell-root {
+  border-bottom: 1px solid #353535 !important;
+}
+
+.VerticalAppointment-content {
+  height: 100%;
+  width: 100%;
+}
+
+.Cell-text {
+  font-size: 3.8em;
+  line-height: 1.1666em;
+  width: 100%;
+  text-align: center;
+}
+.css-5g40bp-MuiTableCell-root.Cell-horizontalCell {
+  border-bottom: none !important
+  
+}
+
+.css-1675apn-MuiTableCell-root {
+  display: none !important;
+}
+.MuiTableCell-root {
+  height: 101px !important;
+}
+.MuiTableCell-root {
+  height: 100px !important;
+  .Label-emptyLabel {
+    display: none !important;
+  }
+  .Label-label {
+    height: 100px !important;
+    width: 120px !important;
+    overflow: initial !important;
+    position: relative;
+    .Label-text {
+      font-size: 1.4em;
+      color: #fff;
+      position: absolute;
+      bottom: 80px;
+      right: 10px;
+    }
+  }
+}
+.css-9q0p2j-MuiTable-root {
+  height: 100px !important;
+}
+
+.agenda-container {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  white-space: normal;
+  font-family: Futura !important;
+  border: 1px solid #353535;
+  border-radius: 10px;
+	.time {
+    background-color: #000;
+    border-radius: 10px;
+    display: flex;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .time span {
+    font-size: 16px;
+    margin: 0;
+    letter-spacing: 1px;
+  }
+
+  .ampm {
+    text-transform: uppercase;
+  }
+  
+  .time-preview {
+    background-color: #289ACC;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+
+    .time-diffs {
+      text-transform: capitalize;
+    }
+  }
+  
+  .course-info {
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .progress {
+    background-color: #000;
+    border-radius: 3px;
+    font-size: 2.4em;
+    height: 5px;
+    width: 100%;
+  }
+   
+  .progress-text {  
+    color: #fff;
+    letter-spacing: 1px;
+  }
+
+  .room {
+    display: none;
+    position: absolute;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 16px;
+    bottom: 10px;
+    right: 10px;
+  }
+
+  .speaker-text {
+    color: rgba(0,0,0, .6);
+  }
+
+}
+
+.tabs {  
+  display: flex;
+  // position: sticky;
+  // top: 0;
+  // background: #000;
+  // z-index: 1000;
+}  
+
+.tab {  
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background: #000; 
+  padding: 2em 0;  
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+.tab.active {
+  color: #289ACC;
+}
+.panel {
+  display: none;
+  padding: 10px;
+}
+.panel.active {
+  display: revert;
+}
+
+.cards {
+  display: none;
+}
+
+.card {
+  display: none;
+  p {
+    padding: 5px;
+  }
+}
+.card.active {
+  display: revert;
+}
+.date {
+  font-size: 24px;
+  text-transform: capitalize;
+}
+
 
 //TEXTS
 
@@ -849,5 +1094,39 @@ img.icon-5 {
     }
   
   } 
+
+  .tabs {
+    flex-direction: column;
+    button {
+      padding: 10px;
+    }
+  }
+
+  .panels {
+    display: none;;
+  }
+
+  .css-gyiown.VerticalAppointment-content {
+    padding: 0 !important;
+  }
+
+  .cards {
+    display: block;
+    padding: 5px;
+    .agenda-container {
+      min-height: 200px !important;
+      height: auto !important;
+      position: relative;
+      // border: 1px solid #000;
+      margin-bottom: 10px;
+      .time {
+        box-shadow: none;
+      }
+
+      .room {
+        display: block;
+      }
+    }
+  }
 }
 
