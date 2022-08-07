@@ -221,6 +221,14 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657274751/DATAFEST%202022/SPEAKERS/EvanShelhamer_ingx0e.png"
       },
       {
+        "name": "Աշոտ",
+        "surname": "Վասիլյան",
+        "position": "Ինժեներական գծով փոխտնօրեն",
+        "company": "Հայկական Ծրագրեր",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
+      },
+      {
         "name": "Քրիստոֆեր",
         "surname": "Միլլեր",
         "position": "Կիրառական հետազոտող",
@@ -292,7 +300,7 @@
         "linkedUrl": "https://www.linkedin.com/in/tatiana-kuvshinova-197010235/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Tatiana_Kuvshinova_znbdxx.png"
       },
-        {
+      {
         "name": "Մոհամեդ",
         "surname": "Հ․ Էլհոսեինի",
         "position": "Ասիստենտ-պրոֆեսոր, Համակարգչային գիտության բաժին",
@@ -300,7 +308,7 @@
         "linkedUrl": "https://www.linkedin.com/in/mohamed-elhoseiny-8a836215/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Mohamed_H_sxdhrf.png"
       },
-        {
+       {
         "name": "Լուսինե",
         "surname": "Սարգսյան",
         "position": "Տնօրեն",
@@ -308,7 +316,7 @@
         "linkedUrl": "https://www.linkedin.com/in/lusine-sargsyan-0b50638b/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Lusine_Sargsyan_mhsshl.png"
       },
-        {
+      {
         "name": "Արտակ",
         "surname": "Քամալյան",
         "position": "Տվյալագետ",
@@ -324,15 +332,7 @@
         "linkedUrl": "https://www.linkedin.com/in/dineshweb/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658470947/DATAFEST%202022/SPEAKERS/Dinesh_Pothineni_nxabzl.jpg"
       },
-       {
-        "name": "Աշոտ",
-        "surname": "Վասիլյան",
-        "position": "Ինժեներական գծով փոխտնօրեն",
-        "company": "Հայկական Ծրագրեր",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
-      },
-       {
+      {
         "name": "Վահան",
         "surname": "Արսենյան",
         "position": "Ավագ տվյալագետ",
