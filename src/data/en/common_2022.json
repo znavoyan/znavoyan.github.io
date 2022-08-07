@@ -220,7 +220,15 @@
         "linkedUrl": "http://imaginarynumber.net",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657274751/DATAFEST%202022/SPEAKERS/EvanShelhamer_ingx0e.png"
       },
-        {
+      {
+        "name": "Ashot ",
+        "surname": "Vasilyan",
+        "position": "VP of Engineering at",
+        "company": "ArmSoft",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
+      },
+      {
         "name": "Christopher",
         "surname": "Miller",
         "position": "Applied Researcher at",
@@ -228,7 +236,7 @@
         "linkedUrl": "https://www.linkedin.com/in/christopher-miller-a0323a77/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657185342/DATAFEST%202022/SPEAKERS/Christopher_Miller_jh0bob.png"
       },
-     {
+      {
         "name": "Dmitry",
         "surname": "Mironov",
         "position": "Solutions Architect, AI at",
@@ -253,7 +261,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613523/DATAFEST%202022/SPEAKERS/Vazgen_Mikayelyan_iqeq1k.png"
       },
       {
-        "name": "Sevak ",
+        "name": "Sevak",
         "surname": "Harutyunyan",
         "position": "ML Engineer at",
         "company": "Portmind",
@@ -261,7 +269,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613408/DATAFEST%202022/SPEAKERS/Sevak_Harutyunyan_mjj7yw.png"
       },
       {
-        "name": "Grigory ",
+        "name": "Grigory",
         "surname": "Sapunov",
         "position": "Co-Founder & CTO at",
         "company": "inten.to",
@@ -269,7 +277,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657178275/DATAFEST%202022/SPEAKERS/Grigory_Sapunov_hejdil_vqghyh.jpg"
       },
        {
-        "name": "Conor ",
+        "name": "Conor",
         "surname": "Durkan",
         "position": "Research Scientist at",
         "company": "DeepMind",
@@ -277,7 +285,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658298776/DATAFEST%202022/SPEAKERS/Conor_Durkan_eefvxa.jpg"
       },
         {
-        "name": "Martin ",
+        "name": "Martin",
         "surname": "Danelljan",
         "position": "Research Team Leader at",
         "company": "ETH Zurich",
@@ -324,15 +332,7 @@
         "linkedUrl": "https://www.linkedin.com/in/dineshweb/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658470947/DATAFEST%202022/SPEAKERS/Dinesh_Pothineni_nxabzl.jpg"
       },
-         {
-        "name": "Ashot ",
-        "surname": "Vasilyan",
-        "position": "VP of Engineering at",
-        "company": "ArmSoft",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
-      },
-         {
+      {
         "name": "Vahan",
         "surname": "Arsenyan",
         "position": "Senior Data Scientist at",
@@ -340,7 +340,7 @@
         "linkedUrl": "https://www.linkedin.com/in/vahan-arsenyan-a41390140/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658839961/DATAFEST%202022/SPEAKERS/Vahan_Arsenyann_colruh.jpg"
       },
-          {
+      {
         "name": "Vicente Rubén",
         "surname": "Del Pino Ruiz",
         "position": "Applied Science Engineering Manager at",
