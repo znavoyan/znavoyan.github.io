@@ -16,14 +16,14 @@
     ],
     "pastEvents": [2020, 2021],
     "register": "Free Registration",
-    "registerUrl": "https://forms.gle/17SXp2SrWqgXc5rT8"
+    "registerUrl": "https://forms.gle/mPQvUMppSBMigQbu6"
   },
   "home": {
     "main": {
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
       "register": "Free Registration",
       "scrollDown": "Scroll down",
-      "eventDate": "September 10-11"
+      "eventDate": "September 2-3, 2022"
     },
     "about": {
       "title": "What is <span>DataFest Yerevan</span>",
@@ -45,60 +45,60 @@
     "sponsorsTitle": "<span>Sponsors</span>",
     "siteSponsorsTitle": "<span>Site Sponsors</span>",
     "seeAll": "See all",
-    "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2021, whose support made this event possible",
+    "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2022, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
     "generalSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
-        "linkedUrl": "https://krisp.ai/",
-        "width": "10.3em"
+        {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658323519/DATAFEST%202022/SPONSORS/intent_bq2vk3.png",
+        "linkedUrl": "https://intent.ai/",
+        "width": "17.3em"
       },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
-        "linkedUrl": "https://webbfontaine.com/",
-        "width": "22.3em"
+        {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658320035/DATAFEST%202022/SPONSORS/digitain_gysxxp.png",
+        "linkedUrl": "https://www.digitain.com/",
+        "width": "24.3em"
+      },
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/PMI-Science1_e6il7c.png",
+        "linkedUrl": "https://www.pmiscience.com/en/",
+        "width": "24.3em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
         "linkedUrl": "https://picsart.com/",
-        "width": "17.3em"
+        "width": "15.2em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692282/datafest/sponsors/ameria_white_vsbnxs.png",
-        "linkedUrl": "https://ameriabank.am/",
-        "width": "22.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630477841/datafest/sponsors/PMI_j6biev.png",
-        "linkedUrl": "https://www.pmi.com/",
-        "width": "22.3em"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/Portmind_kptrcs.png",
+        "linkedUrl": "",
+        "width": "15.2em"
       }
     ],
     "sponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
-        "linkedUrl": "https://www.vmware.com/",
-        "width": "17.2em"
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658935535/DATAFEST%202022/SPONSORS/AimStack_gn0hgk.png",
+        "linkedUrl": "",
+        "width": "17.3em"
+      },
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/krisp_aexifh.png",
+        "linkedUrl": "https://krisp.ai/",
+        "width": "15.2em"
+      },
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658935536/DATAFEST%202022/SPONSORS/OMD_jxxyct.png",
+        "linkedUrl": "https://www.onetick.com/",
+        "width": "24.3em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
-        "linkedUrl": "https://www.intelinair.com/",
-        "width": "17.2em"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658935535/DATAFEST%202022/SPONSORS/plat.AI_kbls29.png",
+        "linkedUrl": "https://plat.ai/",
+        "width": "15.2em"
       },
       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628165152/datafest/sponsors/ST_Logo_Landscape_White_zr5y6w.png",
-        "linkedUrl": "https://www.servicetitan.com/",
-        "width": "18.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628243964/datafest/sponsors/envoy_logos_h0v281.png",
-        "linkedUrl": "https://www.envoymediagroup.com",
-        "width": "17.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628153108/datafest/sponsors/DISQO_Logo_AllWhite_roviyx.png",
-        "linkedUrl": "https://www.disqo.com/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658412487/DATAFEST%202022/SPONSORS/DeeM_nto7jv.png",
+        "linkedUrl": "https://deemcommunications.com/en/",
         "width": "15.2em"
       }
     ],
@@ -111,15 +111,15 @@
     ]
   },
   "agenda": {
-    "btnText": "september 10-11",
+    "btnText": "september 2-3",
     "title": "Our <span>Agenda</span>",
     "yerevanTime": "All times are in Yerevan time (UTC+4)",
-    "text": "DataFest Yerevan 2021 will be held on September 10, 11.",
+    "text": "DataFest Yerevan 2022 will be held on September 2 and 3.",
     "aboveText": "",
     "bottomText": "",
     "days": [
       {
-        "date": "september 10",
+        "date": "september 2",
         "agendaList": [
           {
             "time": "9:00-10:00",
@@ -174,12 +174,235 @@
     "bottomText": "",
     "speakersList": [
      {
-        "name": "",
-        "surname": "",
-        "position": "",
-        "company": "",
+        "name": "Victor",
+        "surname": "Lempitsky",
+        "position": "Computer vision researcher",
+        "linkedUrl": "https://www.linkedin.com/in/victor-lempitsky-73aa2b3b/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657808623/DATAFEST%202022/SPEAKERS/Victor_Lempitsky_skmlwg.png"
+      }, 
+      {
+        "name": "Gleb",
+        "surname": "Abroskin",
+        "position": "ML Engineer at",
+        "company": "Funcorp",
+        "linkedUrl": "https://www.linkedin.com/in/gasabr/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Gleb_Abroskin_zgz4ns.jpg"
+      }, 
+      {
+        "name": "Leandro",
+        "surname": "von Werra",
+        "position": "Machine Learning Engineer at",
+        "company": "HuggingFace",
+        "linkedUrl": "https://www.linkedin.com/in/lvwerra/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657801920/DATAFEST%202022/SPEAKERS/Leandro_Von_Werra_ik3ktn.png"
+      }, 
+      {
+        "name": "Omar",
+        "surname": "Sanseviero",
+        "position": "Machine Learning Lead at",
+        "company": "Hugging Face",
+        "linkedUrl": "https://www.linkedin.com/in/omarsanseviero/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1655799605/DATAFEST%202022/SPEAKERS/Omar_Sanseviero_dejcta.jpg"
+      }, 
+     {
+        "name": "Tatiana",
+        "surname": "Shavrina",
+        "position": "Director of key research projects: NLP, Multimodality at AIRI, Chief Technology Expert, NLP at",
+        "company": "SberDevices",
+        "linkedUrl": "https://www.linkedin.com/in/tatiana-shavrina/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1656329805/DATAFEST%202022/SPEAKERS/Tatiana_Shavrina_dnacad.jpg"
+      },
+      {
+        "name": "Evan",
+        "surname": "Shelhamer",
+        "position": "Research Scientist at",
+        "company": "DeepMind",
+        "linkedUrl": "http://imaginarynumber.net",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657274751/DATAFEST%202022/SPEAKERS/EvanShelhamer_ingx0e.png"
+      },
+      {
+        "name": "Ashot ",
+        "surname": "Vasilyan",
+        "position": "VP of Engineering at",
+        "company": "ArmSoft",
         "linkedUrl": "",
-        "imgUrl": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658838032/DATAFEST%202022/SPEAKERS/Ashot_Vasilyan_jetl5q.jpg"
+      },
+      {
+        "name": "Christopher",
+        "surname": "Miller",
+        "position": "Applied Researcher at",
+        "company": "eBay",
+        "linkedUrl": "https://www.linkedin.com/in/christopher-miller-a0323a77/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657185342/DATAFEST%202022/SPEAKERS/Christopher_Miller_jh0bob.png"
+      },
+      {
+        "name": "Dmitry",
+        "surname": "Mironov",
+        "position": "Solutions Architect, AI at",
+        "company": "NVIDIA",
+        "linkedUrl": "https://www.linkedin.com/in/dima-mironov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657185341/DATAFEST%202022/SPEAKERS/Dmitry_Mironov_oswvpx.png"
+      },
+     {
+        "name": "Leandro",
+        "surname": "Loos",
+        "position": "DevOps Engineering Lead at",
+        "company": "Philip Morris International",
+        "linkedUrl": "https://www.linkedin.com/in/lealoos/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613784/DATAFEST%202022/SPEAKERS/Leandro_Loos_ueuwnd.png"
+      },
+      {
+        "name": "Vazgen",
+        "surname": "Mikayelyan",
+        "position": "Principal Machine Learning Scientist/Engineer, Tech Lead at",
+        "company": "Krisp",
+        "linkedUrl": "https://www.linkedin.com/in/vazgenmikayelyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613523/DATAFEST%202022/SPEAKERS/Vazgen_Mikayelyan_iqeq1k.png"
+      },
+      {
+        "name": "Sevak",
+        "surname": "Harutyunyan",
+        "position": "ML Engineer at",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/sevak-harutyunyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657613408/DATAFEST%202022/SPEAKERS/Sevak_Harutyunyan_mjj7yw.png"
+      },
+      {
+        "name": "Grigory",
+        "surname": "Sapunov",
+        "position": "Co-Founder & CTO at",
+        "company": "inten.to",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657178275/DATAFEST%202022/SPEAKERS/Grigory_Sapunov_hejdil_vqghyh.jpg"
+      },
+       {
+        "name": "Conor",
+        "surname": "Durkan",
+        "position": "Research Scientist at",
+        "company": "DeepMind",
+        "linkedUrl": "https://uk.linkedin.com/in/conor-durkan-01204691",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658298776/DATAFEST%202022/SPEAKERS/Conor_Durkan_eefvxa.jpg"
+      },
+        {
+        "name": "Martin",
+        "surname": "Danelljan",
+        "position": "Research Team Leader at",
+        "company": "ETH Zurich",
+        "linkedUrl": "https://www.linkedin.com/in/martin-danelljan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1657891394/DATAFEST%202022/SPEAKERS/Martin-Danelljan_wm2pal.png"
+      },
+      {
+        "name": "Mohamed",
+        "surname": "H. Elhoseiny",
+        "position": "Assistant Professor of Computer Science at",
+        "company": "KAUST",
+        "linkedUrl": "https://www.linkedin.com/in/mohamed-elhoseiny-8a836215/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Mohamed_H_sxdhrf.png"
+      },
+      {
+        "name": "Lusine",
+        "surname": "Sargsyan",
+        "position": "Director at",
+        "company": "Plat.ai",
+        "linkedUrl": "https://www.linkedin.com/in/lusine-sargsyan-0b50638b/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Lusine_Sargsyan_mhsshl.png"
+      },
+       {
+        "name": "Tatiana",
+        "surname": "Kuvshinova",
+        "position": "Data Scientist at",
+        "company": "Disqo",
+        "linkedUrl": "https://www.linkedin.com/in/tatiana-kuvshinova-197010235/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Tatiana_Kuvshinova_znbdxx.png"
+      },
+      {
+        "name": "Artak",
+        "surname": "Kamalyan",
+        "position": "Data Scientist at",
+        "company": "Plat.ai",
+        "linkedUrl": "https://www.linkedin.com/in/artak-kamalyan-4440291a7/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658391419/DATAFEST%202022/SPEAKERS/Artak_Kamalyan_yxwbba.png"
+      },
+      {
+        "name": "Dinesh",
+        "surname": "Pothineni",
+        "position": "Principal Data Scientist at",
+        "company": "PMI",
+        "linkedUrl": "https://www.linkedin.com/in/dineshweb/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658470947/DATAFEST%202022/SPEAKERS/Dinesh_Pothineni_nxabzl.jpg"
+      },
+      {
+        "name": "Vahan",
+        "surname": "Arsenyan",
+        "position": "Senior Data Scientist at",
+        "company": "ServiceTitan",
+        "linkedUrl": "https://www.linkedin.com/in/vahan-arsenyan-a41390140/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658839961/DATAFEST%202022/SPEAKERS/Vahan_Arsenyann_colruh.jpg"
+      },
+      {
+        "name": "Vicente Rubén",
+        "surname": "Del Pino Ruiz",
+        "position": "Applied Science Engineering Manager at",
+        "company": "Zalando",
+        "linkedUrl": "https://www.linkedin.com/in/vrdelpino/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1658934833/DATAFEST%202022/SPEAKERS/Ruben_Del_Pino_j6sugo.jpg"
+      },
+       {
+        "name": "Hakob",
+        "surname": "Gharagedyan",
+        "position": "Data Engineering Manager",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/hakobgh/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659347615/DATAFEST%202022/SPEAKERS/Hakob_Gharagedyann_u9nozn.jpg"
+      },
+      {
+        "name": "Anna",
+        "surname": "Azizyan",
+        "position": "Junior Data Engineer",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/anna-azizian/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659350939/DATAFEST%202022/SPEAKERS/Anna_Azizyann_qaxekt.jpg"
+      },
+         {
+        "name": "Nshan",
+        "surname": "Potikyan",
+        "position": "AI Engineer",
+        "company": "AeroDynamics",
+        "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659504304/DATAFEST%202022/SPEAKERS/Nshan_Potikyann_eobxbh.jpg"
+      },
+         {
+        "name": "Ashot ",
+        "surname": "Vardanyan",
+        "position": "Founder",
+        "company": "Unum",
+        "linkedUrl": "http://linkedin.com/in/ashvardanian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659504635/DATAFEST%202022/SPEAKERS/Ashot_Vardanian_q9jbns.jpg"
+      },
+         {
+        "name": "Harut",
+        "surname": "Martirosyan",
+        "position": "CTO",
+        "company": "Intent.ai",
+        "linkedUrl": "https://www.linkedin.com/in/harutyun/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659589797/DATAFEST%202022/SPEAKERS/Harut_Martirosyan_euxk3c.jpg"
+      },
+         {
+        "name": "Elen",
+        "surname": "Vardanyan",
+        "position": "Adjunct Lecturer of Deep Learning",
+        "company": "American University of Armenia",
+        "linkedUrl": "https://www.linkedin.com/in/elenvardanyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659592626/DATAFEST%202022/SPEAKERS/Elen_Vardanyan_evr1ec.png"
+      },
+       {
+        "name": "Garik",
+        "surname": "Petrosyan",
+        "position": "Lead ML Engineer ",
+        "company": "Biosim",
+        "linkedUrl": "https://www.linkedin.com/in/garik-petrosyan-289411ba",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1659600171/DATAFEST%202022/SPEAKERS/Garik_Petrosyan_pciwm7.jpg"
       }
     ]
   },
