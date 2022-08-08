@@ -67,7 +67,7 @@ const Tabs = ({ days, locations }) => {
 
   return (
     <>
-      <div className="tabs">
+      {/* <div className="tabs">
         {days.map((day, index) => {
           return (
             <button
@@ -106,7 +106,7 @@ const Tabs = ({ days, locations }) => {
             </div>
           );
         })}
-      </div>
+      </div> */}
     </>
   );
 };
