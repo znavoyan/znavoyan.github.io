@@ -111,20 +111,95 @@
     ]
   },
   "agenda": {
-    "btnText": "september 2-3",
+    "btnText": "september 10-11",
     "title": "Our <span>Agenda</span>",
     "yerevanTime": "All times are in Yerevan time (UTC+4)",
-    "text": "DataFest Yerevan 2022 will be held on September 2 and 3.",
+    "text": "DataFest Yerevan 2021 will be held on September 10, 11.",
     "aboveText": "",
     "bottomText": "",
+    "hourText": "hour",
+    "minuteText": "min", 
+    "locations": [
+      { "text": "Main Hall", "id": 0 },
+      { "text": "Manoogian Hall", "id": 1 },
+      { "text": "113W", "id": 2 }
+    ],
     "days": [
       {
-        "date": "september 2",
-        "agendaList": [
+        "date": "september 10",
+        "dateIndex": "1",
+        "year": 2022,
+        "month": 9,
+        "day": 10,
+        "1": [
           {
-            "time": "9:00-10:00",
+            "id": 0,
             "title": "Registration",
-            "key": "opening"
+            "key": "opening",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0, 
+            "endHour": 10,
+            "endMinutes": 0 
+          },
+          {
+            "id": 1,
+            "speaker": "Grigory Sapunov",
+            "title": "Transformers in 2021",
+            "roomId": 1,
+            "startHour": 10,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30 
+          },
+          {
+            "id:": 2,
+            "speaker": "Karen Hambardzumyan",
+            "title": "Prompt is all you need",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 3,
+            "speaker": "Stepan Sargsyan",
+            "title": "Speech enhancement in challenging conditions",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 12,
+            "endMinutes": 30
+          }
+        ]
+      },
+      {
+        "date": "september 11",
+        "dateIndex": "2",
+        "year": 2022,
+        "month": 9,
+        "day": 11,
+        "2": [
+          {
+            "id": 2,
+            "speaker": "Stepan Sargsyan",
+            "title": "Speech enhancement in challenging conditions",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 3,
+            "speaker": "Edouard Oyallon",
+            "title": "Asynchronous Decoupled Training of CNNs",
+            "roomId": 1,
+            "startHour": 13,
+            "startMinutes": 0, 
+            "endHour": 13,
+            "endMinutes": 30
           }
         ]
       }
