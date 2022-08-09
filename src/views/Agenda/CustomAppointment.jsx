@@ -52,6 +52,8 @@ const CustomAppointment = ({ style, ...restProps }) => {
   if (!restProps) {
     return false;
   }
+
+  console.log('restProps.data', restProps.data);
   return (
     <Appointments.AppointmentContent {...restProps}>
       <div className="agenda-container">

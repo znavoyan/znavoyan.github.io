@@ -708,23 +708,23 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   }
 
   .speaker-text {
-    color: rgba(0,0,0, .6);
+    color: rgba(255,255,255, .6);
   }
 
 }
 
 .panels {
   position: sticky;
-  top: 0;
+  top: 100px;
   z-index: 10;
 }
 
 .tabs {  
   display: flex;
-  // position: sticky;
-  // top: 0;
-  // background: #000;
-  // z-index: 1000;
+  position: sticky;
+  top: 0;
+  background: #000;
+  z-index: 10;
 }  
 
 .tab {  

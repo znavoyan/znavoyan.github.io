@@ -186,7 +186,7 @@
           {
             "id": 6,
             "speaker": "",
-            "key": "Coffee break",
+            "title": "Coffee break",
             "roomId": 0,
             "startHour": 11,
             "startMinutes": 0, 
@@ -236,7 +236,7 @@
           {
             "id": 11,
             "speaker": "",
-            "key": "Lunch",
+            "title": "Lunch",
             "roomId": 0,
             "startHour": 13,
             "startMinutes": 0, 
@@ -333,23 +333,183 @@
         "day": 11,
         "2": [
           {
-            "id": 2,
-            "speaker": "Stepan Sargsyan",
-            "title": "Speech enhancement in challenging conditions",
+            "id": 0,
+            "speaker": "Shavrina",
+            "title": "Transformers in 2021",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0, 
+            "endHour": 10,
+            "endMinutes": 0 
+          },
+          {
+            "id:": 2,
+            "speaker": "Tatiana Kuvshinova",
+            "title": "Transformers in 2021",
+            "roomId": 1,
+            "startHour": 10,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 3,
+            "speaker": "Vahan Arsenyan",
+            "title": "Transformers in 2021",
             "roomId": 2,
+            "startHour": 10,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 4,
+            "speaker": "Christopher Miller",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 10,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 5,
+            "speaker": "",
+            "key": "Coffee break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 6,
+            "speaker": "Vazgen Mikayelyan",
+            "title": "Transformers in 2021",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 30, 
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 7,
+            "speaker": "Victoria",
+            "title": "Transformers in 2021",
+            "roomId": 1,
             "startHour": 12,
             "startMinutes": 0, 
             "endHour": 12,
             "endMinutes": 30
           },
           {
-            "id": 3,
-            "speaker": "Edouard Oyallon",
-            "title": "Asynchronous Decoupled Training of CNNs",
-            "roomId": 1,
+            "id": 8,
+            "speaker": "Sevak Harutyunyan",
+            "title": "Transformers in 2021",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 30, 
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 9,
+            "speaker": "Ashot Vardanyan",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 30, 
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 10,
+            "speaker": "",
+            "title": "Lunch",
+            "roomId": 0,
             "startHour": 13,
             "startMinutes": 0, 
-            "endHour": 13,
+            "endHour": 14,
+            "endMinutes": 30
+          },
+          {
+            "id": 11,
+            "speaker": "Evan",
+            "title": "Transformers in 2021",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 30, 
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 12,
+            "speaker": "Karen Hambardzumyan",
+            "title": "Transformers in 2021",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0, 
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 13,
+            "speaker": "Lusine Sargsyan",
+            "title": "Transformers in 2021",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0, 
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 14,
+            "speaker": "Garik Petrosyan",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0, 
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 15,
+            "speaker": "",
+            "title": "Coffee break",
+            "roomId": 0,
+            "startHour": 16,
+            "startMinutes": 0, 
+            "endHour": 16,
+            "endMinutes": 30
+          },
+          {
+            "id": 16,
+            "speaker": "Leandro von Werra",
+            "title": "Transformers in 2021",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 30, 
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 17,
+            "speaker": "Dmitry Mironov",
+            "title": "Transformers in 2021",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 30, 
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 18,
+            "speaker": "Arec Jamgochian",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 30, 
+            "endHour": 17,
             "endMinutes": 30
           }
         ]
