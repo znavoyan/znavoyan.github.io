@@ -531,6 +531,13 @@ img.icon-5 {
   }
 }
 
+.MuiTableRow-root .css-1gqug66 {
+  &:last-child {
+    // display: none !important;
+    background-color: red!important;
+  }
+}
+
 .Label-label .Label-emptyLabel .css-1fbp63r {
   display: none !important;
 }
