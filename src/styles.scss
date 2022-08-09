@@ -519,20 +519,9 @@ img.icon-5 {
 
 //AGENDA TABS
 
-// .MuiTableBody-root .css-apqrd9-MuiTableBody-root, .MuiTableBody-root .css-1xnox0e {
-//   &:first-child {
-//     td {
-//       border-bottom: 1px solid #353535 !important;
-//     }
-//   }
-//   &:last-child {
-//     display: none !important;
-//     background-color: red!important;
-//   }
-// }
-
 tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-bottom: 1px solid #353535 !important;
+  border-top: 1px solid #353535 !important;
 }
 
 .css-1m1e8dc.Cell-brightRightBorder {

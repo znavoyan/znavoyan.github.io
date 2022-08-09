@@ -138,9 +138,9 @@
             "speaker": "Martin Dannelljan",
             "title": "Transformers in 2021",
             "roomId": 0,
-            "startHour": 10,
+            "startHour": 9,
             "startMinutes": 0, 
-            "endHour": 11,
+            "endHour": 10,
             "endMinutes": 0 
           },
           {
@@ -148,24 +148,34 @@
             "speaker": "Nshan Potikyan",
             "title": "Transformers in 2021",
             "roomId": 1,
-            "startHour": 11,
+            "startHour": 10,
             "startMinutes": 0, 
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 3,
             "speaker": "Grigory Sapunov",
             "title": "Transformers in 2021",
             "roomId": 2,
-            "startHour": 11,
+            "startHour": 10,
             "startMinutes": 0, 
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 4,
             "speaker": "Stefan Papp",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 9,
+            "startMinutes": 0, 
+            "endHour": 10,
+            "endMinutes": 0
+          },
+          {
+            "id": 5,
+            "speaker": "Harut Martirosyan",
             "title": "Transformers in 2021",
             "roomId": 3,
             "startHour": 10,
@@ -174,20 +184,10 @@
             "endMinutes": 0
           },
           {
-            "id": 5,
-            "speaker": "Harut Martirosyan",
-            "title": "Transformers in 2021",
-            "roomId": 3,
-            "startHour": 11,
-            "startMinutes": 0, 
-            "endHour": 11,
-            "endMinutes": 30
-          },
-          {
             "id": 6,
             "speaker": "",
             "key": "Coffee break",
-            "roomId": 3,
+            "roomId": 0,
             "startHour": 11,
             "startMinutes": 0, 
             "endHour": 11,
@@ -221,15 +221,15 @@
             "startHour": 11,
             "startMinutes": 30, 
             "endHour": 12,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 10,
             "speaker": "Ashot Vasilyan",
             "title": "Transformers in 2021",
             "roomId": 3,
-            "startHour": 11,
-            "startMinutes": 30, 
+            "startHour": 12,
+            "startMinutes": 0, 
             "endHour": 12,
             "endMinutes": 30
           },
@@ -237,10 +237,10 @@
             "id": 11,
             "speaker": "",
             "key": "Lunch",
-            "roomId": 3,
-            "startHour": 11,
+            "roomId": 0,
+            "startHour": 13,
             "startMinutes": 0, 
-            "endHour": 11,
+            "endHour": 14,
             "endMinutes": 30
           },
           {
@@ -248,9 +248,9 @@
             "speaker": "Victor Lempitsky",
             "title": "Transformers in 2021",
             "roomId": 0,
-            "startHour": 13,
-            "startMinutes": 0, 
-            "endHour": 14,
+            "startHour": 14,
+            "startMinutes": 30, 
+            "endHour": 15,
             "endMinutes": 30
           },
           {
