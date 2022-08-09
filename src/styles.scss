@@ -550,7 +550,7 @@ img.icon-5 {
   font-weight: 300 !important;
 }
 
-.css-1my4mrz .MainLayout-brightLeftPanelBorder {
+.css-1my4mrz .MainLayout-brightLeftPanelBorder, .css-1gyktb4.Cell-cell {
   // border: none !important;
   z-index: 100 !important;
   border-right: 1px solid #353535 !important;
@@ -588,7 +588,7 @@ img.icon-5 {
   border-right: 1px solid #353535 !important;
 }
 
-.css-xd4oto-MuiTableCell-root {
+.css-xd4oto-MuiTableCell-root, .css-f8q0de.TickCell-cell {
   border-bottom: 1px solid #353535 !important;
 }
 
@@ -598,8 +598,8 @@ img.icon-5 {
 }
 
 .Cell-text {
-  font-size: 3.8em !important;
-  line-height: 1.1666em !important;
+  // font-size: 3.8em !important;
+  // line-height: 1.1666em !important;
   width: 100% !important;
   text-align: center!important;
 }
