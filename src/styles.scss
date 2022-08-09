@@ -520,15 +520,13 @@ img.icon-5 {
 //AGENDA TABS
 
 .MuiTableBody-root .css-apqrd9-MuiTableBody-root, .MuiTableBody-root .css-1xnox0e {
-  .MuiTableRow-root .css-1gqug66 {
-    &:first-child {
-      td {
-        border-bottom: 1px solid #353535 !important;
-      }
+  &:first-child {
+    td {
+      border-bottom: 1px solid #353535 !important;
     }
-    &:last-child {
-      display: none !important;
-    }
+  }
+  &:last-child {
+    display: none !important;
   }
 }
 
