@@ -520,8 +520,15 @@ img.icon-5 {
 //AGENDA TABS
 
 .MuiTableBody-root .css-apqrd9-MuiTableBody-root, .MuiTableBody-root .css-1xnox0e {
-  &:last-child {
-    display: none !important;
+  .MuiTableRow-root .css-1gqug66 {
+    &:first-child {
+      td {
+        border-bottom: 1px solid #353535 !important;
+      }
+    }
+    &:last-child {
+      display: none !important;
+    }
   }
 }
 
@@ -604,7 +611,7 @@ img.icon-5 {
   text-align: center!important;
 }
 .css-5g40bp-MuiTableCell-root.Cell-horizontalCell {
-  border-bottom: none !important
+  // border-bottom: none !important
   
 }
 
@@ -708,6 +715,12 @@ img.icon-5 {
     color: rgba(0,0,0, .6);
   }
 
+}
+
+.panels {
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .tabs {  
@@ -1117,7 +1130,7 @@ img.icon-5 {
   }
 
   .panels {
-    display: none;;
+    display: none;
   }
 
   .css-gyiown.VerticalAppointment-content {

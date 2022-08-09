@@ -120,9 +120,10 @@
     "hourText": "hour",
     "minuteText": "min", 
     "locations": [
-      { "text": "Main Hall", "id": 0 },
-      { "text": "Manoogian Hall", "id": 1 },
-      { "text": "113W", "id": 2 }
+      { "text": "Manoogian", "id": 0 },
+      { "text": "Room 1", "id": 1 },
+      { "text": "Room 2", "id": 2 },
+      { "text": "Room 3", "id": 3 }
     ],
     "days": [
       {
@@ -134,28 +135,18 @@
         "1": [
           {
             "id": 0,
-            "title": "Registration",
-            "key": "opening",
-            "roomId": 0,
-            "startHour": 9,
-            "startMinutes": 0, 
-            "endHour": 10,
-            "endMinutes": 0 
-          },
-          {
-            "id": 1,
-            "speaker": "Grigory Sapunov",
+            "speaker": "Martin Dannelljan",
             "title": "Transformers in 2021",
-            "roomId": 1,
+            "roomId": 0,
             "startHour": 10,
             "startMinutes": 0, 
             "endHour": 11,
-            "endMinutes": 30 
+            "endMinutes": 0 
           },
           {
             "id:": 2,
-            "speaker": "Karen Hambardzumyan",
-            "title": "Prompt is all you need",
+            "speaker": "Nshan Potikyan",
+            "title": "Transformers in 2021",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 0, 
@@ -164,13 +155,23 @@
           },
           {
             "id": 3,
-            "speaker": "Stepan Sargsyan",
-            "title": "Speech enhancement in challenging conditions",
-            "roomId": 2,
-            "startHour": 12,
+            "speaker": "Grigory Sapunov",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 11,
             "startMinutes": 0, 
-            "endHour": 12,
+            "endHour": 11,
             "endMinutes": 30
+          },
+          {
+            "id": 4,
+            "speaker": "Stefan Papp",
+            "title": "Transformers in 2021",
+            "roomId": 3,
+            "startHour": 10,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 0
           }
         ]
       },
