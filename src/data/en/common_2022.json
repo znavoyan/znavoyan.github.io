@@ -286,7 +286,7 @@
           {
             "id": 16,
             "key": "break",
-            "key": "Coffee break",
+            "title": "Coffee break",
             "roomId": 0,
             "startHour": 16,
             "startMinutes": 0, 
@@ -375,7 +375,7 @@
           {
             "id": 5,
             "key": "break",
-            "key": "Coffee break",
+            "title": "Coffee break",
             "roomId": 0,
             "startHour": 11,
             "startMinutes": 0, 
