@@ -519,7 +519,7 @@ img.icon-5 {
 
 //AGENDA TABS
 
-.MuiTableBody-root .css-apqrd9-MuiTableBody-root {
+.MuiTableBody-root .css-apqrd9-MuiTableBody-root, .MuiTableBody-root .css-1xnox0e {
   &:last-child {
     display: none !important;
   }
@@ -547,6 +547,7 @@ img.icon-5 {
 
 .css-5g40bp-MuiTableCell-root .Cell-text {
   color: #fff !important;
+  font-weight: 300 !important;
 }
 
 .css-1my4mrz .MainLayout-brightLeftPanelBorder {
@@ -559,6 +560,10 @@ img.icon-5 {
   border-bottom: none !important;
 }
 
+.css-1j1oqrw {
+  border-color: #353535 !important;
+}
+
 .css-18tcpub-MuiTableCell-root.Cell-cell, .css-ngju2w-MuiTableCell-root.Cell-cell, .css-5g40bp-MuiTableCell-root.Cell-cell {
   border: 1px solid #353535 !important;
   &:hover {
@@ -568,6 +573,7 @@ img.icon-5 {
 
 .css-1gyktb4 .Cell-text {
   color:  #fff !important;
+  font-weight: 400 !important;
 }
 
 .css-aoeo82 {
@@ -587,15 +593,15 @@ img.icon-5 {
 }
 
 .VerticalAppointment-content {
-  height: 100%;
-  width: 100%;
+  height: 100% !important;
+  width: 100% !important;
 }
 
 .Cell-text {
-  font-size: 3.8em;
-  line-height: 1.1666em;
-  width: 100%;
-  text-align: center;
+  font-size: 3.8em !important;
+  line-height: 1.1666em !important;
+  width: 100% !important;
+  text-align: center!important;
 }
 .css-5g40bp-MuiTableCell-root.Cell-horizontalCell {
   border-bottom: none !important
@@ -617,13 +623,13 @@ img.icon-5 {
     height: 100px !important;
     width: 120px !important;
     overflow: initial !important;
-    position: relative;
+    position: relative !important;
     .Label-text {
-      font-size: 1.4em;
-      color: #fff;
-      position: absolute;
-      bottom: 33px;
-      right: 10px;
+      font-size: 1.4em !important;
+      color: #fff !important;
+      position: absolute !important;
+      bottom: 33px !important;
+      right: 10px !important;
     }
   }
 }
