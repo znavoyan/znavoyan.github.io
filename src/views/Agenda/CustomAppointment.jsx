@@ -53,26 +53,37 @@ const CustomAppointment = ({ style, ...restProps }) => {
     return false;
   }
 
-  console.log('restProps.data', restProps.data);
+  console.log("restProps.data", restProps.data);
   return (
     <Appointments.AppointmentContent {...restProps}>
-      <div className="agenda-container">
-        <div className="time">
-          <div className="time-preview">
-            <span className="ampm">{formatAMPM(restProps.data.startDate)}</span>
-            <br></br>
-            <span className="time-diffs">{timeConvert(mins)}</span>
-          </div>
-          <div className="course-info">
-            <div className="progress-container">
-              <span className="speaker-text">{restProps.data.speaker}</span>
+      {restProps.data.speaker && (
+        <div className="agenda-container">
+          <div className="time">
+            <div className="time-preview">
+              <span className="ampm">
+                {formatAMPM(restProps.data.startDate)}
+              </span>
               <br></br>
-              <span className="progress-text">{restProps.data.title}</span>
+              <span className="time-diffs">{timeConvert(mins)}</span>
+            </div>
+            <div className="course-info">
+              <div className="progress-container">
+                <span className="speaker-text">{restProps.data.speaker}</span>
+                <br></br>
+                <span className="progress-text">{restProps.data.title}</span>
+              </div>
             </div>
           </div>
+          <span className="room">
+            {getCurrentRoom(restProps.data.roomId).text}
+          </span>
         </div>
-        <span className="room">{getCurrentRoom(restProps.data.roomId).text}</span>
-      </div>
+      )}
+      {restProps.data.key && (
+        <div className="break-info">
+          <span className="progress-text">{restProps.data.title}</span>
+        </div>
+      )}
     </Appointments.AppointmentContent>
   );
 };

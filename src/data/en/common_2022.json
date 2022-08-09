@@ -136,7 +136,7 @@
           {
             "id": 0,
             "speaker": "Martin Dannelljan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 0,
             "startHour": 9,
             "startMinutes": 0, 
@@ -146,7 +146,7 @@
           {
             "id:": 2,
             "speaker": "Nshan Potikyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 10,
             "startMinutes": 0, 
@@ -156,7 +156,7 @@
           {
             "id": 3,
             "speaker": "Grigory Sapunov",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 10,
             "startMinutes": 0, 
@@ -166,7 +166,7 @@
           {
             "id": 4,
             "speaker": "Stefan Papp",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 9,
             "startMinutes": 0, 
@@ -176,7 +176,7 @@
           {
             "id": 5,
             "speaker": "Harut Martirosyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 10,
             "startMinutes": 0, 
@@ -185,7 +185,7 @@
           },
           {
             "id": 6,
-            "speaker": "",
+            "key": "break",
             "title": "Coffee break",
             "roomId": 0,
             "startHour": 11,
@@ -196,7 +196,7 @@
           {
             "id": 7,
             "speaker": "Conor Durkan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 30, 
@@ -206,7 +206,7 @@
           {
             "id": 8,
             "speaker": "Dinesh Pothineni",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 11,
             "startMinutes": 30, 
@@ -216,7 +216,7 @@
           {
             "id": 9,
             "speaker": "Hakob Gharagedyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 11,
             "startMinutes": 30, 
@@ -226,7 +226,7 @@
           {
             "id": 10,
             "speaker": "Ashot Vasilyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 12,
             "startMinutes": 0, 
@@ -235,7 +235,7 @@
           },
           {
             "id": 11,
-            "speaker": "",
+            "key": "break",
             "title": "Lunch",
             "roomId": 0,
             "startHour": 13,
@@ -246,7 +246,7 @@
           {
             "id": 12,
             "speaker": "Victor Lempitsky",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 0,
             "startHour": 14,
             "startMinutes": 30, 
@@ -256,7 +256,7 @@
           {
             "id": 13,
             "speaker": "Ani YN2",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 15,
             "startMinutes": 0, 
@@ -266,7 +266,7 @@
           {
             "id": 14,
             "speaker": "Omar Sanseviero",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 15,
             "startMinutes": 0, 
@@ -276,7 +276,7 @@
           {
             "id": 15,
             "speaker": "Vicente Ruben",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 15,
             "startMinutes": 0, 
@@ -285,7 +285,7 @@
           },
           {
             "id": 16,
-            "speaker": "",
+            "key": "break",
             "key": "Coffee break",
             "roomId": 0,
             "startHour": 16,
@@ -296,7 +296,7 @@
           {
             "id": 17,
             "speaker": "Mohamed Elhoseiny",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 30, 
@@ -306,7 +306,7 @@
           {
             "id": 18,
             "speaker": "Gleb Abroskin",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 16,
             "startMinutes": 30, 
@@ -316,7 +316,7 @@
           {
             "id": 19,
             "speaker": "Helen",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 16,
             "startMinutes": 30, 
@@ -335,7 +335,7 @@
           {
             "id": 0,
             "speaker": "Shavrina",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 0,
             "startHour": 9,
             "startMinutes": 0, 
@@ -345,7 +345,7 @@
           {
             "id:": 2,
             "speaker": "Tatiana Kuvshinova",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 10,
             "startMinutes": 0, 
@@ -355,7 +355,7 @@
           {
             "id": 3,
             "speaker": "Vahan Arsenyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 10,
             "startMinutes": 0, 
@@ -365,7 +365,7 @@
           {
             "id": 4,
             "speaker": "Christopher Miller",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 10,
             "startMinutes": 0, 
@@ -374,7 +374,7 @@
           },
           {
             "id": 5,
-            "speaker": "",
+            "key": "break",
             "key": "Coffee break",
             "roomId": 0,
             "startHour": 11,
@@ -385,7 +385,7 @@
           {
             "id": 6,
             "speaker": "Vazgen Mikayelyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 30, 
@@ -395,7 +395,7 @@
           {
             "id": 7,
             "speaker": "Victoria",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 12,
             "startMinutes": 0, 
@@ -405,7 +405,7 @@
           {
             "id": 8,
             "speaker": "Sevak Harutyunyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 11,
             "startMinutes": 30, 
@@ -415,7 +415,7 @@
           {
             "id": 9,
             "speaker": "Ashot Vardanyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 11,
             "startMinutes": 30, 
@@ -424,7 +424,7 @@
           },
           {
             "id": 10,
-            "speaker": "",
+            "key": "break",
             "title": "Lunch",
             "roomId": 0,
             "startHour": 13,
@@ -435,7 +435,7 @@
           {
             "id": 11,
             "speaker": "Evan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 0,
             "startHour": 14,
             "startMinutes": 30, 
@@ -445,7 +445,7 @@
           {
             "id": 12,
             "speaker": "Karen Hambardzumyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 15,
             "startMinutes": 0, 
@@ -455,7 +455,7 @@
           {
             "id": 13,
             "speaker": "Lusine Sargsyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 15,
             "startMinutes": 0, 
@@ -465,7 +465,7 @@
           {
             "id": 14,
             "speaker": "Garik Petrosyan",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 15,
             "startMinutes": 0, 
@@ -474,7 +474,7 @@
           },
           {
             "id": 15,
-            "speaker": "",
+            "key": "break",
             "title": "Coffee break",
             "roomId": 0,
             "startHour": 16,
@@ -485,7 +485,7 @@
           {
             "id": 16,
             "speaker": "Leandro von Werra",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 30, 
@@ -495,7 +495,7 @@
           {
             "id": 17,
             "speaker": "Dmitry Mironov",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 2,
             "startHour": 16,
             "startMinutes": 30, 
@@ -505,7 +505,7 @@
           {
             "id": 18,
             "speaker": "Arec Jamgochian",
-            "title": "Transformers in 2021",
+            "title": "Title should be here",
             "roomId": 3,
             "startHour": 16,
             "startMinutes": 30, 
