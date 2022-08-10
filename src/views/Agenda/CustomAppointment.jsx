@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef } from "react";
 import { differenceInMinutes, format } from "date-fns";
 import { useTranslation } from "react-i18next";
 
@@ -10,18 +10,12 @@ const CustomAppointment = ({ style, ...restProps }) => {
 
   const ref = useRef(null);
 
-  const [height, setHeight] = useState(0);
-  const [width, setWidth] = useState(0);
-
   useEffect(() => {
     if (ref && ref.current) {
-      setHeight(ref.current.offsetHeight);
-      setWidth(ref.current.offsetWidth);
       const parent = ref.current.parentElement;
       parent.parentElement.style.width = "99%";
-      // parent.parentElement.style.height = '80px';
     }
-  }, []);
+  }, [restProps]);
 
   function getCurrentRoom(roomId) {
     return locations.filter((location) => location.id === roomId)[0];
