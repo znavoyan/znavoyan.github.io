@@ -117,8 +117,6 @@
     "text": "DataFest Yerevan 2021 will be held on September 10, 11.",
     "aboveText": "",
     "bottomText": "",
-    "hourText": "hour",
-    "minuteText": "min", 
     "locations": [
       { "text": "Manoogian", "id": 0 },
       { "text": "Room 1", "id": 1 },

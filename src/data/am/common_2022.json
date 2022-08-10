@@ -117,8 +117,6 @@
     "text": "ԴատաՖեստ Երևան 2022-ը տեղի կունենա սեպտեմբերի 2-ին և 3-ին",
     "aboveText": "",
     "bottomText": "",
-    "hourText": "ժամ",
-    "minuteText": "րոպե",
     "locations": [
       { "text": "Manoogian", "id": 0 },
       { "text": "Room 1", "id": 1 },

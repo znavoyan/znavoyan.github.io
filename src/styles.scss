@@ -536,8 +536,8 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   background-color: #000 !important;
 }
 
-.css-6eykea-MuiTable-root.Table-table {
-  min-width: 950px !important;
+.css-6eykea-MuiTable-root.Table-table, .css-v0nkty-MuiTable-root.Table-table {
+  min-width: 1200px !important;
 }
 
 .css-1ps6pg7-MuiPaper-root, .css-1my4mrz .MainLayout-background, .css-1my4mrz .MainLayout-stickyElement {
@@ -640,20 +640,43 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   height: 100px !important;
 }
 
+.break-info:parent {
+   background-color: red !important;
+}
+
 .break-info {
   display: flex;
-  align-items: center;
-  padding: 1em;
+  align-items: stretch;
+  // align-items: center;
+  // padding: 1em;
   width: 100%;
-  border: 2px solid #c9509c;
+  outline: 2px solid #c9509c;
   background-color: #000;
   border-radius: 10px;
-  font-size: 2.4em;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-top: 2px;
+  margin-right: 2px;
+  margin-left: 2px;
+  .time-preview {
+    background-color: #c9509c;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    // width: 100px;
+    border: 1px solid #c9509c;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+
+  .break-text {
+    padding: 10px;
+  }
 }
 
 .agenda-container {
   margin: 0;
-  height: 100%;
+  height: 94%;
   width: 100%;
   white-space: normal;
   font-family: Futura !important;
@@ -684,7 +707,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
     color: #fff;
     text-align: center;
     padding: 10px;
-    width: 100px;
+    // width: 100px;
 
     .time-diffs {
       text-transform: capitalize;
