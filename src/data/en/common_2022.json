@@ -361,6 +361,16 @@
             "endMinutes": 30
           },
           {
+            "id": 203,
+            "speaker": "Christopher	Miller",
+            "title": "Visual Search at eBay",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
             "id": 209,
             "key": "break",
             "title": "Coffee Break",
