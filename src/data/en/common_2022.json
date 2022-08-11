@@ -163,7 +163,7 @@
           },
           {
             "id": 4,
-            "speaker": "Harut	Martirosyan",
+            "speaker": "Harut Martirosyan",
             "title": "TBA",
             "roomId": 3,
             "startHour": 11,
@@ -309,7 +309,179 @@
         "year": 2022,
         "month": 9,
         "day": 3,
-        "2": [ ]
+        "2": [ 
+          {
+            "id": 200,
+            "speaker": "Tatiana Shavrina",
+            "title": "Training and evaluating large-scale language models: the case of Armenian",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 0   
+          },
+          {
+            "id": 201,
+            "speaker": "Tatiana Kuvshinova",
+            "title": "Sentence compression for English and Russian",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30   
+          },
+          {
+            "id": 202,
+            "speaker": "Vahan Arsenyan",
+            "title": "Scaling with Ray",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 209,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30, 
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 211,
+            "speaker": "Vazgen Mikayelyan",
+            "title": "How did we build a world-class on-device automatic speech recognition system?",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 212,
+            "speaker": "Sevak Harutyunyan",
+            "title": "OCR of 11 million pages in AWS: Architecture and Challenges",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 13,
+            "endMinutes": 0 
+          },
+          {
+            "id": 213,
+            "speaker": "Ashot Vardanyan",
+            "title": "3M: Prospects and Challenges with Multi-Modal Models",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 13,
+            "endMinutes": 0 
+          },
+          {
+            "id": 2111,
+            "speaker": "Victoria Poghosian",
+            "title": "Speech recognition with hybrid models",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 30, 
+            "endHour": 13,
+            "endMinutes": 0 
+          },
+          {
+            "id": 219,
+            "key": "break",
+            "title": "Lunch",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0, 
+            "endHour": 14,
+            "endMinutes": 30 
+          },
+          {
+            "id": 230,
+            "speaker": "Evan Shelhamer",
+            "title": "Robust Visual Recognition by Test-Time Adaptation",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 30, 
+            "endHour": 15,
+            "endMinutes": 30 
+          },
+          {
+            "id": 231,
+            "speaker": "Karen Hambardzumyan",
+            "title": "TBA",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 30, 
+            "endHour": 16,
+            "endMinutes": 0 
+          },
+          {
+            "id": 232,
+            "speaker": "Lusine Sargsyan, Artak Kamalyan",
+            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 30, 
+            "endHour": 16,
+            "endMinutes": 0 
+          },
+          {
+            "id": 233,
+            "speaker": "Garik Petrosyan",
+            "title": "Drug Discovery: ML + Physics > ML",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 30, 
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 239,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 16,
+            "startMinutes": 0, 
+            "endHour": 16,
+            "endMinutes": 30
+          },
+          {
+            "id": 241,
+            "speaker": "Leandro von Werra",
+            "title": "CodeParrot and Beyond: Building Language Models for Code in the Open",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 30, 
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 242,
+            "speaker": "Dmitry Mironov",
+            "title": "TAO Toolkit. A dive into how GPU acceleration works for Deep Learning and into its optimization",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 30, 
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 243,
+            "speaker": "Arec Jamgochian",
+            "title": "Data-driven decision making",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 30, 
+            "endHour": 17,
+            "endMinutes": 30 
+          }
+
+        ]
       }
     ]
   },
