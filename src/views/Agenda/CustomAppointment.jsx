@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import { differenceInMinutes, format } from "date-fns";
+import { format } from "date-fns";
 import { useTranslation } from "react-i18next";
 
 import { Appointments } from "@devexpress/dx-react-scheduler-material-ui";
@@ -20,11 +20,6 @@ const CustomAppointment = ({ style, ...restProps }) => {
   function getCurrentRoom(roomId) {
     return locations.filter((location) => location.id === roomId)[0];
   }
-
-  const mins = differenceInMinutes(
-    restProps.data.endDate,
-    restProps.data.startDate
-  );
 
   if (!restProps) {
     return false;
