@@ -161,7 +161,6 @@
             "endHour": 11,
             "endMinutes": 30  
           },
-
           {
             "id": 4,
             "speaker": "Harut	Martirosyan",
@@ -182,8 +181,6 @@
             "endHour": 12,
             "endMinutes": 0  
           },
-
-          
           {
             "id": 11,
             "speaker": "Leandro Loos, Dinesh Pothineni, and Rikard Sandstroem",
@@ -213,7 +210,7 @@
             "startMinutes": 30, 
             "endHour": 13,
             "endMinutes": 0  
-          }
+          },
           {
             "id": 19,
             "key": "break",
