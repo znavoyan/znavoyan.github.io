@@ -119,9 +119,9 @@
     "bottomText": "",
     "locations": [
       { "text": "Manoogian", "id": 0 },
-      { "text": "Room 1", "id": 1 },
-      { "text": "Room 2", "id": 2 },
-      { "text": "Room 3", "id": 3 }
+      { "text": "113 W", "id": 1 },
+      { "text": "114 W", "id": 2 },
+      { "text": "214 W", "id": 3 }
     ],
     "days": [
       {
@@ -362,7 +362,7 @@
           },
           {
             "id": 203,
-            "speaker": "Christopher	Miller",
+            "speaker": "Christopher Miller",
             "title": "Visual Search at eBay",
             "roomId": 3,
             "startHour": 11,
