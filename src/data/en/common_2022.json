@@ -151,7 +151,7 @@
             "endHour": 9,
             "endMinutes": 55 
           },
-
+          {
             "id": 100,
             "speaker": "Martin Danelljan",
             "title": "Deep Visual Reasoning with Optimization-based Network Modules",
