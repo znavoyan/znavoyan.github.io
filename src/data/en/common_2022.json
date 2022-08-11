@@ -132,8 +132,28 @@
         "day": 2,
         "1": [
           {
-            "id": 1,
-            "speaker": "Martin Dannelljan",
+          "id": 0,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0, 
+            "endHour": 9,
+            "endMinutes": 40 
+          },
+          {
+          "id": 1000,
+            "key": "break",
+            "title": "Conference Opening",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 45, 
+            "endHour": 9,
+            "endMinutes": 55 
+          },
+
+            "id": 100,
+            "speaker": "Martin Danelljan",
             "title": "Deep Visual Reasoning with Optimization-based Network Modules",
             "roomId": 0,
             "startHour": 10,
