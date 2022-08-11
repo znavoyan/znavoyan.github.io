@@ -162,16 +162,6 @@
             "endMinutes": 0
           },
           {
-            "id": 4,
-            "speaker": "Stefan Papp",
-            "title": "Title should be here",
-            "roomId": 3,
-            "startHour": 9,
-            "startMinutes": 0, 
-            "endHour": 10,
-            "endMinutes": 0
-          },
-          {
             "id": 5,
             "speaker": "Harut Martirosyan",
             "title": "Title should be here",
