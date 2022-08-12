@@ -91,7 +91,7 @@ const Tabs = ({ days, locations }) => {
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
-            <Appointments appointmentComponent={CustomAppointment} />
+            <Appointments/>
             <Resources
               data={schedulerData.resources}
               mainResourceName="roomId"
