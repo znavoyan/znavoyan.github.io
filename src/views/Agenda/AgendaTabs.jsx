@@ -65,9 +65,11 @@ const Tabs = ({ days, locations }) => {
     ],
   };
 
-  const currentDate = format(new Date(`${selectedDay[0].year}-${selectedDay[0].month + 1}-${
+  const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-0${
     selectedDay[0].day
-  }`), 'yyyy-MM-dd');
+  }`;
+
+  console.log('currentDate', currentDate);
 
   return (
     <>
