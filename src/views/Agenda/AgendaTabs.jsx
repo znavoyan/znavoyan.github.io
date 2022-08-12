@@ -31,20 +31,20 @@ const Tabs = ({ days, locations }) => {
       key: speakerInfo.key,
       title: speakerInfo.title,
       roomId: speakerInfo.roomId,
-      startDate: format(new Date(
+      startDate: new Date(
         selectedDay[0].year,
         selectedDay[0].month,
         selectedDay[0].day,
         speakerInfo.startHour,
         speakerInfo.startMinutes
-      ).getTime(), 'MM-dd-yyyy, hh:mm'),
-      endDate: format(new Date(
+      ),
+      endDate: new Date(
         selectedDay[0].year,
         selectedDay[0].month,
         selectedDay[0].day,
         speakerInfo.endHour,
         speakerInfo.endMinutes
-        ).getTime(), 'MM-dd-yyyy, hh:mm'),
+        ),
     };
     return filteredSpeakerInfo;
   });
@@ -102,7 +102,7 @@ const Tabs = ({ days, locations }) => {
           </Scheduler>
         </Paper>
       </div>
-      <div className="cards">
+      {/* <div className="cards">
         {appointments.map((appointment, agendaIndex) => {
           return (
             <div key={agendaIndex}>
@@ -110,7 +110,7 @@ const Tabs = ({ days, locations }) => {
             </div>
           );
         })}
-      </div>
+      </div> */}
     </>
   );
 };
