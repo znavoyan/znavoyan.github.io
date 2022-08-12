@@ -87,7 +87,7 @@ const Tabs = ({ days, locations }) => {
       <div className="panels">
         <Paper>
           <Scheduler data={schedulerData.data} height={760}>
-            <ViewState currentDate='2022-10-28' />
+            <ViewState currentDate='2022-10-02' />
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
