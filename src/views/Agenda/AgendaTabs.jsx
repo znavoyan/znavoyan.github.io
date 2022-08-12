@@ -44,7 +44,7 @@ const Tabs = ({ days, locations }) => {
         selectedDay[0].day,
         speakerInfo.endHour,
         speakerInfo.endMinutes
-      ),
+        ),
     };
     return filteredSpeakerInfo;
   });
@@ -65,11 +65,10 @@ const Tabs = ({ days, locations }) => {
     ],
   };
 
-  const currentDate = format(new Date(`${selectedDay[0].year}-${selectedDay[0].month + 1}-${
+  const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-${
     selectedDay[0].day
-  }`), 'yyyy-MM-dd');
+  }`;
 
-  console.log('currentDate', currentDate);
   return (
     <>
       <div className="tabs">
@@ -87,12 +86,12 @@ const Tabs = ({ days, locations }) => {
       </div>
       <div className="panels">
         <Paper>
-          <Scheduler data={schedulerData.data} locale="fr-FR" height={760}>
-            <ViewState currentDate="2022-10-02" />
+          <Scheduler data={schedulerData.data} height={760}>
+            <ViewState currentDate={`${"2022-10-02"}`} />
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
-            <Appointments appointmentComponent={CustomAppointment} />
+            <Appointments/>
             <Resources
               data={schedulerData.resources}
               mainResourceName="roomId"
