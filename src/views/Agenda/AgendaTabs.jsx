@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { format } from "date-fns";
 import Paper from "@mui/material/Paper";
 import {
   ViewState,
@@ -44,7 +43,7 @@ const Tabs = ({ days, locations }) => {
         selectedDay[0].day,
         speakerInfo.endHour,
         speakerInfo.endMinutes
-        ),
+      ),
     };
     return filteredSpeakerInfo;
   });
@@ -65,11 +64,9 @@ const Tabs = ({ days, locations }) => {
     ],
   };
 
-  const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-0${
-    selectedDay[0].day
+  const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-${
+    selectedDay[0].day.toString().length === 1 ? `0${selectedDay[0].day}` : selectedDay[0].day
   }`;
-
-  console.log('currentDate', currentDate);
 
   return (
     <>
@@ -88,12 +85,12 @@ const Tabs = ({ days, locations }) => {
       </div>
       <div className="panels">
         <Paper>
-          <Scheduler data={schedulerData.data} height={760}>
-            <ViewState currentDate={`${currentDate}`} />
+          <Scheduler data={schedulerData.data} locale="fr-FR" height={760}>
+            <ViewState currentDate={currentDate} />
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
-            <Appointments/>
+            <Appointments appointmentComponent={CustomAppointment} />
             <Resources
               data={schedulerData.resources}
               mainResourceName="roomId"
