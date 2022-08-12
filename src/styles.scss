@@ -548,9 +548,21 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   z-index: 200 !important;
 }
 
-.css-5g40bp-MuiTableCell-root .Cell-text, .css-xtpogp.Cell-text {
+.css-5g40bp-MuiTableCell-root .Cell-text {
   color: #fff !important;
   font-weight: 300 !important;
+}
+
+.css-xtpogp {
+  .Cell-text {
+    color: #fff !important;
+    font-weight: 300 !important;
+  }
+}
+
+
+.css-1e3b25u {
+  display: none !important;
 }
 
 .css-1my4mrz .MainLayout-brightLeftPanelBorder, .css-1gyktb4.Cell-cell {
@@ -611,7 +623,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   
 }
 
-.css-1675apn-MuiTableCell-root {
+.css-1675apn-MuiTableCell-root, .MuiTableRow-root.css-1gqug66 {
   display: none !important;
 }
 .MuiTableCell-root {
