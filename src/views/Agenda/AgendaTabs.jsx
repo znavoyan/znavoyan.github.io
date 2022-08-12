@@ -37,14 +37,14 @@ const Tabs = ({ days, locations }) => {
         selectedDay[0].day,
         speakerInfo.startHour,
         speakerInfo.startMinutes
-      ), 'MM-dd-yyyy HH:mm'),
+      ), 'MM-dd-yyyy, hh:mm'),
       endDate: format(new Date(
         selectedDay[0].year,
         selectedDay[0].month,
         selectedDay[0].day,
         speakerInfo.endHour,
         speakerInfo.endMinutes
-        ), 'MM-dd-yyyy HH:mm'),
+        ), 'MM-dd-yyyy, hh:mm'),
     };
     return filteredSpeakerInfo;
   });
