@@ -44,7 +44,7 @@ const Tabs = ({ days, locations }) => {
         selectedDay[0].day,
         speakerInfo.endHour,
         speakerInfo.endMinutes
-        ),
+      ),
     };
     return filteredSpeakerInfo;
   });
@@ -65,9 +65,9 @@ const Tabs = ({ days, locations }) => {
     ],
   };
 
-  const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-${
+  const currentDate = format(new Date(`${selectedDay[0].year}-${selectedDay[0].month + 1}-${
     selectedDay[0].day
-  }`;
+  }`), 'yyyy-MM-dd');
 
   return (
     <>
@@ -86,12 +86,12 @@ const Tabs = ({ days, locations }) => {
       </div>
       <div className="panels">
         <Paper>
-          <Scheduler data={schedulerData.data} height={760}>
-            <ViewState currentDate='2022-10-02' />
+          <Scheduler data={schedulerData.data} locale="fr-FR" height={760}>
+            <ViewState currentDate={currentDate} />
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
-            <Appointments/>
+            <Appointments appointmentComponent={CustomAppointment} />
             <Resources
               data={schedulerData.resources}
               mainResourceName="roomId"
@@ -102,7 +102,7 @@ const Tabs = ({ days, locations }) => {
           </Scheduler>
         </Paper>
       </div>
-      {/* <div className="cards">
+      <div className="cards">
         {appointments.map((appointment, agendaIndex) => {
           return (
             <div key={agendaIndex}>
@@ -110,7 +110,7 @@ const Tabs = ({ days, locations }) => {
             </div>
           );
         })}
-      </div> */}
+      </div>
     </>
   );
 };
