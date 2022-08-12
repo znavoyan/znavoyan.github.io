@@ -660,7 +660,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   // align-items: center;
   // padding: 1em;
   width: 100%;
-  outline: 2px solid #c9509c;
+  border: 2px solid #c9509c;
   background-color: #000;
   -webkit-border-radius: 10px !important;
   -moz-border-radius: 10px !important;
@@ -677,9 +677,12 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
     text-align: center;
     padding: 10px;
     // width: 100px;
-    border: 1px solid #c9509c;
+    border: 2px solid #c9509c;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
+    margin-left: -1px;
+    margin-top: -1px;
+    margin-bottom: -1px;
   }
 
   .break-text {
