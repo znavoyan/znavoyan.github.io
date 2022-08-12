@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Paper from "@mui/material/Paper";
 import {
   ViewState,
@@ -67,6 +67,15 @@ const Tabs = ({ days, locations }) => {
   const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-${
     selectedDay[0].day.toString().length === 1 ? `0${selectedDay[0].day}` : selectedDay[0].day
   }`;
+
+  useEffect(() => {
+    
+    const breakItems = document.querySelectorAll(".toggleWidth");
+    console.log('breakItems', breakItems);
+    [].map.call(breakItems, function(el) {
+      el.className = el.className.replace(/\btoggleWidth\b/, "");
+  });
+  },[activeIndex]);
 
   return (
     <>

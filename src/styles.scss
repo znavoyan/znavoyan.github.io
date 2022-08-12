@@ -666,7 +666,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   -moz-border-radius: 10px !important;
   border-radius: 10px !important;
   -khtml-border-radius: 10px !important;
-  font-size: 16px;
+  font-size: 1.6em;
   margin-bottom: 10px;
   margin-top: 2px;
   margin-right: 2px;
@@ -690,6 +690,10 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   }
 }
 
+.toggleWidth {
+  width: 99% !important;
+}
+
 .agenda-container {
   margin: 0;
   height: 94%;
@@ -709,9 +713,8 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   }
   
   .time span {
-    font-size: 16px;
+    font-size: 1.6em;
     margin: 0;
-    letter-spacing: 1px;
   }
 
   .ampm {
@@ -723,6 +726,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
     color: #fff;
     text-align: center;
     padding: 10px;
+    letter-spacing: 1px;
     // width: 100px;
 
     .time-diffs {
@@ -745,7 +749,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
    
   .progress-text {  
     color: #fff;
-    letter-spacing: 1px;
+    // letter-spacing: 1px;
   }
 
   .room {
