@@ -65,9 +65,9 @@ const Tabs = ({ days, locations }) => {
     ],
   };
 
-  const currentDate = `${selectedDay[0].year}-${selectedDay[0].month + 1}-${
+  const currentDate = format(new Date(`${selectedDay[0].year}-${selectedDay[0].month + 1}-${
     selectedDay[0].day
-  }`;
+  }`), 'yyyy-MM-dd');
 
   return (
     <>
@@ -87,7 +87,7 @@ const Tabs = ({ days, locations }) => {
       <div className="panels">
         <Paper>
           <Scheduler data={schedulerData.data} height={760}>
-            <ViewState currentDate={`${"2022-10-02"}`} />
+            <ViewState currentDate={`${currentDate}`} />
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
