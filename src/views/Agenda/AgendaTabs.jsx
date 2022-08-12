@@ -12,7 +12,6 @@ import {
   Appointments,
   GroupingPanel,
   DayView,
-  WeekView,
 } from "@devexpress/dx-react-scheduler-material-ui";
 
 import CustomAppointment from "./CustomAppointment";
@@ -88,10 +87,10 @@ const Tabs = ({ days, locations }) => {
       <div className="panels">
         <Paper>
           <Scheduler data={schedulerData.data} height={760}>
-            <ViewState currentDate={currentDate} />
+            <ViewState currentDate='2022-10-03' />
             <GroupingState grouping={schedulerData.grouping} />
 
-            <WeekView startDayHour={8.5} endDayHour={20} />
+            <DayView startDayHour={8.5} endDayHour={20} />
             <Appointments/>
             <Resources
               data={schedulerData.resources}
