@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { format } from "date-fns";
 import Paper from "@mui/material/Paper";
 import {
   ViewState,
@@ -30,20 +31,20 @@ const Tabs = ({ days, locations }) => {
       key: speakerInfo.key,
       title: speakerInfo.title,
       roomId: speakerInfo.roomId,
-      startDate: new Date(
+      startDate: format(new Date(
         selectedDay[0].year,
         selectedDay[0].month,
         selectedDay[0].day,
         speakerInfo.startHour,
         speakerInfo.startMinutes
-      ),
-      endDate: new Date(
+      ), 'MM-dd-yyyy HH:mm'),
+      endDate: format(new Date(
         selectedDay[0].year,
         selectedDay[0].month,
         selectedDay[0].day,
         speakerInfo.endHour,
         speakerInfo.endMinutes
-      ),
+        ), 'MM-dd-yyyy HH:mm'),
     };
     return filteredSpeakerInfo;
   });
@@ -90,7 +91,7 @@ const Tabs = ({ days, locations }) => {
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
-            <Appointments appointmentComponent={CustomAppointment} />
+            <Appointments/>
             <Resources
               data={schedulerData.resources}
               mainResourceName="roomId"

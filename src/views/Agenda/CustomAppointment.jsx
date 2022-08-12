@@ -32,11 +32,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
           <div className="time">
             <div className="time-preview">
               <span>
-                {format(restProps.data.startDate, "HH:mm")}
+                {/* {format(restProps.data.startDate, "HH:mm")} */}
               </span>
               <br></br>
               <span>
-                {format(restProps.data.endDate, "HH:mm")}
+                {/* {format(restProps.data.endDate, "HH:mm")} */}
               </span>
             </div>
             <div className="course-info">
@@ -56,11 +56,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
         <div className="break-info" ref={ref}>
           <div className="time-preview">
               <span>
-                {format(restProps.data.startDate, "HH:mm")}
+                {/* {format(restProps.data.startDate, "HH:mm")} */}
               </span>
               <br></br>
               <span>
-                {format(restProps.data.endDate, "HH:mm")}
+                {/* {format(restProps.data.endDate, "HH:mm")} */}
               </span>
             </div>
           <div class="break-text">{restProps.data.title}</div>
