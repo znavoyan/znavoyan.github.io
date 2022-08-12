@@ -524,6 +524,10 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-top: 1px solid #353535 !important;
 }
 
+.css-xtpogp.Cell-cel {
+  border-color: #353535 !important;
+}
+
 .css-1m1e8dc.Cell-brightRightBorder {
   display: none !important;
 }
@@ -566,10 +570,8 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-right: 1px solid #353535 !important;
 }
 
-.MuiTableBody-root .css-1xnox0e {
-  &:last-child {
-    display: none !important;
-  }
+.css-1e3b25u.Cell-brightRightBorder {
+  display: none !important;
 }
 
 .css-1my4mrz .MainLayout-brightHeaderBorder {
@@ -660,10 +662,10 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   width: 100%;
   outline: 2px solid #c9509c;
   background-color: #000;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  -khtml-border-radius: 10px;
+  -webkit-border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+  border-radius: 10px !important;
+  -khtml-border-radius: 10px !important;
   font-size: 16px;
   margin-bottom: 10px;
   margin-top: 2px;
