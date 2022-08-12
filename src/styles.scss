@@ -566,7 +566,13 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-right: 1px solid #353535 !important;
 }
 
-.css-1my4mrz .MainLayout-brightHeaderBorder, .css-1e3b25u {
+.MuiTableBody-root .css-1xnox0e {
+  &:last-child {
+    display: none !important;
+  }
+}
+
+.css-1my4mrz .MainLayout-brightHeaderBorder {
   border-bottom: none !important;
 }
 
