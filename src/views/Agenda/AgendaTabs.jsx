@@ -69,6 +69,8 @@ const Tabs = ({ days, locations }) => {
     selectedDay[0].day
   }`;
 
+  console.log('currentDate', currentDate);
+
   return (
     <>
       <div className="tabs">
@@ -87,7 +89,7 @@ const Tabs = ({ days, locations }) => {
       <div className="panels">
         <Paper>
           <Scheduler data={schedulerData.data} height={760}>
-            <ViewState currentDate='2022-10-03' />
+            <ViewState currentDate={currentDate} />
             <GroupingState grouping={schedulerData.grouping} />
 
             <DayView startDayHour={8.5} endDayHour={20} />
