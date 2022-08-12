@@ -12,6 +12,7 @@ import {
   Appointments,
   GroupingPanel,
   DayView,
+  WeekView,
 } from "@devexpress/dx-react-scheduler-material-ui";
 
 import CustomAppointment from "./CustomAppointment";
