@@ -174,12 +174,12 @@
           {
             "id": 3,
             "speaker": "Grigory Sapunov",
-            "title": "TBA",
+            "title": "Hardware for Deep Learning",
             "roomId": 2,
-            "startHour": 11,
+            "startHour": 12,
             "startMinutes": 0, 
-            "endHour": 11,
-            "endMinutes": 30  
+            "endHour": 13,
+            "endMinutes": 0  
           },
           {
             "id": 4,
@@ -240,6 +240,16 @@
             "startMinutes": 0, 
             "endHour": 14,
             "endMinutes": 30  
+          },
+          {
+            "id": 232,
+            "speaker": "Lusine Sargsyan, Artak Kamalyan",
+            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0, 
+            "endHour": 11,
+            "endMinutes": 30 
           },
           {
             "id": 20,
@@ -451,19 +461,19 @@
             "endMinutes": 0 
           },
           {
-            "id": 232,
-            "speaker": "Lusine Sargsyan, Artak Kamalyan",
-            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "id": 233,
+            "speaker": "Garik Petrosyan",
+            "title": "Drug Discovery: ML + Physics > ML",
             "roomId": 2,
             "startHour": 15,
             "startMinutes": 30, 
             "endHour": 16,
-            "endMinutes": 0 
+            "endMinutes": 0
           },
           {
-            "id": 233,
-            "speaker": "Garik Petrosyan",
-            "title": "Drug Discovery: ML + Physics > ML",
+            "id": 2331,
+            "speaker": "Manvel Avetisyan",
+            "title": "An Overview of Reinforcement Learning for Electronic Design Automation",
             "roomId": 3,
             "startHour": 15,
             "startMinutes": 30, 
