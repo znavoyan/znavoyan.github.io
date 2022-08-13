@@ -1183,7 +1183,9 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
       padding: 10px;
     }
   }
+}
 
+@media screen and (max-width: 850px) {
   .panels {
     display: none;
     margin-bottom: 0 !important;
