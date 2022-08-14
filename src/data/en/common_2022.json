@@ -14,7 +14,10 @@
         "key": "agenda"
       }
     ],
-    "pastEvents": [2020, 2021],
+    "pastEvents": [
+      2020,
+      2021
+    ],
     "register": "Free Registration",
     "registerUrl": "https://forms.gle/mPQvUMppSBMigQbu6"
   },
@@ -49,17 +52,17 @@
     "aboveText": "",
     "bottomText": "",
     "generalSponsorsList": [
-        {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
         "linkedUrl": "https://intent.ai/",
         "width": "17.3em"
       },
-        {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
         "linkedUrl": "https://www.digitain.com/",
         "width": "24.3em"
       },
-       {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/PMI-Science1_e6il7c_llnuzg.png",
         "linkedUrl": "https://www.pmiscience.com/en/",
         "width": "24.3em"
@@ -76,17 +79,17 @@
       }
     ],
     "sponsorsList": [
-       {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/AimStack_gn0hgk_wrrgmy.png",
         "linkedUrl": "",
         "width": "17.3em"
       },
-       {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/krisp_aexifh_j9kane.png",
         "linkedUrl": "https://krisp.ai/",
         "width": "15.2em"
       },
-       {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
         "linkedUrl": "https://www.onetick.com/",
         "width": "24.3em"
@@ -118,38 +121,45 @@
     "aboveText": "",
     "bottomText": "",
     "locations": [
-      { "text": "Manoogian", "id": 0 },
-      { "text": "113 W", "id": 1 },
-      { "text": "114 W", "id": 2 },
-      { "text": "214 W", "id": 3 }
+      {
+        "text": "Manoogian",
+        "id": 0
+      },
+      {
+        "text": "113 W",
+        "id": 1
+      },
+      {
+        "text": "114 W",
+        "id": 2
+      },
+      {
+        "text": "214 W",
+        "id": 3
+      }
     ],
     "days": [
       {
-        "date": "September 2",
-        "dateIndex": "1",
-        "year": 2022,
-        "month": 9,
-        "day": 2,
         "1": [
           {
-          "id": 0,
+            "id": 0,
             "key": "break",
             "title": "Registration",
             "roomId": 0,
             "startHour": 9,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 9,
-            "endMinutes": 40 
+            "endMinutes": 40
           },
           {
-          "id": 1000,
+            "id": 1000,
             "key": "break",
             "title": "Conference Opening",
             "roomId": 0,
             "startHour": 9,
-            "startMinutes": 40, 
+            "startMinutes": 40,
             "endHour": 10,
-            "endMinutes": 0 
+            "endMinutes": 0
           },
           {
             "id": 100,
@@ -157,9 +167,9 @@
             "title": "Deep Visual Reasoning with Optimization-based Network Modules",
             "roomId": 0,
             "startHour": 10,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 0 
+            "endMinutes": 0
           },
           {
             "id": 2,
@@ -167,9 +177,9 @@
             "title": "What's new in YOLO series of object detectors",
             "roomId": 1,
             "startHour": 11,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30  
+            "endMinutes": 30
           },
           {
             "id": 3,
@@ -177,19 +187,19 @@
             "title": "Hardware for Deep Learning",
             "roomId": 1,
             "startHour": 12,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0  
+            "endMinutes": 0
           },
           {
             "id": 4,
             "speaker": "Harut Martirosyan",
-            "title": "TBA",
+            "title": "Apache Spark on Hadoop vs on Kubernetes",
             "roomId": 3,
             "startHour": 11,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30  
+            "endMinutes": 30
           },
           {
             "id": 10,
@@ -197,9 +207,9 @@
             "title": "Coffee Break",
             "roomId": 0,
             "startHour": 11,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 12,
-            "endMinutes": 0  
+            "endMinutes": 0
           },
           {
             "id": 11,
@@ -207,9 +217,9 @@
             "title": "The journey of scaling the advanced analytics environment for data exploration",
             "roomId": 2,
             "startHour": 12,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0  
+            "endMinutes": 0
           },
           {
             "id": 12,
@@ -217,9 +227,9 @@
             "title": "Building Self Service inside Data Engineering",
             "roomId": 3,
             "startHour": 12,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 12,
-            "endMinutes": 30  
+            "endMinutes": 30
           },
           {
             "id": 13,
@@ -227,9 +237,9 @@
             "title": "How a curated data collection and sharing service generates value for the customers",
             "roomId": 3,
             "startHour": 12,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 13,
-            "endMinutes": 0  
+            "endMinutes": 0
           },
           {
             "id": 19,
@@ -237,9 +247,9 @@
             "title": "Lunch",
             "roomId": 0,
             "startHour": 13,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 14,
-            "endMinutes": 30  
+            "endMinutes": 0
           },
           {
             "id": 232,
@@ -247,9 +257,9 @@
             "title": "Application of dynamic model optimization on high volume financial lead management system",
             "roomId": 2,
             "startHour": 11,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30 
+            "endMinutes": 30
           },
           {
             "id": 20,
@@ -257,9 +267,9 @@
             "title": "Towards high-resolution reconstructions of the world",
             "roomId": 0,
             "startHour": 14,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 15,
-            "endMinutes": 30  
+            "endMinutes": 30
           },
           {
             "id": 21,
@@ -267,9 +277,9 @@
             "title": "TBA",
             "roomId": 1,
             "startHour": 15,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0  
+            "endMinutes": 0
           },
           {
             "id": 22,
@@ -277,9 +287,9 @@
             "title": "Craft amazing Machine Learning demos",
             "roomId": 2,
             "startHour": 15,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0   
+            "endMinutes": 0
           },
           {
             "id": 23,
@@ -287,9 +297,9 @@
             "title": "Building high-performance data teams",
             "roomId": 3,
             "startHour": 15,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0   
+            "endMinutes": 0
           },
           {
             "id": 29,
@@ -297,9 +307,9 @@
             "title": "Coffee Break",
             "roomId": 0,
             "startHour": 16,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 16,
-            "endMinutes": 30  
+            "endMinutes": 30
           },
           {
             "id": 31,
@@ -307,9 +317,9 @@
             "title": "Imagination supervised Machines that can See, Create, Drive, and Feel",
             "roomId": 1,
             "startHour": 16,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 30  
+            "endMinutes": 30
           },
           {
             "id": 32,
@@ -317,9 +327,9 @@
             "title": "How and why we update models 100s of times a day",
             "roomId": 2,
             "startHour": 16,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 30   
+            "endMinutes": 30
           },
           {
             "id": 33,
@@ -327,28 +337,28 @@
             "title": "Robustness in Deep Learning: From Adversarial Attacks to Certifiable Robustness",
             "roomId": 3,
             "startHour": 16,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 30  
+            "endMinutes": 30
           }
-        ]
-      },
-      {
-        "date": "September 3",
-        "dateIndex": "2",
+        ],
+        "date": "September 2",
+        "dateIndex": "1",
         "year": 2022,
         "month": 9,
-        "day": 3,
-        "2": [ 
+        "day": 2
+      },
+      {
+        "2": [
           {
             "id": 200,
             "speaker": "Tatiana Shavrina",
             "title": "Training and evaluating large-scale language models: the case of Armenian",
             "roomId": 0,
             "startHour": 10,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 0   
+            "endMinutes": 0
           },
           {
             "id": 201,
@@ -356,9 +366,9 @@
             "title": "Sentence compression for English and Russian",
             "roomId": 1,
             "startHour": 11,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30   
+            "endMinutes": 30
           },
           {
             "id": 202,
@@ -366,7 +376,7 @@
             "title": "Scaling with Ray",
             "roomId": 2,
             "startHour": 11,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30
           },
@@ -376,7 +386,7 @@
             "title": "Visual Search at eBay",
             "roomId": 3,
             "startHour": 11,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30
           },
@@ -386,7 +396,7 @@
             "title": "Coffee Break",
             "roomId": 0,
             "startHour": 11,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 12,
             "endMinutes": 0
           },
@@ -396,7 +406,7 @@
             "title": "How did we build a world-class on-device automatic speech recognition system?",
             "roomId": 1,
             "startHour": 12,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 30
           },
@@ -406,9 +416,9 @@
             "title": "OCR of 11 million pages in AWS: Architecture and Challenges",
             "roomId": 2,
             "startHour": 12,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0 
+            "endMinutes": 0
           },
           {
             "id": 213,
@@ -416,9 +426,9 @@
             "title": "3M: Prospects and Challenges with Multi-Modal Models",
             "roomId": 3,
             "startHour": 12,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0 
+            "endMinutes": 0
           },
           {
             "id": 2111,
@@ -426,9 +436,9 @@
             "title": "Speech recognition with hybrid models",
             "roomId": 1,
             "startHour": 12,
-            "startMinutes": 30, 
+            "startMinutes": 30,
             "endHour": 13,
-            "endMinutes": 0 
+            "endMinutes": 0
           },
           {
             "id": 219,
@@ -436,9 +446,9 @@
             "title": "Lunch",
             "roomId": 0,
             "startHour": 13,
-            "startMinutes": 0, 
+            "startMinutes": 0,
             "endHour": 14,
-            "endMinutes": 30 
+            "endMinutes": 0
           },
           {
             "id": 230,
@@ -446,9 +456,9 @@
             "title": "Robust Visual Recognition by Test-Time Adaptation",
             "roomId": 0,
             "startHour": 14,
-            "startMinutes": 30, 
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 30 
+            "endMinutes": 0
           },
           {
             "id": 231,
@@ -456,9 +466,9 @@
             "title": "TBA",
             "roomId": 1,
             "startHour": 15,
-            "startMinutes": 30, 
-            "endHour": 16,
-            "endMinutes": 0 
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
           },
           {
             "id": 233,
@@ -466,9 +476,9 @@
             "title": "Drug Discovery: ML + Physics > ML",
             "roomId": 2,
             "startHour": 15,
-            "startMinutes": 30, 
-            "endHour": 16,
-            "endMinutes": 0
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
           },
           {
             "id": 2331,
@@ -476,19 +486,19 @@
             "title": "An Overview of Reinforcement Learning for Electronic Design Automation",
             "roomId": 3,
             "startHour": 15,
-            "startMinutes": 30, 
-            "endHour": 16,
-            "endMinutes": 0
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
           },
           {
             "id": 239,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
-            "startHour": 16,
-            "startMinutes": 0, 
+            "startHour": 15,
+            "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 241,
@@ -496,9 +506,9 @@
             "title": "CodeParrot and Beyond: Building Language Models for Code in the Open",
             "roomId": 1,
             "startHour": 16,
-            "startMinutes": 30, 
+            "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 242,
@@ -506,9 +516,9 @@
             "title": "TAO Toolkit. A dive into how GPU acceleration works for Deep Learning and into its optimization",
             "roomId": 2,
             "startHour": 16,
-            "startMinutes": 30, 
+            "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 243,
@@ -516,12 +526,16 @@
             "title": "Data-driven decision making",
             "roomId": 3,
             "startHour": 16,
-            "startMinutes": 30, 
+            "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30 
+            "endMinutes": 0
           }
-
-        ]
+        ],
+        "date": "September 3",
+        "dateIndex": "2",
+        "year": 2022,
+        "month": 9,
+        "day": 3
       }
     ]
   },
@@ -568,13 +582,13 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-     {
+      {
         "name": "Victor",
         "surname": "Lempitsky",
         "position": "Computer vision researcher",
         "linkedUrl": "https://www.linkedin.com/in/victor-lempitsky-73aa2b3b/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Victor_Lempitsky_skmlwg_vggfex.png"
-      }, 
+      },
       {
         "name": "Gleb",
         "surname": "Abroskin",
@@ -582,7 +596,7 @@
         "company": "Funcorp",
         "linkedUrl": "https://www.linkedin.com/in/gasabr/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Gleb_Abroskin_zgz4ns_u6ikn1.png"
-      }, 
+      },
       {
         "name": "Leandro",
         "surname": "von Werra",
@@ -590,7 +604,7 @@
         "company": "HuggingFace",
         "linkedUrl": "https://www.linkedin.com/in/lvwerra/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Leandro_Von_Werra_ik3ktn_fgyy3v.png"
-      }, 
+      },
       {
         "name": "Omar",
         "surname": "Sanseviero",
@@ -598,8 +612,8 @@
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/omarsanseviero/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Omar_Sanseviero_dejcta_ojwutt.png"
-      }, 
-     {
+      },
+      {
         "name": "Tatiana",
         "surname": "Shavrina",
         "position": "Director of key research projects: NLP, Multimodality at AIRI, Chief Technology Expert, NLP at",
@@ -639,7 +653,7 @@
         "linkedUrl": "https://www.linkedin.com/in/dima-mironov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Dmitry_Mironov_oswvpx_hjdpwk.png"
       },
-     {
+      {
         "name": "Leandro",
         "surname": "Loos",
         "position": "DevOps Engineering Lead at",
@@ -671,7 +685,7 @@
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Grigory_Sapunov_hejdil_vqghyh_ocpd2c.png"
       },
-       {
+      {
         "name": "Conor",
         "surname": "Durkan",
         "position": "Research Scientist at",
@@ -679,7 +693,7 @@
         "linkedUrl": "https://uk.linkedin.com/in/conor-durkan-01204691",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Conor_Durkan_eefvxa_hxkpuo.png"
       },
-        {
+      {
         "name": "Martin",
         "surname": "Danelljan",
         "position": "Research Team Leader at",
@@ -703,7 +717,7 @@
         "linkedUrl": "https://www.linkedin.com/in/lusine-sargsyan-0b50638b/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Lusine_Sargsyan_mhsshl_zo2ttz.png"
       },
-       {
+      {
         "name": "Tatiana",
         "surname": "Kuvshinova",
         "position": "Data Scientist at",
@@ -743,7 +757,7 @@
         "linkedUrl": "https://www.linkedin.com/in/vrdelpino/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Ruben_Del_Pino_j6sugo_v8oifc.png"
       },
-       {
+      {
         "name": "Hakob",
         "surname": "Gharagedyan",
         "position": "Data Engineering Manager",
@@ -759,7 +773,7 @@
         "linkedUrl": "https://www.linkedin.com/in/anna-azizian/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Anna_Azizyann_qaxekt_zdnctt.png"
       },
-         {
+      {
         "name": "Nshan",
         "surname": "Potikyan",
         "position": "AI Engineer",
@@ -767,7 +781,7 @@
         "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Nshan_Potikyann_eobxbh_b6axvd.png"
       },
-         {
+      {
         "name": "Ashot ",
         "surname": "Vardanyan",
         "position": "Founder",
@@ -775,7 +789,7 @@
         "linkedUrl": "http://linkedin.com/in/ashvardanian",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Ashot_Vardanian_q9jbns_lsjyyx.png"
       },
-         {
+      {
         "name": "Harut",
         "surname": "Martirosyan",
         "position": "CTO",
@@ -783,7 +797,7 @@
         "linkedUrl": "https://www.linkedin.com/in/harutyun/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Harut_Martirosyan_euxk3c_wnltqo.png"
       },
-         {
+      {
         "name": "Elen",
         "surname": "Vardanyan",
         "position": "Adjunct Lecturer of Deep Learning",
@@ -791,7 +805,7 @@
         "linkedUrl": "https://www.linkedin.com/in/elenvardanyan",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Elen_Vardanyan_evr1ec_qfg8jw.png"
       },
-       {
+      {
         "name": "Garik",
         "surname": "Petrosyan",
         "position": "Lead ML Engineer ",
@@ -799,7 +813,7 @@
         "linkedUrl": "https://www.linkedin.com/in/garik-petrosyan-289411ba",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Garik_Petrosyan_pciwm7_z3sarl.png"
       },
-         {
+      {
         "name": "Victoria",
         "surname": "Poghosian",
         "position": "Senior ML Engineer",
