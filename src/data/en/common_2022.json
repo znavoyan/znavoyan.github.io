@@ -267,9 +267,9 @@
             "title": "Towards high-resolution reconstructions of the world",
             "roomId": 0,
             "startHour": 14,
-            "startMinutes": 30,
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 21,
@@ -277,9 +277,9 @@
             "title": "TBA",
             "roomId": 1,
             "startHour": 15,
-            "startMinutes": 30,
-            "endHour": 16,
-            "endMinutes": 0
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
           },
           {
             "id": 22,
@@ -287,9 +287,9 @@
             "title": "Craft amazing Machine Learning demos",
             "roomId": 2,
             "startHour": 15,
-            "startMinutes": 30,
-            "endHour": 16,
-            "endMinutes": 0
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
           },
           {
             "id": 23,
@@ -297,19 +297,19 @@
             "title": "Building high-performance data teams",
             "roomId": 3,
             "startHour": 15,
-            "startMinutes": 30,
-            "endHour": 16,
-            "endMinutes": 0
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
           },
           {
             "id": 29,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
-            "startHour": 16,
-            "startMinutes": 0,
+            "startHour": 15,
+            "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 31,
@@ -317,9 +317,9 @@
             "title": "Imagination supervised Machines that can See, Create, Drive, and Feel",
             "roomId": 1,
             "startHour": 16,
-            "startMinutes": 30,
+            "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 32,
@@ -327,9 +327,9 @@
             "title": "How and why we update models 100s of times a day",
             "roomId": 2,
             "startHour": 16,
-            "startMinutes": 30,
+            "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 0
           },
           {
             "id": 33,
@@ -337,9 +337,9 @@
             "title": "Robustness in Deep Learning: From Adversarial Attacks to Certifiable Robustness",
             "roomId": 3,
             "startHour": 16,
-            "startMinutes": 30,
+            "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 0
           }
         ],
         "date": "September 2",
