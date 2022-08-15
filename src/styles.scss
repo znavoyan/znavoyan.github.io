@@ -538,7 +538,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   }
 }
 
-.css-1ornk14.Cell-cell {
+.Cell-cell {
   border-color: #353535 !important;
 }
 
@@ -649,8 +649,8 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   width: 100% !important;
   text-align: center!important;
 }
-.css-5g40bp-MuiTableCell-root.Cell-horizontalCell {
-  // border-bottom: none !important
+.Cell-horizontalCell {
+  border-top: 1px solid #353535 !important;
 }
 
 .css-1675apn-MuiTableCell-root {
