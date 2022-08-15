@@ -192,16 +192,6 @@
             "endMinutes": 30
           },
           {
-            "id": 3,
-            "speaker": "Grigory Sapunov",
-            "title": "Hardware for Deep Learning",
-            "roomId": 1,
-            "startHour": 12,
-            "startMinutes": 0,
-            "endHour": 13,
-            "endMinutes": 0
-          },
-          {
             "id": 4,
             "speaker": "Harut Martirosyan",
             "title": "Apache Spark on Hadoop vs on Kubernetes",
@@ -222,16 +212,6 @@
             "endMinutes": 0
           },
           {
-            "id": 11,
-            "speaker": "Leandro Loos, Dinesh Pothineni, and Rikard Sandstroem",
-            "title": "The journey of scaling the advanced analytics environment for data exploration",
-            "roomId": 2,
-            "startHour": 12,
-            "startMinutes": 0,
-            "endHour": 13,
-            "endMinutes": 0
-          },
-          {
             "id": 12,
             "speaker": "Hakob Gharagedyan, Anna Azizyan",
             "title": "Building Self Service inside Data Engineering",
@@ -240,6 +220,26 @@
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 30
+          },
+          {
+            "id": 3,
+            "speaker": "Grigory Sapunov",
+            "title": "Hardware for Deep Learning",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 11,
+            "speaker": "Leandro Loos, Dinesh Pothineni, and Rikard Sandstroem",
+            "title": "The journey of scaling the advanced analytics environment for data exploration",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
           },
           {
             "id": 13,
