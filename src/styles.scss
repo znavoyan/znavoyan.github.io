@@ -524,6 +524,30 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-top: 1px solid #353535 !important;
 }
 
+.MainLayout-background, .css-1422l14 .MainLayout-stickyElement {
+  background: #000 !important;
+  border-color: #353535 !important;
+  border-top: 1px solid #353535 !important;
+  table {
+    td {
+      .Cell-text {
+        color: #fff !important;
+        border-color: #353535 !important;
+      }
+    }
+  }
+}
+
+.css-v2eb78-MuiTableCell-root.Cell-cell {
+  border-color: #353535 !important;
+}
+
+.css-ed9vzd .MainLayout-stickyElement {
+  background: #000 !important;
+  border-color: #353535 !important;
+}
+
+
 .css-xtpogp.Cell-cel {
   border-color: #353535 !important;
 }
