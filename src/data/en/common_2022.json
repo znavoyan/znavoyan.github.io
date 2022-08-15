@@ -172,6 +172,16 @@
             "endMinutes": 0
           },
           {
+            "id": 232,
+            "speaker": "Lusine Sargsyan, Artak Kamalyan",
+            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
             "id": 2,
             "speaker": "Nshan Potikyan",
             "title": "What's new in YOLO series of object detectors",
@@ -250,16 +260,6 @@
             "startMinutes": 0,
             "endHour": 14,
             "endMinutes": 0
-          },
-          {
-            "id": 232,
-            "speaker": "Lusine Sargsyan, Artak Kamalyan",
-            "title": "Application of dynamic model optimization on high volume financial lead management system",
-            "roomId": 2,
-            "startHour": 11,
-            "startMinutes": 0,
-            "endHour": 11,
-            "endMinutes": 30
           },
           {
             "id": 20,
