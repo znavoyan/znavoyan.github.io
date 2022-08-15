@@ -524,15 +524,15 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-top: 1px solid #353535 !important;
 }
 
-.MainLayout-background, .MainLayout-stickyElement {
+.MainLayout-background, .MainLayout-stickyElement, .MainLayout-ordinaryLeftPanelBorder {
   background: #000 !important;
   border-color: #353535 !important;
-  border-top: 1px solid #353535 !important;
   table {
     td {
       .Cell-text {
         color: #fff !important;
         border-color: #353535 !important;
+        // border-top: 1px solid #353535 !important;
       }
     }
   }
