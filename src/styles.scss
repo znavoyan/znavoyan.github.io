@@ -524,7 +524,7 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-top: 1px solid #353535 !important;
 }
 
-.MainLayout-background, .css-1422l14 .MainLayout-stickyElement {
+.MainLayout-background, .MainLayout-stickyElement {
   background: #000 !important;
   border-color: #353535 !important;
   border-top: 1px solid #353535 !important;
@@ -536,6 +536,10 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
       }
     }
   }
+}
+
+.css-1ornk14.Cell-cell {
+  border-color: #353535 !important;
 }
 
 .css-v2eb78-MuiTableCell-root.Cell-cell {
