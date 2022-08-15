@@ -142,7 +142,7 @@
             "endMinutes": 40 
           },
           {
-          "id": 1000,
+          "id": 1,
             "key": "break",
             "title": "Conference Opening",
             "roomId": 0,
@@ -152,7 +152,7 @@
             "endMinutes": 0 
           },
           {
-            "id": 100,
+            "id": 2,
             "speaker": "Martin Danelljan",
             "title": "Deep Visual Reasoning with Optimization-based Network Modules",
             "roomId": 0,
@@ -162,7 +162,7 @@
             "endMinutes": 0 
           },
           {
-            "id": 2,
+            "id": 3,
             "speaker": "Nshan Potikyan",
             "title": "What's new in YOLO series of object detectors",
             "roomId": 1,
@@ -170,16 +170,6 @@
             "startMinutes": 0, 
             "endHour": 11,
             "endMinutes": 30  
-          },
-          {
-            "id": 3,
-            "speaker": "Grigory Sapunov",
-            "title": "Hardware for Deep Learning",
-            "roomId": 1,
-            "startHour": 12,
-            "startMinutes": 0, 
-            "endHour": 13,
-            "endMinutes": 0  
           },
           {
             "id": 4,
@@ -192,57 +182,7 @@
             "endMinutes": 30  
           },
           {
-            "id": 10,
-            "key": "break",
-            "title": "Coffee Break",
-            "roomId": 0,
-            "startHour": 11,
-            "startMinutes": 30, 
-            "endHour": 12,
-            "endMinutes": 0  
-          },
-          {
             "id": 11,
-            "speaker": "Leandro Loos, Dinesh Pothineni, and Rikard Sandstroem",
-            "title": "The journey of scaling the advanced analytics environment for data exploration",
-            "roomId": 2,
-            "startHour": 12,
-            "startMinutes": 0, 
-            "endHour": 13,
-            "endMinutes": 0  
-          },
-          {
-            "id": 12,
-            "speaker": "Hakob Gharagedyan, Anna Azizyan",
-            "title": "Building Self Service inside Data Engineering",
-            "roomId": 3,
-            "startHour": 12,
-            "startMinutes": 0, 
-            "endHour": 12,
-            "endMinutes": 30  
-          },
-          {
-            "id": 13,
-            "speaker": "Ashot Vasilyan",
-            "title": "How a curated data collection and sharing service generates value for the customers",
-            "roomId": 3,
-            "startHour": 12,
-            "startMinutes": 30, 
-            "endHour": 13,
-            "endMinutes": 0  
-          },
-          {
-            "id": 19,
-            "key": "break",
-            "title": "Lunch",
-            "roomId": 0,
-            "startHour": 13,
-            "startMinutes": 0, 
-            "endHour": 14,
-            "endMinutes": 30  
-          },
-          {
-            "id": 232,
             "speaker": "Lusine Sargsyan, Artak Kamalyan",
             "title": "Application of dynamic model optimization on high volume financial lead management system",
             "roomId": 2,
@@ -252,7 +192,67 @@
             "endMinutes": 30 
           },
           {
-            "id": 20,
+            "id": 6,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30, 
+            "endHour": 12,
+            "endMinutes": 0  
+          },
+          {
+            "id": 7,
+            "speaker": "Hakob Gharagedyan, Anna Azizyan",
+            "title": "Building Self Service inside Data Engineering",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 12,
+            "endMinutes": 30  
+          },
+          {
+            "id": 5,
+            "speaker": "Grigory Sapunov",
+            "title": "Hardware for Deep Learning",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 13,
+            "endMinutes": 0  
+          },
+          {
+            "id": 8,
+            "speaker": "Leandro Loos, Dinesh Pothineni, and Rikard Sandstroem",
+            "title": "The journey of scaling the advanced analytics environment for data exploration",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0, 
+            "endHour": 13,
+            "endMinutes": 0  
+          },
+          {
+            "id": 9,
+            "speaker": "Ashot Vasilyan",
+            "title": "How a curated data collection and sharing service generates value for the customers",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 30, 
+            "endHour": 13,
+            "endMinutes": 0  
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Lunch",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0, 
+            "endHour": 14,
+            "endMinutes": 30  
+          },
+          {
+            "id": 12,
             "speaker": "Victor Lempitsky",
             "title": "Towards high-resolution reconstructions of the world",
             "roomId": 0,
@@ -262,7 +262,7 @@
             "endMinutes": 30  
           },
           {
-            "id": 21,
+            "id": 13,
             "speaker": "Ani Vanyan",
             "title": "TBA",
             "roomId": 1,
@@ -272,7 +272,7 @@
             "endMinutes": 0  
           },
           {
-            "id": 22,
+            "id": 14,
             "speaker": "Omar Sanseviero",
             "title": "Craft amazing Machine Learning demos",
             "roomId": 2,
@@ -282,7 +282,7 @@
             "endMinutes": 0   
           },
           {
-            "id": 23,
+            "id": 15,
             "speaker": "Vicente Rubén Del Pino Ruiz",
             "title": "Building high-performance data teams",
             "roomId": 3,
@@ -292,7 +292,7 @@
             "endMinutes": 0   
           },
           {
-            "id": 29,
+            "id": 16,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
@@ -302,7 +302,7 @@
             "endMinutes": 30  
           },
           {
-            "id": 31,
+            "id": 17,
             "speaker": "Mohamed H. Elhoseiny",
             "title": "Imagination supervised Machines that can See, Create, Drive, and Feel",
             "roomId": 1,
@@ -312,7 +312,7 @@
             "endMinutes": 30  
           },
           {
-            "id": 32,
+            "id": 18,
             "speaker": "Gleb Abroskin",
             "title": "How and why we update models 100s of times a day",
             "roomId": 2,
@@ -322,7 +322,7 @@
             "endMinutes": 30   
           },
           {
-            "id": 33,
+            "id": 19,
             "speaker": "Elen Vardanyan",
             "title": "Robustness in Deep Learning: From Adversarial Attacks to Certifiable Robustness",
             "roomId": 3,
@@ -341,7 +341,7 @@
         "day": 3,
         "2": [ 
           {
-            "id": 200,
+            "id": 1,
             "speaker": "Tatiana Shavrina",
             "title": "Training and evaluating large-scale language models: the case of Armenian",
             "roomId": 0,
@@ -351,7 +351,7 @@
             "endMinutes": 0   
           },
           {
-            "id": 201,
+            "id": 2,
             "speaker": "Tatiana Kuvshinova",
             "title": "Sentence compression for English and Russian",
             "roomId": 1,
@@ -361,7 +361,7 @@
             "endMinutes": 30   
           },
           {
-            "id": 202,
+            "id": 3,
             "speaker": "Vahan Arsenyan",
             "title": "Scaling with Ray",
             "roomId": 2,
@@ -371,7 +371,7 @@
             "endMinutes": 30
           },
           {
-            "id": 203,
+            "id": 4,
             "speaker": "Christopher Miller",
             "title": "Visual Search at eBay",
             "roomId": 3,
@@ -381,7 +381,7 @@
             "endMinutes": 30
           },
           {
-            "id": 209,
+            "id": 5,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
@@ -391,7 +391,7 @@
             "endMinutes": 0
           },
           {
-            "id": 211,
+            "id": 6,
             "speaker": "Vazgen Mikayelyan",
             "title": "How did we build a world-class on-device automatic speech recognition system?",
             "roomId": 1,
@@ -401,7 +401,7 @@
             "endMinutes": 30
           },
           {
-            "id": 212,
+            "id": 7,
             "speaker": "Sevak Harutyunyan",
             "title": "OCR of 11 million pages in AWS: Architecture and Challenges",
             "roomId": 2,
@@ -411,7 +411,7 @@
             "endMinutes": 0 
           },
           {
-            "id": 213,
+            "id": 8,
             "speaker": "Ashot Vardanyan",
             "title": "3M: Prospects and Challenges with Multi-Modal Models",
             "roomId": 3,
@@ -421,7 +421,7 @@
             "endMinutes": 0 
           },
           {
-            "id": 2111,
+            "id": 9,
             "speaker": "Victoria Poghosian",
             "title": "Speech recognition with hybrid models",
             "roomId": 1,
@@ -431,7 +431,7 @@
             "endMinutes": 0 
           },
           {
-            "id": 219,
+            "id": 10,
             "key": "break",
             "title": "Lunch",
             "roomId": 0,
@@ -441,7 +441,7 @@
             "endMinutes": 30 
           },
           {
-            "id": 230,
+            "id": 11,
             "speaker": "Evan Shelhamer",
             "title": "Robust Visual Recognition by Test-Time Adaptation",
             "roomId": 0,
@@ -451,7 +451,7 @@
             "endMinutes": 30 
           },
           {
-            "id": 231,
+            "id": 12,
             "speaker": "Karen Hambardzumyan",
             "title": "TBA",
             "roomId": 1,
@@ -461,7 +461,7 @@
             "endMinutes": 0 
           },
           {
-            "id": 233,
+            "id": 13,
             "speaker": "Garik Petrosyan",
             "title": "Drug Discovery: ML + Physics > ML",
             "roomId": 2,
@@ -471,7 +471,7 @@
             "endMinutes": 0
           },
           {
-            "id": 2331,
+            "id": 14,
             "speaker": "Manvel Avetisyan",
             "title": "An Overview of Reinforcement Learning for Electronic Design Automation",
             "roomId": 3,
@@ -481,7 +481,7 @@
             "endMinutes": 0
           },
           {
-            "id": 239,
+            "id": 15,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
@@ -491,7 +491,7 @@
             "endMinutes": 30
           },
           {
-            "id": 241,
+            "id": 16,
             "speaker": "Leandro von Werra",
             "title": "CodeParrot and Beyond: Building Language Models for Code in the Open",
             "roomId": 1,
@@ -501,7 +501,7 @@
             "endMinutes": 30
           },
           {
-            "id": 242,
+            "id": 17,
             "speaker": "Dmitry Mironov",
             "title": "TAO Toolkit. A dive into how GPU acceleration works for Deep Learning and into its optimization",
             "roomId": 2,
@@ -511,7 +511,7 @@
             "endMinutes": 30
           },
           {
-            "id": 243,
+            "id": 18,
             "speaker": "Arec Jamgochian",
             "title": "Data-driven decision making",
             "roomId": 3,
