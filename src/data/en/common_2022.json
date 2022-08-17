@@ -164,7 +164,7 @@
           {
             "id": 100,
             "speaker": "Martin Danelljan",
-            "title": "Deep Visual Reasoning with Optimization-based Network Modules",
+            "title": "Keynote: Deep Visual Reasoning with Optimization-based Network Modules",
             "roomId": 0,
             "startHour": 10,
             "startMinutes": 0,
@@ -264,7 +264,7 @@
           {
             "id": 20,
             "speaker": "Victor Lempitsky",
-            "title": "Towards high-resolution reconstructions of the world",
+            "title": "Keynote: Towards high-resolution reconstructions of the world",
             "roomId": 0,
             "startHour": 14,
             "startMinutes": 0,
@@ -353,7 +353,7 @@
           {
             "id": 200,
             "speaker": "Tatiana Shavrina",
-            "title": "Training and evaluating large-scale language models: the case of Armenian",
+            "title": "Keynote: Training and evaluating large-scale language models: the case of Armenian",
             "roomId": 0,
             "startHour": 10,
             "startMinutes": 0,
@@ -453,7 +453,7 @@
           {
             "id": 230,
             "speaker": "Evan Shelhamer",
-            "title": "Robust Visual Recognition by Test-Time Adaptation",
+            "title": "Keynote: Robust Visual Recognition by Test-Time Adaptation",
             "roomId": 0,
             "startHour": 14,
             "startMinutes": 0,
