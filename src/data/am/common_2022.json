@@ -428,7 +428,23 @@
         "company": "Stanford Intelligent Systems Laboratory",
         "linkedUrl": "https://www.linkedin.com/in/arec-jamgochian-77941073",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660628607/datafest/Datafest%202022/Speakers/Arec_Jamgochian_wyp0pq.png"
-      }
+      },
+       {
+        "name": "Կարեն",
+        "surname": "Համբարձումյան",
+        "position": "ՄՈՒ առաջատար հետազոտող",
+        "company": "YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/mahnerak/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660906914/datafest/Datafest%202022/Speakers/KarenHambardzumyan_800x800__y1594k.png"
+      },
+         {
+        "name": "Անի",
+        "surname": "Վանյան",
+        "position": "ՄՈՒ հետազոտող",
+        "company": "YerevaNN",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660906914/datafest/Datafest%202022/Speakers/AniVanyan_800x800__akbwzl.png"
+      }      
     ]
   },
   "location": {
