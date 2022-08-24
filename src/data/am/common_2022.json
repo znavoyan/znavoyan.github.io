@@ -432,7 +432,7 @@
         "position": "Բ.Գ.Թ. թեկնածու",
         "company": "Stanford Intelligent Systems Laboratory",
         "linkedUrl": "https://www.linkedin.com/in/arec-jamgochian-77941073",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660628607/datafest/Datafest%202022/Speakers/Arec_Jamgochian_wyp0pq.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337649/datafest/Datafest%202022/Speakers/Arec_Jamgochian_1_kfzgvn.png"
       },
        {
         "name": "Կարեն",
@@ -449,6 +449,14 @@
         "company": "YerevaNN",
         "linkedUrl": "",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660906914/datafest/Datafest%202022/Speakers/AniVanyan_800x800__akbwzl.png"
+      },
+        {
+        "name": "Ռիկարդ",
+        "surname": "Սանդսթրոեմ",
+        "position": "Գերազանցության ընդլայնված վերլուծական կենտրոնի ղեկավար",
+        "company": "PMI",
+        "linkedUrl": "https://www.linkedin.com/in/rikard-sandstr%C3%B6m-a0b3229/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337812/datafest/Datafest%202022/Speakers/Rikard_Sandstroem_lnmhsn.png"
       }      
     ]
   },
