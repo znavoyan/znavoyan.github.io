@@ -347,7 +347,186 @@
         "year": 2022,
         "month": 9,
         "day": 3,
-        "2": [ ]
+        "2": [{
+            "id": 200,
+            "speaker": "Տատյանա Շավրինա",
+            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 201,
+            "speaker": "Տատյանա Կուվշինովա",
+            "title": "Sentence compression for English and Russian",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 202,
+            "speaker": "Վահան Արսենյան",
+            "title": "Scaling with Ray",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 203,
+            "speaker": "Քրիստոֆեր Միլլեր",
+            "title": "Visual Search at eBay",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 209,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 211,
+            "speaker": "Վազգեն Միքայելյան",
+            "title": "How did we build a world-class on-device automatic speech recognition system?",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 212,
+            "speaker": "Սևակ Հարությունյան",
+            "title": "OCR of 11 million pages in AWS: Architecture and Challenges",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 213,
+            "speaker": "Աշոտ Վարդանյան",
+            "title": "3M: Prospects and Challenges with Multi-Modal Models",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 2111,
+            "speaker": "Վիկտորիա Պողոսյան",
+            "title": "Speech recognition with hybrid models",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 219,
+            "key": "break",
+            "title": "Ճաշի ընդմիջում",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 0
+          },
+          {
+            "id": 230,
+            "speaker": "Էվան Շելհամեր",
+            "title": "[Keynote]\nRobust Visual Recognition by Test-Time Adaptation",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 231,
+            "speaker": "Կարեն Համբարձումյան",
+            "title": "Retrieval-Oriented Learning",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 233,
+            "speaker": "Գարիկ Պետրոսյան",
+            "title": "Drug Discovery: ML + Physics > ML",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 2331,
+            "speaker": "Մանվել Ավետիսյան",
+            "title": "An Overview of Reinforcement Learning for Electronic Design Automation",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 239,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 241,
+            "speaker": "Լեանդրո ֆոն Վերրա",
+            "title": "CodeParrot and Beyond: Building Language Models for Code in the Open",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 242,
+            "speaker": "Դմիտրի Միրոնով",
+            "title": "TAO Toolkit. A dive into how GPU acceleration works for Deep Learning and into its optimization",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 243,
+            "speaker": "Արեգ Ժամկոչյան",
+            "title": "Data-driven decision making",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          }]
       }
     ]
   },
