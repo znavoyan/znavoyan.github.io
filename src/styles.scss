@@ -524,6 +524,22 @@ tr:first-of-type .css-1gyktb4.Cell-horizontalCell {
   border-top: 1px solid #353535 !important;
 }
 
+.MuiTableBody-root {
+  .MuiTableRow-root {
+    &:nth-child(19), &:nth-child(20), &:nth-child(21), &:nth-child(22) {
+      display: none;
+    }
+  }
+}
+
+.MuiTableCell-root {
+  .Label-label {
+    &:nth-child(19), &:nth-child(20), &:nth-child(21), &:nth-child(22) {
+      display: none;
+    }
+  }
+}
+
 .MainLayout-background, .MainLayout-stickyElement, .MainLayout-ordinaryLeftPanelBorder {
   background: #000 !important;
   border-color: #353535 !important;
