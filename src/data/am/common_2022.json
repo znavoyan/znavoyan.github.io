@@ -222,7 +222,7 @@
           },
           {
             "id": 3,
-            "speaker": "Գրիգորի Սապունով,
+            "speaker": "Գրիգորի Սապունով",
             "title": "Hardware for Deep Learning",
             "roomId": 1,
             "startHour": 12,
@@ -506,7 +506,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Martin-Danelljan_wm2pal_leosxt.png"
       },
       {
-        "name": "Տատիանա",
+        "name": "Տատյանա",
         "surname": "Կուվշինովա",
         "position": "Տվյալագետ",
         "company": "Disqo",
