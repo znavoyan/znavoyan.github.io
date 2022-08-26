@@ -140,7 +140,206 @@
         "year": 2022,
         "month": 9,
         "day": 2,
-        "1": [ ]
+        "1": [{
+            "id": 0,
+            "key": "break",
+            "title": "Գրանցում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40
+          },
+          {
+            "id": 1000,
+            "key": "break",
+            "title": "Կոնֆերանսի բացում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0
+          },
+          {
+            "id": 100,
+            "speaker": "Մարտին Դանելյան",
+            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 232,
+            "speaker": "Լուսինե Սարգսյան, Արտակ Քամալյան",
+            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 2,
+            "speaker": "Նշան Փոթիկյան",
+            "title": "What's new in YOLO series of object detectors",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 4,
+            "speaker": "Հարութ Մարտիրոսյան",
+            "title": "Apache Spark on Hadoop vs on Kubernetes",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 12,
+            "speaker": "Հակոբ Ղարագեդյան, Աննա Ազիզյան",
+            "title": "Building Self Service inside Data Engineering",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 3,
+            "speaker": "Գրիգորի Սապունով,
+            "title": "Hardware for Deep Learning",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 11,
+            "speaker": "Լեանդրո ֆոն Վերրա, Դինեշ Փոթինենի և Ռիկարդ Սանդսթրոեմ",
+            "title": "The journey of scaling the advanced analytics environment for data exploration",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 13,
+            "speaker": "Աշոտ Վասիլյան",
+            "title": "How a curated data collection and sharing service generates value for the customers",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 19,
+            "key": "break",
+            "title": "Ճաշի ընդմիջում",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 0
+          },
+          {
+            "id": 20,
+            "speaker": "Վիկտոր Լեմպիտսկի",
+            "title": "[Keynote]\nTowards high-resolution reconstructions of the world",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 21,
+            "speaker": "Անի Վանյան",
+            "title": "Semi-supervised object detection",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 22,
+            "speaker": "Օմար Սանսևիերո",
+            "title": "Craft amazing Machine Learning demos",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 23,
+            "speaker": "Վիսենտե Ռուբեն Դել Պինո Ռուիս",
+            "title": "Building high-performance data teams",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 29,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 31,
+            "speaker": "Մոհամեդ Հ․ Էլհոսեինի",
+            "title": "Imagination supervised Machines that can See, Create, Drive, and Feel",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 32,
+            "speaker": "Գլեբ Աբրոսկին",
+            "title": "How and why we update models 100s of times a day",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 33,
+            "speaker": "Էլեն Վարդանյան",
+            "title": "Robustness in Deep Learning: From Adversarial Attacks to Certifiable Robustness",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          }]
       },
       {
         "date": "Սեպտեմբերի 3",
