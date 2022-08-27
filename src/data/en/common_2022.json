@@ -547,8 +547,8 @@
             "roomId": 0,
             "startHour": 20,
             "startMinutes": 0,
-            "endHour": 0,
-            "endMinutes": 0
+            "endHour": 23,
+            "endMinutes": 30
           }
         ],
         "date": "September 3",
