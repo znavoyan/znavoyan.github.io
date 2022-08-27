@@ -546,9 +546,9 @@
             "title": "Afterparty",
             "roomId": 0,
             "startHour": 20,
-            "startMinutes": 00,
-            "endHour": 00,
-            "endMinutes": 00
+            "startMinutes": 0,
+            "endHour": 0,
+            "endMinutes": 0
           }
         ],
         "date": "September 3",
