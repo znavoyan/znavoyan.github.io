@@ -526,7 +526,17 @@
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 0
-          }]
+          },
+          {
+            "id": 244,
+            "key": "break",
+            "title": "Հետխնջույք, Ռամադա հյուրանոց, կտուր։",
+            "roomId": 0,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 23,
+            "endMinutes": 30
+        }]
       }
     ]
   },
