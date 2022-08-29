@@ -162,8 +162,8 @@
           },
           {
             "id": 100,
-            "speaker": "Մարտին Դանելյան",
-            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
+            "speaker": "Տատյանա Շավրինա",
+            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
             "roomId": 0,
             "startHour": 10,
             "startMinutes": 0,
@@ -347,10 +347,11 @@
         "year": 2022,
         "month": 9,
         "day": 3,
-        "2": [{
+        "2": [
+           {
             "id": 200,
-            "speaker": "Տատյանա Շավրինա",
-            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
+            "speaker": "Մարտին Դանելյան",
+            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
             "roomId": 0,
             "startHour": 10,
             "startMinutes": 0,
