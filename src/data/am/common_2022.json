@@ -845,7 +845,15 @@
         "company": "PMI",
         "linkedUrl": "https://www.linkedin.com/in/rikard-sandstr%C3%B6m-a0b3229/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337812/datafest/Datafest%202022/Speakers/Rikard_Sandstroem_lnmhsn.png"
-      }      
+      },
+         {
+        "name": "Մանվել",
+        "surname": "Ավետիսյան",
+        "position": "Ծրագրային ինժեներության ավագ ղեկավար",
+        "company": "AMD",
+        "linkedUrl": "https://www.linkedin.com/mwlite/in/manvelavetisian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661750052/datafest/Datafest%202022/Speakers/Manvel_Avetisian_yublyx.jpg"
+      }  
     ]
   },
   "location": {
