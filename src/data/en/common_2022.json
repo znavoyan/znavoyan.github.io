@@ -173,8 +173,8 @@
           },
           {
             "id": 100,
-            "speaker": "Martin Danelljan",
-            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
+            "speaker": "Tatiana Shavrina",
+            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
             "roomId": 0,
             "startHour": 10,
             "startMinutes": 0,
@@ -362,8 +362,8 @@
         "2": [
           {
             "id": 200,
-            "speaker": "Tatiana Shavrina",
-            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
+            "speaker": "Martin Danelljan",
+            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
             "roomId": 0,
             "startHour": 10,
             "startMinutes": 0,
@@ -539,6 +539,16 @@
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 0
+          },
+          {
+            "id": 244,
+            "key": "break",
+            "title": "Afterparty, Ramada Hotel rooftop",
+            "roomId": 0,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 23,
+            "endMinutes": 30
           }
         ],
         "date": "September 3",
@@ -854,6 +864,14 @@
         "company": "PMI",
         "linkedUrl": "https://www.linkedin.com/in/rikard-sandstr%C3%B6m-a0b3229/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337812/datafest/Datafest%202022/Speakers/Rikard_Sandstroem_lnmhsn.png"
+      },
+          {
+        "name": "Manvel",
+        "surname": "Avetisian",
+        "position": "Sr. Software Engineering Manager",
+        "company": "AMD",
+        "linkedUrl": "https://www.linkedin.com/mwlite/in/manvelavetisian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661750052/datafest/Datafest%202022/Speakers/Manvel_Avetisian_yublyx.jpg"
       } 
     ]
   },

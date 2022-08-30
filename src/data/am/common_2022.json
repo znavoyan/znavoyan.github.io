@@ -128,10 +128,10 @@
     "aboveText": "",
     "bottomText": "",
     "locations": [
-      { "text": "Manoogian", "id": 0 },
-      { "text": "Room 1", "id": 1 },
-      { "text": "Room 2", "id": 2 },
-      { "text": "Room 3", "id": 3 }
+      { "text": "Manoogian Hall", "id": 0 },
+      { "text": "113 W", "id": 1 },
+      { "text": "114 W", "id": 2 },
+      { "text": "214 W", "id": 3 }
     ],
     "days": [
       {
@@ -140,7 +140,206 @@
         "year": 2022,
         "month": 9,
         "day": 2,
-        "1": [ ]
+        "1": [{
+            "id": 0,
+            "key": "break",
+            "title": "Գրանցում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40
+          },
+          {
+            "id": 1000,
+            "key": "break",
+            "title": "Կոնֆերանսի բացում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0
+          },
+          {
+            "id": 100,
+            "speaker": "Տատյանա Շավրինա",
+            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 232,
+            "speaker": "Լուսինե Սարգսյան, Արտակ Քամալյան",
+            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 2,
+            "speaker": "Նշան Փոթիկյան",
+            "title": "What's new in YOLO series of object detectors",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 4,
+            "speaker": "Հարութ Մարտիրոսյան",
+            "title": "Apache Spark on Hadoop vs on Kubernetes",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 12,
+            "speaker": "Հակոբ Ղարագեդյան, Աննա Ազիզյան",
+            "title": "Building Self Service inside Data Engineering",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 3,
+            "speaker": "Գրիգորի Սապունով",
+            "title": "Hardware for Deep Learning",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 11,
+            "speaker": "Լեանդրո ֆոն Վերրա, Դինեշ Փոթինենի և Ռիկարդ Սանդսթրոեմ",
+            "title": "The journey of scaling the advanced analytics environment for data exploration",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 13,
+            "speaker": "Աշոտ Վասիլյան",
+            "title": "How a curated data collection and sharing service generates value for the customers",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 19,
+            "key": "break",
+            "title": "Ճաշի ընդմիջում",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 0
+          },
+          {
+            "id": 20,
+            "speaker": "Վիկտոր Լեմպիտսկի",
+            "title": "[Keynote]\nTowards high-resolution reconstructions of the world",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 21,
+            "speaker": "Անի Վանյան",
+            "title": "Semi-supervised object detection",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 22,
+            "speaker": "Օմար Սանսևիերո",
+            "title": "Craft amazing Machine Learning demos",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 23,
+            "speaker": "Վիսենտե Ռուբեն Դել Պինո Ռուիս",
+            "title": "Building high-performance data teams",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 29,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 31,
+            "speaker": "Մոհամեդ Հ․ Էլհոսեինի",
+            "title": "Imagination supervised Machines that can See, Create, Drive, and Feel",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 32,
+            "speaker": "Գլեբ Աբրոսկին",
+            "title": "How and why we update models 100s of times a day",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 33,
+            "speaker": "Էլեն Վարդանյան",
+            "title": "Robustness in Deep Learning: From Adversarial Attacks to Certifiable Robustness",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          }]
       },
       {
         "date": "Սեպտեմբերի 3",
@@ -148,7 +347,197 @@
         "year": 2022,
         "month": 9,
         "day": 3,
-        "2": [ ]
+        "2": [
+           {
+            "id": 200,
+            "speaker": "Մարտին Դանելյան",
+            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 201,
+            "speaker": "Տատյանա Կուվշինովա",
+            "title": "Sentence compression for English and Russian",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 202,
+            "speaker": "Վահան Արսենյան",
+            "title": "Scaling with Ray",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 203,
+            "speaker": "Քրիստոֆեր Միլլեր",
+            "title": "Visual Search at eBay",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 209,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 211,
+            "speaker": "Վազգեն Միքայելյան",
+            "title": "How did we build a world-class on-device automatic speech recognition system?",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 212,
+            "speaker": "Սևակ Հարությունյան",
+            "title": "OCR of 11 million pages in AWS: Architecture and Challenges",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 213,
+            "speaker": "Աշոտ Վարդանյան",
+            "title": "3M: Prospects and Challenges with Multi-Modal Models",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 2111,
+            "speaker": "Վիկտորիա Պողոսյան",
+            "title": "Speech recognition with hybrid models",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 219,
+            "key": "break",
+            "title": "Ճաշի ընդմիջում",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 0
+          },
+          {
+            "id": 230,
+            "speaker": "Էվան Շելհամեր",
+            "title": "[Keynote]\nRobust Visual Recognition by Test-Time Adaptation",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 231,
+            "speaker": "Կարեն Համբարձումյան",
+            "title": "Retrieval-Oriented Learning",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 233,
+            "speaker": "Գարիկ Պետրոսյան",
+            "title": "Drug Discovery: ML + Physics > ML",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 2331,
+            "speaker": "Մանվել Ավետիսյան",
+            "title": "An Overview of Reinforcement Learning for Electronic Design Automation",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 239,
+            "key": "break",
+            "title": "Սրճի ընդմիջում",
+            "roomId": 0,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 241,
+            "speaker": "Լեանդրո ֆոն Վերրա",
+            "title": "CodeParrot and Beyond: Building Language Models for Code in the Open",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 242,
+            "speaker": "Դմիտրի Միրոնով",
+            "title": "TAO Toolkit. A dive into how GPU acceleration works for Deep Learning and into its optimization",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 243,
+            "speaker": "Արեգ Ժամկոչյան",
+            "title": "Data-driven decision making",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 244,
+            "key": "break",
+            "title": "Հետխնջույք, Ռամադա հյուրանոց, կտուր։",
+            "roomId": 0,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 23,
+            "endMinutes": 30
+        }]
       }
     ]
   },
@@ -307,7 +696,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Martin-Danelljan_wm2pal_leosxt.png"
       },
       {
-        "name": "Տատիանա",
+        "name": "Տատյանա",
         "surname": "Կուվշինովա",
         "position": "Տվյալագետ",
         "company": "Disqo",
@@ -457,7 +846,15 @@
         "company": "PMI",
         "linkedUrl": "https://www.linkedin.com/in/rikard-sandstr%C3%B6m-a0b3229/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337812/datafest/Datafest%202022/Speakers/Rikard_Sandstroem_lnmhsn.png"
-      }      
+      },
+         {
+        "name": "Մանվել",
+        "surname": "Ավետիսյան",
+        "position": "Ծրագրային ինժեներության ավագ ղեկավար",
+        "company": "AMD",
+        "linkedUrl": "https://www.linkedin.com/mwlite/in/manvelavetisian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661750052/datafest/Datafest%202022/Speakers/Manvel_Avetisian_yublyx.jpg"
+      }  
     ]
   },
   "location": {
