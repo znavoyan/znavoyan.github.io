@@ -1,0 +1,883 @@
+{
+  "header": {
+    "navbarItems": [
+      {
+        "name": "speakers",
+        "key": "speakers"
+      },
+      {
+        "name": "sponsors",
+        "key": "sponsors"
+      },
+      {
+        "name": "agenda",
+        "key": "agenda"
+      }
+    ],
+    "pastEvents": [
+      2020,
+      2021
+    ],
+    "register": "Free Registration",
+    "registerUrl": "https://forms.gle/mPQvUMppSBMigQbu6"
+  },
+  "home": {
+    "main": {
+      "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
+      "register": "Free Registration",
+      "scrollDown": "Scroll down",
+      "eventDate": "September 2-3, 2022"
+    },
+    "about": {
+      "title": "What is <span>DataFest Yerevan</span>",
+      "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
+      "followUs": "Follow us",
+      "facebookPage": "Follow us on Facebook -",
+      "facebookEventPage": "Facebook event page -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://facebook.com/events/3676170732411668",
+      "facebookPageText": "Facebook page",
+      "facebookEventText": "Facebook event",
+      "youTubePageText": "YouTube page",
+      "youTubeEventPageUrl": "https://www.youtube.com/playlist?list=PLvwlJZXG6IkW-Yk4EJjSIwHuoXrr9_hsY"
+    }
+  },
+  "sponsors": {
+    "title": "Our <span>Sponsors</span>",
+    "generalSponsorsTitle": "<span>General Sponsors</span>",
+    "sponsorsTitle": "<span>Sponsors</span>",
+    "siteSponsorsTitle": "<span>Site Sponsors</span>",
+    "seeAll": "See all",
+    "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2022, whose support made this event possible",
+    "aboveText": "",
+    "bottomText": "",
+    "generalSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
+        "linkedUrl": "https://intent.ai/",
+        "width": "17.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
+        "linkedUrl": "https://www.digitain.com/",
+        "width": "24.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/PMI-Science1_e6il7c_llnuzg.png",
+        "linkedUrl": "https://www.pmiscience.com/en/",
+        "width": "24.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/Picsart_b3hyfy_fnplng.png",
+        "linkedUrl": "https://picsart.com/",
+        "width": "15.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/Portmind_kptrcs_vmhfyn.png",
+        "linkedUrl": "https://portmind.com",
+        "width": "15.2em"
+      },
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+        "linkedUrl": "https://www.worldquant.com/",
+        "width": "15.2em"
+      }
+    ],
+    "sponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/AimStack_gn0hgk_wrrgmy.png",
+        "linkedUrl": "https://aimstack.io",
+        "width": "17.3em"
+      },
+        {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661170494/datafest/Datafest%202022/Sponsors/AMD_q9hdcs.png",
+        "linkedUrl": "https://www.amd.com/en",
+        "width": "17.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/krisp_aexifh_j9kane.png",
+        "linkedUrl": "https://krisp.ai/",
+        "width": "15.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
+        "linkedUrl": "https://www.onetick.com/",
+        "width": "24.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/plat.AI_kbls29_zyqmmj.png",
+        "linkedUrl": "https://plat.ai/",
+        "width": "15.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/DeeM_nto7jv_n0shfv.png",
+        "linkedUrl": "https://deemcommunications.com/en/",
+        "width": "15.2em"
+      }
+    ],
+    "siteSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+        "linkedUrl": "https://www.simplytechnologies.net/",
+        "width": "24.3em"
+      }
+    ]
+  },
+  "agenda": {
+    "btnText": "september 2-3",
+    "title": "Our <span>Agenda</span>",
+    "yerevanTime": "All times are in Yerevan time (UTC+4)",
+    "text": "DataFest Yerevan 2022 will be held on September 2, 3.",
+    "aboveText": "",
+    "bottomText": "",
+    "locations": [
+      {
+        "text": "Manoogian",
+        "id": 0
+      },
+      {
+        "text": "113 W",
+        "id": 1
+      },
+      {
+        "text": "114 W",
+        "id": 2
+      },
+      {
+        "text": "214 W",
+        "id": 3
+      }
+    ],
+    "days": [
+      {
+        "1": [
+          {
+            "id": 0,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40
+          },
+          {
+            "id": 1000,
+            "key": "break",
+            "title": "Conference Opening",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0
+          },
+          {
+            "id": 100,
+            "speaker": "Tatiana Shavrina",
+            "title": "[Keynote]\nTraining and evaluating large-scale language models: the case of Armenian",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 232,
+            "speaker": "Lusine Sargsyan, Artak Kamalyan",
+            "title": "Application of dynamic model optimization on high volume financial lead management system",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 2,
+            "speaker": "Nshan Potikyan",
+            "title": "What's new in YOLO series of object detectors",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 4,
+            "speaker": "Harut Martirosyan",
+            "title": "Apache Spark on Hadoop vs on Kubernetes",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 12,
+            "speaker": "Hakob Gharagedyan, Anna Azizyan",
+            "title": "Building Self Service inside Data Engineering",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 3,
+            "speaker": "Grigory Sapunov",
+            "title": "Hardware for Deep Learning",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 11,
+            "speaker": "Leandro Loos, Dinesh Pothineni, and Rikard Sandstroem",
+            "title": "The journey of scaling the advanced analytics environment for data exploration",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 13,
+            "speaker": "Ashot Vasilyan",
+            "title": "How a curated data collection and sharing service generates value for the customers",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 19,
+            "key": "break",
+            "title": "Lunch",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 0
+          },
+          {
+            "id": 20,
+            "speaker": "Victor Lempitsky",
+            "title": "[Keynote]\nTowards high-resolution reconstructions of the world",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 21,
+            "speaker": "Ani Vanyan",
+            "title": "Semi-supervised object detection",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 22,
+            "speaker": "Omar Sanseviero",
+            "title": "Craft amazing Machine Learning demos",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 23,
+            "speaker": "Vicente Rubén Del Pino Ruiz",
+            "title": "Building high-performance data teams",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 29,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 31,
+            "speaker": "Mohamed H. Elhoseiny",
+            "title": "Imagination supervised Machines that can See, Create, Drive, and Feel",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 32,
+            "speaker": "Gleb Abroskin",
+            "title": "How and why we update models 100s of times a day",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 33,
+            "speaker": "Elen Vardanyan",
+            "title": "Robustness in Deep Learning: From Adversarial Attacks to Certifiable Robustness",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          }
+        ],
+        "date": "September 2",
+        "dateIndex": "1",
+        "year": 2022,
+        "month": 9,
+        "day": 2
+      },
+      {
+        "2": [
+          {
+            "id": 200,
+            "speaker": "Martin Danelljan",
+            "title": "[Keynote]\nDeep Visual Reasoning with Optimization-based Network Modules",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 201,
+            "speaker": "Tatiana Kuvshinova",
+            "title": "Sentence compression for English and Russian",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 202,
+            "speaker": "Vahan Arsenyan",
+            "title": "Scaling with Ray",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 203,
+            "speaker": "Christopher Miller",
+            "title": "Visual Search at eBay",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 209,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 211,
+            "speaker": "Vazgen Mikayelyan",
+            "title": "How did we build a world-class on-device automatic speech recognition system?",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 212,
+            "speaker": "Sevak Harutyunyan",
+            "title": "OCR of 11 million pages in AWS: Architecture and Challenges",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 213,
+            "speaker": "Ashot Vardanyan",
+            "title": "3M: Prospects and Challenges with Multi-Modal Models",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 2111,
+            "speaker": "Victoria Poghosian",
+            "title": "Speech recognition with hybrid models",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 219,
+            "key": "break",
+            "title": "Lunch",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 0
+          },
+          {
+            "id": 230,
+            "speaker": "Evan Shelhamer",
+            "title": "[Keynote]\nRobust Visual Recognition by Test-Time Adaptation",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 231,
+            "speaker": "Karen Hambardzumyan",
+            "title": "Retrieval-Oriented Learning",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 233,
+            "speaker": "Garik Petrosyan",
+            "title": "Drug Discovery: ML + Physics > ML",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 2331,
+            "speaker": "Manvel Avetisian",
+            "title": "An Overview of Reinforcement Learning for Electronic Design Automation",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 239,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 241,
+            "speaker": "Leandro von Werra",
+            "title": "CodeParrot and Beyond: Building Language Models for Code in the Open",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 242,
+            "speaker": "Dmitry Mironov",
+            "title": "TAO Toolkit. A dive into how GPU acceleration works for Deep Learning and into its optimization",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 243,
+            "speaker": "Arec Jamgochian",
+            "title": "Data-driven decision making",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 244,
+            "key": "break",
+            "title": "Afterparty, Ramada Hotel rooftop",
+            "roomId": 0,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 23,
+            "endMinutes": 30
+          }
+        ],
+        "date": "September 3",
+        "dateIndex": "2",
+        "year": 2022,
+        "month": 9,
+        "day": 3
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Organisers",
+    "teamTitle": "DataFest Team",
+    "organisersList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692014/datafest/sponsors/AUA-WHITE_l9j8mf.png",
+        "linkedUrl": "https://aua.am/",
+        "width": "50em"
+      }
+    ],
+    "teamList": [
+      {
+        "name": "Arsen",
+        "surname": "Yeghiazaryan",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+      },
+      {
+        "name": "Hrant",
+        "surname": "Khachatrian",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Zaven",
+        "surname": "Navoyan",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Andranik",
+        "surname": "Khachatryan",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Our <span>Speakers</span>",
+    "btnText": "More",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+      {
+        "name": "Victor",
+        "surname": "Lempitsky",
+        "position": "Computer vision researcher",
+        "linkedUrl": "https://www.linkedin.com/in/victor-lempitsky-73aa2b3b/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Victor_Lempitsky_skmlwg_vggfex.png"
+      },
+      {
+        "name": "Gleb",
+        "surname": "Abroskin",
+        "position": "ML Engineer at",
+        "company": "Funcorp",
+        "linkedUrl": "https://www.linkedin.com/in/gasabr/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Gleb_Abroskin_zgz4ns_u6ikn1.png"
+      },
+      {
+        "name": "Leandro",
+        "surname": "von Werra",
+        "position": "Machine Learning Engineer at",
+        "company": "HuggingFace",
+        "linkedUrl": "https://www.linkedin.com/in/lvwerra/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Leandro_Von_Werra_ik3ktn_fgyy3v.png"
+      },
+      {
+        "name": "Omar",
+        "surname": "Sanseviero",
+        "position": "Machine Learning Lead at",
+        "company": "Hugging Face",
+        "linkedUrl": "https://www.linkedin.com/in/omarsanseviero/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Omar_Sanseviero_dejcta_ojwutt.png"
+      },
+      {
+        "name": "Tatiana",
+        "surname": "Shavrina",
+        "position": "Director of key research projects: NLP, Multimodality at AIRI, Chief Technology Expert, NLP at",
+        "company": "SberDevices",
+        "linkedUrl": "https://www.linkedin.com/in/tatiana-shavrina/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Tatiana_Shavrina_dnacad_kprose.png"
+      },
+      {
+        "name": "Evan",
+        "surname": "Shelhamer",
+        "position": "Research Scientist at",
+        "company": "DeepMind",
+        "linkedUrl": "http://imaginarynumber.net",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/EvanShelhamer_ingx0e_h23cs7.png"
+      },
+      {
+        "name": "Ashot ",
+        "surname": "Vasilyan",
+        "position": "VP of Engineering at",
+        "company": "ArmSoft",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Ashot_Vasilyan_jetl5q_itea3s.png"
+      },
+      {
+        "name": "Christopher",
+        "surname": "Miller",
+        "position": "Applied Researcher at",
+        "company": "eBay",
+        "linkedUrl": "https://www.linkedin.com/in/christopher-miller-a0323a77/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Christopher_Miller_jh0bob_p9jyyt.png"
+      },
+      {
+        "name": "Dmitry",
+        "surname": "Mironov",
+        "position": "Solutions Architect, AI at",
+        "company": "NVIDIA",
+        "linkedUrl": "https://www.linkedin.com/in/dima-mironov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Dmitry_Mironov_oswvpx_hjdpwk.png"
+      },
+      {
+        "name": "Leandro",
+        "surname": "Loos",
+        "position": "DevOps Engineering Lead at",
+        "company": "Philip Morris International",
+        "linkedUrl": "https://www.linkedin.com/in/lealoos/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660223030/datafest/Datafest%202022/Speakers/Leandro_Loos_ueuwnd_yeafer.png"
+      },
+      {
+        "name": "Vazgen",
+        "surname": "Mikayelyan",
+        "position": "Principal Machine Learning Scientist/Engineer, Tech Lead at",
+        "company": "Krisp",
+        "linkedUrl": "https://www.linkedin.com/in/vazgenmikayelyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Vazgen_Mikayelyan_iqeq1k_zto9nh.png"
+      },
+      {
+        "name": "Sevak",
+        "surname": "Harutyunyan",
+        "position": "ML Engineer at",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/sevak-harutyunyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Sevak_Harutyunyan_mjj7yw_ucocid.png"
+      },
+      {
+        "name": "Grigory",
+        "surname": "Sapunov",
+        "position": "Co-Founder & CTO at",
+        "company": "inten.to",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Grigory_Sapunov_hejdil_vqghyh_ocpd2c.png"
+      },
+      {
+        "name": "Martin",
+        "surname": "Danelljan",
+        "position": "Research Team Leader at",
+        "company": "ETH Zurich",
+        "linkedUrl": "https://www.linkedin.com/in/martin-danelljan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Martin-Danelljan_wm2pal_leosxt.png"
+      },
+      {
+        "name": "Mohamed",
+        "surname": "H. Elhoseiny",
+        "position": "Assistant Professor of Computer Science at",
+        "company": "KAUST",
+        "linkedUrl": "https://www.linkedin.com/in/mohamed-elhoseiny-8a836215/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Mohamed_H_sxdhrf_bfvpv1.png"
+      },
+      {
+        "name": "Lusine",
+        "surname": "Sargsyan",
+        "position": "Director at",
+        "company": "Plat.ai",
+        "linkedUrl": "https://www.linkedin.com/in/lusine-sargsyan-0b50638b/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Lusine_Sargsyan_mhsshl_zo2ttz.png"
+      },
+      {
+        "name": "Tatiana",
+        "surname": "Kuvshinova",
+        "position": "Data Scientist at",
+        "company": "Disqo",
+        "linkedUrl": "https://www.linkedin.com/in/tatiana-kuvshinova-197010235/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Tatiana_Kuvshinova_znbdxx_kfywju.png"
+      },
+      {
+        "name": "Artak",
+        "surname": "Kamalyan",
+        "position": "Data Scientist at",
+        "company": "Plat.ai",
+        "linkedUrl": "https://www.linkedin.com/in/artak-kamalyan-4440291a7/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Artak_Kamalyan_yxwbba_uoyn5e.png"
+      },
+      {
+        "name": "Dinesh",
+        "surname": "Pothineni",
+        "position": "Principal Data Scientist at",
+        "company": "PMI",
+        "linkedUrl": "https://www.linkedin.com/in/dineshweb/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Dinesh_Pothineni_nxabzl_f4bvfa.png"
+      },
+      {
+        "name": "Vahan",
+        "surname": "Arsenyan",
+        "position": "Senior Data Scientist at",
+        "company": "ServiceTitan",
+        "linkedUrl": "https://www.linkedin.com/in/vahan-arsenyan-a41390140/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Vahan_Arsenyann_colruh_wsfdb1.png"
+      },
+      {
+        "name": "Vicente Rubén",
+        "surname": "Del Pino Ruiz",
+        "position": "Applied Science Engineering Manager at",
+        "company": "Zalando",
+        "linkedUrl": "https://www.linkedin.com/in/vrdelpino/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Ruben_Del_Pino_j6sugo_v8oifc.png"
+      },
+      {
+        "name": "Hakob",
+        "surname": "Gharagedyan",
+        "position": "Data Engineering Manager",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/hakobgh/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Hakob_Gharagedyann_u9nozn_xy50d4.png"
+      },
+      {
+        "name": "Anna",
+        "surname": "Azizyan",
+        "position": "Junior Data Engineer",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/anna-azizian/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Anna_Azizyann_qaxekt_zdnctt.png"
+      },
+      {
+        "name": "Nshan",
+        "surname": "Potikyan",
+        "position": "AI Engineer",
+        "company": "AeroDynamics",
+        "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Nshan_Potikyann_eobxbh_b6axvd.png"
+      },
+      {
+        "name": "Ashot ",
+        "surname": "Vardanyan",
+        "position": "Founder",
+        "company": "Unum",
+        "linkedUrl": "http://linkedin.com/in/ashvardanian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222785/datafest/Datafest%202022/Speakers/Ashot_Vardanian_q9jbns_lsjyyx.png"
+      },
+      {
+        "name": "Harut",
+        "surname": "Martirosyan",
+        "position": "CTO",
+        "company": "Intent.ai",
+        "linkedUrl": "https://www.linkedin.com/in/harutyun/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222787/datafest/Datafest%202022/Speakers/Harut_Martirosyan_euxk3c_wnltqo.png"
+      },
+      {
+        "name": "Elen",
+        "surname": "Vardanyan",
+        "position": "Adjunct Lecturer of Deep Learning",
+        "company": "American University of Armenia",
+        "linkedUrl": "https://www.linkedin.com/in/elenvardanyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Elen_Vardanyan_evr1ec_qfg8jw.png"
+      },
+      {
+        "name": "Garik",
+        "surname": "Petrosyan",
+        "position": "Lead ML Engineer ",
+        "company": "Biosim",
+        "linkedUrl": "https://www.linkedin.com/in/garik-petrosyan-289411ba",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222786/datafest/Datafest%202022/Speakers/Garik_Petrosyan_pciwm7_z3sarl.png"
+      },
+      {
+        "name": "Victoria",
+        "surname": "Poghosian",
+        "position": "Senior ML Engineer",
+        "company": "FimeTech",
+        "linkedUrl": "https://www.linkedin.com/in/victoria-poghosyan-4a3265175/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Victoria_Poghosian__bohds9_lit36f.png"
+      },
+         {
+        "name": "Arec",
+        "surname": "Jamgochian",
+        "position": "PhD Candidate",
+        "company": "Stanford Intelligent Systems Laboratory",
+        "linkedUrl": "https://www.linkedin.com/in/arec-jamgochian-77941073",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337649/datafest/Datafest%202022/Speakers/Arec_Jamgochian_1_kfzgvn.png"
+      },
+         {
+        "name": "Karen",
+        "surname": "Hambardzumyan",
+        "position": "Lead Machine Learning Researcher",
+        "company": "YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/mahnerak/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660906914/datafest/Datafest%202022/Speakers/KarenHambardzumyan_800x800__y1594k.png"
+      },
+         {
+        "name": "Ani",
+        "surname": "Vanyan",
+        "position": "Machine Learning Researcher",
+        "company": "YerevaNN",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660906914/datafest/Datafest%202022/Speakers/AniVanyan_800x800__akbwzl.png"
+      },
+      {
+        "name": "Rikard ",
+        "surname": "Sandstroem",
+        "position": "Head of Advanced Analytics Center of Excellence",
+        "company": "PMI",
+        "linkedUrl": "https://www.linkedin.com/in/rikard-sandstr%C3%B6m-a0b3229/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337812/datafest/Datafest%202022/Speakers/Rikard_Sandstroem_lnmhsn.png"
+      },
+          {
+        "name": "Manvel",
+        "surname": "Avetisian",
+        "position": "Sr. Software Engineering Manager",
+        "company": "AMD",
+        "linkedUrl": "https://www.linkedin.com/mwlite/in/manvelavetisian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661750052/datafest/Datafest%202022/Speakers/Manvel_Avetisian_yublyx.jpg"
+      } 
+    ]
+  },
+  "location": {
+    "title": "Where to find us",
+    "lat": "40.193410592591526",
+    "lng": "44.504402153484406"
+  }
+}
