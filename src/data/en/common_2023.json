@@ -19,13 +19,13 @@
       2021,
       2022
     ],
-    "register": "Free Registration",
-    "registerUrl": "https://forms.gle/mPQvUMppSBMigQbu6"
+    "register": "Registration is not yet open",
+    "registerUrl": "#"
   },
   "home": {
     "main": {
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
-      "register": "Free Registration",
+      "register": "Registration is not yet open",
       "scrollDown": "Scroll down",
       "eventDate": "September 8-9, 2023"
     },
