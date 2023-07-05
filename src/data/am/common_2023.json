@@ -135,7 +135,14 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-      
+        {
+        "name": "Լուբնա",
+        "surname": "Բեն Ալլալ",
+        "position": "ՄՈՒ ինժեներ",
+        "company": "Hugging Face",
+        "linkedUrl": "https://www.linkedin.com/in/loubna-ben-allal-238690152/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png"
+      }
     ]
   },
   "location": {
