@@ -142,6 +142,30 @@
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/loubna-ben-allal-238690152/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png"
+      },
+      {
+        "name": "Դմիտրի",
+        "surname": "Պռանչուկ",
+        "position": "Հետազոտական և զարգացման թիմի ղեկավար",
+        "company": "WANNA",
+        "linkedUrl": "https://www.linkedin.com/in/dmitry-pranchuk-885273b5/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png"
+      },
+      {
+        "name": "Մարիանո",
+        "surname": "Կամփ",
+        "position": "Առաջատար լուծումների ճարտարապետ",
+        "company": "Amazon Web Services",
+        "linkedUrl": "https://www.linkedin.com/in/mariano-kamp/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Mariano-Kamp_wrdfhw.png"
+      },
+      {
+        "name": "Միխալ",
+        "surname": "Վալկո",
+        "position": "Հետազոտող գիտնական",
+        "company": "Google DeepMind / Inria / MVA",
+        "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png"
       }
     ]
   },
