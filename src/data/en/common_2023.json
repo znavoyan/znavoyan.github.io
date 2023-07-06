@@ -191,6 +191,38 @@
         "company": "Google DeepMind / Inria / MVA",
         "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png"
+      },
+      {
+        "name": "Gor",
+        "surname": "Hayrapetyan",
+        "position": "Senior Data Engineer at",
+        "company": "Microsoft",
+        "linkedUrl": "https://www.linkedin.com/in/gorhayrapetyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Gor-Hayrapetyan_fs8kas.png"
+      },
+      {
+        "name": "Nikita",
+        "surname": "Detkov",
+        "position": "CTO / PhD student at",
+        "company": "OHMYSYNT / ITMO University",
+        "linkedUrl": "https://www.linkedin.com/in/detkovns",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Nikita-Detkov_hodrvl.png"
+      },
+      {
+        "name": "Vladimir",
+        "surname": "Orshulevich",
+        "position": "Lead DL research engineer at",
+        "company": "Unum.cloud",
+        "linkedUrl": "https://www.linkedin.com/in/vladimir-orshulevich-289a7a170/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Vladimir-Orshulevich_ngjptq.png"
+      },
+      {
+        "name": "Dmitry",
+        "surname": "Temnov",
+        "position": "Senior Machine Learning Engineer at",
+        "company": "Social Discovery Group",
+        "linkedUrl": "https://www.linkedin.com/in/dtemnov",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png"
       }
      ]
   },
