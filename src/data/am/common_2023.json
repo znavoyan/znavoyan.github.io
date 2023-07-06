@@ -152,6 +152,13 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png"
       },
       {
+        "name": "Ավգուստին",
+        "surname": "Զիդեկ",
+        "position": "Հետազոտող ինժեներ",
+        "company": "Google DeepMind",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
         "name": "Մարիանո",
         "surname": "Կամփ",
         "position": "Առաջատար լուծումների ճարտարապետ",
@@ -166,6 +173,38 @@
         "company": "Google DeepMind / Inria / MVA",
         "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png"
+      },
+      {
+        "name": "Գոռ",
+        "surname": "Հայրապետյան",
+        "position": "Տվյալների ավագ ինժեներ",
+        "company": "Microsoft",
+        "linkedUrl": "https://www.linkedin.com/in/gorhayrapetyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Gor-Hayrapetyan_fs8kas.png"
+      },
+      {
+        "name": "Նիկիտա",
+        "surname": "Դետկով",
+        "position": "Տեխնիկական գծով տնօրեն / Ասպիրանտ",
+        "company": "OHMYSYNT / ITMO University",
+        "linkedUrl": "https://www.linkedin.com/in/detkovns",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Nikita-Detkov_hodrvl.png"
+      },
+      {
+        "name": "Վլադիմիր",
+        "surname": "Օրշուլևիչ",
+        "position": "Խորը ուսուցման հետազոտող ինժեներների ղեկավար",
+        "company": "Unum.cloud",
+        "linkedUrl": "https://www.linkedin.com/in/vladimir-orshulevich-289a7a170/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Vladimir-Orshulevich_ngjptq.png"
+      },
+      {
+        "name": "Դմիտրի",
+        "surname": "Տեմնով",
+        "position": "ՄՈՒ ավագ ինժեներ",
+        "company": "Social Discovery Group",
+        "linkedUrl": "https://www.linkedin.com/in/dtemnov",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png"
       }
     ]
   },
