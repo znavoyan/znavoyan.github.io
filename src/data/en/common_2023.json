@@ -160,6 +160,37 @@
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/loubna-ben-allal-238690152/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png"
+      },
+      {
+        "name": "Dzmitry",
+        "surname": "Pranchuk",
+        "position": "R&D Team Lead at",
+        "company": "WANNA",
+        "linkedUrl": "https://www.linkedin.com/in/dmitry-pranchuk-885273b5/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png"
+      },
+      {
+        "name": "Augustin",
+        "surname": "Zidek",
+        "position": "Research Engineer at",
+        "company": "Google DeepMind",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
+        "name": "Mariano",
+        "surname": "Kamp",
+        "position": "Principal Solutions Architect at",
+        "company": "Amazon Web Services",
+        "linkedUrl": "https://www.linkedin.com/in/mariano-kamp/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Mariano-Kamp_wrdfhw.png"
+      },
+      {
+        "name": "Michal",
+        "surname": "Valko",
+        "position": "Research Scientist at",
+        "company": "Google DeepMind / Inria / MVA",
+        "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png"
       }
      ]
   },
