@@ -223,6 +223,22 @@
         "company": "Social Discovery Group",
         "linkedUrl": "https://www.linkedin.com/in/dtemnov",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png"
+      },
+      {
+        "name": "Hayk",
+        "surname": "Sargsyan",
+        "position": "Machine Learning Engineer at",
+        "company": "LABZ.ai",
+        "linkedUrl": "https://www.linkedin.com/in/hayk-sargsyan-456a6120",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Hayk-Sargsyan_ymjk1f.png"
+      },
+      {
+        "name": "Mark",
+        "surname": "Hamazaspyan",
+        "position": "Machine Learning Researcher at",
+        "company": "Anania, Metric",
+        "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Mark-Hamazaspyan_opwizz.png"
       }
      ]
   },
