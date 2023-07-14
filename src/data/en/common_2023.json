@@ -239,6 +239,38 @@
         "company": "Anania, Metric",
         "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Mark-Hamazaspyan_opwizz.png"
+      },
+      {
+        "name": "Younes",
+        "surname": "Belkada",
+        "position": "ML Engineer at",
+        "company": "Hugging Face",
+        "linkedUrl": "https://www.linkedin.com/in/younes-belkada-b1a903145/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Younes-Belkada_zqqvt6.png"
+      },
+      {
+        "name": "Karen",
+        "surname": "Avetisyan",
+        "position": "ML Engineer at",
+        "company": "CAST",
+        "linkedUrl": "https://www.linkedin.com/in/karen-avetisyan-786bb21b4",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Karen-Avetisyan_xqjq2v.png"
+      },
+      {
+        "name": "Hazarapet",
+        "surname": "Tunanyan",
+        "position": "Senior ML Scientist at",
+        "company": "Picsart Inc.",
+        "linkedUrl": "https://www.linkedin.com/in/hazarapet/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Hazarapet-Tunanyan_a1hj1s.png"
+      },
+      {
+        "name": "Tigran",
+        "surname": "Tonoyan",
+        "position": "Senior ML Engineer II at",
+        "company": "Krisp AI",
+        "linkedUrl": "https://www.linkedin.com/in/hazarapet/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Tigran-Tonoyan_z74zub.png"
       }
      ]
   },
