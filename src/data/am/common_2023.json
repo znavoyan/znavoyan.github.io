@@ -15,13 +15,13 @@
       }
     ],
     "pastEvents": [2020, 2021, 2022],
-    "register": "Գրանցումը դեռ չի բացվել",
-    "registerUrl": "#"
+    "register": "Գրանցվել այստեղ",
+    "registerUrl": "https://datafest23.eventbrite.co.uk/"
   },
   "home": {
     "main": {
       "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
-      "register": "Գրանցումը դեռ չի բացվել",
+      "register": "Գրանցվել այստեղ",
       "scrollDown": "Դեպի ներքև",
       "eventDate": "Սեպտեմբերի 8-9, 2023"
     },
