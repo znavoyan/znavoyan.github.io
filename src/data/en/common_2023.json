@@ -19,13 +19,13 @@
       2021,
       2022
     ],
-    "register": "Registration is not yet open",
-    "registerUrl": "#"
+    "register": "Register here",
+    "registerUrl": "https://datafest23.eventbrite.co.uk"
   },
   "home": {
     "main": {
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
-      "register": "Registration is not yet open",
+      "register": "Register here",
       "scrollDown": "Scroll down",
       "eventDate": "September 8-9, 2023"
     },
