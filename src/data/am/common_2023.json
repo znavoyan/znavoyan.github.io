@@ -261,6 +261,30 @@
         "company": "Grovf",
         "linkedUrl": "https://www.linkedin.com/in/erik-sahakyan-042322aa/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689673249/datafest/DataFest%202023/Speakers/Erik-Sahakyan_vnjpr6.png"
+      },
+      {
+        "name": "Շահանե",
+        "surname": "Տիգրանյան",
+        "position": "ՄՈՒ ինժեներ",
+        "company": "CAST",
+        "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362646/datafest/DataFest%202023/Speakers/Shahane-Tigranyan_glu94m.png"
+      },
+      {
+        "name": "Սեմյոն",
+        "surname": "Սորոկին",
+        "position": "Բնական լեզվի մշակման առաջատար ինժեներ",
+        "company": "ZERO Systems",
+        "linkedUrl": "https://www.linkedin.com/in/salsorokin/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Semen-Sorokin_u3i549.png"
+      },
+      {
+        "name": "Արման",
+        "surname": "Իսաջանյան",
+        "position": "ՄՈՒ գիտնական",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/arman-isajanyan-b2558613a/https://www.linkedin.com/in/arman-isajanyan-b2558613a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Arman-Isajanyan_swsacx.png"
       }
     ]
   },
