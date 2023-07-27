@@ -323,6 +323,13 @@
         "company": "Picsart",
         "linkedUrl": "https://www.linkedin.com/in/arman-isajanyan-b2558613a/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Arman-Isajanyan_swsacx.png"
+      },
+      {
+        "name": "Alexey",
+        "surname": "Kovalev",
+        "position": "Researcher at",
+        "company": "AIRI",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png"
       }
      ]
   },
