@@ -49,10 +49,20 @@
     "sponsorsTitle": "<span>Sponsors</span>",
     "siteSponsorsTitle": "<span>Site Sponsors</span>",
     "seeAll": "See all",
-    "text": "We are looking for companies to sponsor DataFest Yerevan 2023. Please contact us at info@datafest.am if you are interested.",
+    "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2023, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
     "generalSponsorsList": [
+        {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690434780/datafest/DataFest%202023/Sponsors/cognaize_uvxa9a.png",
+        "linkedUrl": "https://www.cognaize.com/",
+        "width": "17.3em"
+      },
+        {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
+        "linkedUrl": "https://intent.ai/",
+        "width": "17.3em"
+      },
     ],
     "sponsorsList": [
     ],
