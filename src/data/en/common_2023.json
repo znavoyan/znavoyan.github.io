@@ -65,6 +65,16 @@
       },
     ],
     "sponsorsList": [
+       {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690435822/datafest/DataFest%202023/Sponsors/Adobe_xrizsi.png",
+        "linkedUrl": "https://www.adobe.com/",
+        "width": "24.3em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
+        "linkedUrl": "https://www.onetick.com/",
+        "width": "24.3em"
+      }
     ],
     "siteSponsorsList": [
       {
