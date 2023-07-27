@@ -42,7 +42,7 @@
   "sponsors": {
     "title": "Մեր <span>Հովանավորները</span>",
     "generalSponsorsTitle": "<span>Ոսկե հովանավորները</span>",
-    "sponsorsTitle": "<span>Հովանավորները</span>",
+    "sponsorsTitle": "<span>Արժաթե հովանավորները</span>",
     "siteSponsorsTitle": "<span>Կայքի հովանավորները</span>",
     "seeAll": "Տեսնել ամբողջը",
     "text": "Դատաֆեստ Երևան 2023-ը փնտրում է հովանավորների: Եթե հետաքրքրված եք, գրեք մեզ info@datafest.am հասցեին։",
@@ -57,14 +57,14 @@
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
         "linkedUrl": "https://intent.ai/",
-        "width": "17.3em"
+        "width": "16.5em"
       }
     ],
     "sponsorsList": [
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690435822/datafest/DataFest%202023/Sponsors/Adobe_xrizsi.png",
         "linkedUrl": "https://www.adobe.com/",
-        "width": "24.3em"
+        "width": "23.0em"
       },
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
