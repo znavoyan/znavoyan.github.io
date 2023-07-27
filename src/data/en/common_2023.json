@@ -53,19 +53,19 @@
     "aboveText": "",
     "bottomText": "",
     "generalSponsorsList": [
-        {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690434780/datafest/DataFest%202023/Sponsors/cognaize_uvxa9a.png",
         "linkedUrl": "https://www.cognaize.com/",
         "width": "17.3em"
       },
-        {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
         "linkedUrl": "https://intent.ai/",
         "width": "17.3em"
-      },
+      }
     ],
     "sponsorsList": [
-       {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690435822/datafest/DataFest%202023/Sponsors/Adobe_xrizsi.png",
         "linkedUrl": "https://www.adobe.com/",
         "width": "24.3em"
