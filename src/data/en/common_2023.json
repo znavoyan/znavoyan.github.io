@@ -354,6 +354,30 @@
         "company": "Portmind",
         "linkedUrl": "https://www.linkedin.com/in/sipan-muradyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png"
+      },
+      {
+        "name": "Aram",
+        "surname": "Matinyan",
+        "position": "AI Engineer at",
+        "company": "Aerodynamics",
+        "linkedUrl": "https://www.linkedin.com/in/aram-matinyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Aram-Matinyan_jcwppr.png"
+      },
+      {
+        "name": "Nshan",
+        "surname": "Potikyan",
+        "position": "AI Engineer at",
+        "company": "Aerodynamics",
+        "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Nshan-Potikyan_jembgi.png"
+      },
+      {
+        "name": "Armen",
+        "surname": "Gabrielyan",
+        "position": "MLOps Engineer at",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/armen-gabrielyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png"
       }
      ]
   },
