@@ -319,6 +319,22 @@
         "company": "AIRI",
         "linkedUrl": "#",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png"
+      },
+      {
+        "name": "Դավիթ",
+        "surname": "Շահնազարյան",
+        "position": "Հետազոտությունների ղեկավար",
+        "company": "Amaros AI, YSU",
+        "linkedUrl": "https://www.linkedin.com/in/davit-shahnazaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Davit-Shahnazaryan_ebcd9u.png"
+      },
+      {
+        "name": "Սիփան",
+        "surname": "Մուրադյան",
+        "position": "ՄՈՒ ավագ մասնագետ",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/sipan-muradyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png"
       }
     ]
   },
