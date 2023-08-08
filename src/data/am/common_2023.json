@@ -359,6 +359,14 @@
         "company": "Portmind",
         "linkedUrl": "https://www.linkedin.com/in/armen-gabrielyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png"
+      },
+       {
+        "name": "Հասմիկ",
+        "surname": "Հակոբյան",
+        "position": "Ծրագրային ապահովման ինժեներ",
+        "company": "ArmSoft",
+        "linkedUrl": "https://www.linkedin.com/in/hasmik-hakobyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691519855/datafest/DataFest%202023/Speakers/Hasmik-Hakobyan_zl6qfm.png"
       }
     ]
   },
