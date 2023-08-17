@@ -388,6 +388,14 @@
         "company": "MBZUAI",
         "linkedUrl": "https://www.linkedin.com/in/fahad-khan-25b3006/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691521685/datafest/DataFest%202023/Speakers/Fahad-Khan_g3iw1o.png"
+      },
+         {
+        "name": "Արթուր",
+        "surname": "Կադուրին",
+        "position": "Թիմի ղեկավար",
+        "company": "Artificial Intelligence Research Institute",
+        "linkedUrl": "https://www.linkedin.com/in/artur-kadurin/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png"
       }
     ]
   },
