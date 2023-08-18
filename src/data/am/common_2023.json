@@ -396,6 +396,14 @@
         "company": "Artificial Intelligence Research Institute",
         "linkedUrl": "https://www.linkedin.com/in/artur-kadurin/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png"
+      },
+         {
+        "name": "Ալեքսանդր",
+        "surname": "Սերեչենկո",
+        "position": "ՄՈՒ/MLOps ինժեներ և ծրագրավորող",
+        "company": "OneMarketData",
+        "linkedUrl": "https://www.linkedin.com/in/alexander-serechenko-84b46161/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png"
       }
     ]
   },
