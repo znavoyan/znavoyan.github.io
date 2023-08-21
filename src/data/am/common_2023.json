@@ -404,6 +404,22 @@
         "company": "OneMarketData",
         "linkedUrl": "https://www.linkedin.com/in/alexander-serechenko-84b46161/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png"
+      },
+         {
+        "name": "Ֆիլիպ",
+        "surname": "Զայդլ",
+        "position": "Գիտությունների թեկնածու",
+        "company": "JKU Linz",
+        "linkedUrl": "https://www.linkedin.com/in/phseidl/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Philipp-Seidl_rrkbis.png"
+      },
+         {
+        "name": "Գրիգորի",
+        "surname": "Սապունով",
+        "position": "Տեխնոլոգիայի գլխավոր տնօրեն",
+        "company": "Intento",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
       }
     ]
   },
