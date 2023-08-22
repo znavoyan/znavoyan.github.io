@@ -420,6 +420,14 @@
         "company": "Intento",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
+      },
+         {
+        "name": "Դենիել",
+        "surname": "Գեհրիգ",
+        "position": "Գիտությունների թեկնածու, ուսանող",
+        "company": "Robotics and Perception Group",
+        "linkedUrl": "https://www.linkedin.com/in/daniel-gehrig-942aa714b",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692703940/datafest/DataFest%202023/Speakers/Daniel-Gehrig_m17rsb.png"
       }
     ]
   },
