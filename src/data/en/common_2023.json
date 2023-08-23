@@ -131,15 +131,15 @@
     "days": [
       {
         "1": [
-           {
-            "id": 0,
+                     {
+            "id": 10,
             "key": "break",
-            "title": "Registration",
+            "title": "Conference Opening",
             "roomId": 0,
             "startHour": 9,
-            "startMinutes": 0,
-            "endHour": 9,
-            "endMinutes": 40
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0
           },
           {
             "id": 20,
@@ -159,6 +159,186 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 40,
+            "speaker": "Armen Gabrielyan",
+            "title": "Streamlining ML Deployment: Our Journey of Building an Internal ML Model Serving Library",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 50,
+            "speaker": "Artur Kadurin",
+            "title": "DL for Quantum Chemistry",
+            "roomId": 4,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 60,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 70,
+            "speaker": "Younes Belkada",
+            "title": "Making Reinforcement Learning with Human Feedback (RLHF) more accessible with TRL and PEFT libraries",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 80,
+            "speaker": "Tigran Tonoyan",
+            "title": "HTTP-based distributed DNN training framework",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 90,
+            "speaker": "Philip Seidl",
+            "title": "To be announced later",
+            "roomId": 4,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 100,
+            "speaker": "Philipp Guevorguian",
+            "title": "To be announced later",
+            "roomId": 4,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 110,
+            "key": "break",
+            "title": "Lunch",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 30
+          },
+          {
+            "id": 120,
+            "speaker": "Fahad Khan",
+            "title": "Towards Detailed Understanding of the Visual World through Specialized Conversational Vision-Language Models",
+            "roomId": 0,
+            "startHour": 14,
+            "startMinutes": 30,
+            "endHour": 15,
+            "endMinutes": 30
+          },
+          {
+            "id": 130,
+            "speaker": "Nikita Detkov",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 140,
+            "speaker": "Hasmik Hakobyan",
+            "title": "Efficiently migrating clients' data to the cloud environment",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 150,
+            "speaker": "Shahane Tigranyan",
+            "title": "To be announced later",
+            "roomId": 4,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 160,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 16,
+            "endMinutes": 30
+          },
+          {
+            "id": 170,
+            "speaker": "Mark Hamazaspyan",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 180,
+            "speaker": "Dmitry Temnov",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 17,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 190,
+            "speaker": "Gor Hayrapetyan",
+            "title": "To be announced later",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 200,
+            "speaker": "Hayk Sargsyan",
+            "title": "To be announced later",
+            "roomId": 4,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 210,
+            "speaker": "Davit Shahnazaryan",
+            "title": "To be announced later",
+            "roomId": 4,
+            "startHour": 17,
+            "startMinutes": 0,
+            "endHour": 17,
             "endMinutes": 30
           }
           
