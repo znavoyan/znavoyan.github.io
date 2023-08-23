@@ -140,7 +140,27 @@
             "startMinutes": 0,
             "endHour": 9,
             "endMinutes": 40
-          }
+          },
+          {
+            "id": 20,
+            "speaker": "Michal Valko",
+            "title": "[Keynote]\nCurious World Models",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 30,
+            "speaker": "Vladimir Orshulevich",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
           
         ],
         "date": "September 8",
