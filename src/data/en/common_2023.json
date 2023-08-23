@@ -164,7 +164,7 @@
           {
             "id": 30,
             "speaker": "Vladimir Orshulevich",
-            "title": "To be announced later",
+            "title": "Introduction to Transformers with external memory and its scalability",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 0,
@@ -224,7 +224,7 @@
           {
             "id": 90,
             "speaker": "Philip Seidl",
-            "title": "To be announced later",
+            "title": "ML for Drug Discovery",
             "roomId": 4,
             "startHour": 12,
             "startMinutes": 0,
@@ -264,7 +264,7 @@
           {
             "id": 130,
             "speaker": "Nikita Detkov",
-            "title": "To be announced later",
+            "title": "State of the Text-to-Video generation and how can we use it",
             "roomId": 1,
             "startHour": 15,
             "startMinutes": 30,
@@ -284,7 +284,7 @@
           {
             "id": 150,
             "speaker": "Shahane Tigranyan",
-            "title": "To be announced later",
+            "title": "Deep Neural Networks Generalization and Fine-Tuning for 12-lead ECG Classification",
             "roomId": 4,
             "startHour": 15,
             "startMinutes": 30,
@@ -304,7 +304,7 @@
           {
             "id": 170,
             "speaker": "Mark Hamazaspyan",
-            "title": "To be announced later",
+            "title": "Diffusion-Enhanced PatchMatch: A Framework for Arbitrary Style Transfer With Diffusion Models",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 30,
@@ -314,7 +314,7 @@
           {
             "id": 180,
             "speaker": "Dmitry Temnov",
-            "title": "To be announced later",
+            "title": "EVA.AI - long way to human-like voice, applications of ML in the industry",
             "roomId": 1,
             "startHour": 17,
             "startMinutes": 0,
@@ -324,7 +324,7 @@
           {
             "id": 190,
             "speaker": "Gor Hayrapetyan",
-            "title": "To be announced later",
+            "title": "Boring data engineering",
             "roomId": 2,
             "startHour": 16,
             "startMinutes": 30,
@@ -334,7 +334,7 @@
           {
             "id": 200,
             "speaker": "Hayk Sargsyan",
-            "title": "To be announced later",
+            "title": "Breast cancer detection through thermal imaging",
             "roomId": 4,
             "startHour": 16,
             "startMinutes": 30,
@@ -344,7 +344,7 @@
           {
             "id": 210,
             "speaker": "Davit Shahnazaryan",
-            "title": "To be announced later",
+            "title": "Machine Learning Enabled Disease Subtyping",
             "roomId": 4,
             "startHour": 17,
             "startMinutes": 0,
@@ -394,7 +394,7 @@
           {
             "id": 30,
             "speaker": "Hazarapet Tunanyan",
-            "title": "To be announced later",
+            "title": "Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 0,
@@ -404,7 +404,7 @@
           {
             "id": 40,
             "speaker": "Sipan Muradyan",
-            "title": "To be announced later",
+            "title": "Creating your own version of ChatGPT with LangChain",
             "roomId": 2,
             "startHour": 11,
             "startMinutes": 0,
@@ -414,7 +414,7 @@
           {
             "id": 40,
             "speaker": "Alexey Kovalev",
-            "title": "To be announced later",
+            "title": "Transformers for Reinforcement Learning and Robotics",
             "roomId": 3,
             "startHour": 11,
             "startMinutes": 0,
@@ -494,7 +494,7 @@
           {
             "id": 110,
             "speaker": "Semen Sorokin",
-            "title": "To be announced later",
+            "title": "Document Processing with Zero-Shot Classification and Extraction before and after LLMs in Artemis (by Zero)",
             "roomId": 2,
             "startHour": 14,
             "startMinutes": 30,
@@ -514,7 +514,7 @@
           {
             "id": 130,
             "speaker": "Karen Avetisyan",
-            "title": "To be announced later",
+            "title": "Adversarial Attacks on Language Models: WordPiece Filtration and ChatGPT Synonyms",
             "roomId": 2,
             "startHour": 15,
             "startMinutes": 30,
