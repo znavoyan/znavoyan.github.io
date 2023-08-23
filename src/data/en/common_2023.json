@@ -361,6 +361,226 @@
       },
       {
         "2": [
+          {
+            "id": 0,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Conference Opening",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0
+          },
+          {
+            "id": 20,
+            "speaker": "Augustin Zidek",
+            "title": "[Keynote]\nHighly accurate protein structure prediction with AlphaFold",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 30,
+            "speaker": "Hazarapet Tunanyan",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 40,
+            "speaker": "Sipan Muradyan",
+            "title": "To be announced later",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 40,
+            "speaker": "Alexey Kovalev",
+            "title": "To be announced later",
+            "roomId": 3,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 50,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 11,
+            "startMinutes": 30,
+            "endHour": 12,
+            "endMinutes": 0
+          },
+          {
+            "id": 60,
+            "speaker": "Dzmitry Pranchuk",
+            "title": "Synthetic Data Generation via Diffusion Models for Training Discriminative Convolutional Networks",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 60,
+            "speaker": "Loubna Ben Allal",
+            "title": "BigCode: Building Large Language Models for Code",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 70,
+            "speaker": "Daniel Gehrig",
+            "title": "Efficient, Data-Driven Perception with Event Cameras",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 30
+          },
+          {
+            "id": 80,
+            "speaker": "Aram Matinyan, Nshan Potikyan",
+            "title": "Simultaneous object detection and visual tracking",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 30,
+            "endHour": 13,
+            "endMinutes": 0
+          },
+          {
+            "id": 90,
+            "key": "break",
+            "title": "Lunch",
+            "roomId": 0,
+            "startHour": 13,
+            "startMinutes": 0,
+            "endHour": 14,
+            "endMinutes": 30
+          },
+          {
+            "id": 100,
+            "speaker": "Mariano Kamp",
+            "title": "Look Ma, I shrunk BERT (Knowledge Distillation)",
+            "roomId": 1,
+            "startHour": 14,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 110,
+            "speaker": "Semen Sorokin",
+            "title": "To be announced later",
+            "roomId": 2,
+            "startHour": 14,
+            "startMinutes": 30,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 120,
+            "speaker": "Mkrtchyan",
+            "title": "To be announced later",
+            "roomId": 3,
+            "startHour": 14,
+            "startMinutes": 30,
+            "endHour": 15,
+            "endMinutes": 0
+          },
+          {
+            "id": 130,
+            "speaker": "Karen Avetisyan",
+            "title": "To be announced later",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 140,
+            "speaker": "Rafayel Shirakyan",
+            "title": "Explainable Churn models",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 30,
+            "endHour": 16,
+            "endMinutes": 0
+          },
+          {
+            "id": 150,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 0,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 16,
+            "endMinutes": 30
+          },
+          {
+            "id": 160,
+            "speaker": "Darbinyan",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 170,
+            "speaker": "Grigory Sapunov",
+            "title": "NLP in 2023",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 30
+          },
+          {
+            "id": 180,
+            "speaker": "Arman Isajanyan",
+            "title": "Enhancing Photo Editing with Content-Based Recommendation System for Stickers",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 0
+          },
+          {
+            "id": 190,
+            "speaker": "Erik Sahakyan",
+            "title": "Novel approach to hyperscale GPU compute cluster for AI workloads",
+            "roomId": 3,
+            "startHour": 17,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 30
+          }
         ],
         "date": "September 9",
         "dateIndex": "2",
