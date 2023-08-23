@@ -131,7 +131,17 @@
     "days": [
       {
         "1": [
-                     {
+          {
+            "id": 0,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40
+          },
+          {
             "id": 10,
             "key": "break",
             "title": "Conference Opening",
@@ -244,7 +254,7 @@
           {
             "id": 120,
             "speaker": "Fahad Khan",
-            "title": "Towards Detailed Understanding of the Visual World through Specialized Conversational Vision-Language Models",
+            "title": "[Keynote]\nTowards Detailed Understanding of the Visual World through Specialized Conversational Vision-Language Models",
             "roomId": 0,
             "startHour": 14,
             "startMinutes": 30,
