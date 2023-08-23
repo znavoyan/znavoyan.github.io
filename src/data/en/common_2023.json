@@ -122,11 +122,76 @@
       {
         "text": "214 W",
         "id": 3
+      },
+      {
+        "text": "EPIC",
+        "id": 4
       }
     ],
     "days": [
       {
         "1": [
+           {
+            "id": 0,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Conference Opening",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0
+          },
+          {
+            "id": 20,
+            "speaker": "Michal Valko",
+            "title": "[Keynote]\nCurious World Models",
+            "roomId": 0,
+            "startHour": 10,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 0
+          },
+          {
+            "id": 30,
+            "speaker": "Vladimir Orshulevich",
+            "title": "To be announced later",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 40,
+            "speaker": "Armen Gabrielyan",
+            "title": "Streamlining ML Deployment: Our Journey of Building an Internal ML Model Serving Library",
+            "roomId": 2,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          {
+            "id": 50,
+            "speaker": "Artur Kadurin",
+            "title": "DL for Quantum Chemistry",
+            "roomId": 4,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 11,
+            "endMinutes": 30
+          },
+          
         ],
         "date": "September 8",
         "dateIndex": "1",
