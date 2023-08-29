@@ -23,7 +23,7 @@
       "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
       "register": "Գրանցվել այստեղ",
       "scrollDown": "Դեպի ներքև",
-      "eventDate": "Սեպտեմբերի 8-9, 2023"
+      "eventDate": "Սեպտեմբերի 8-9, 2023, Հայաստանի Ամերիկյան Համալսարան"
     },
     "about": {
       "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
@@ -63,6 +63,11 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
         "linkedUrl": "https://intent.ai/",
         "width": "16.5em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+        "linkedUrl": "https://www.worldquant.com/",
+        "width": "15.2em"
       }
     ],
     "sponsorsList": [
@@ -76,6 +81,11 @@
         "linkedUrl": "https://www.onetick.com/",
         "width": "24.3em"
       },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692903163/datafest/DataFest%202023/Sponsors/plat-ai_slmqt4.png",
+        "linkedUrl": "https://plat.ai/",
+        "width": "14.9em"
+      },  
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
         "linkedUrl": "https://socialdiscoverygroup.com/",
@@ -228,7 +238,7 @@
         "name": "Դմիտրի",
         "surname": "Տեմնով",
         "position": "ՄՈՒ ավագ ինժեներ",
-        "company": "Social Discovery Group",
+        "company": "EVA.AI",
         "linkedUrl": "https://www.linkedin.com/in/dtemnov",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png"
       },
@@ -319,6 +329,110 @@
         "company": "AIRI",
         "linkedUrl": "#",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png"
+      },
+      {
+        "name": "Դավիթ",
+        "surname": "Շահնազարյան",
+        "position": "Հետազոտությունների ղեկավար",
+        "company": "Amaros AI, YSU",
+        "linkedUrl": "https://www.linkedin.com/in/davit-shahnazaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Davit-Shahnazaryan_ebcd9u.png"
+      },
+      {
+        "name": "Սիփան",
+        "surname": "Մուրադյան",
+        "position": "ՄՈՒ ավագ մասնագետ",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/sipan-muradyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png"
+      },
+      {
+        "name": "Արամ",
+        "surname": "Մատինյան",
+        "position": "ԱԲ ինժեներ",
+        "company": "Aerodynamics",
+        "linkedUrl": "https://www.linkedin.com/in/aram-matinyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Aram-Matinyan_jcwppr.png"
+      },
+      {
+        "name": "Նշան",
+        "surname": "Փոթիկյան",
+        "position": "ԱԲ թիմի ղեկավար",
+        "company": "Aerodynamics",
+        "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Nshan-Potikyan_jembgi.png"
+      },
+      {
+        "name": "Արմեն",
+        "surname": "Գաբրիելյան",
+        "position": "MLOps ինժեներ",
+        "company": "Portmind",
+        "linkedUrl": "https://www.linkedin.com/in/armen-gabrielyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png"
+      },
+       {
+        "name": "Հասմիկ",
+        "surname": "Հակոբյան",
+        "position": "Ծրագրային ապահովման ինժեներ",
+        "company": "ArmSoft",
+        "linkedUrl": "https://www.linkedin.com/in/hasmik-hakobyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691519855/datafest/DataFest%202023/Speakers/Hasmik-Hakobyan_zl6qfm.png"
+      },
+         {
+        "name": "Ռաֆայել",
+        "surname": "Շիրակյան",
+        "position": "Ավագ տվյալագետ",
+        "company": "Digitain",
+        "linkedUrl": "https://www.linkedin.com/in/rafayel-shirakyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691520218/datafest/DataFest%202023/Speakers/Rafayel-Shirakyan_sxohqk.png"
+      },
+         {
+        "name": "Ֆահադ",
+        "surname": "Խան",
+        "position": "Պրոֆեսոր",
+        "company": "MBZUAI",
+        "linkedUrl": "https://www.linkedin.com/in/fahad-khan-25b3006/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691521685/datafest/DataFest%202023/Speakers/Fahad-Khan_g3iw1o.png"
+      },
+         {
+        "name": "Արթուր",
+        "surname": "Կադուրին",
+        "position": "Թիմի ղեկավար",
+        "company": "Artificial Intelligence Research Institute",
+        "linkedUrl": "https://www.linkedin.com/in/artur-kadurin/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png"
+      },
+         {
+        "name": "Ալեքսանդր",
+        "surname": "Սերեչենկո",
+        "position": "ՄՈՒ/MLOps ինժեներ և ծրագրավորող",
+        "company": "OneMarketData",
+        "linkedUrl": "https://www.linkedin.com/in/alexander-serechenko-84b46161/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png"
+      },
+         {
+        "name": "Ֆիլիպ",
+        "surname": "Զայդլ",
+        "position": "Գիտությունների թեկնածու",
+        "company": "JKU Linz",
+        "linkedUrl": "https://www.linkedin.com/in/phseidl/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Philipp-Seidl_rrkbis.png"
+      },
+         {
+        "name": "Գրիգորի",
+        "surname": "Սապունով",
+        "position": "Տեխնոլոգիայի գլխավոր տնօրեն",
+        "company": "Intento",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
+      },
+         {
+        "name": "Դենիել",
+        "surname": "Գեհրիգ",
+        "position": "Գիտությունների թեկնածու, ուսանող",
+        "company": "Robotics and Perception Group",
+        "linkedUrl": "https://www.linkedin.com/in/daniel-gehrig-942aa714b",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692703940/datafest/DataFest%202023/Speakers/Daniel-Gehrig_m17rsb.png"
       }
     ]
   },
