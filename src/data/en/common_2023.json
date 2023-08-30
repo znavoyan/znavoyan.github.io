@@ -14,11 +14,7 @@
         "key": "agenda"
       }
     ],
-    "pastEvents": [
-      2020,
-      2021,
-      2022
-    ],
+    "pastEvents": [2020, 2021, 2022],
     "register": "Register here",
     "registerUrl": "https://datafest23.eventbrite.co.uk"
   },
@@ -58,7 +54,7 @@
         "linkedUrl": "https://www.cognaize.com/",
         "width": "17.3em"
       },
-       {
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
         "linkedUrl": "https://www.digitain.com/",
         "width": "24.3em"
@@ -89,8 +85,8 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692903163/datafest/DataFest%202023/Sponsors/plat-ai_slmqt4.png",
         "linkedUrl": "https://plat.ai/",
         "width": "14.9em"
-      },     
-        {
+      },
+      {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
         "linkedUrl": "https://socialdiscoverygroup.com/",
         "width": "15.2em"
@@ -356,7 +352,6 @@
             "endHour": 17,
             "endMinutes": 30
           }
-          
         ],
         "date": "September 8",
         "dateIndex": "1",
@@ -598,9 +593,7 @@
   "organisers": {
     "title": "Organisers",
     "teamTitle": "DataFest Team",
-    "organisersList": [
-    
-    ],
+    "organisersList": [],
     "teamList": [
       {
         "name": "Arsen",
@@ -634,13 +627,14 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-       {
+      {
         "name": "Loubna",
         "surname": "Ben Allal",
         "position": "ML Engineer at",
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/loubna-ben-allal-238690152/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png",
+        "abstract": ""
       },
       {
         "name": "Dzmitry",
@@ -648,7 +642,8 @@
         "position": "R&D Team Lead at",
         "company": "WANNA",
         "linkedUrl": "https://www.linkedin.com/in/dmitry-pranchuk-885273b5/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png",
+        "abstract": ""
       },
       {
         "name": "Augustin",
@@ -656,7 +651,8 @@
         "position": "Research Engineer at",
         "company": "Google DeepMind",
         "linkedUrl": "#",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png",
+        "abstract": ""
       },
       {
         "name": "Mariano",
@@ -664,7 +660,8 @@
         "position": "Principal Solutions Architect at",
         "company": "Amazon Web Services",
         "linkedUrl": "https://www.linkedin.com/in/mariano-kamp/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Mariano-Kamp_wrdfhw.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Mariano-Kamp_wrdfhw.png",
+        "abstract": ""
       },
       {
         "name": "Michal",
@@ -672,7 +669,8 @@
         "position": "Research Scientist at",
         "company": "Google DeepMind / Inria / MVA",
         "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png",
+        "abstract": ""
       },
       {
         "name": "Gor",
@@ -680,7 +678,8 @@
         "position": "Senior Data Engineer at",
         "company": "Microsoft",
         "linkedUrl": "https://www.linkedin.com/in/gorhayrapetyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Gor-Hayrapetyan_fs8kas.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Gor-Hayrapetyan_fs8kas.png",
+        "abstract": ""
       },
       {
         "name": "Nikita",
@@ -688,7 +687,8 @@
         "position": "CTO / PhD student at",
         "company": "OHMYSYNT / ITMO University",
         "linkedUrl": "https://www.linkedin.com/in/detkovns",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Nikita-Detkov_hodrvl.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Nikita-Detkov_hodrvl.png",
+        "abstract": ""
       },
       {
         "name": "Vladimir",
@@ -696,7 +696,8 @@
         "position": "Lead DL research engineer at",
         "company": "Unum.cloud",
         "linkedUrl": "https://www.linkedin.com/in/vladimir-orshulevich-289a7a170/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Vladimir-Orshulevich_ngjptq.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Vladimir-Orshulevich_ngjptq.png",
+        "abstract": ""
       },
       {
         "name": "Dmitry",
@@ -704,7 +705,8 @@
         "position": "Senior Machine Learning Engineer at",
         "company": "EVA.AI",
         "linkedUrl": "https://www.linkedin.com/in/dtemnov",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png",
+        "abstract": ""
       },
       {
         "name": "Hayk",
@@ -712,7 +714,8 @@
         "position": "Machine Learning Engineer at",
         "company": "LABZ.ai",
         "linkedUrl": "https://www.linkedin.com/in/hayk-sargsyan-456a6120",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Hayk-Sargsyan_ymjk1f.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Hayk-Sargsyan_ymjk1f.png",
+        "abstract": ""
       },
       {
         "name": "Mark",
@@ -720,7 +723,8 @@
         "position": "Machine Learning Researcher at",
         "company": "Anania, Metric",
         "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Mark-Hamazaspyan_opwizz.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Mark-Hamazaspyan_opwizz.png",
+        "abstract": ""
       },
       {
         "name": "Younes",
@@ -728,7 +732,8 @@
         "position": "ML Engineer at",
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/younes-belkada-b1a903145/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Younes-Belkada_zqqvt6.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Younes-Belkada_zqqvt6.png",
+        "abstract": ""
       },
       {
         "name": "Karen",
@@ -736,7 +741,8 @@
         "position": "ML Engineer at",
         "company": "CAST",
         "linkedUrl": "https://www.linkedin.com/in/karen-avetisyan-786bb21b4",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Karen-Avetisyan_xqjq2v.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Karen-Avetisyan_xqjq2v.png",
+        "abstract": ""
       },
       {
         "name": "Hazarapet",
@@ -744,7 +750,8 @@
         "position": "Senior ML Scientist at",
         "company": "Picsart Inc.",
         "linkedUrl": "https://www.linkedin.com/in/hazarapet/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Hazarapet-Tunanyan_a1hj1s.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Hazarapet-Tunanyan_a1hj1s.png",
+        "abstract": ""
       },
       {
         "name": "Tigran",
@@ -752,7 +759,8 @@
         "position": "Senior ML Engineer II at",
         "company": "Krisp AI",
         "linkedUrl": "https://www.linkedin.com/in/tigran-tonoyan-b6265884",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Tigran-Tonoyan_z74zub.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Tigran-Tonoyan_z74zub.png",
+        "abstract": ""
       },
       {
         "name": "Erik",
@@ -760,7 +768,8 @@
         "position": "Senior Hardware Engineer at",
         "company": "Grovf",
         "linkedUrl": "https://www.linkedin.com/in/erik-sahakyan-042322aa/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689673249/datafest/DataFest%202023/Speakers/Erik-Sahakyan_vnjpr6.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689673249/datafest/DataFest%202023/Speakers/Erik-Sahakyan_vnjpr6.png",
+        "abstract": ""
       },
       {
         "name": "Shahane",
@@ -768,7 +777,8 @@
         "position": "ML Engineer at",
         "company": "CAST",
         "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362646/datafest/DataFest%202023/Speakers/Shahane-Tigranyan_glu94m.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362646/datafest/DataFest%202023/Speakers/Shahane-Tigranyan_glu94m.png",
+        "abstract": ""
       },
       {
         "name": "Semen",
@@ -776,7 +786,8 @@
         "position": "Lead NLP Engineer at",
         "company": "ZERO Systems",
         "linkedUrl": "https://www.linkedin.com/in/salsorokin/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Semen-Sorokin_u3i549.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Semen-Sorokin_u3i549.png",
+        "abstract": ""
       },
       {
         "name": "Arman",
@@ -784,7 +795,8 @@
         "position": "ML Scientist at",
         "company": "Picsart",
         "linkedUrl": "https://www.linkedin.com/in/arman-isajanyan-b2558613a/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Arman-Isajanyan_swsacx.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Arman-Isajanyan_swsacx.png",
+        "abstract": ""
       },
       {
         "name": "Alexey",
@@ -792,7 +804,8 @@
         "position": "Researcher at",
         "company": "AIRI",
         "linkedUrl": "#",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png",
+        "abstract": ""
       },
       {
         "name": "Davit",
@@ -800,7 +813,8 @@
         "position": "Head of Research at",
         "company": "Amaros AI, YSU",
         "linkedUrl": "https://www.linkedin.com/in/davit-shahnazaryan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Davit-Shahnazaryan_ebcd9u.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Davit-Shahnazaryan_ebcd9u.png",
+        "abstract": ""
       },
       {
         "name": "Sipan",
@@ -808,7 +822,8 @@
         "position": "Senior Machine Learning Specialist at",
         "company": "Portmind",
         "linkedUrl": "https://www.linkedin.com/in/sipan-muradyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png",
+        "abstract": ""
       },
       {
         "name": "Aram",
@@ -816,7 +831,8 @@
         "position": "AI Engineer at",
         "company": "Aerodynamics",
         "linkedUrl": "https://www.linkedin.com/in/aram-matinyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Aram-Matinyan_jcwppr.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Aram-Matinyan_jcwppr.png",
+        "abstract": ""
       },
       {
         "name": "Nshan",
@@ -824,7 +840,8 @@
         "position": "AI Team Lead at",
         "company": "Aerodynamics",
         "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Nshan-Potikyan_jembgi.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Nshan-Potikyan_jembgi.png",
+        "abstract": ""
       },
       {
         "name": "Armen",
@@ -832,73 +849,82 @@
         "position": "MLOps Engineer at",
         "company": "Portmind",
         "linkedUrl": "https://www.linkedin.com/in/armen-gabrielyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png",
+        "abstract": ""
       },
-       {
+      {
         "name": "Hasmik",
         "surname": "Hakobyan",
         "position": "Software Engineer at",
         "company": "ArmSoft",
         "linkedUrl": "https://www.linkedin.com/in/hasmik-hakobyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691519855/datafest/DataFest%202023/Speakers/Hasmik-Hakobyan_zl6qfm.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691519855/datafest/DataFest%202023/Speakers/Hasmik-Hakobyan_zl6qfm.png",
+        "abstract": ""
       },
-        {
+      {
         "name": "Rafayel",
         "surname": "Shirakyan",
         "position": "Senior Data Scientist at",
         "company": "Digitain",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-shirakyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691520218/datafest/DataFest%202023/Speakers/Rafayel-Shirakyan_sxohqk.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691520218/datafest/DataFest%202023/Speakers/Rafayel-Shirakyan_sxohqk.png",
+        "abstract": ""
       },
-          {
+      {
         "name": "Fahad",
         "surname": "Khan",
         "position": "Professor at",
         "company": "MBZUAI",
         "linkedUrl": "https://www.linkedin.com/in/fahad-khan-25b3006/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691521685/datafest/DataFest%202023/Speakers/Fahad-Khan_g3iw1o.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691521685/datafest/DataFest%202023/Speakers/Fahad-Khan_g3iw1o.png",
+        "abstract": ""
       },
-         {
+      {
         "name": "Artur",
         "surname": "Kadurin",
         "position": "Team lead at",
         "company": "Artificial Intelligence Research Institute",
         "linkedUrl": "https://www.linkedin.com/in/artur-kadurin/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png",
+        "abstract": ""
       },
-         {
+      {
         "name": "Alexander",
         "surname": "Serechenko",
         "position": "ML/MLOps engineer and developer at",
         "company": "OneMarketData",
         "linkedUrl": "https://www.linkedin.com/in/alexander-serechenko-84b46161/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png",
+        "abstract": ""
       },
-         {
+      {
         "name": "Philipp",
         "surname": "Seidl",
         "position": "PhD candidate at",
         "company": "JKU Linz",
         "linkedUrl": "https://www.linkedin.com/in/phseidl/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Philipp-Seidl_rrkbis.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Philipp-Seidl_rrkbis.png",
+        "abstract": ""
       },
-         {
+      {
         "name": "Grigory",
         "surname": "Sapunov",
         "position": "CTO at",
         "company": "Intento",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png",
+        "abstract": ""
       },
-         {
+      {
         "name": "Daniel",
         "surname": "Gehrig",
         "position": "Ph.D. Student at",
         "company": "Robotics and Perception Group",
         "linkedUrl": "https://www.linkedin.com/in/daniel-gehrig-942aa714b",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692703940/datafest/DataFest%202023/Speakers/Daniel-Gehrig_m17rsb.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692703940/datafest/DataFest%202023/Speakers/Daniel-Gehrig_m17rsb.png",
+        "abstract": ""
       }
-     ]
+    ]
   },
   "location": {
     "title": "Where to find us",
