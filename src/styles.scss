@@ -273,6 +273,13 @@ img.icon-5 {
     height: 130px;
     width: 130px;
   }
+  .title {
+    margin: 0;
+    font-size: 1.3em;
+    line-height: 1.3em;
+    text-align: center;
+    color: #000;
+  }
   .abstract {
     margin: 0;
     font-size: 1.3em;
@@ -281,6 +288,19 @@ img.icon-5 {
     color: #000;
     max-height: 150px;
     overflow-y: auto;
+  }
+
+  .abstract::-webkit-scrollbar {
+    width: 2px;
+  }
+   
+  .abstract::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(255, 255, 255, 1);
+  }
+   
+  .abstract::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid darkgrey;
   }
 }
 

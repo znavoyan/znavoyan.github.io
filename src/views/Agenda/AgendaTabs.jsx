@@ -44,6 +44,7 @@ const Tabs = ({ days, locations }) => {
         speakerInfo.endHour,
         speakerInfo.endMinutes
       ),
+      abstract: speakerInfo.abstract,
     };
     return filteredSpeakerInfo;
   });
@@ -94,7 +95,7 @@ const Tabs = ({ days, locations }) => {
       </div>
       <div className="panels">
         <Paper>
-          <Scheduler data={schedulerData.data} locale="fr-FR" height={760}>
+          <Scheduler data={schedulerData.data} locale="fr-FR">
             <ViewState currentDate={currentDate} />
             <GroupingState grouping={schedulerData.grouping} />
 

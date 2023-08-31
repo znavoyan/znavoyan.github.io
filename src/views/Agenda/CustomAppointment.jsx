@@ -9,7 +9,7 @@ import CustomTooltip from "./CustomTooltip";
 const CustomAppointment = ({ style, ...restProps }) => {
   // document.addEventListener('click', function handleClickOutsideBox(event) {
   //   const activePopup = document.getElementsByClassName('active-popup');
-  
+
   //   if (!activePopup[0].contains(event.target)) {
   //     console.log('clicked outside');
   //     const overlay = activePopup[0].querySelector('.overlay');
@@ -52,12 +52,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
     return false;
   }
 
+  console.log("restProps", restProps.data);
+
   return (
     <div className="custom-appointment" id="box">
-      <CustomTooltip
-        onClose={popupCloseHandler}
-        show={visibility}
-      >
+      <CustomTooltip onClose={popupCloseHandler} show={visibility}>
         {currentSpeaker && (
           <div className="flex column">
             <a
@@ -76,12 +75,13 @@ const CustomAppointment = ({ style, ...restProps }) => {
               </div>
               <div className="space-10-height"></div>
               <p className="img-paragraph">
-                    {currentSpeaker.position} <br></br>
-                    {currentSpeaker.company}
+                {currentSpeaker.position} <br></br>
+                {currentSpeaker.company}
               </p>
               <div className="space-10-height"></div>
-              <p className="abstract">{currentSpeaker.abstract}
-              </p>
+              <p className="title">{restProps.data.title}</p>
+              <div className="space-10-height"></div>
+              <p className="abstract">{restProps.data.abstract}</p>
             </a>
             <div className="space-10-height"></div>
           </div>

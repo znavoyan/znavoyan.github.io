@@ -140,7 +140,8 @@
             "startHour": 9,
             "startMinutes": 0,
             "endHour": 9,
-            "endMinutes": 40
+            "endMinutes": 40,
+            "abstract": ""
           },
           {
             "id": 10,
@@ -150,7 +151,8 @@
             "startHour": 9,
             "startMinutes": 40,
             "endHour": 10,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 20,
@@ -160,7 +162,8 @@
             "startHour": 10,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": "Consider the exploration in sparse-reward or reward-free environments, such as Montezuma's Revenge. The curiosity-driven paradigm dictates an intuitive technique: At each step, the agent is rewarded for how much the realized outcome differs from their predicted outcome. However, using predictive error as intrinsic motivation is prone to fail in stochastic environments, as the agent may become hopelessly drawn to high-entropy areas of the state-action space, such as a noisy TV. Therefore it is important to distinguish between aspects of world dynamics that are inherently predictable and aspects that are inherently unpredictable: The former should constitute a source of intrinsic reward, whereas the latter should not. In this work, we study a natural solution derived from structural causal models of the world: Our key idea is to learn representations of the future that capture precisely the unpredictable aspects of each outcome -- not any more, not any less -- which we use as additional input for predictions, such that intrinsic rewards do vanish in the limit. First, we propose incorporating such hindsight representations into the agent's model to disentangle 'noise' from 'novelty', yielding Curiosity in Hindsight: a simple and scalable generalization of curiosity that is robust to all types of stochasticity. Second, we implement this framework as a drop-in modification of any prediction-based exploration bonus, and instantiate it for the recently introduced BYOL-Explore algorithm as a prime example, resulting in the noise-robust 'BYOL-Hindsight'. Third, we illustrate its behavior under various stochasticities in a grid world, and find improvements over BYOL-Explore in hard-exploration Atari games with sticky actions. Importantly, we show SOTA results in exploring Montezuma with sticky actions, while preserving performance in the non-sticky setting."
           },
           {
             "id": 30,
@@ -170,7 +173,8 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 40,
@@ -180,7 +184,8 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 50,
@@ -190,7 +195,8 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 60,
@@ -200,7 +206,8 @@
             "startHour": 11,
             "startMinutes": 30,
             "endHour": 12,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 70,
@@ -210,7 +217,8 @@
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 80,
@@ -220,7 +228,8 @@
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 90,
@@ -230,7 +239,8 @@
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 12,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 100,
@@ -240,7 +250,8 @@
             "startHour": 12,
             "startMinutes": 30,
             "endHour": 13,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 110,
@@ -250,7 +261,8 @@
             "startHour": 13,
             "startMinutes": 0,
             "endHour": 14,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 120,
@@ -260,7 +272,8 @@
             "startHour": 14,
             "startMinutes": 30,
             "endHour": 15,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 130,
@@ -270,7 +283,8 @@
             "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 140,
@@ -280,7 +294,8 @@
             "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 150,
@@ -290,7 +305,8 @@
             "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 160,
@@ -300,7 +316,8 @@
             "startHour": 16,
             "startMinutes": 0,
             "endHour": 16,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 170,
@@ -310,7 +327,8 @@
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 180,
@@ -320,7 +338,8 @@
             "startHour": 17,
             "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 190,
@@ -330,7 +349,8 @@
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 200,
@@ -340,7 +360,8 @@
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 210,
@@ -350,7 +371,8 @@
             "startHour": 17,
             "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           }
         ],
         "date": "September 8",
@@ -369,7 +391,8 @@
             "startHour": 9,
             "startMinutes": 0,
             "endHour": 9,
-            "endMinutes": 40
+            "endMinutes": 40,
+            "abstract": ""
           },
           {
             "id": 10,
@@ -379,7 +402,8 @@
             "startHour": 9,
             "startMinutes": 40,
             "endHour": 10,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 20,
@@ -389,7 +413,8 @@
             "startHour": 10,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 30,
@@ -399,7 +424,8 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 40,
@@ -409,7 +435,8 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 40,
@@ -419,7 +446,8 @@
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 50,
@@ -429,7 +457,8 @@
             "startHour": 11,
             "startMinutes": 30,
             "endHour": 12,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 60,
@@ -439,7 +468,8 @@
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 60,
@@ -449,7 +479,8 @@
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 70,
@@ -459,7 +490,8 @@
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 12,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 80,
@@ -469,7 +501,8 @@
             "startHour": 12,
             "startMinutes": 30,
             "endHour": 13,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 90,
@@ -479,7 +512,8 @@
             "startHour": 13,
             "startMinutes": 0,
             "endHour": 14,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 100,
@@ -489,7 +523,8 @@
             "startHour": 14,
             "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 110,
@@ -499,7 +534,8 @@
             "startHour": 14,
             "startMinutes": 30,
             "endHour": 15,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 120,
@@ -509,7 +545,8 @@
             "startHour": 14,
             "startMinutes": 30,
             "endHour": 15,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 130,
@@ -519,7 +556,8 @@
             "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 140,
@@ -529,7 +567,8 @@
             "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 150,
@@ -539,7 +578,8 @@
             "startHour": 16,
             "startMinutes": 0,
             "endHour": 16,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 160,
@@ -549,7 +589,8 @@
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 170,
@@ -559,7 +600,8 @@
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           },
           {
             "id": 180,
@@ -569,7 +611,8 @@
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
-            "endMinutes": 0
+            "endMinutes": 0,
+            "abstract": ""
           },
           {
             "id": 190,
@@ -579,7 +622,8 @@
             "startHour": 17,
             "startMinutes": 0,
             "endHour": 17,
-            "endMinutes": 30
+            "endMinutes": 30,
+            "abstract": ""
           }
         ],
         "date": "September 9",
@@ -633,8 +677,7 @@
         "position": "ML Engineer at",
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/loubna-ben-allal-238690152/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Loubna-Ben-Allal_atbl0r.png"
       },
       {
         "name": "Dzmitry",
@@ -642,8 +685,7 @@
         "position": "R&D Team Lead at",
         "company": "WANNA",
         "linkedUrl": "https://www.linkedin.com/in/dmitry-pranchuk-885273b5/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dzmitry-Pranchuk_at6ren.png"
       },
       {
         "name": "Augustin",
@@ -651,8 +693,7 @@
         "position": "Research Engineer at",
         "company": "Google DeepMind",
         "linkedUrl": "#",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
       },
       {
         "name": "Mariano",
@@ -660,8 +701,7 @@
         "position": "Principal Solutions Architect at",
         "company": "Amazon Web Services",
         "linkedUrl": "https://www.linkedin.com/in/mariano-kamp/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Mariano-Kamp_wrdfhw.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Mariano-Kamp_wrdfhw.png"
       },
       {
         "name": "Michal",
@@ -669,8 +709,7 @@
         "position": "Research Scientist at",
         "company": "Google DeepMind / Inria / MVA",
         "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png",
-        "abstract": "Consider the exploration in sparse-reward or reward-free environments, such as Montezuma's Revenge. The curiosity-driven paradigm dictates an intuitive technique: At each step, the agent is rewarded for how much the realized outcome differs from their predicted outcome. However, using predictive error as intrinsic motivation is prone to fail in stochastic environments, as the agent may become hopelessly drawn to high-entropy areas of the state-action space, such as a noisy TV. Therefore it is important to distinguish between aspects of world dynamics that are inherently predictable and aspects that are inherently unpredictable: The former should constitute a source of intrinsic reward, whereas the latter should not. In this work, we study a natural solution derived from structural causal models of the world: Our key idea is to learn representations of the future that capture precisely the unpredictable aspects of each outcome -- not any more, not any less -- which we use as additional input for predictions, such that intrinsic rewards do vanish in the limit. First, we propose incorporating such hindsight representations into the agent's model to disentangle 'noise' from 'novelty', yielding Curiosity in Hindsight: a simple and scalable generalization of curiosity that is robust to all types of stochasticity. Second, we implement this framework as a drop-in modification of any prediction-based exploration bonus, and instantiate it for the recently introduced BYOL-Explore algorithm as a prime example, resulting in the noise-robust 'BYOL-Hindsight'. Third, we illustrate its behavior under various stochasticities in a grid world, and find improvements over BYOL-Explore in hard-exploration Atari games with sticky actions. Importantly, we show SOTA results in exploring Montezuma with sticky actions, while preserving performance in the non-sticky setting."
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Michal-Valko_gnhsj1.png"
       },
       {
         "name": "Gor",
@@ -678,8 +717,7 @@
         "position": "Senior Data Engineer at",
         "company": "Microsoft",
         "linkedUrl": "https://www.linkedin.com/in/gorhayrapetyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Gor-Hayrapetyan_fs8kas.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Gor-Hayrapetyan_fs8kas.png"
       },
       {
         "name": "Nikita",
@@ -687,8 +725,7 @@
         "position": "CTO / PhD student at",
         "company": "OHMYSYNT / ITMO University",
         "linkedUrl": "https://www.linkedin.com/in/detkovns",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Nikita-Detkov_hodrvl.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Nikita-Detkov_hodrvl.png"
       },
       {
         "name": "Vladimir",
@@ -696,8 +733,7 @@
         "position": "Lead DL research engineer at",
         "company": "Unum.cloud",
         "linkedUrl": "https://www.linkedin.com/in/vladimir-orshulevich-289a7a170/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Vladimir-Orshulevich_ngjptq.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554343/datafest/DataFest%202023/Speakers/Vladimir-Orshulevich_ngjptq.png"
       },
       {
         "name": "Dmitry",
@@ -705,8 +741,7 @@
         "position": "Senior Machine Learning Engineer at",
         "company": "EVA.AI",
         "linkedUrl": "https://www.linkedin.com/in/dtemnov",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Dmitry-Temnov_phigmo.png"
       },
       {
         "name": "Hayk",
@@ -714,8 +749,7 @@
         "position": "Machine Learning Engineer at",
         "company": "LABZ.ai",
         "linkedUrl": "https://www.linkedin.com/in/hayk-sargsyan-456a6120",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Hayk-Sargsyan_ymjk1f.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Hayk-Sargsyan_ymjk1f.png"
       },
       {
         "name": "Mark",
@@ -723,8 +757,7 @@
         "position": "Machine Learning Researcher at",
         "company": "Anania, Metric",
         "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Mark-Hamazaspyan_opwizz.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689068440/datafest/DataFest%202023/Speakers/Mark-Hamazaspyan_opwizz.png"
       },
       {
         "name": "Younes",
@@ -732,8 +765,7 @@
         "position": "ML Engineer at",
         "company": "Hugging Face",
         "linkedUrl": "https://www.linkedin.com/in/younes-belkada-b1a903145/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Younes-Belkada_zqqvt6.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Younes-Belkada_zqqvt6.png"
       },
       {
         "name": "Karen",
@@ -741,8 +773,7 @@
         "position": "ML Engineer at",
         "company": "CAST",
         "linkedUrl": "https://www.linkedin.com/in/karen-avetisyan-786bb21b4",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Karen-Avetisyan_xqjq2v.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Karen-Avetisyan_xqjq2v.png"
       },
       {
         "name": "Hazarapet",
@@ -750,8 +781,7 @@
         "position": "Senior ML Scientist at",
         "company": "Picsart Inc.",
         "linkedUrl": "https://www.linkedin.com/in/hazarapet/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Hazarapet-Tunanyan_a1hj1s.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Hazarapet-Tunanyan_a1hj1s.png"
       },
       {
         "name": "Tigran",
@@ -759,8 +789,7 @@
         "position": "Senior ML Engineer II at",
         "company": "Krisp AI",
         "linkedUrl": "https://www.linkedin.com/in/tigran-tonoyan-b6265884",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Tigran-Tonoyan_z74zub.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689334847/datafest/DataFest%202023/Speakers/Tigran-Tonoyan_z74zub.png"
       },
       {
         "name": "Erik",
@@ -768,8 +797,7 @@
         "position": "Senior Hardware Engineer at",
         "company": "Grovf",
         "linkedUrl": "https://www.linkedin.com/in/erik-sahakyan-042322aa/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689673249/datafest/DataFest%202023/Speakers/Erik-Sahakyan_vnjpr6.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1689673249/datafest/DataFest%202023/Speakers/Erik-Sahakyan_vnjpr6.png"
       },
       {
         "name": "Shahane",
@@ -777,8 +805,7 @@
         "position": "ML Engineer at",
         "company": "CAST",
         "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362646/datafest/DataFest%202023/Speakers/Shahane-Tigranyan_glu94m.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362646/datafest/DataFest%202023/Speakers/Shahane-Tigranyan_glu94m.png"
       },
       {
         "name": "Semen",
@@ -786,8 +813,7 @@
         "position": "Lead NLP Engineer at",
         "company": "ZERO Systems",
         "linkedUrl": "https://www.linkedin.com/in/salsorokin/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Semen-Sorokin_u3i549.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Semen-Sorokin_u3i549.png"
       },
       {
         "name": "Arman",
@@ -795,8 +821,7 @@
         "position": "ML Scientist at",
         "company": "Picsart",
         "linkedUrl": "https://www.linkedin.com/in/arman-isajanyan-b2558613a/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Arman-Isajanyan_swsacx.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690362645/datafest/DataFest%202023/Speakers/Arman-Isajanyan_swsacx.png"
       },
       {
         "name": "Alexey",
@@ -804,8 +829,7 @@
         "position": "Researcher at",
         "company": "AIRI",
         "linkedUrl": "#",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690439408/datafest/DataFest%202023/Speakers/Alexey-Kovalev_moeznp.png"
       },
       {
         "name": "Davit",
@@ -813,8 +837,7 @@
         "position": "Head of Research at",
         "company": "Amaros AI, YSU",
         "linkedUrl": "https://www.linkedin.com/in/davit-shahnazaryan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Davit-Shahnazaryan_ebcd9u.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Davit-Shahnazaryan_ebcd9u.png"
       },
       {
         "name": "Sipan",
@@ -822,8 +845,7 @@
         "position": "Senior Machine Learning Specialist at",
         "company": "Portmind",
         "linkedUrl": "https://www.linkedin.com/in/sipan-muradyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Sipan-Muradyan_mqtvpw.png"
       },
       {
         "name": "Aram",
@@ -831,8 +853,7 @@
         "position": "AI Engineer at",
         "company": "Aerodynamics",
         "linkedUrl": "https://www.linkedin.com/in/aram-matinyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Aram-Matinyan_jcwppr.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Aram-Matinyan_jcwppr.png"
       },
       {
         "name": "Nshan",
@@ -840,8 +861,7 @@
         "position": "AI Team Lead at",
         "company": "Aerodynamics",
         "linkedUrl": "https://www.linkedin.com/in/nshan-potikyan-307bb3131/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Nshan-Potikyan_jembgi.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Nshan-Potikyan_jembgi.png"
       },
       {
         "name": "Armen",
@@ -849,8 +869,7 @@
         "position": "MLOps Engineer at",
         "company": "Portmind",
         "linkedUrl": "https://www.linkedin.com/in/armen-gabrielyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691057851/datafest/DataFest%202023/Speakers/Armen-Gabrielyan_zosswt.png"
       },
       {
         "name": "Hasmik",
@@ -858,8 +877,7 @@
         "position": "Software Engineer at",
         "company": "ArmSoft",
         "linkedUrl": "https://www.linkedin.com/in/hasmik-hakobyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691519855/datafest/DataFest%202023/Speakers/Hasmik-Hakobyan_zl6qfm.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691519855/datafest/DataFest%202023/Speakers/Hasmik-Hakobyan_zl6qfm.png"
       },
       {
         "name": "Rafayel",
@@ -867,8 +885,7 @@
         "position": "Senior Data Scientist at",
         "company": "Digitain",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-shirakyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691520218/datafest/DataFest%202023/Speakers/Rafayel-Shirakyan_sxohqk.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691520218/datafest/DataFest%202023/Speakers/Rafayel-Shirakyan_sxohqk.png"
       },
       {
         "name": "Fahad",
@@ -876,8 +893,7 @@
         "position": "Professor at",
         "company": "MBZUAI",
         "linkedUrl": "https://www.linkedin.com/in/fahad-khan-25b3006/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691521685/datafest/DataFest%202023/Speakers/Fahad-Khan_g3iw1o.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1691521685/datafest/DataFest%202023/Speakers/Fahad-Khan_g3iw1o.png"
       },
       {
         "name": "Artur",
@@ -885,8 +901,7 @@
         "position": "Team lead at",
         "company": "Artificial Intelligence Research Institute",
         "linkedUrl": "https://www.linkedin.com/in/artur-kadurin/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692287604/datafest/DataFest%202023/Speakers/Artur-Kadurin_rblmfm.png"
       },
       {
         "name": "Alexander",
@@ -894,8 +909,7 @@
         "position": "ML/MLOps engineer and developer at",
         "company": "OneMarketData",
         "linkedUrl": "https://www.linkedin.com/in/alexander-serechenko-84b46161/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692365557/datafest/DataFest%202023/Speakers/Alexander-Serechenko_egpilo.png"
       },
       {
         "name": "Philipp",
@@ -903,8 +917,7 @@
         "position": "PhD candidate at",
         "company": "JKU Linz",
         "linkedUrl": "https://www.linkedin.com/in/phseidl/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Philipp-Seidl_rrkbis.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Philipp-Seidl_rrkbis.png"
       },
       {
         "name": "Grigory",
@@ -912,8 +925,7 @@
         "position": "CTO at",
         "company": "Intento",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
       },
       {
         "name": "Daniel",
@@ -921,8 +933,7 @@
         "position": "Ph.D. Student at",
         "company": "Robotics and Perception Group",
         "linkedUrl": "https://www.linkedin.com/in/daniel-gehrig-942aa714b",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692703940/datafest/DataFest%202023/Speakers/Daniel-Gehrig_m17rsb.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692703940/datafest/DataFest%202023/Speakers/Daniel-Gehrig_m17rsb.png"
       },
       {
         "name": "Rafayel",
@@ -930,8 +941,7 @@
         "position": "ML Researcher",
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-darbinyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Rafayel-Darbinyan_wzg1qx.png",
-        "abstract": ""
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Rafayel-Darbinyan_wzg1qx.png"
       },
       {
         "name": "Rafayel",
@@ -939,18 +949,16 @@
         "position": "ML Researcher",
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-mkrtchyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474241/datafest/DataFest%202023/Speakers/Rafayel-Mkrtchyan_lg5dge.png",
-        "abstract": ""
-     },
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474241/datafest/DataFest%202023/Speakers/Rafayel-Mkrtchyan_lg5dge.png"
+      },
       {
         "name": "Philipp",
         "surname": "Guevorguian",
         "position": "ML Researcher",
         "company": "YerevaNN",
         "linkedUrl": "#",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Philipp-Guevorguian_zxv4xh.png",
-        "abstract": ""
-     }
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Philipp-Guevorguian_zxv4xh.png"
+      }
     ]
   },
   "location": {
