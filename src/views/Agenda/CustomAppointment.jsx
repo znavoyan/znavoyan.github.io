@@ -32,9 +32,28 @@ const CustomAppointment = ({ style, ...restProps }) => {
   };
 
   const openTooltip = (event) => {
-    event.target
-      .closest(".custom-appointment")
-      .parentElement.classList.add("active-popup");
+    const nearestCustomAppointment = event.target.closest(
+      ".custom-appointment"
+    );
+    nearestCustomAppointment.parentElement.classList.add("active-popup");
+
+    const elementRect =
+      nearestCustomAppointment.parentElement.getBoundingClientRect();
+
+    // Get the viewport width
+    const viewportWidth =
+      window.innerWidth || document.documentElement.clientWidth;
+
+    // Calculate the right threshold for the element to be considered on the right
+    const rightThreshold = viewportWidth - elementRect.width;
+
+    // Check if the element's right position is beyond the threshold
+    const isOnRight = elementRect.right >= rightThreshold;
+
+    if(isOnRight) {
+      nearestCustomAppointment.parentElement.querySelector('.popup').style.left = `-${380 - elementRect.width}px`;
+    }
+
     setVisibility(true);
   };
 
