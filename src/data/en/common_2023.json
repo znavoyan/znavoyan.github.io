@@ -174,7 +174,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Transformers with external memory are considered as an alternative to increasing the number of parameters or tokens in pre-training datasets in LLM scaling. We will define and describe the transformer model with external memory and review well-known approaches and papers from the last three years. In addition, we will have a look at our internal experiments on how the vector database's retrieval quality affects a model with external memory"
           },
           {
             "id": 40,
@@ -185,7 +185,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Deploying ML models into production efficiently remains a significant challenge, particularly as the number of models keeps growing. In this talk, we will share our journey of developing an internal ML build tool and model serving library that streamlines the model serving, packaging and deployment process for our organization. Also, it allows us to have a seamless integration of logging and monitoring. We will discuss the lessons learned, the use cases, the technical decisions made, and the best practices applied to achieve a robust solution for serving ML models."
           },
           {
             "id": 50,
@@ -196,7 +196,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "High-level physics theory merged with modern artificial neural network architectures may begin a new era in drug discovery and materials design. Classical computational methods in quantum chemistry are expensive: it takes minutes to get the electronic properties of a single molecular geometry with an average computer. On the other hand, neural networks are prone to distributional shift and overfitting. The focus of this talk is the problem of overcoming these issues."
           },
           {
             "id": 60,
@@ -218,7 +218,7 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Reinforcement Learning with Human Feedback (RLHF) has recently emerged as an important component for building strong and reliable large language models (LLM) such as ChatGPT and Claude. With RLHF a pretrained LLM can be fine-tuned to generate answers closely aligned with human expectations. However, current RLHF pipelines require several extreme amounts of compute and GPU memory with several models in memory during training. In this talk, I will present how to effectively leverage TRL and PEFT libraries from the Hugging Face ecosystem to easily fine-tune your LLM with RLHF with low cost and on consumer-type hardware."
           },
           {
             "id": 80,
@@ -229,7 +229,7 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Training deep neural networks (DNN) was made feasible by the advancement of GPU technology, which allowed fast backpropagation in large DNN. However, backpropagation is only part of the training process. Another key component is data generation, which requires significant CPU power and I/O resources. Having all these components on the same machine may run into the bottlenecks of the system. It then may become necessary to distribute computation, especially data generation, across multiple machines. Distributed computation can also make more efficient use of computational resources; e.g., one can use the leftover CPU power of a training machine to supply data to another training on another machine (or several of them). In this talk, we will outline our approach towards distributed organization of DNN training at Krisp, and particularly, a simple, stand-alone and general distributed framework based on HTTP connections and NFS drive sharing that has helped seamless organization of distributed training and efficient load balancing on our machines. Our framework is not restricted to DNN training only and easily generalizes to more abstract job distribution scenarios across multiple machines and multiple processes."
           },
           {
             "id": 90,
@@ -240,18 +240,18 @@
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Activity and property prediction models are the central workhorses in drug discovery and materials sciences, but currently they have to be trained or fine-tuned for new tasks. Without training or fine-tuning, scientific language models could be used for such low-data tasks through their announced zero- and few-shot capabilities. However, their predictive quality at activity prediction is lacking. In this work, we envision a novel type of activity prediction model that is able to adapt to new prediction tasks at inference time, via understanding textual information describing the task. To this end, we propose a new architecture with separate modules for chemical and natural language inputs, and a contrastive pre-training objective on data from large biochemical databases. In extensive experiments, we show that our method CLAMP yields improved predictive performance on few-shot learning benchmarks and zero-shot problems in drug discovery. We attribute the advances of our method to the modularized architecture and to our pre-training objective."
           },
           {
             "id": 100,
             "speaker": "Philipp Guevorguian",
-            "title": "To be announced later",
+            "title": "Language Modeling for Chemistry ",
             "roomId": 4,
             "startHour": 12,
             "startMinutes": 30,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "The application of language models to the generation of molecular subsets across varying complexities represents a unique problem landscape that offers a direct avenue for quantifying recall, a metric otherwise inaccessible in research on large language models. The synthesis of distinct molecular sets unveils complex interplay between generative language modelling and chemical task complexity, shedding light on representations that balance specificity and generality. Furthermore, the training of generative molecular models is facilitated by self supervised training and common language model architectures, which implicitly learn representations which are simultaneously useful for downstream tasks and congruent with the understanding of human experts. To enrich molecular representations, a multimodality approach leveraging pre-trained models with scientific language understanding is being applied in order to create synergy between language models' understanding of real-life scientific experiments and the molecular language."
           },
           {
             "id": 110,
