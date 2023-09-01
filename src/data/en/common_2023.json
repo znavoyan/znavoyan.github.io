@@ -958,6 +958,14 @@
         "company": "YerevaNN",
         "linkedUrl": "#",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Philipp-Guevorguian_zxv4xh.png"
+      },
+        {
+        "name": "Vahe",
+        "surname": "Andonians",
+        "position": "Founder, CTO, CPO",
+        "company": "Cognaize",
+        "linkedUrl": "https://www.linkedin.com/in/vaheandonians/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693562893/datafest/DataFest%202023/Speakers/Vahe-Andonians_jsyvsu.png"
       }
     ]
   },
