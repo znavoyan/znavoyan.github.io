@@ -167,14 +167,14 @@
           },
           {
             "id": 30,
-            "speaker": "Vladimir Orshulevich",
-            "title": "Introduction to Transformers with external memory and its scalability",
+            "speaker": "Vahe Andonians",
+            "title": "Quantization: Running Large Language Models on Resource-Constrained Platforms",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": "Transformers with external memory are considered as an alternative to increasing the number of parameters or tokens in pre-training datasets in LLM scaling. We will define and describe the transformer model with external memory and review well-known approaches and papers from the last three years. In addition, we will have a look at our internal experiments on how the vector database's retrieval quality affects a model with external memory"
+            "abstract": "This topic explores the concept of quantization as a means to enable the deployment of large language models on platforms with limited resources and discusses the challenges faced in running these models on resource-constrained devices."
           },
           {
             "id": 40,
@@ -489,20 +489,9 @@
             "roomId": 3,
             "startHour": 12,
             "startMinutes": 0,
-            "endHour": 12,
-            "endMinutes": 30,
-            "abstract": "Event cameras are bio-inspired sensors that perceive the environment in an entirely different way. Instead of measuring synchronous frames of absolute intensity at fixed intervals, they only measure changes in intensity and do this independently for each pixel, resulting in an asynchronous stream of events. Events thus carry only the compressed visual signal but do this with a micro-second-level latency and temporal resolution, negligible motion blur, and high dynamic range while consuming low power and using a low bandwidth. However, due to their working principle, event cameras output sparse and asynchronous data, which are not directly compatible with standard computer vision algorithms designed for dense frames. Therefore the development of new algorithms to process events, and leverage the advantages of these cameras is at the forefront of active research in event-based vision. In this talk, we will discuss ways to leveraged the avantages of event cameras for high-speed and robust SLAM, low-data computational photography, and low-latency perception for robotics and scene understanding."
-          },
-          {
-            "id": 80,
-            "speaker": "Aram Matinyan",
-            "title": "Co-presenter: Nshan Potikyan. Simultaneous object detection and visual tracking",
-            "roomId": 3,
-            "startHour": 12,
-            "startMinutes": 30,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": "Will present how we simultaneously detect and track a cyclist on Raspberry Pi with a unified neural network."
+            "abstract": "Event cameras are bio-inspired sensors that perceive the environment in an entirely different way. Instead of measuring synchronous frames of absolute intensity at fixed intervals, they only measure changes in intensity and do this independently for each pixel, resulting in an asynchronous stream of events. Events thus carry only the compressed visual signal but do this with a micro-second-level latency and temporal resolution, negligible motion blur, and high dynamic range while consuming low power and using a low bandwidth. However, due to their working principle, event cameras output sparse and asynchronous data, which are not directly compatible with standard computer vision algorithms designed for dense frames. Therefore the development of new algorithms to process events, and leverage the advantages of these cameras is at the forefront of active research in event-based vision. In this talk, we will discuss ways to leveraged the avantages of event cameras for high-speed and robust SLAM, low-data computational photography, and low-latency perception for robotics and scene understanding."
           },
           {
             "id": 90,
@@ -554,10 +543,32 @@
             "title": "Adversarial Attacks on Language Models: WordPiece Filtration and ChatGPT Synonyms",
             "roomId": 2,
             "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+            "abstract": "Adversarial attacks on text have gained significant attention in recent years due to their potential to undermine the reliability of NLP models. We present novel black-box character- and word-level adversarial example-generating approaches applicable to BERT-based models. The char-level approach is based on the idea of adding natural typos into a word, according to its WordPiece tokenization. As for the word-level approaches, we present three techniques that make use of synonymous substitute words created by ChatGPT and post-corrected to be in the appropriate grammatical form for the given context. Additionally, we try to minimize the perturbation rate taking into account the damage that each perturbation does to the model. By combining the character-level, word-level approaches and the perturbation rate minimization technique, we achieved a state-of-the-art attack rate. Our best approach works 30-65% faster than the previous best method, Tampers, and has a comparable perturbation rate. Simultaneously, the proposed perturbations retain the semantic similarity between the original and adversarial examples and achieve a relatively low value of Levenshtein distance."
+          },
+          {
+            "id": 135,
+            "speaker": "Aram Matinyan",
+            "title": "Co-presenter: Nshan Potikyan. Simultaneous object detection and visual tracking",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+            "abstract": "Will present how we simultaneously detect and track a cyclist on Raspberry Pi with a unified neural network."
+          },
+          {
+            "id": 135,
+            "speaker": "Rafayel Darbinyan",
+            "title": "Identifying and Disentangling Spurious Features in Pretrained Image Representations",
+            "roomId": 2,
+            "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": "Adversarial attacks on text have gained significant attention in recent years due to their potential to undermine the reliability of NLP models. We present novel black-box character- and word-level adversarial example-generating approaches applicable to BERT-based models. The char-level approach is based on the idea of adding natural typos into a word, according to its WordPiece tokenization. As for the word-level approaches, we present three techniques that make use of synonymous substitute words created by ChatGPT and post-corrected to be in the appropriate grammatical form for the given context. Additionally, we try to minimize the perturbation rate taking into account the damage that each perturbation does to the model. By combining the character-level, word-level approaches and the perturbation rate minimization technique, we achieved a state-of-the-art attack rate. Our best approach works 30-65% faster than the previous best method, Tampers, and has a comparable perturbation rate. Simultaneously, the proposed perturbations retain the semantic similarity between the original and adversarial examples and achieve a relatively low value of Levenshtein distance."
+            "abstract": "Neural networks employ spurious correlations in their predictions, resulting in decreased performance when these correlations do not hold. Recent works suggest fixing pretrained representations and training a classification head that does not use spurious features. We investigate how spurious features are represented in pretrained representations and explore strategies for removing information about spurious features. Considering the Waterbirds dataset and a few pretrained representations, we find that even with full knowledge of spurious features, their removal is not straightforward due to entangled representation. To address this, we propose a linear autoencoder training method to separate the representation into core, spurious, and other features. We propose two effective spurious feature removal approaches that are applied to the encoding and significantly improve classification performance measured by worst group accuracy."
           },
           {
             "id": 140,
@@ -582,15 +593,26 @@
             "abstract": ""
           },
           {
-            "id": 160,
-            "speaker": "Rafayel Darbinyan",
-            "title": "Identifying and Disentangling Spurious Features in Pretrained Image Representations",
+            "id": 152,
+            "speaker": "Alexander Serechenko",
+            "title": "Machine Learning with Market Data",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "Neural networks employ spurious correlations in their predictions, resulting in decreased performance when these correlations do not hold. Recent works suggest fixing pretrained representations and training a classification head that does not use spurious features. We investigate how spurious features are represented in pretrained representations and explore strategies for removing information about spurious features. Considering the Waterbirds dataset and a few pretrained representations, we find that even with full knowledge of spurious features, their removal is not straightforward due to entangled representation. To address this, we propose a linear autoencoder training method to separate the representation into core, spurious, and other features. We propose two effective spurious feature removal approaches that are applied to the encoding and significantly improve classification performance measured by worst group accuracy."
+            "abstract": "In the rapidly evolving financial landscape, market tick data presents unique challenges and opportunities for data-driven insights. This presentation will explore machine learning techniques tailored for this granular data, emphasizing its application not only in deciphering market patterns and optimizing trading strategies but also in enhancing market surveillance mechanisms. The challenges of feature engineering, the nuances of temporal data sequences, and strategies to mitigate inherent noise will be underscored. The talk concludes with the introduction of the infrastructural solution designed for MLOps specific to market data applications, from development to deployment."
+          },
+          {
+            "id": 153,
+            "speaker": "Vladimir Orshulevich",
+            "title": "Introduction to Transformers with external memory and its scalability",
+            "roomId": 1,
+            "startHour": 17,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 30,
+            "abstract": "Transformers with external memory are considered as an alternative to increasing the number of parameters or tokens in pre-training datasets in LLM scaling. We will define and describe the transformer model with external memory and review well-known approaches and papers from the last three years. In addition, we will have a look at our internal experiments on how the vector database's retrieval quality affects a model with external memory"
           },
           {
             "id": 170,
