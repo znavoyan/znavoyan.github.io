@@ -439,7 +439,7 @@
         "position": "ՄՈՒ հետազոտող",
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-darbinyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Rafayel-Darbinyan_wzg1qx.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693561599/datafest/DataFest%202023/Speakers/Rafayel-Darbinyan_pj3vpl.png"
       },
       {
         "name": "Ռաֆայել",
@@ -456,6 +456,14 @@
         "company": "YerevaNN",
         "linkedUrl": "#",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Philipp-Guevorguian_zxv4xh.png"
+     },
+      {
+        "name": "Վահե",
+        "surname": "Անդոնյանս",
+        "position": "Հիմնադիր",
+        "company": "Cognaize",
+        "linkedUrl": "https://www.linkedin.com/in/vaheandonians/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693562893/datafest/DataFest%202023/Speakers/Vahe-Andonians_jsyvsu.png"
      }
     ]
   },

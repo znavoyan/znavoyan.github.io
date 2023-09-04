@@ -167,14 +167,14 @@
           },
           {
             "id": 30,
-            "speaker": "Vladimir Orshulevich",
-            "title": "Introduction to Transformers with external memory and its scalability",
+            "speaker": "Vahe Andonians",
+            "title": "Quantization: Running Large Language Models on Resource-Constrained Platforms",
             "roomId": 1,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "This topic explores the concept of quantization as a means to enable the deployment of large language models on platforms with limited resources and discusses the challenges faced in running these models on resource-constrained devices."
           },
           {
             "id": 40,
@@ -185,7 +185,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Deploying ML models into production efficiently remains a significant challenge, particularly as the number of models keeps growing. In this talk, we will share our journey of developing an internal ML build tool and model serving library that streamlines the model serving, packaging and deployment process for our organization. Also, it allows us to have a seamless integration of logging and monitoring. We will discuss the lessons learned, the use cases, the technical decisions made, and the best practices applied to achieve a robust solution for serving ML models."
           },
           {
             "id": 50,
@@ -196,7 +196,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "High-level physics theory merged with modern artificial neural network architectures may begin a new era in drug discovery and materials design. Classical computational methods in quantum chemistry are expensive: it takes minutes to get the electronic properties of a single molecular geometry with an average computer. On the other hand, neural networks are prone to distributional shift and overfitting. The focus of this talk is the problem of overcoming these issues."
           },
           {
             "id": 60,
@@ -218,7 +218,7 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Reinforcement Learning with Human Feedback (RLHF) has recently emerged as an important component for building strong and reliable large language models (LLM) such as ChatGPT and Claude. With RLHF a pretrained LLM can be fine-tuned to generate answers closely aligned with human expectations. However, current RLHF pipelines require several extreme amounts of compute and GPU memory with several models in memory during training. In this talk, I will present how to effectively leverage TRL and PEFT libraries from the Hugging Face ecosystem to easily fine-tune your LLM with RLHF with low cost and on consumer-type hardware."
           },
           {
             "id": 80,
@@ -229,29 +229,29 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Training deep neural networks (DNN) was made feasible by the advancement of GPU technology, which allowed fast backpropagation in large DNN. However, backpropagation is only part of the training process. Another key component is data generation, which requires significant CPU power and I/O resources. Having all these components on the same machine may run into the bottlenecks of the system. It then may become necessary to distribute computation, especially data generation, across multiple machines. Distributed computation can also make more efficient use of computational resources; e.g., one can use the leftover CPU power of a training machine to supply data to another training on another machine (or several of them). In this talk, we will outline our approach towards distributed organization of DNN training at Krisp, and particularly, a simple, stand-alone and general distributed framework based on HTTP connections and NFS drive sharing that has helped seamless organization of distributed training and efficient load balancing on our machines. Our framework is not restricted to DNN training only and easily generalizes to more abstract job distribution scenarios across multiple machines and multiple processes."
           },
           {
             "id": 90,
-            "speaker": "Philip Seidl",
+            "speaker": "Philipp Seidl",
             "title": "ML for Drug Discovery",
             "roomId": 4,
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Activity and property prediction models are the central workhorses in drug discovery and materials sciences, but currently they have to be trained or fine-tuned for new tasks. Without training or fine-tuning, scientific language models could be used for such low-data tasks through their announced zero- and few-shot capabilities. However, their predictive quality at activity prediction is lacking. In this work, we envision a novel type of activity prediction model that is able to adapt to new prediction tasks at inference time, via understanding textual information describing the task. To this end, we propose a new architecture with separate modules for chemical and natural language inputs, and a contrastive pre-training objective on data from large biochemical databases. In extensive experiments, we show that our method CLAMP yields improved predictive performance on few-shot learning benchmarks and zero-shot problems in drug discovery. We attribute the advances of our method to the modularized architecture and to our pre-training objective."
           },
           {
             "id": 100,
             "speaker": "Philipp Guevorguian",
-            "title": "To be announced later",
+            "title": "Language Modeling for Chemistry ",
             "roomId": 4,
             "startHour": 12,
             "startMinutes": 30,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "The application of language models to the generation of molecular subsets across varying complexities represents a unique problem landscape that offers a direct avenue for quantifying recall, a metric otherwise inaccessible in research on large language models. The synthesis of distinct molecular sets unveils complex interplay between generative language modelling and chemical task complexity, shedding light on representations that balance specificity and generality. Furthermore, the training of generative molecular models is facilitated by self supervised training and common language model architectures, which implicitly learn representations which are simultaneously useful for downstream tasks and congruent with the understanding of human experts. To enrich molecular representations, a multimodality approach leveraging pre-trained models with scientific language understanding is being applied in order to create synergy between language models' understanding of real-life scientific experiments and the molecular language."
           },
           {
             "id": 110,
@@ -273,7 +273,7 @@
             "startMinutes": 30,
             "endHour": 15,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Machine perception that corresponds to the ability to understand the visual world based on the input from sensors, such as cameras is one of the central problems in Artificial Intelligence. To this end, recent years have witnessed tremendous progress in various instance-level recognition tasks having real-world applications in e.g., robotics, autonomous driving and surveillance. In this talk, I will first present our recent results towards understanding state-of-the-art deep learning-based visual recognition networks in terms of their robustness and generalizability. Then, I will present our recent work on a video-based conversation model, named Video-ChatGPT, that merges the representational abilities of a pretrained visual encoder and the generative powers of an LLM, capable of understanding and conversing about videos. The proposed approach aims to provide a a unified human-understandable interface to video-related tasks such as action recognition, localization, detection, segmentation, retrieval, and tracking. Our approach adapts the design for spatiotemporal video modeling and fine-tunes the model on video-instruction data to capture temporal dynamics and frame-to-frame consistency relationships available in video data. One of the key contributions of our work is the creation of a dataset of 100,000 video-instruction pairs using a combination of human-assisted and semi-automatic annotation methods. Moreover, we introduce the first quantitative video conversation evaluation framework for benchmarking, allowing for a more accurate evaluation of the performance of video conversation models. Lastly, I will also briefly discuss our ongoing work on developing specialized conversational VLMs for medical imaging domain."
           },
           {
             "id": 130,
@@ -284,7 +284,7 @@
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "The field of Generative AI is a very popular these days because of the Text-to-Image bangers, like DALLE, Stable Diffusion and so on. But why limit ourselves to the image domain, when we can move to video? In this talk, we will give a brief overview of Text-to-Image models, make a logical transition to the Text-to-Video architectures, and discuss thier features and limitations. We will also touch on neighboring tasks, such as conditioned Video-to-Video generation and formulate the Generative Video landscape."
           },
           {
             "id": 140,
@@ -295,7 +295,7 @@
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "In the fast-paced world of data-driven architectural solutions, efficient data organization plays a vital role in data engineering. In the recent years, ArmSoft has initiated the process of migrating their clients' data to the cloud environment. During the presentation the challenges and benefits of managing the data in the cloud will be discussed. Moreover, different considerations involved in data migration and what plays a critical role in ensuring a smooth and effective transition will be presented. Sharing our own experience may provide valuable insights for companies wishing to grow their businesses to the data world of cloud technologies."
           },
           {
             "id": 150,
@@ -306,7 +306,7 @@
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Numerous studies are aimed at diagnosing heart diseases based on 12-lead electrocardiographic (ECG) records using deep learning methods. These studies usually use specific datasets that differ in size and parameters, such as patient metadata, number of doctors annotating ECGs, types of devices for ECG recording, data preprocessing techniques, etc. It is well-known that high quality deep neural networks trained on one ECG dataset do not necessarily perform well on another dataset or clinical settings. In this paper, we propose a methodology to improve the quality of heart disease prediction regardless of the dataset by training neural networks on a variety of datasets with further fine-tuning for the specific dataset. To show its applicability, we train different neural networks on a large private dataset TIS containing various ECG records from multiple hospitals and on a relatively small public dataset PTB-XL. We demonstrate that training the networks on a large dataset and fine-tuning it on a small dataset from another source outperforms the networks trained only on one small dataset. We also show how the ability of a deep neural networks to generalize allows to improve classification quality of more diseases."
           },
           {
             "id": 160,
@@ -328,7 +328,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Diffusion models have gained immense popularity in recent years due to their impressive ability to generate high-quality images. The opportunities that diffusion models provide are numerous, from text-to-image synthesis to image restoration and enhancement, as well as image compression and inpainting. However, expressing image style in words can be a challenging task, making it difficult for diffusion models to generate images with specific style without additional optimization techniques. In this paper, we present a novel method, Diffusion-Enhanced PatchMatch (DEPM), that leverages Stable Diffusion for style transfer without any finetuning or pretraining. DEPM captures high-level style features while preserving the fine-grained texture details of the original image. By enabling the transfer of arbitrary styles during inference, our approach makes the process more flexible and efficient. Moreover, its optimization-free nature makes it accessible to a wide range of users."
           },
           {
             "id": 180,
@@ -339,7 +339,7 @@
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Eva AI (https://www.evaapp.ai/) is an empathetic artificial intelligence personality, that engages users in conversations through text, voice messages, and AI-generated videos. During the speech, I would like to delve into the evolution of voice generation in Eva AI, from its early beginnings to the innovative generative diffusion models used today. The main points of the speech will be: 1. How we make EVA's voice sound natural and convey different emotions 2. What challenges come with creating a human-like voice 3. What modern approaches we use for the real-time audio messages and calls in our product"
           },
           {
             "id": 190,
@@ -350,7 +350,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "As engineers, we enjoy building things. But in this talk, I would like to address the practices and processes that take place before and after building a data engineering solution. To begin with, we will discuss what should be in place before we start to build data pipelines or other solutions, namely, DevOps practices applied to data engineering such as CI/CD and IoC. Then we will focus on monitoring and data quality as post-delivery processes. These are two complementary processes. Not only do we need to make sure that data is flowing through our system but also that it is complete and accurate. Overall, understanding and implementing DevOps practices, monitoring, and data quality in data engineering is crucial for developing and maintaining high-quality data products and platforms."
           },
           {
             "id": 200,
@@ -361,7 +361,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Breast cancer is one of the leading causes of cancer-related deaths among women worldwide. Early detection is critical for effective treatment and improved outcomes.  In this context, thermal imaging has been suggested as a non-invasive, low-risk adjunct screening method for identifying breast cancer. In this study, we present our analyses of thermal imaging data from over 2000 patients who underwent traditional screening methods, including ultrasound, mammography, and biopsy, if needed, at the Erebuni Medical Center. Our analyses employ machine learning algorithms to extract features from the thermal images and evaluate their predictive power in identifying patients at risk of having breast cancer. We find that machine learning-based thermal imaging analysis shows promising results in detecting early breast cancer. We also discuss the challenges and limitations of this approach and suggest future directions for research in this field. Our findings have significant implications for improving breast cancer screening programs, and we believe that machine learning-based thermal imaging analysis can be a valuable addition to existing screening methods for early detection of breast cancer."
           },
           {
             "id": 210,
@@ -372,7 +372,7 @@
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Complex diseases are now not viewed as a single disease, but rather as a clinical diagnosis determined by molecularly defined characteristics in subsets of patients. Drugs should be developed to work in each of these different subgroups. Disease subtyping is the task of identifying subpopulations with similar characteristics. In this talk, we discuss different ML approaches for disease subtyping and how they can enhance the effectiveness of clinical trials by enabling targeted recruitment and helping reduce uncertainty in an individual’s expected outcome for the drug."
           }
         ],
         "date": "September 8",
@@ -414,7 +414,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Proteins are essential to life, supporting practically all its functions. They are large complex molecules, made up of chains of amino acids, and what a protein does largely depends on its unique 3D structure. Figuring out what shapes proteins fold into is known as the “protein folding problem”, and has stood as a grand challenge in biology for the past 50 years. AlphaFold has been recognised as a solution to this grand challenge by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP). This breakthrough demonstrates the impact AI can have on scientific discovery and its potential to dramatically accelerate progress in some of the most fundamental fields that explain and shape our world. In the talk, I will give an introduction in structural biology, give an overview of how AlphaFold works, and finally discuss AlphaFold applications and impact on the scientific community. I will also talk about AlphaFold and its development from an engineering perspective."
           },
           {
             "id": 30,
@@ -425,7 +425,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Specialist Diffusion, a style specific personalized text-to-image model. It is plug-and-play to existing diffusion models and other personalization techniques. It outperform the latest few-shot personalization alternatives of diffusion models such as Textual Inversion and DreamBooth, in terms of learning highly sophisticated styles with ultra-sample-efficient tuning."
           },
           {
             "id": 40,
@@ -436,7 +436,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "In this practical session, we'll dive into the LangChain framework. LangChain provides methods for integrating existing Large Language Models (LLMs) into a distinctive, personalized chatbot. I'll guide you through its features, processes, and demonstrate how to create your own version of ChatGPT. This session is designed to equip attendees with the knowledge and skills needed to leverage LangChain, enabling them to craft personalized AI conversations."
           },
           {
             "id": 40,
@@ -447,7 +447,7 @@
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "Recently, the use of transformer architectures in reinforcement learning and robotics is acquiring popularity. Decision Transformer and Trajectory Transformer have already become classic works. Another promising direction is the use of multimodal transformers (VIMA, LAVA) for robotics, when the task for the agent is formulated in natural language. The talk will give an overview of the current state of the art and outline promising research directions"
           },
           {
             "id": 50,
@@ -469,7 +469,7 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "These days, diffusion models are the hottest topic in the computer vision community. They're widely used for artistic creations and image inpainting among other applications. However, in this presentation, we're going to shift the focus to an exciting new use of diffusion models - generating synthetic data. We'll explore how this fresh approach can streamline the training of discriminative models."
           },
           {
             "id": 60,
@@ -480,7 +480,7 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Language models trained on code have demonstrated remarkable code completion and synthesis abilities from natural language descriptions. BigCode project aims to build code models in an open and responsible approach with support from the ML community. We are working on addressing challenges related to data governance and curation, model architecture, inference, and evaluation. To this end, we released StarCoder a strong Large Language Model for Code with 15.5B parameters and 8K context length. It outperforms existing open models in Python and other programming languages, offers infilling capabilities, fast large-batch inference and incorporates responsible AI practices."
           },
           {
             "id": 70,
@@ -489,20 +489,9 @@
             "roomId": 3,
             "startHour": 12,
             "startMinutes": 0,
-            "endHour": 12,
-            "endMinutes": 30,
-            "abstract": ""
-          },
-          {
-            "id": 80,
-            "speaker": "Aram Matinyan, Nshan Potikyan",
-            "title": "Simultaneous object detection and visual tracking",
-            "roomId": 3,
-            "startHour": 12,
-            "startMinutes": 30,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Event cameras are bio-inspired sensors that perceive the environment in an entirely different way. Instead of measuring synchronous frames of absolute intensity at fixed intervals, they only measure changes in intensity and do this independently for each pixel, resulting in an asynchronous stream of events. Events thus carry only the compressed visual signal but do this with a micro-second-level latency and temporal resolution, negligible motion blur, and high dynamic range while consuming low power and using a low bandwidth. However, due to their working principle, event cameras output sparse and asynchronous data, which are not directly compatible with standard computer vision algorithms designed for dense frames. Therefore the development of new algorithms to process events, and leverage the advantages of these cameras is at the forefront of active research in event-based vision. In this talk, we will discuss ways to leveraged the avantages of event cameras for high-speed and robust SLAM, low-data computational photography, and low-latency perception for robotics and scene understanding."
           },
           {
             "id": 90,
@@ -524,7 +513,7 @@
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Large NLP models are dazzling us with their awesome performance. However, their size can pose challenges, making them cumbersome to handle, making it harder to experiment and more expensive. Let’s harness the power of knowledge distillation to use a high-capacity teacher model to help a smaller student model to learn better and faster. Creating a model that is wise beyond its size :) Moreover, the student can even use a different network architecture than the teacher. Let’s use that freedom to craft a model that fits our downstream task perfectly. Not only do we see step-by-step how knowledge distillation works, but we will also mix and match architectural features that are needed for the best model performance on our task. Make your model’s architecture your own."
           },
           {
             "id": 110,
@@ -535,18 +524,18 @@
             "startMinutes": 30,
             "endHour": 15,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "ZERO Systems provides solutions to augment cognitive processes using Skilled AI Modules (SAMs) to work alongside human workers, offering automation, insights, and proactive assistance using Large Language Models and Generative AI. One of the core ZERO products is Artemis. The solution allows a user to automate document processing flow, meaning help customer classify documents, extract entities, structure information and provide user-friendly interface for document search. Key feature of Artemis system is ability to learn through time using Human Feedback (HITL)."
           },
           {
             "id": 120,
-            "speaker": "Mkrtchyan",
-            "title": "To be announced later",
+            "speaker": "Rafayel Mkrtchyan",
+            "title": "ML-based Approaches for Wireless NLOS Localization: Input Representations and Uncertainty Estimation",
             "roomId": 3,
             "startHour": 14,
             "startMinutes": 30,
             "endHour": 15,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "The challenging problem of non-line-of-sight (NLOS) localization is critical for many wireless networking applications. The lack of available datasets has made NLOS localization difficult to tackle with ML-driven methods, but recent developments in synthetic dataset generation have provided new opportunities for research. This paper explores three different input representations: (i) single wireless radio path features, (ii) wireless radio link features (multi-path), and (iii) image-based representations. Inspired by the two latter new representations, we design two convolutional neural networks (CNNs) and we demonstrate that, although not significantly improving the NLOS localization performance, they are able to support richer prediction outputs, thus allowing deeper analysis of the predictions. In particular, the richer outputs enable reliable identification of non-trustworthy predictions and support the prediction of the top-K candidate locations for a given instance. We also measure how the availability of various features (such as angles of signal departure and arrival) affects the model's performance, providing insights about the types of data that should be collected for enhanced NLOS localization. Our insights motivate future work on building more efficient neural architectures and input representations for improved NLOS localization performance, along with additional useful application features."
           },
           {
             "id": 130,
@@ -554,10 +543,32 @@
             "title": "Adversarial Attacks on Language Models: WordPiece Filtration and ChatGPT Synonyms",
             "roomId": 2,
             "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+            "abstract": "Adversarial attacks on text have gained significant attention in recent years due to their potential to undermine the reliability of NLP models. We present novel black-box character- and word-level adversarial example-generating approaches applicable to BERT-based models. The char-level approach is based on the idea of adding natural typos into a word, according to its WordPiece tokenization. As for the word-level approaches, we present three techniques that make use of synonymous substitute words created by ChatGPT and post-corrected to be in the appropriate grammatical form for the given context. Additionally, we try to minimize the perturbation rate taking into account the damage that each perturbation does to the model. By combining the character-level, word-level approaches and the perturbation rate minimization technique, we achieved a state-of-the-art attack rate. Our best approach works 30-65% faster than the previous best method, Tampers, and has a comparable perturbation rate. Simultaneously, the proposed perturbations retain the semantic similarity between the original and adversarial examples and achieve a relatively low value of Levenshtein distance."
+          },
+          {
+            "id": 135,
+            "speaker": "Aram Matinyan",
+            "title": "Co-presenter: Nshan Potikyan. Simultaneous object detection and visual tracking",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+            "abstract": "Will present how we simultaneously detect and track a cyclist on Raspberry Pi with a unified neural network."
+          },
+          {
+            "id": 135,
+            "speaker": "Rafayel Darbinyan",
+            "title": "Identifying and Disentangling Spurious Features in Pretrained Image Representations",
+            "roomId": 2,
+            "startHour": 15,
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Neural networks employ spurious correlations in their predictions, resulting in decreased performance when these correlations do not hold. Recent works suggest fixing pretrained representations and training a classification head that does not use spurious features. We investigate how spurious features are represented in pretrained representations and explore strategies for removing information about spurious features. Considering the Waterbirds dataset and a few pretrained representations, we find that even with full knowledge of spurious features, their removal is not straightforward due to entangled representation. To address this, we propose a linear autoencoder training method to separate the representation into core, spurious, and other features. We propose two effective spurious feature removal approaches that are applied to the encoding and significantly improve classification performance measured by worst group accuracy."
           },
           {
             "id": 140,
@@ -568,7 +579,7 @@
             "startMinutes": 30,
             "endHour": 16,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "I will like to present the work that i have done for my company in the sphere of support ticket analysis. I have created topic detection pipeline."
           },
           {
             "id": 150,
@@ -582,15 +593,26 @@
             "abstract": ""
           },
           {
-            "id": 160,
-            "speaker": "Darbinyan",
-            "title": "To be announced later",
+            "id": 152,
+            "speaker": "Alexander Serechenko",
+            "title": "Machine Learning with Market Data",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "In the rapidly evolving financial landscape, market tick data presents unique challenges and opportunities for data-driven insights. This presentation will explore machine learning techniques tailored for this granular data, emphasizing its application not only in deciphering market patterns and optimizing trading strategies but also in enhancing market surveillance mechanisms. The challenges of feature engineering, the nuances of temporal data sequences, and strategies to mitigate inherent noise will be underscored. The talk concludes with the introduction of the infrastructural solution designed for MLOps specific to market data applications, from development to deployment."
+          },
+          {
+            "id": 153,
+            "speaker": "Vladimir Orshulevich",
+            "title": "Introduction to Transformers with external memory and its scalability",
+            "roomId": 1,
+            "startHour": 17,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 30,
+            "abstract": "Transformers with external memory are considered as an alternative to increasing the number of parameters or tokens in pre-training datasets in LLM scaling. We will define and describe the transformer model with external memory and review well-known approaches and papers from the last three years. In addition, we will have a look at our internal experiments on how the vector database's retrieval quality affects a model with external memory"
           },
           {
             "id": 170,
@@ -601,7 +623,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "An overview of inportant results in NLP in 2023"
           },
           {
             "id": 180,
@@ -612,7 +634,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "Stickers have become a popular form of self-expression in photo editing applications, allowing users to personalize their images and add a touch of creativity. To enhance user experience and engagement, content-based recommendation systems have emerged as a valuable tool for suggesting relevant stickers. To train our recommendation system, we utilized a substantial amount of internal data, including a diverse collection of stickers, metadata, and user interactions. This rich dataset allowed us to build a robust and comprehensive model capable of capturing various sticker categories, styles, and usage patterns. Our approach leverages machine learning algorithms to analyze the visual and semantic attributes of stickers and match them with the user's input image. We conducted rigorous A/B testing, comparing our recommendation system against baseline methods, to evaluate its performance and impact on user satisfaction. The results demonstrate significant improvements in sticker relevancy, diversity, user preference  and user engagement when employing our content-based recommendation system."
           },
           {
             "id": 190,
@@ -623,7 +645,7 @@
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 30,
-            "abstract": ""
+            "abstract": "As the Artificial Intelligence (AI) sector grows and AI models become increasingly complex, it's apparent that traditional Remote Direct Memory Access (RDMA) protocols may not be equipped to handle these mounting demands. Innovating and expanding the capacities of RDMA has emerged as a fundamental necessity in order to keep pace with this burgeoning growth. RDMA has indeed contributed significantly to the improvement of data transfer efficiency. However, inherent constraints, such as the 1K scaling problem, pose serious challenges. Specifically, RDMA performance deteriorates when scaling beyond 1000 nodes of GPUs due to issues like network congestion, thereby hampering efficient data communication. Addressing these limitations requires a fresh approach, which includes programmatically applying different congestion management strategies, acknowledgment procedures, and out-of-order delivery mechanisms to RDMA at runtime. By adopting such dynamic techniques, we can optimize RDMA operations, mitigate the aforementioned scaling problem, and thereby enhance performance and scalability to meet the evolving demands of the AI industry."
           }
         ],
         "date": "September 9",
@@ -938,15 +960,15 @@
       {
         "name": "Rafayel",
         "surname": "Darbinyan",
-        "position": "ML Researcher",
+        "position": "ML Researcher at",
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-darbinyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Rafayel-Darbinyan_wzg1qx.png"
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693561599/datafest/DataFest%202023/Speakers/Rafayel-Darbinyan_pj3vpl.png"
       },
       {
         "name": "Rafayel",
-        "surname": "Mkrtchyan ",
-        "position": "ML Researcher",
+        "surname": "Mkrtchyan",
+        "position": "ML Researcher at",
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-mkrtchyan",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474241/datafest/DataFest%202023/Speakers/Rafayel-Mkrtchyan_lg5dge.png"
@@ -954,10 +976,18 @@
       {
         "name": "Philipp",
         "surname": "Guevorguian",
-        "position": "ML Researcher",
+        "position": "ML Researcher at",
         "company": "YerevaNN",
         "linkedUrl": "#",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Philipp-Guevorguian_zxv4xh.png"
+      },
+        {
+        "name": "Vahe",
+        "surname": "Andonians",
+        "position": "Founder, CTO, CPO at",
+        "company": "Cognaize",
+        "linkedUrl": "https://www.linkedin.com/in/vaheandonians/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693562893/datafest/DataFest%202023/Speakers/Vahe-Andonians_jsyvsu.png"
       }
     ]
   },
