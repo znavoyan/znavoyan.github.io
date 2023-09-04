@@ -72,7 +72,6 @@ const Tabs = ({ days, locations }) => {
   useEffect(() => {
     
     const breakItems = document.querySelectorAll(".toggleWidth");
-    console.log('breakItems', breakItems);
     [].map.call(breakItems, function(el) {
       el.className = el.className.replace(/\btoggleWidth\b/, "");
   });

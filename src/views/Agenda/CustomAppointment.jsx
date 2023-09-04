@@ -7,15 +7,7 @@ import { Appointments } from "@devexpress/dx-react-scheduler-material-ui";
 import CustomTooltip from "./CustomTooltip";
 
 const CustomAppointment = ({ style, ...restProps }) => {
-  // document.addEventListener('click', function handleClickOutsideBox(event) {
-  //   const activePopup = document.getElementsByClassName('active-popup');
 
-  //   if (!activePopup[0].contains(event.target)) {
-  //     console.log('clicked outside');
-  //     const overlay = activePopup[0].querySelector('.overlay');
-  //     overlay.style.visibility='hidden';
-  //   }
-  // });
   const [visibility, setVisibility] = useState(false);
   const { t } = useTranslation("common");
   const speakersList = t("speakers.speakersList", { returnObjects: true });
@@ -28,10 +20,13 @@ const CustomAppointment = ({ style, ...restProps }) => {
   );
 
   const popupCloseHandler = (event) => {
-    setVisibility(event);
+    setVisibility(false);
   };
 
   const openTooltip = (event) => {
+
+    setVisibility(true);
+    
     const nearestCustomAppointment = event.target.closest(
       ".custom-appointment"
     );
@@ -50,16 +45,25 @@ const CustomAppointment = ({ style, ...restProps }) => {
     // Check if the element's right position is beyond the threshold
     const isOnRight = elementRect.right >= rightThreshold;
 
-    if(isOnRight) {
-      nearestCustomAppointment.parentElement.querySelector('.popup').style.left = `-${380 - elementRect.width}px`;
+    if (isOnRight) {
+      nearestCustomAppointment.parentElement.querySelector(
+        ".popup"
+      ).style.left = `-${380 - elementRect.width}px`;
     }
 
-    setVisibility(true);
   };
 
   useEffect(() => {
+
     if (ref && ref.current) {
       const parent = ref.current.parentElement;
+      document
+        .querySelectorAll(".break-info")
+        .forEach(
+          (element) =>
+            (element.closest(".custom-appointment").parentElement.style.width =
+              "100%")
+        );
       parent.parentElement.classList.add("toggleWidth");
     }
   }, [restProps]);
@@ -71,7 +75,8 @@ const CustomAppointment = ({ style, ...restProps }) => {
     return false;
   }
 
-  console.log("restProps", restProps.data);
+  const timeHeight =
+    ((restProps.data.endDate - restProps.data.startDate) / 1000 / 60) * 3.3333;
 
   return (
     <div className="custom-appointment" id="box">
@@ -108,7 +113,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
       </CustomTooltip>
       <Appointments.AppointmentContent {...restProps}>
         {restProps.data.speaker && (
-          <div className="agenda-container" onClick={openTooltip}>
+          <div
+            className="agenda-container"
+            onClick={openTooltip}
+            style={{ height: `${timeHeight}px` }}
+          >
             <div className="time">
               <div className="time-preview">
                 <span>{format(restProps.data.startDate, "HH:mm")}</span>
@@ -129,7 +138,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
           </div>
         )}
         {restProps.data.key && (
-          <div className="break-info" ref={ref}>
+          <div className="break-info" ref={ref} style={{ width: "100%" }}>
             <div className="time-preview">
               <span>{format(restProps.data.startDate, "HH:mm")}</span>
               <br></br>

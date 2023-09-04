@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from "react";
-import { format } from "date-fns";
-import { useTranslation } from "react-i18next";
 
 const CustomTooltip = (props) => {
-  const [show, setShow] = useState(false);
+  const [show, setShow] = useState(props.show);
+
 
   const closeHandler = (e) => {
     e.target.closest('.custom-appointment').parentElement.classList.remove("active-popup");
