@@ -395,7 +395,7 @@
             "abstract": ""
           },
           {
-            "id": 20,
+            "id": 220,
             "speaker": "Augustin Zidek",
             "title": "[Keynote]\nHighly accurate protein structure prediction with AlphaFold",
             "roomId": 0,
@@ -406,7 +406,7 @@
             "abstract": "Proteins are essential to life, supporting practically all its functions. They are large complex molecules, made up of chains of amino acids, and what a protein does largely depends on its unique 3D structure. Figuring out what shapes proteins fold into is known as the “protein folding problem”, and has stood as a grand challenge in biology for the past 50 years. AlphaFold has been recognised as a solution to this grand challenge by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP). This breakthrough demonstrates the impact AI can have on scientific discovery and its potential to dramatically accelerate progress in some of the most fundamental fields that explain and shape our world. In the talk, I will give an introduction in structural biology, give an overview of how AlphaFold works, and finally discuss AlphaFold applications and impact on the scientific community. I will also talk about AlphaFold and its development from an engineering perspective."
           },
           {
-            "id": 30,
+            "id": 230,
             "speaker": "Hazarapet Tunanyan",
             "title": "Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style",
             "roomId": 1,
@@ -417,7 +417,7 @@
             "abstract": "Specialist Diffusion, a style specific personalized text-to-image model. It is plug-and-play to existing diffusion models and other personalization techniques. It outperform the latest few-shot personalization alternatives of diffusion models such as Textual Inversion and DreamBooth, in terms of learning highly sophisticated styles with ultra-sample-efficient tuning."
           },
           {
-            "id": 40,
+            "id": 240,
             "speaker": "Sipan Muradyan",
             "title": "Creating your own version of ChatGPT with LangChain",
             "roomId": 2,
@@ -428,7 +428,7 @@
             "abstract": "In this practical session, we'll dive into the LangChain framework. LangChain provides methods for integrating existing Large Language Models (LLMs) into a distinctive, personalized chatbot. I'll guide you through its features, processes, and demonstrate how to create your own version of ChatGPT. This session is designed to equip attendees with the knowledge and skills needed to leverage LangChain, enabling them to craft personalized AI conversations."
           },
           {
-            "id": 120,
+            "id": 250,
             "speaker": "Rafayel Mkrtchyan",
             "title": "ML-based Approaches for Wireless NLOS Localization: Input Representations and Uncertainty Estimation",
             "roomId": 3,
@@ -439,7 +439,7 @@
             "abstract": "The challenging problem of non-line-of-sight (NLOS) localization is critical for many wireless networking applications. The lack of available datasets has made NLOS localization difficult to tackle with ML-driven methods, but recent developments in synthetic dataset generation have provided new opportunities for research. This paper explores three different input representations: (i) single wireless radio path features, (ii) wireless radio link features (multi-path), and (iii) image-based representations. Inspired by the two latter new representations, we design two convolutional neural networks (CNNs) and we demonstrate that, although not significantly improving the NLOS localization performance, they are able to support richer prediction outputs, thus allowing deeper analysis of the predictions. In particular, the richer outputs enable reliable identification of non-trustworthy predictions and support the prediction of the top-K candidate locations for a given instance. We also measure how the availability of various features (such as angles of signal departure and arrival) affects the model's performance, providing insights about the types of data that should be collected for enhanced NLOS localization. Our insights motivate future work on building more efficient neural architectures and input representations for improved NLOS localization performance, along with additional useful application features."
           },
           {
-            "id": 50,
+            "id": 260,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
@@ -450,7 +450,7 @@
             "abstract": ""
           },
           {
-            "id": 60,
+            "id": 270,
             "speaker": "Dzmitry Pranchuk",
             "title": "Synthetic Data Generation via Diffusion Models for Training Discriminative Convolutional Networks",
             "roomId": 1,
@@ -461,7 +461,7 @@
             "abstract": "These days, diffusion models are the hottest topic in the computer vision community. They're widely used for artistic creations and image inpainting among other applications. However, in this presentation, we're going to shift the focus to an exciting new use of diffusion models - generating synthetic data. We'll explore how this fresh approach can streamline the training of discriminative models."
           },
           {
-            "id": 60,
+            "id": 280,
             "speaker": "Loubna Ben Allal",
             "title": "BigCode: Building Large Language Models for Code",
             "roomId": 2,
@@ -472,7 +472,7 @@
             "abstract": "Language models trained on code have demonstrated remarkable code completion and synthesis abilities from natural language descriptions. BigCode project aims to build code models in an open and responsible approach with support from the ML community. We are working on addressing challenges related to data governance and curation, model architecture, inference, and evaluation. To this end, we released StarCoder a strong Large Language Model for Code with 15.5B parameters and 8K context length. It outperforms existing open models in Python and other programming languages, offers infilling capabilities, fast large-batch inference and incorporates responsible AI practices."
           },
           {
-            "id": 152,
+            "id": 290,
             "speaker": "Alexander Serechenko",
             "title": "Machine Learning with Market Data",
             "roomId": 3,
@@ -483,7 +483,7 @@
             "abstract": "In the rapidly evolving financial landscape, market tick data presents unique challenges and opportunities for data-driven insights. This presentation will explore machine learning techniques tailored for this granular data, emphasizing its application not only in deciphering market patterns and optimizing trading strategies but also in enhancing market surveillance mechanisms. The challenges of feature engineering, the nuances of temporal data sequences, and strategies to mitigate inherent noise will be underscored. The talk concludes with the introduction of the infrastructural solution designed for MLOps specific to market data applications, from development to deployment."
           },
           {
-            "id": 140,
+            "id": 300,
             "speaker": "Rafayel Shirakyan",
             "title": "Explainable Churn models",
             "roomId": 3,
@@ -494,7 +494,7 @@
             "abstract": "I will like to present the work that i have done for my company in the sphere of support ticket analysis. I have created topic detection pipeline."
           },
           {
-            "id": 90,
+            "id": 310,
             "key": "break",
             "title": "Lunch",
             "roomId": 0,
@@ -505,7 +505,7 @@
             "abstract": ""
           },
           {
-            "id": 100,
+            "id": 320,
             "speaker": "Mariano Kamp",
             "title": "Look Ma, I shrunk BERT (Knowledge Distillation)",
             "roomId": 1,
@@ -516,7 +516,7 @@
             "abstract": "Large NLP models are dazzling us with their awesome performance. However, their size can pose challenges, making them cumbersome to handle, making it harder to experiment and more expensive. Let’s harness the power of knowledge distillation to use a high-capacity teacher model to help a smaller student model to learn better and faster. Creating a model that is wise beyond its size :) Moreover, the student can even use a different network architecture than the teacher. Let’s use that freedom to craft a model that fits our downstream task perfectly. Not only do we see step-by-step how knowledge distillation works, but we will also mix and match architectural features that are needed for the best model performance on our task. Make your model’s architecture your own."
           },
           {
-            "id": 110,
+            "id": 330,
             "speaker": "Semen Sorokin",
             "title": "Document Processing with Zero-Shot Classification and Extraction before and after LLMs in Artemis (by Zero)",
             "roomId": 2,
@@ -527,7 +527,7 @@
             "abstract": "ZERO Systems provides solutions to augment cognitive processes using Skilled AI Modules (SAMs) to work alongside human workers, offering automation, insights, and proactive assistance using Large Language Models and Generative AI. One of the core ZERO products is Artemis. The solution allows a user to automate document processing flow, meaning help customer classify documents, extract entities, structure information and provide user-friendly interface for document search. Key feature of Artemis system is ability to learn through time using Human Feedback (HITL)."
           },
           {
-            "id": 70,
+            "id": 340,
             "speaker": "Daniel Gehrig",
             "title": "Efficient, Data-Driven Perception with Event Cameras",
             "roomId": 3,
@@ -538,7 +538,7 @@
             "abstract": "Event cameras are bio-inspired sensors that perceive the environment in an entirely different way. Instead of measuring synchronous frames of absolute intensity at fixed intervals, they only measure changes in intensity and do this independently for each pixel, resulting in an asynchronous stream of events. Events thus carry only the compressed visual signal but do this with a micro-second-level latency and temporal resolution, negligible motion blur, and high dynamic range while consuming low power and using a low bandwidth. However, due to their working principle, event cameras output sparse and asynchronous data, which are not directly compatible with standard computer vision algorithms designed for dense frames. Therefore the development of new algorithms to process events, and leverage the advantages of these cameras is at the forefront of active research in event-based vision. In this talk, we will discuss ways to leveraged the avantages of event cameras for high-speed and robust SLAM, low-data computational photography, and low-latency perception for robotics and scene understanding."
           },
           {
-            "id": 130,
+            "id": 350,
             "speaker": "Karen Avetisyan",
             "title": "Adversarial Attacks on Language Models: WordPiece Filtration and ChatGPT Synonyms",
             "roomId": 2,
@@ -549,7 +549,7 @@
             "abstract": "Adversarial attacks on text have gained significant attention in recent years due to their potential to undermine the reliability of NLP models. We present novel black-box character- and word-level adversarial example-generating approaches applicable to BERT-based models. The char-level approach is based on the idea of adding natural typos into a word, according to its WordPiece tokenization. As for the word-level approaches, we present three techniques that make use of synonymous substitute words created by ChatGPT and post-corrected to be in the appropriate grammatical form for the given context. Additionally, we try to minimize the perturbation rate taking into account the damage that each perturbation does to the model. By combining the character-level, word-level approaches and the perturbation rate minimization technique, we achieved a state-of-the-art attack rate. Our best approach works 30-65% faster than the previous best method, Tampers, and has a comparable perturbation rate. Simultaneously, the proposed perturbations retain the semantic similarity between the original and adversarial examples and achieve a relatively low value of Levenshtein distance."
           },
           {
-            "id": 153,
+            "id": 360,
             "speaker": "Vladimir Orshulevich",
             "title": "Introduction to Transformers with external memory and its scalability",
             "roomId": 2,
@@ -560,7 +560,7 @@
             "abstract": "Transformers with external memory are considered as an alternative to increasing the number of parameters or tokens in pre-training datasets in LLM scaling. We will define and describe the transformer model with external memory and review well-known approaches and papers from the last three years. In addition, we will have a look at our internal experiments on how the vector database's retrieval quality affects a model with external memory"
           },
           {
-            "id": 135,
+            "id": 370,
             "speaker": "Aram Matinyan",
             "title": "Co-presenter: Nshan Potikyan. Simultaneous object detection and visual tracking",
             "roomId": 3,
@@ -571,7 +571,7 @@
             "abstract": "Will present how we simultaneously detect and track a cyclist on Raspberry Pi with a unified neural network."
           },
           {
-            "id": 150,
+            "id": 380,
             "key": "break",
             "title": "Coffee Break",
             "roomId": 0,
@@ -582,7 +582,7 @@
             "abstract": ""
           },
           {
-            "id": 190,
+            "id": 390,
             "speaker": "Erik Sahakyan",
             "title": "Novel approach to hyperscale GPU compute cluster for AI workloads",
             "roomId": 1,
@@ -593,7 +593,7 @@
             "abstract": "As the Artificial Intelligence (AI) sector grows and AI models become increasingly complex, it's apparent that traditional Remote Direct Memory Access (RDMA) protocols may not be equipped to handle these mounting demands. Innovating and expanding the capacities of RDMA has emerged as a fundamental necessity in order to keep pace with this burgeoning growth. RDMA has indeed contributed significantly to the improvement of data transfer efficiency. However, inherent constraints, such as the 1K scaling problem, pose serious challenges. Specifically, RDMA performance deteriorates when scaling beyond 1000 nodes of GPUs due to issues like network congestion, thereby hampering efficient data communication. Addressing these limitations requires a fresh approach, which includes programmatically applying different congestion management strategies, acknowledgment procedures, and out-of-order delivery mechanisms to RDMA at runtime. By adopting such dynamic techniques, we can optimize RDMA operations, mitigate the aforementioned scaling problem, and thereby enhance performance and scalability to meet the evolving demands of the AI industry."
           },
           {
-            "id": 170,
+            "id": 400,
             "speaker": "Grigory Sapunov",
             "title": "NLP in 2023",
             "roomId": 2,
@@ -604,7 +604,7 @@
             "abstract": "An overview of inportant results in NLP in 2023"
           },
           {
-            "id": 45,
+            "id": 410,
             "speaker": "Alexey Kovalev",
             "title": "Transformers for Reinforcement Learning and Robotics",
             "roomId": 3,
@@ -615,7 +615,7 @@
             "abstract": "Recently, the use of transformer architectures in reinforcement learning and robotics is acquiring popularity. Decision Transformer and Trajectory Transformer have already become classic works. Another promising direction is the use of multimodal transformers (VIMA, LAVA) for robotics, when the task for the agent is formulated in natural language. The talk will give an overview of the current state of the art and outline promising research directions"
           },
           {
-            "id": 180,
+            "id": 420,
             "speaker": "Arman Isajanyan",
             "title": "Enhancing Photo Editing with Content-Based Recommendation System for Stickers",
             "roomId": 1,
@@ -626,7 +626,7 @@
             "abstract": "Stickers have become a popular form of self-expression in photo editing applications, allowing users to personalize their images and add a touch of creativity. To enhance user experience and engagement, content-based recommendation systems have emerged as a valuable tool for suggesting relevant stickers. To train our recommendation system, we utilized a substantial amount of internal data, including a diverse collection of stickers, metadata, and user interactions. This rich dataset allowed us to build a robust and comprehensive model capable of capturing various sticker categories, styles, and usage patterns. Our approach leverages machine learning algorithms to analyze the visual and semantic attributes of stickers and match them with the user's input image. We conducted rigorous A/B testing, comparing our recommendation system against baseline methods, to evaluate its performance and impact on user satisfaction. The results demonstrate significant improvements in sticker relevancy, diversity, user preference  and user engagement when employing our content-based recommendation system."
           },
           {
-            "id": 135,
+            "id": 430,
             "speaker": "Rafayel Darbinyan",
             "title": "Identifying and Disentangling Spurious Features in Pretrained Image Representations",
             "roomId": 3,
