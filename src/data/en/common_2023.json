@@ -390,17 +390,6 @@
             "roomId": 0,
             "startHour": 9,
             "startMinutes": 0,
-            "endHour": 9,
-            "endMinutes": 40,
-            "abstract": ""
-          },
-          {
-            "id": 10,
-            "key": "break",
-            "title": "Conference Opening",
-            "roomId": 0,
-            "startHour": 9,
-            "startMinutes": 40,
             "endHour": 10,
             "endMinutes": 0,
             "abstract": ""
