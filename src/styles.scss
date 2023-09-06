@@ -242,7 +242,6 @@ img.icon-5 {
   @media screen and (max-width: 1000px) {
     z-index: 99;
     position: absolute;
-    top: 90%;
   }
 }
 .popup {
@@ -257,7 +256,7 @@ img.icon-5 {
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 1);
 
   @media screen and (max-width: 1000px) {
-    position: absolute;
+    position: fixed;
     left: 0;
     right: 0;
     top: 20%;
