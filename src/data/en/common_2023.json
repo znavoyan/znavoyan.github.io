@@ -491,7 +491,7 @@
             "startMinutes": 35,
             "endHour": 13,
             "endMinutes": 5,
-            "abstract": "In today's data-driven landscape, the gaming and betting industry is continuously seeking innovative methods to mitigate customer churn and enhance player retention. This data science project presentation delves into the development of churn prediction models within the context of a prominent betting company. The primary focus is on constructing predictive models leveraging customer behavior metrics, specifically recency, frequency, and monetary (RFM) indicators. \n \n This academic pursuit adheres to a rigorous analytical methodology, beginning with the collection and preprocessing of extensive user data, including wager histories and engagement patterns. Utilizing a variety of machine learning algorithms, predictive models are meticulously crafted to forecast the likelihood of player churn. Notably, these models are assessed and elucidated through the lens of Shapley values, offering interpretability and insights into the crucial features contributing to churn propensity."
+            "abstract": "The talk will cover our story of creating high performing and explainable churn models which is/will be used in both in operations and be used to serve as a product."
           },
           {
             "id": 310,
