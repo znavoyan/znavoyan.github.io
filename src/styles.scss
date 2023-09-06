@@ -241,6 +241,8 @@ img.icon-5 {
   right: 0;
   @media screen and (max-width: 1000px) {
     z-index: 99;
+    position: absolute;
+    top: 90%;
   }
 }
 .popup {
