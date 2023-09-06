@@ -138,7 +138,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
           </div>
         )}
         {restProps.data.key && (
-          <div className="break-info" ref={ref} style={{ width: "100%" }}>
+          <div className="break-info" ref={ref} style={{ width: "100%", height: `${timeHeight}px` }}>
             <div className="time-preview">
               <span>{format(restProps.data.startDate, "HH:mm")}</span>
               <br></br>
