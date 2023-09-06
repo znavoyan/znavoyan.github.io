@@ -110,7 +110,7 @@
     "locations": [
       {
         "text": "Manoogian",
-        "id": 0
+        "id": 5
       },
       {
         "text": "113 W",
@@ -158,7 +158,7 @@
             "id": 20,
             "speaker": "Michal Valko",
             "title": "[Keynote]\nCurious World Models",
-            "roomId": 0,
+            "roomId": 5,
             "startHour": 10,
             "startMinutes": 0,
             "endHour": 11,
@@ -268,7 +268,7 @@
             "id": 120,
             "speaker": "Fahad Khan",
             "title": "[Keynote]\nTowards Detailed Understanding of the Visual World through Specialized Conversational Vision-Language Models",
-            "roomId": 0,
+            "roomId": 5,
             "startHour": 14,
             "startMinutes": 30,
             "endHour": 15,
@@ -398,7 +398,7 @@
             "id": 220,
             "speaker": "Augustin Zidek",
             "title": "[Keynote]\nHighly accurate protein structure prediction with AlphaFold",
-            "roomId": 0,
+            "roomId": 5,
             "startHour": 10,
             "startMinutes": 0,
             "endHour": 11,
