@@ -107,11 +107,27 @@
     "text": "ԴատաՖեստ Երևան 2023-ը տեղի կունենա սեպտեմբերի 8-ին և 9-ին",
     "aboveText": "",
     "bottomText": "",
-    "locations": [
-      { "text": "Manoogian Hall", "id": 0 },
-      { "text": "113 W", "id": 1 },
-      { "text": "114 W", "id": 2 },
-      { "text": "214 W", "id": 3 }
+    "locations":  [
+      {
+        "text": "Manoogian",
+        "id": 0
+      },
+      {
+        "text": "113 W",
+        "id": 1
+      },
+      {
+        "text": "114 W",
+        "id": 2
+      },
+      {
+        "text": "214 W",
+        "id": 3
+      },
+      {
+        "text": "EPIC",
+        "id": 4
+      }
     ],
     "days": [
       {
