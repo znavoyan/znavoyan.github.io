@@ -57,6 +57,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
 
     if (ref && ref.current) {
       const parent = ref.current.parentElement;
+      parent.parentElement.classList.add("toggleWidth");
       document
         .querySelectorAll(".break-info")
         .forEach(
@@ -64,7 +65,6 @@ const CustomAppointment = ({ style, ...restProps }) => {
             (element.closest(".custom-appointment").parentElement.style.width =
               "100%")
         );
-      parent.parentElement.classList.add("toggleWidth");
     }
   }, [restProps]);
 
