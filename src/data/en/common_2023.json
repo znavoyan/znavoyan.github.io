@@ -635,6 +635,17 @@
             "endHour": 17,
             "endMinutes": 35,
             "abstract": "Neural networks employ spurious correlations in their predictions, resulting in decreased performance when these correlations do not hold. Recent works suggest fixing pretrained representations and training a classification head that does not use spurious features. We investigate how spurious features are represented in pretrained representations and explore strategies for removing information about spurious features. Considering the Waterbirds dataset and a few pretrained representations, we find that even with full knowledge of spurious features, their removal is not straightforward due to entangled representation. To address this, we propose a linear autoencoder training method to separate the representation into core, spurious, and other features. We propose two effective spurious feature removal approaches that are applied to the encoding and significantly improve classification performance measured by worst group accuracy."
+          },
+          {
+            "id": 440,
+            "key": "break",
+            "title": "Afterparty at Holiday Inn Republic Square (bring your badge)",
+            "roomId": 5,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 23,
+            "endMinutes": 30,
+            "abstract": ""
           }
         ],
         "date": "September 9",
