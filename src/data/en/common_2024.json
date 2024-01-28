@@ -1,0 +1,193 @@
+{
+  "header": {
+    "navbarItems": [
+      {
+        "name": "speakers",
+        "key": "speakers"
+      },
+      {
+        "name": "sponsors",
+        "key": "sponsors"
+      },
+      {
+        "name": "agenda",
+        "key": "agenda"
+      }
+    ],
+    "pastEvents": [2020, 2021, 2022, 2023],
+    "register": "Register here",
+    "registerUrl": "https://datafest24.eventbrite.co.uk"
+  },
+  "home": {
+    "main": {
+      "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
+      "register": "Register here",
+      "scrollDown": "Scroll down",
+      "eventDate": "September 6-7, 2024 at American University of Armenia"
+    },
+    "about": {
+      "title": "What is <span>DataFest Yerevan</span>",
+      "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
+      "followUs": "Follow us",
+      "facebookPage": "Follow us on Facebook -",
+      "facebookEventPage": "Facebook event page -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://www.facebook.com/events/6253742918081830",
+      "facebookPageText": "Facebook page",
+      "facebookEventText": "Facebook event",
+      "youTubePageText": "YouTube page",
+      "youTubeEventPageUrl": "https://www.youtube.com/@DataFestYerevan"
+    }
+  },
+  "sponsors": {
+    "title": "Our <span>Sponsors</span>",
+    "generalSponsorsTitle": "<span>Gold Sponsors</span>",
+    "sponsorsTitle": "<span>Silver Sponsors</span>",
+    "siteSponsorsTitle": "<span>Site Sponsors</span>",
+    "seeAll": "See all",
+    "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2023, whose support made this event possible",
+    "aboveText": "",
+    "bottomText": "",
+    "generalSponsorsList": [
+     
+    ],
+    "sponsorsList": [
+     
+    ],
+    "siteSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+        "linkedUrl": "https://www.simplytechnologies.net/",
+        "width": "24.3em"
+      }
+    ]
+  },
+  "agenda": {
+    "btnText": "september 6-7",
+    "title": "Our <span>Agenda</span>",
+    "yerevanTime": "All times are in Yerevan time (UTC+4)",
+    "text": "DataFest Yerevan 2024 will be held on September 6 and 7.",
+    "aboveText": "",
+    "bottomText": "",
+    "locations": [
+      {
+        "text": "Manoogian",
+        "id": 5
+      },
+      {
+        "text": "113 W",
+        "id": 1
+      },
+      {
+        "text": "114 W",
+        "id": 2
+      },
+      {
+        "text": "214 W",
+        "id": 3
+      },
+      {
+        "text": "EPIC",
+        "id": 4
+      }
+    ],
+    "days": [
+      {
+        "1": [
+          {
+            "id": 0,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 5,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40,
+            "abstract": ""
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Conference Opening",
+            "roomId": 5,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0,
+            "abstract": ""
+          }
+        ],
+        "date": "September 6",
+        "dateIndex": "1",
+        "year": 2024,
+        "month": 9,
+        "day": 8
+      },
+      {
+        "2": [
+          {
+            "id": 1200,
+            "key": "break",
+            "title": "Registration",
+            "roomId": 5,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 10,
+            "endMinutes": 0,
+            "abstract": ""
+          }
+        ],
+        "date": "September 7",
+        "dateIndex": "2",
+        "year": 2023,
+        "month": 9,
+        "day": 9
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Organisers",
+    "teamTitle": "DataFest Team",
+    "organisersList": [],
+    "teamList": [
+      {
+        "name": "Arsen",
+        "surname": "Yeghiazaryan",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+      },
+      {
+        "name": "Hrant",
+        "surname": "Khachatrian",
+        "linkedUrl": "https://www.linkedin.com/in/hrant-khachatrian-b97425206/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Zaven",
+        "surname": "Navoyan",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Andranik",
+        "surname": "Khachatryan",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Our <span>Speakers</span>",
+    "btnText": "More",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+     
+    ]
+  },
+  "location": {
+    "title": "Where to find us",
+    "lat": "40.193410592591526",
+    "lng": "44.504402153484406"
+  }
+}

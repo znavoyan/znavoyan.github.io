@@ -1,0 +1,193 @@
+{
+  "header": {
+    "navbarItems": [
+      {
+        "name": "խոսնակներ",
+        "key": "speakers"
+      },
+      {
+        "name": "հովանավորներ",
+        "key": "sponsors"
+      },
+      {
+        "name": "օրակարգ",
+        "key": "agenda"
+      }
+    ],
+    "pastEvents": [2020, 2021, 2022, 2023],
+    "register": "Գրանցվել այստեղ",
+    "registerUrl": "https://datafest23.eventbrite.co.uk/"
+  },
+  "home": {
+    "main": {
+      "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
+      "register": "Գրանցվել այստեղ",
+      "scrollDown": "Դեպի ներքև",
+      "eventDate": "Սեպտեմբերի 6-7, 2024, Հայաստանի Ամերիկյան Համալսարան"
+    },
+    "about": {
+      "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
+      "text": "Դատաֆեստ Երևանը մեքենայական ուսուցմանը նվիրված կոնֆերանս է, ուր քննարկվելու են ոլորտի տարաբնույթ թեմաներ՝ շեշտադրելով ինժեներական և կիրառական խնդիրները։ Այն մտքերի փոխանակման և համագործակցության խթանման հարթակ է։",
+      "followUs": "Հետևեք մեզ",
+      "facebookPage": "Հետևեք մեզ ֆեյսբուքում -",
+      "facebookEventPage": "Ֆեյսբուքյան միջոցառման հղում -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://www.facebook.com/events/6253742918081830",
+      "facebookPageText": "Ֆեյսբուքյան էջ",
+      "facebookEventText": "Ֆեյսբուքյան միջոցառում",
+      "youTubePageText": "Յութուբյան Էջ",
+      "youTubeEventPageUrl": "https://www.youtube.com/playlist?list=PLvwlJZXG6IkW-Yk4EJjSIwHuoXrr9_hsY"
+    }
+  },
+  "sponsors": {
+    "title": "Մեր <span>Հովանավորները</span>",
+    "generalSponsorsTitle": "<span>Ոսկե հովանավորները</span>",
+    "sponsorsTitle": "<span>Արծաթե հովանավորները</span>",
+    "siteSponsorsTitle": "<span>Կայքի հովանավորները</span>",
+    "seeAll": "Տեսնել ամբողջը",
+    "text": "Շնորհակալ ենք Դատաֆեստ Երևան 2024-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
+    "aboveText": "",
+    "bottomText": "",
+    "generalSponsorsList": [
+     
+    ],
+    "sponsorsList": [
+      
+    ],
+    "siteSponsorsList": [
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+        "linkedUrl": "https://www.simplytechnologies.net/",
+        "width": "24.3em"
+      }
+    ]
+  },
+  "agenda": {
+    "btnText": "սեպտեմբերի 6-7",
+    "title": "Մեր <span>Օրակարգը</span>",
+    "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
+    "text": "ԴատաՖեստ Երևան 2024-ը տեղի կունենա սեպտեմբերի 6-ին և 7-ին",
+    "aboveText": "",
+    "bottomText": "",
+    "locations":  [
+      {
+        "text": "Manoogian",
+        "id": 0
+      },
+      {
+        "text": "113 W",
+        "id": 1
+      },
+      {
+        "text": "114 W",
+        "id": 2
+      },
+      {
+        "text": "214 W",
+        "id": 3
+      },
+      {
+        "text": "EPIC",
+        "id": 4
+      }
+    ],
+    "days": [
+      {
+        "date": "Սեպտեմբերի 6",
+        "dateIndex": "1",
+        "year": 2024,
+        "month": 9,
+        "day": 6,
+        "1": [
+          {
+            "id": 0,
+            "key": "break",
+            "title": "Գրանցում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40,
+            "abstract": ""
+          },
+          {
+            "id": 10,
+            "key": "break",
+            "title": "Կոնֆերանսի բացում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 40,
+            "endHour": 10,
+            "endMinutes": 0,
+            "abstract": ""
+          }
+        ]
+      },
+      {
+        "date": "Սեպտեմբերի 7",
+        "dateIndex": "2",
+        "year": 2023,
+        "month": 9,
+        "day": 7,
+        "2": [
+          {
+            "id": 1200,
+            "key": "break",
+            "title": "Գրանցում",
+            "roomId": 0,
+            "startHour": 9,
+            "startMinutes": 0,
+            "endHour": 10,
+            "endMinutes": 0,
+            "abstract": ""
+          }
+        ]
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Կազմակերպիչներ",
+    "teamTitle": "Դատաֆեստ Թիմ",
+    "organisersList": [],
+    "teamList": [
+      {
+        "name": "Արսեն",
+        "surname": "Եղիազարյան",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+      },
+      {
+        "name": "Հրանտ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "https://www.linkedin.com/in/hrant-khachatrian-b97425206/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Զավեն",
+        "surname": "Նավոյան",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Անդրանիկ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Մեր <span>Խոսնակները</span>",
+    "btnText": "Ավելին",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+     
+    ]
+  },
+  "location": {
+    "title": "Որտեղ գտնել մեզ",
+    "lat": "40.193410592591526",
+    "lng": "44.504402153484406"
+  }
+}
