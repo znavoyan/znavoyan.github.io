@@ -197,6 +197,22 @@
         "company": "Careem",
         "linkedUrl": "https://www.linkedin.com/in/andlukyane/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1718179763/datafest/Datafest%202024/Speakers/KPO_7345_full_tbosc0.webp"
+    },
+    {
+        "name": "Kamyar",
+        "surname": "Azizzadenesheli",
+        "position": "Researcher at",
+        "company": "Nvidia",
+        "linkedUrl": "https://kamyar.page/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1718180375/datafest/Datafest%202024/Speakers/IMG_0958_1_1_kwh34w.png"
+    },
+   {
+        "name": "Augustin",
+        "surname": "Zidek",
+        "position": "Research Engineer at",
+        "company": "Google DeepMind",
+        "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
     }
     ]
   },
