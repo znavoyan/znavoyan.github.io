@@ -49,7 +49,11 @@
     "aboveText": "",
     "bottomText": "",
     "generalSponsorsList": [
-     
+     {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
+        "linkedUrl": "https://socialdiscoverygroup.com/",
+        "width": "15.2em"
+      }
     ],
     "sponsorsList": [
      
