@@ -219,6 +219,14 @@
         "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
     }
+    {
+        "name": "Mikhail",
+        "surname": "Burtsev",
+        "position": "Landau AI Fellow at",
+        "company": "London Institute for Mathematical Sciences",
+        "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719306589/datafest/Datafest%202024/Speakers/burtsev_port_2_ovrobd.jpg"
+    }
     ]
   },
   "location": {
