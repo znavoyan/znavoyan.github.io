@@ -241,6 +241,38 @@
         "company": "YSU / Fimetech",
         "linkedUrl": "https://www.linkedin.com/in/tigran-grigoryan-ab3056221/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719478549/datafest/Datafest%202024/Speakers/IMG_6005_-_Tigran_Grigoryan_tsr76b_c_crop_ar_1_1_baqj4l.jpg"
+    },
+       {
+        "name": "Yurii",
+        "surname": "Orshulevich",
+        "position": "Senior NLP Engineer at",
+        "company": "SuperAnnotate",
+        "linkedUrl": "https://www.linkedin.com/in/yurii-orshulevich/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+       {
+        "name": "Shahane",
+        "surname": "Tigranyan",
+        "position": "ML Engineer at",
+        "company": "CAST",
+        "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+       {
+        "name": "Davit",
+        "surname": "Shahnazaryan",
+        "position": "Head of Research at",
+        "company": "Amaros",
+        "linkedUrl": "https://www.linkedin.com/in/davit-shahnazaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719478936/datafest/Datafest%202024/Speakers/image_-_Davit_Shahnazaryan_vghs4n_c_crop_ar_1_1_mmlktb.jpg"
+    },
+        {
+        "name": "Mark",
+        "surname": "Hamazaspyan",
+        "position": "Senior Machine Learning Engineer at",
+        "company": "Metric LLC",
+        "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719479029/datafest/Datafest%202024/Speakers/12.02.2024_1821_-_Mark_Hamazaspyan_dgr0y8.jpg"
     }
     ]
   },
