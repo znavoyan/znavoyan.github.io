@@ -225,7 +225,23 @@
         "company": "London Institute for Mathematical Sciences",
         "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719306589/datafest/Datafest%202024/Speakers/burtsev_port_2_ovrobd.jpg"
-    }
+    },
+      {
+        "name": "Spartak",
+        "surname": "Bughdaryan",
+        "position": "Senior Machine Learning Engineer at",
+        "company": "Yerevan State University / Metric",
+        "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719475959/datafest/Datafest%202024/Speakers/87175397_2808306959227917_1187347290981924864_n_-_Spartak_Bughdaryan_lzovcv.jpg"
+    },
+      {
+        "name": "Tigran",
+        "surname": "Grigoryan",
+        "position": "Student / ML Engineer at",
+        "company": "YSU / Fimetech",
+        "linkedUrl": "https://www.linkedin.com/in/tigran-grigoryan-ab3056221/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719477539/datafest/Datafest%202024/Speakers/IMG_6005_-_Tigran_Grigoryan_tsr76b.jpg"
+    },
     ]
   },
   "location": {
