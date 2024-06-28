@@ -15,13 +15,13 @@
       }
     ],
     "pastEvents": [2020, 2021, 2022, 2023],
-    "register": "Register here",
-    "registerUrl": "https://datafest24.eventbrite.co.uk"
+    "register": "Registration: Coming Soon",
+    "registerUrl": "https://datafest.am/2024"
   },
   "home": {
     "main": {
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
-      "register": "Register here",
+      "register": "Registration: Coming Soon",
       "scrollDown": "Scroll down",
       "eventDate": "September 6-7, 2024 at American University of Armenia"
     },
