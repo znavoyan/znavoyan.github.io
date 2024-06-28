@@ -15,7 +15,8 @@
       }
     ],
     "pastEvents": [2020, 2021, 2022, 2023],
-    "register": "Գրանցումը շուտով"
+    "register": "Գրանցումը շուտով",
+    "registerUrl": "https://datafest.am/2024"
   },
   "home": {
     "main": {
