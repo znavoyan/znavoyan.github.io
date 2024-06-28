@@ -15,13 +15,12 @@
       }
     ],
     "pastEvents": [2020, 2021, 2022, 2023],
-    "register": "Գրանցվել այստեղ",
-    "registerUrl": "https://datafest23.eventbrite.co.uk/"
+    "register": "Գրանցումը շուտով"
   },
   "home": {
     "main": {
       "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
-      "register": "Գրանցվել այստեղ",
+      "register": "Գրանցումը շուտով",
       "scrollDown": "Դեպի ներքև",
       "eventDate": "Սեպտեմբերի 6-7, 2024, Հայաստանի Ամերիկյան Համալսարան"
     },
