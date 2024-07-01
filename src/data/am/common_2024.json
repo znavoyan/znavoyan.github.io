@@ -218,6 +218,62 @@
         "company": "Google DeepMind",
         "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+       {
+        "name": "Միխայիլ",
+        "surname": "Բուրցև",
+        "position": "AI հետազոտող",
+        "company": "London Institute for Mathematical Sciences",
+        "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719306589/datafest/Datafest%202024/Speakers/burtsev_port_2_ovrobd.jpg"
+    },
+      {
+        "name": "Սպարտակ",
+        "surname": "Բուղդարյան",
+        "position": "ՄՈՒ ավագ ինժեներ",
+        "company": "Yerevan State University / Metric",
+        "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719475959/datafest/Datafest%202024/Speakers/87175397_2808306959227917_1187347290981924864_n_-_Spartak_Bughdaryan_lzovcv.jpg"
+    },
+      {
+        "name": "Տիգրան",
+        "surname": "Գրիգորյան",
+        "position": "Ուսանող / ՄՈՒ ինժեներ",
+        "company": "YSU / Fimetech",
+        "linkedUrl": "https://www.linkedin.com/in/tigran-grigoryan-ab3056221/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719478549/datafest/Datafest%202024/Speakers/IMG_6005_-_Tigran_Grigoryan_tsr76b_c_crop_ar_1_1_baqj4l.jpg"
+    },
+       {
+        "name": "Յուրի",
+        "surname": "Օրշուլևիչ",
+        "position": "Բնական լեզվի մշակման ավագ ինժեներ",
+        "company": "SuperAnnotate",
+        "linkedUrl": "https://www.linkedin.com/in/yurii-orshulevich/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+       {
+        "name": "Շահանե",
+        "surname": "Տիգրանյան",
+        "position": "ՄՈՒ ինժեներ",
+        "company": "CAST",
+        "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719830564/datafest/Datafest%202024/Speakers/datafest_nzrk8j_c_crop_ar_1_1_ktlz3w.jpg"
+    },
+       {
+        "name": "Դավիթ",
+        "surname": "Շահնազարյան",
+        "position": "Հետազոտության ղեկավար",
+        "company": "Amaros",
+        "linkedUrl": "https://www.linkedin.com/in/davit-shahnazaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719478936/datafest/Datafest%202024/Speakers/image_-_Davit_Shahnazaryan_vghs4n_c_crop_ar_1_1_mmlktb.jpg"
+    },
+        {
+        "name": "Մարկ",
+        "surname": "Համազասպյան",
+        "position": "ՄՈՒ ավագ ինժեներ",
+        "company": "Metric LLC",
+        "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719479029/datafest/Datafest%202024/Speakers/12.02.2024_1821_-_Mark_Hamazaspyan_dgr0y8.jpg"
     }
     ]
      
