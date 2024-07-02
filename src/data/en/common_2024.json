@@ -273,6 +273,14 @@
         "company": "Metric LLC",
         "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719479029/datafest/Datafest%202024/Speakers/12.02.2024_1821_-_Mark_Hamazaspyan_dgr0y8.jpg"
+    },
+      {
+        "name": "Grigory",
+        "surname": "Sapunov",
+        "position": CTO & co-Founder at",
+        "company": "Intento",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719905856/datafest/Datafest%202024/Speakers/IMG_1827_1_prriyc.jpg"
     }
     ]
   },
