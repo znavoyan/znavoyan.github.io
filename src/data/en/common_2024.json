@@ -281,6 +281,22 @@
         "company": "Intento",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
+    },
+       {
+        "name": "Gevorg",
+        "surname": "Minasyan",
+        "position": "Lead AI Research Scientist at",
+        "company": "Podcastle",
+        "linkedUrl": "https://www.linkedin.com/in/gevorg-minasyan-42475a132/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1720438093/datafest/Datafest%202024/Speakers/2024-06-27_13.53.33_-_Gevorg_Minasyan_g68hsv.jpg"
+    },
+      {
+        "name": "Liana",
+        "surname": "Baghdasaryan",
+        "position": "ML Engineer at",
+        "company": "Podcastle AI",
+        "linkedUrl": "https://www.linkedin.com/in/liana-bagh/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
     }
     ]
   },
