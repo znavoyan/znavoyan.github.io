@@ -297,6 +297,62 @@
         "company": "Podcastle AI",
         "linkedUrl": "https://www.linkedin.com/in/liana-bagh/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+            {
+        "name": "Ալեկսա",
+        "surname": "Գորդիչ",
+        "position": "Հիմնադիր/Գործադիր տնօրեն",
+        "company": "Runa AI. Ex-Google DeepMind, Ex-Microsoft.",
+        "linkedUrl": "http://linkedin.com/in/aleksagordic",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+       {
+        "name": "Օլիվիա",
+        "surname": "Վիեսմանն",
+        "position": "Առաջատար ՄՈՒ գիտնական",
+        "company": "Flagship Pioneering",
+        "linkedUrl": "https://www.flagshippioneering.com/people/olivia-viessmann",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721901235/datafest/Datafest%202024/Speakers/Screenshot_2024-07-22_at_9.24.10_AM_e7dgda_c_crop_ar_1_1_vi6aom.png"
+    },
+      {
+        "name": "Թեո",
+        "surname": "Մութականնի",
+        "position": "Հետազոտող գիտնականի օգնական & Ասպիրանտ",
+        "company": "Meta",
+        "linkedUrl": "https://www.linkedin.com/in/theo-moutakanni/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721901668/datafest/Datafest%202024/Speakers/418551195_210688308802686_8314683239095376884_n_Cropped_ikuevz.jpg"
+    },
+       {
+        "name": "Արման",
+        "surname": "Իսաջանյան",
+        "position": "ՄՈՒ գիտնական",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/arman-isajanyan-b2558613a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+       {
+        "name": "Արթուր",
+        "surname": "Կիուլիան",
+        "position": "Գործադիր տնօրեն",
+        "company": "OpenBabylon",
+        "linkedUrl": "https://www.linkedin.com/in/artur-kiulian/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+        {
+        "name": "Մարիաննա",
+        "surname": "Օհանյան",
+        "position": "ՄՈՒ գիտնական",
+        "company": "Picsart Inc.",
+        "linkedUrl": "https://www.linkedin.com/feed/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721902826/datafest/Datafest%202024/Speakers/marianna_profile_cut_-_Mochi_Master_1_zgqjh4_c_crop_ar_1_1_jtrwjx.png"
+    },
+       {
+        "name": "Անդրանիկ",
+        "surname": "Սարգսյան",
+        "position": "Ավագ ՄՈՒ գիտնական",
+        "company": "Picsart",
+        "linkedUrl": "https://www.linkedin.com/in/andraniksargsyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721903177/datafest/Datafest%202024/Speakers/photo_Andranik_Sargsyan_-_Andranik_Sargsyan_1_rntxwo_c_crop_ar_1_1_c1azbc.jpg"
     }
     ]
      
