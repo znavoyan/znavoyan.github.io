@@ -56,7 +56,11 @@
       }
     ],
     "sponsorsList": [
-     
+    {
+        "imgUrl": "https://res-console.cloudinary.com/datafest/thumbnails/v1/image/upload/v1722934838/ZGF0YWZlc3QvRGF0YWZlc3QgMjAyNC9TcG9uc29ycy9Qb2RjYXN0bGVfTG9nb19NYWluX2tnemxhNg==/drilldown",
+        "linkedUrl": "https://podcastle.ai/",
+        "width": "15.2em"
+      } 
     ],
     "siteSponsorsList": [
       {
