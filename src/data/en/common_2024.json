@@ -397,6 +397,38 @@
         "company": "JetBrains",
         "linkedUrl": "https://www.linkedin.com/in/evgeniy-glukhov-105686234",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+    },
+      {
+        "name": "Stefan",
+        "surname": "Christoph",
+        "position": "Principal Solutions Architect at",
+        "company": "Amazon Web Services",
+        "linkedUrl": "https://www.linkedin.com/in/stefanchristoph/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112263/datafest/Datafest%202024/Speakers/Stefan_Christoph_-_Nancy_Hakobjanyan_1_Cropped_biz3xf.jpg"
+    },
+       {
+        "name": "Nensi",
+        "surname": "Hakobjanyan",
+        "position": "Solutions Architect at",
+        "company": "Amazon Web Services",
+        "linkedUrl": "https://www.linkedin.com/in/nensihak/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112430/datafest/Datafest%202024/Speakers/Nensi_Hakobjanyan_-_Nancy_Hakobjanyan_1_Cropped_yktpfq.jpg"
+    },
+       {
+        "name": "Andre",
+        "surname": "Kuzminykh",
+        "position": "Founder at",
+        "company": "Andre AI Technologies",
+        "linkedUrl": "https://www.linkedin.com/in/andre-kuzminykh/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112568/datafest/Datafest%202024/Speakers/photo_2024-08-05_11.49.01_-_Andre_Kuzminykh_1_unsibt.jpg"
+    },
+       {
+        "name": "Erik",
+        "surname": "Arakelyan",
+        "position": "Researcher at",
+        "company": "UCPH",
+        "linkedUrl": "https://www.linkedin.com/in/erik-arakelyan-a6a84470/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112692/datafest/Datafest%202024/Speakers/593344ce2008a2f2_-_Erik_Arakelyan_1_eojo9i.png"
     }
     ]
   },
