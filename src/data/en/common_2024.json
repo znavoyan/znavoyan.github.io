@@ -21,7 +21,8 @@
   "home": {
     "main": {
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
-      "register": "Registration: Coming Soon",
+      "register": "Register here",
+      "registerUrl": "https://www.eventbrite.co.uk/e/datafest-yerevan-2024-tickets-977590929787?aff=oddtdtcreator&fbclid=IwY2xjawEhOFlleHRuA2FlbQIxMAABHTfK3hiWslSvDhKLgaXPyHH4CbDDuxO5zMnPvOhRX7UdiyAd_E8GtOXppQ_aem_SO_2sTlUtp7CBMuDrB4ZVg"
       "scrollDown": "Scroll down",
       "eventDate": "September 6-7, 2024, at Woods Center"
     },
