@@ -286,6 +286,17 @@
             "endHour": 17,
             "endMinutes": 30,
              "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
+          },
+               {
+            "id": 390,
+            "speaker": "Hakob Tamazyan",
+            "title": "Benchmarking Robustness of Foundation Models for Remote Sensing",
+            "roomId": 2,
+            "startHour": 12,
+            "startMinutes": 5,
+            "endHour": 12,
+            "endMinutes": 30,
+             "abstract": ""
           }
         ],
         "date": "September 6",
