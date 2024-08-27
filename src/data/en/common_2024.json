@@ -85,10 +85,6 @@
     "bottomText": "",
     "locations": [
       {
-        "text": "Manoogian",
-        "id": 5
-      },
-      {
         "text": "113 W",
         "id": 1
       },
@@ -99,10 +95,6 @@
       {
         "text": "214 W",
         "id": 3
-      },
-      {
-        "text": "EPIC",
-        "id": 4
       }
     ],
     "days": [
@@ -112,7 +104,7 @@
             "id": 0,
             "key": "break",
             "title": "Registration",
-            "roomId": 5,
+            "roomId": 1,
             "startHour": 9,
             "startMinutes": 0,
             "endHour": 9,
@@ -123,12 +115,23 @@
             "id": 10,
             "key": "break",
             "title": "Conference Opening",
-            "roomId": 5,
+            "roomId": 1,
             "startHour": 9,
             "startMinutes": 40,
             "endHour": 10,
             "endMinutes": 0,
             "abstract": ""
+          },
+           {
+            "id": 20,
+            "speaker": "Augustin Zidek",
+            "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+            "roomId": 1,
+            "startHour": 11,
+            "startMinutes": 0,
+            "endHour": 12,
+            "endMinutes": 0,
+             "abstract": ""
           }
         ],
         "date": "September 6",
