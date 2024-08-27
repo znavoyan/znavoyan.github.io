@@ -85,15 +85,15 @@
     "bottomText": "",
     "locations": [
       {
-        "text": "113 W",
+        "text": "A",
         "id": 1
       },
       {
-        "text": "114 W",
+        "text": "B",
         "id": 2
       },
       {
-        "text": "214 W",
+        "text": "C",
         "id": 3
       }
     ],
@@ -132,6 +132,28 @@
             "endHour": 12,
             "endMinutes": 0,
              "abstract": ""
+          },
+             {
+            "id": 30,
+            "speaker": "Lavrentin Arutyunyan",
+            "title": "Measuring Quality of LLMs",
+            "roomId": 1,
+            "startHour": 12,
+            "startMinutes": 5,
+            "endHour": 12,
+            "endMinutes": 30,
+            "abstract": "We will explore how to effectively measure and improve the performance of a generative LLM, with the goal of surpassing state-of-the-art models in your specific domain. Using a practical example of an LLM designed for communication, we'll walk through a step-by-step process that focuses on analytics-driven improvement. This session will concentrate on the key metrics and techniques that can help you refine your model's output."
+          },
+             {
+            "id": 40,
+            "speaker": "Shahane Tigranyan",
+            "title": "Breaking Barriers in Stress Detection: An Inter-Subject Approach Using ECG Signals",
+            "roomId": 3,
+            "startHour": 12,
+            "startMinutes": 5,
+            "endHour": 12,
+            "endMinutes": 30,
+             "abstract": "Stress has become a ubiquitous challenge, affecting individuals’ mental and physical health significantly. Early detection of stress can aid in timely interventions, mitigating long-term health risks. The wourk introduces a novel framework based on deep learning for inter-subject stress detection utilizing electrocardiography data."
           }
         ],
         "date": "September 6",
