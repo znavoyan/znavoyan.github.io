@@ -856,6 +856,30 @@
         "company": "Social Discovery Group",
         "linkedUrl": "https://www.linkedin.com/in/lavrentin-arutiunian/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723802991/datafest/Datafest%202024/Speakers/photo_2024-07-16_10-46-53_-_Lavrentin_Arutiunian_hmx7sv_c_crop_ar_1_1_q2kcp3.jpg"
+    },
+       {
+        "name": "Mher",
+        "surname": "Matevosyan",
+        "position": "CTO at",
+        "company": "Denovo Sciences",
+        "linkedUrl": "https://www.linkedin.com/in/mhermatevosyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724767788/datafest/Datafest%202024/Speakers/image_1_videlo.png"
+    },
+       {
+        "name": "Menua",
+        "surname": "Bedrosian",
+        "position": "Machine Learning Researcher at",
+        "company": "YerevaNN / YSU",
+        "linkedUrl": "https://www.linkedin.com/in/menua-bedrosian",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724767943/datafest/Datafest%202024/Speakers/DSCF1266_-_Menoo_Bedrosian_adcvig.jpg"
+    },
+       {
+        "name": "Hasmik",
+        "surname": "Mnatsakanyan",
+        "position": "R&D Engineer at",
+        "company": "Deep Origin",
+        "linkedUrl": "https://www.linkedin.com/in/hasmik-mnatsakanyan-8044a0276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724768059/datafest/Datafest%202024/Speakers/image_2_mgk6iy.png"
     }
     ]
   },
