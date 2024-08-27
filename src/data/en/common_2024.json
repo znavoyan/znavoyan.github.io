@@ -297,6 +297,17 @@
             "endHour": 12,
             "endMinutes": 30,
              "abstract": ""
+          },
+                     {
+            "id": 400,
+            "speaker": "Nensi Hakobjanyan",
+            "title": "Unlocking the Power of LLMs: Next generation recommender systems",
+            "roomId": 2,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 30,
+             "abstract": "Ever wondered if there's more to Large Language Models (LLMs) than chatbots and assistants? Join me and Stefan Christoph in this talk to learn about next-generation personalization based on language models. We will discuss the limitations of traditional recommender systems and how their task-specific nature leads to fragmented and inconsistent user experiences. Language modelling, on the other hand, can unify various personalization tasks under a single objective, enabling models to seamlessly transfer knowledge across channels and domains. In this talk, we will delve into the latest advancements in recommender system architectures, provides guidance on how to build a scalable personalization solution, that delivers seamless experience to your end-users across communication channels."
           }
         ],
         "date": "September 6",
