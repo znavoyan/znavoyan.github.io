@@ -166,7 +166,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-             {
+            {
             "id": 60,
             "speaker": "Letitia Parcalabescu",
             "title": "On Measuring the Faithfulness of Natural Language Explanations of Large Language Models and Vision & Language Models",
