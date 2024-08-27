@@ -220,7 +220,62 @@
             "endHour": 15,
             "endMinutes": 0,
             "abstract": ""
-          }
+          },
+           {
+            "id": 110,
+            "speaker": "Mikhail Burtsev",
+            "title": "Promises and Failures of Large Language Models",
+            "roomId": 1,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 16,
+            "endMinutes": 0,
+             "abstract": "The ChatGPT release sent shockwaves through the entire IT industry. Generative AI powered by Large Language Models demonstrates impressive natural language understanding and coding capabilities. Indeed, LLMs are very powerful but cannot solve every task. How can we measure their capabilities? When do they shine, and when do they fail?"
+          },
+           {
+            "id": 120,
+            "speaker": "Viacheslav Romanov",
+            "title": "Generative AI security - OWASP Top 10 for LLM",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+             "abstract": "Generative AI–based applications have the most business impact when they have access to critical business data and are empowered to take actions on behalf of the user. However, these integrations raise important security questions outlined in the OWASP Top 10 for LLM vulnerabilities and NIST Adversarial Machine Learning frameworks. This lightning talk introduces high-level architectural patterns to effectively mitigate key OWASP Top 10 for LLM vulnerabilities through Zero Trust principles."
+          },
+                {
+            "id": 130,
+            "speaker": "Arman Isajanyan",
+            "title": "Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 35,
+            "endHour": 16,
+            "endMinutes": 0,
+             "abstract": ""Social reward as a form of community recognition provides a strong source of motivation for users of online platforms to engage and contribute with content. The recent progress of text-conditioned image synthesis has ushered in a collaborative era where AI empowers users to craft original visual artworks seeking community validation. Nevertheless, assessing these models in the context of collective community preference introduces distinct challenges. Existing evaluation methods predominantly center on limited size user studies guided by image quality and prompt alignment. This work pioneers a paradigm shift, unveiling Social Reward - an innovative reward modeling framework that leverages implicit feedback from social network users engaged in creative editing of generated images. We embark on an extensive journey of dataset curation and refinement, drawing from Picsart: an online visual creation and editing platform, yielding a first million-user-scale dataset of implicit human preferences for user-generated visual art named Picsart Image-Social. Our analysis exposes the shortcomings of current metrics in modeling community creative preference of text-to-image models’ outputs, compelling us to introduce a novel predictive model explicitly tailored to address these limitations. Rigorous quantitative experiments and user study show that our Social Reward model aligns better with social popularity than existing metrics. Furthermore, we utilize Social Reward to fine-tune text-to-image models, yielding images that are more favored by not only Social Reward, but also other established metrics. These findings highlight the relevance and effectiveness of Social Reward in assessing community appreciation for AI-generated artworks, establishing a closer alignment with users’ creative goals: creating popular visual art""
+          },
+{
+            "id": 140,
+            "key": "break",
+            "title": "Coffee Break",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 16,
+            "endMinutes": 30,
+            "abstract": ""
+          },
+            {
+            "id": 150,
+            "speaker": "Erik Arakelyan",
+            "title": "Injecting Faithfullnes and Logic into LLMs",
+            "roomId": 1,
+            "startHour": 16,
+            "startMinutes": 30,
+            "endHour": 17,
+            "endMinutes": 30,
+             "abstract": "We will dicuss the directions and techniques the current research proposed for more faithful generation, particularly how logic (commonsense, math etc.) can be applied to ensure higher quality of generations."
+          },
         ],
         "date": "September 6",
         "dateIndex": "1",
