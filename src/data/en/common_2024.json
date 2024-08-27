@@ -275,6 +275,17 @@
             "endHour": 17,
             "endMinutes": 30,
              "abstract": "We will dicuss the directions and techniques the current research proposed for more faithful generation, particularly how logic (commonsense, math etc.) can be applied to ensure higher quality of generations."
+          },
+          {
+            "id": 160,
+            "speaker": "Spartak Bughdaryan",
+            "title": "Exploring the Recall of Language Models: Case Study on Molecules",
+            "roomId": 3,
+            "startHour": 17,
+            "startMinutes": 5,
+            "endHour": 17,
+            "endMinutes": 30,
+             "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
           }
         ],
         "date": "September 6",
