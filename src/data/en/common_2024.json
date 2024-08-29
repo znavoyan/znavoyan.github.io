@@ -59,6 +59,11 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
         "linkedUrl": "https://www.worldquant.com/",
         "width": "15.2em"
+      },
+      {
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724883269/datafest/Datafest%202024/Sponsors/IMG_4773_ypfucw.png",
+        "linkedUrl": "https://www.pmiscience.com/",
+        "width": "15.2em"
       }
     ],
     "sponsorsList": [
@@ -105,9 +110,9 @@
             "key": "break",
             "title": "Registration",
             "roomId": 1,
-            "startHour": 9,
+            "startHour": 10,
             "startMinutes": 0,
-            "endHour": 9,
+            "endHour": 10,
             "endMinutes": 40,
             "abstract": ""
           },
@@ -116,9 +121,9 @@
             "key": "break",
             "title": "Conference Opening",
             "roomId": 1,
-            "startHour": 9,
+            "startHour": 10,
             "startMinutes": 40,
-            "endHour": 10,
+            "endHour": 11,
             "endMinutes": 0,
             "abstract": ""
           },
@@ -345,9 +350,9 @@
             "key": "break",
             "title": "Registration",
             "roomId": 1,
-            "startHour": 9,
+            "startHour": 10,
             "startMinutes": 0,
-            "endHour": 10,
+            "endHour": 11,
             "endMinutes": 0,
             "abstract": ""
           },
@@ -902,6 +907,22 @@
         "company": "Deep Origin",
         "linkedUrl": "https://www.linkedin.com/in/hasmik-mnatsakanyan-8044a0276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724768059/datafest/Datafest%202024/Speakers/image_2_mgk6iy.png"
+    },
+         {
+        "name": "Hakob",
+        "surname": "Tamazyan",
+        "position": "Machine Learning Researcher at",
+        "company": "YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/hakob-tamazyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724930023/datafest/Datafest%202024/Speakers/image_3_rn8zy5.png"
+    },
+          {
+        "name": "Tigran",
+        "surname": "Fahradyan",
+        "position": "Machine Learning Researcher at",
+        "company": "AUA/YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/tigran-fahradyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
     }
     ]
   },
