@@ -90,24 +90,16 @@
     "bottomText": "",
     "locations":  [
       {
-        "text": "Manoogian",
-        "id": 0
-      },
-      {
-        "text": "113 W",
+        "text": "A",
         "id": 1
       },
       {
-        "text": "114 W",
+        "text": "B",
         "id": 2
       },
       {
-        "text": "214 W",
+        "text": "C",
         "id": 3
-      },
-      {
-        "text": "EPIC",
-        "id": 4
       }
     ],
     "days": [
@@ -123,9 +115,9 @@
             "key": "break",
             "title": "Գրանցում",
             "roomId": 0,
-            "startHour": 9,
+            "startHour": 10,
             "startMinutes": 0,
-            "endHour": 9,
+            "endHour": 10,
             "endMinutes": 40,
             "abstract": ""
           },
@@ -134,9 +126,9 @@
             "key": "break",
             "title": "Կոնֆերանսի բացում",
             "roomId": 0,
-            "startHour": 9,
+            "startHour": 10,
             "startMinutes": 40,
-            "endHour": 10,
+            "endHour": 11,
             "endMinutes": 0,
             "abstract": ""
           },
@@ -363,9 +355,9 @@
             "key": "break",
             "title": "Գրանցում",
             "roomId": 0,
-            "startHour": 9,
+            "startHour": 10,
             "startMinutes": 0,
-            "endHour": 10,
+            "endHour": 11,
             "endMinutes": 0,
             "abstract": ""
           },
