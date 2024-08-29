@@ -300,7 +300,7 @@
           },
                      {
             "id": 400,
-            "speaker": "Nensi Hakobjanyan, Stefan Christoph",
+            "collaborators": ["Nensi Hakobjanyan", "Stefan Christoph"],
             "title": "Unlocking the Power of LLMs: Next generation recommender systems",
             "roomId": 2,
             "startHour": 16,

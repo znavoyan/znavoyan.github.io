@@ -27,6 +27,7 @@ const Tabs = ({ days, locations }) => {
     const filteredSpeakerInfo = {
       id: speakerInfo.id,
       speaker: speakerInfo.speaker,
+      collaborators: speakerInfo.collaborators,
       key: speakerInfo.key,
       title: speakerInfo.title,
       roomId: speakerInfo.roomId,

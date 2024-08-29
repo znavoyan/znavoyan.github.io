@@ -7,7 +7,6 @@ import { Appointments } from "@devexpress/dx-react-scheduler-material-ui";
 import CustomTooltip from "./CustomTooltip";
 
 const CustomAppointment = ({ style, ...restProps }) => {
-
   const [visibility, setVisibility] = useState(false);
   const { t } = useTranslation("common");
   const speakersList = t("speakers.speakersList", { returnObjects: true });
@@ -19,14 +18,23 @@ const CustomAppointment = ({ style, ...restProps }) => {
     (speaker) => `${speaker.name} ${speaker.surname}` === restProps.data.speaker
   );
 
+  let collaborators = [];
+
+  if (restProps.data.collaborators) {
+    collaborators = speakersList.filter((collaborator) =>
+      restProps.data.collaborators.includes(
+        `${collaborator.name} ${collaborator.surname}`
+      )
+    );
+  }
+
   const popupCloseHandler = (event) => {
     setVisibility(false);
   };
 
   const openTooltip = (event) => {
-
     setVisibility(true);
-    
+
     const nearestCustomAppointment = event.target.closest(
       ".custom-appointment"
     );
@@ -50,11 +58,9 @@ const CustomAppointment = ({ style, ...restProps }) => {
         ".popup"
       ).style.left = `-${380 - elementRect.width}px`;
     }
-
   };
 
   useEffect(() => {
-
     if (ref && ref.current) {
       const parent = ref.current.parentElement;
       parent.parentElement.classList.add("toggleWidth");
@@ -110,9 +116,51 @@ const CustomAppointment = ({ style, ...restProps }) => {
             <div className="space-10-height"></div>
           </div>
         )}
+        {collaborators && (
+          <div className="flex column">
+            <div className="collaborators">
+              {collaborators.map((collaborator) => {
+                return (
+                  <a
+                    href={collaborator.linkedUrl}
+                    className="flex align-start column link-no-decoration speaker"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <div class="flex">
+                      <img
+                        src={collaborator.imgUrl}
+                        alt=""
+                        className="rounded"
+                      />
+                      <div>
+                        <p className="img-title">
+                          <span>{collaborator.name}</span>{" "}
+                          {collaborator.surname}
+                        </p>
+                        <p className="img-paragraph">
+                          {collaborator.position} <br></br>
+                          {collaborator.company}
+                        </p>
+                      </div>
+                      <div className="space-10-height"></div>
+                    </div>
+                    
+                  </a>
+                  
+                );
+              })}
+            </div>
+            <div className="space-10-height"></div>
+            <p className="title">{restProps.data.title}</p>
+            <div className="space-10-height"></div>
+            <p className="abstract">{restProps.data.abstract}</p>
+            <div className="space-10-height"></div>
+          </div>
+        )}
       </CustomTooltip>
       <Appointments.AppointmentContent {...restProps}>
-        {restProps.data.speaker && (
+        {(restProps.data.speaker || restProps.data.collaborators) && (
           <div
             className="agenda-container"
             onClick={openTooltip}
@@ -126,7 +174,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
               </div>
               <div className="course-info">
                 <div className="progress-container">
-                  <span className="speaker-text">{restProps.data.speaker}</span>
+                  <span className="speaker-text">
+                    {restProps.data.speaker
+                      ? restProps.data.speaker
+                      : restProps.data.collaborators.join(", ")}
+                  </span>
                   <br></br>
                   <span className="progress-text">{restProps.data.title}</span>
                 </div>
@@ -138,7 +190,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
           </div>
         )}
         {restProps.data.key && (
-          <div className="break-info" ref={ref} style={{ width: "100%", height: `${timeHeight}px` }}>
+          <div
+            className="break-info"
+            ref={ref}
+            style={{ width: "100%", height: `${timeHeight}px` }}
+          >
             <div className="time-preview">
               <span>{format(restProps.data.startDate, "HH:mm")}</span>
               <br></br>
