@@ -116,7 +116,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
             <div className="space-10-height"></div>
           </div>
         )}
-        {collaborators && (
+        {collaborators.length && (
           <div className="flex column">
             <div className="collaborators">
               {collaborators.map((collaborator) => {
