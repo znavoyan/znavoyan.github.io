@@ -21,9 +21,9 @@ const CustomAppointment = ({ style, ...restProps }) => {
   let collaborators = [];
 
   if (restProps.data.collaborators) {
-    collaborators = speakersList.filter((collaborator) =>
-      restProps.data.collaborators.includes(
-        `${collaborator.name} ${collaborator.surname}`
+    collaborators = restProps.data.collaborators.map((collaborator) =>
+      speakersList.find(
+        (speaker) => collaborator === `${speaker.name} ${speaker.surname}`
       )
     );
   }
@@ -145,9 +145,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
                       </div>
                       <div className="space-10-height"></div>
                     </div>
-                    
                   </a>
-                  
                 );
               })}
             </div>
