@@ -907,6 +907,22 @@
         "company": "Deep Origin",
         "linkedUrl": "https://www.linkedin.com/in/hasmik-mnatsakanyan-8044a0276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724768059/datafest/Datafest%202024/Speakers/image_2_mgk6iy.png"
+    },
+         {
+        "name": "Hakob",
+        "surname": "Tamazyan",
+        "position": "Machine Learning Researcher at",
+        "company": "YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/hakob-tamazyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724930023/datafest/Datafest%202024/Speakers/image_3_rn8zy5.png"
+    },
+          {
+        "name": "Tigran",
+        "surname": "Fahradyan",
+        "position": "Machine Learning Researcher at",
+        "company": "AUA/YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/tigran-fahradyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
     }
     ]
   },
