@@ -44,6 +44,7 @@
     "title": "Our <span>Sponsors</span>",
     "generalSponsorsTitle": "<span>Gold Sponsors</span>",
     "sponsorsTitle": "<span>Silver Sponsors</span>",
+    "venueSponsorsTitle": "<span>Venue Sponsor</span>",
     "siteSponsorsTitle": "<span>Site Sponsors</span>",
     "seeAll": "See all",
     "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2024, whose support made this event possible",
@@ -79,6 +80,7 @@
           "width": "15.2em"
         }
       ],
+      "venueSponsors": [],
       "siteSponsors": [
         {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
