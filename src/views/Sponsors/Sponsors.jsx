@@ -6,9 +6,8 @@ import sponsorFrame from '../../images/sponsorFrame.svg';
 const Sponsors = () => {
 
     const { t } = useTranslation('common');
-    const generalSponsorsList = t('sponsors.generalSponsorsList', { returnObjects: true });
-    const sponsorsList = t('sponsors.sponsorsList', { returnObjects: true });
-    const siteSponsorsList = t('sponsors.siteSponsorsList', { returnObjects: true });
+    const sponsorsSection = t("sponsors", { returnObjects: true });
+  const categories = sponsorsSection.categories;
 
     return <div className="container">
         <div className="sponsors">
@@ -38,67 +37,48 @@ const Sponsors = () => {
             
         
             <div className="flex column center">
-                {!!generalSponsorsList.length && <div className="sponsors-icons">
-
-                    <h2 className="title big">
-                        <div dangerouslySetInnerHTML={{ __html: t('sponsors.generalSponsorsTitle') }}></div>
-                    </h2>
-                    <div className="space-40-height"></div>
-
-                    <div className="sponsors-columns">
-                        {generalSponsorsList.map((sponsor, index) => {
-                            return (<div key={index} className="img-content">
-                                        <a href={sponsor.linkedUrl} className="underlined" target="_blank" rel="noopener noreferrer">
-                                            <img src={sponsor.imgUrl} style={{width: sponsor.width}} className="icon-sponsor" alt="" />
-                                        </a>
-                                    </div>)
-                        })}
+            {Object.keys(categories).map((categoryKey) => {
+          const sponsors = categories[categoryKey];
+          if (sponsors.length) {
+            return (
+              <div
+                key={categoryKey}
+                className='sponsors-icons'
+              >
+                <h2 className="title big">
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: t(`sponsors.${categoryKey}Title`),
+                    }}
+                  ></div>
+                </h2>
+                <div className="space-40-height"></div>
+                <div className="sponsors-columns">
+                  {sponsors.map((sponsor, index) => (
+                    <div className="img-content" key={index}>
+                      <a
+                        href={sponsor.linkedUrl}
+                        className="underlined"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <img
+                          src={sponsor.imgUrl}
+                          style={{ width: sponsor.width }}
+                          className="icon-sponsor"
+                          alt=""
+                        />
+                      </a>
                     </div>
-                    {/* <div className="space-85-height"></div> */}
-                    <div className="space-25-height"></div>
-                </div>}
-
-                {!!sponsorsList.length && <div className="sponsors-icons">
-
-                    <h2 className="title big">
-                        <div dangerouslySetInnerHTML={{ __html: t('sponsors.sponsorsTitle') }}></div>
-                    </h2>
-                    <div className="space-25-height"></div>
-                    {/* <div className="space-40-height"></div> */}
-
-                    <div className="sponsors-columns">
-                        {sponsorsList.map((sponsor, index) => {
-                            return (<div key={index} className="img-content">
-                                        <a href={sponsor.linkedUrl} className="underlined" target="_blank" rel="noopener noreferrer">
-                                            <img src={sponsor.imgUrl} style={{width: sponsor.width}} className="icon-sponsor" alt="" />
-                                        </a>
-                                    </div>)
-                        })}
-                    </div>
-                    {/* <div className="space-85-height"></div> */}
-                    <div className="space-25-height"></div>
-                </div>}
-
-                {!!siteSponsorsList.length && <div className="sponsors-icons">
-
-                    <h2 className="title big">
-                        <div dangerouslySetInnerHTML={{ __html: t('sponsors.siteSponsorsTitle') }}></div>
-                    </h2>
-                    <div className="space-25-height"></div>
-                    {/* <div className="space-40-height"></div> */}
-
-                    <div className="sponsors-columns">
-                        {siteSponsorsList.map((sponsor, index) => {
-                            return (<div key={index}>
-                                        <a href={sponsor.linkedUrl} className="underlined" target="_blank" rel="noopener noreferrer">
-                                            <img src={sponsor.imgUrl} style={{width: sponsor.width}} className="icon-sponsor" alt="" />
-                                        </a>
-                                    </div>)
-                        })}
-                    </div>
-                    {/* <div className="space-85-height"></div> */}
-                    <div className="space-25-height"></div>
-                </div>}
+                    
+                  ))}
+                </div>
+                <div className="space-25-height"></div>
+              </div>
+            );
+          }
+          return null;
+        })}
                 <div className="space-85-height"></div>
             </div>
             

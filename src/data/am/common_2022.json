@@ -48,7 +48,8 @@
     "text": "Շնորհակալ ենք Դատաֆեստ Երևան  2022-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
     "aboveText": "",
     "bottomText": "",
-    "generalSponsorsList": [
+    "categories": {
+      "generalSponsors": [
         {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
         "linkedUrl": "https://intent.ai/",
@@ -80,7 +81,7 @@
         "width": "15.2em"
       }
     ],
-    "sponsorsList": [
+    "sponsors": [
        {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/AimStack_gn0hgk_wrrgmy.png",
         "linkedUrl": "https://aimstack.io",
@@ -112,13 +113,14 @@
         "width": "15.2em"
       }
     ],
-    "siteSponsorsList": [
+    "siteSponsors": [
       {
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
         "linkedUrl": "https://www.simplytechnologies.net/",
         "width": "24.3em"
       }
     ]
+    }
   },
   "agenda": {
     "btnText": "սեպտեմբերի 2-3",

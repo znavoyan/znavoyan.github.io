@@ -14,10 +14,7 @@
         "key": "agenda"
       }
     ],
-    "pastEvents": [
-      2020,
-      2021
-    ],
+    "pastEvents": [2020, 2021],
     "register": "Free Registration",
     "registerUrl": "https://forms.gle/mPQvUMppSBMigQbu6"
   },
@@ -51,77 +48,79 @@
     "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2022, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
-    "generalSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
-        "linkedUrl": "https://intent.ai/",
-        "width": "17.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
-        "linkedUrl": "https://www.digitain.com/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/PMI-Science1_e6il7c_llnuzg.png",
-        "linkedUrl": "https://www.pmiscience.com/en/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/Picsart_b3hyfy_fnplng.png",
-        "linkedUrl": "https://picsart.com/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/Portmind_kptrcs_vmhfyn.png",
-        "linkedUrl": "https://portmind.com",
-        "width": "15.2em"
-      },
-       {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
-        "linkedUrl": "https://www.worldquant.com/",
-        "width": "15.2em"
-      }
-    ],
-    "sponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/AimStack_gn0hgk_wrrgmy.png",
-        "linkedUrl": "https://aimstack.io",
-        "width": "17.3em"
-      },
+    "categories": {
+      "generalSponsors": [
         {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661170494/datafest/Datafest%202022/Sponsors/AMD_q9hdcs.png",
-        "linkedUrl": "https://www.amd.com/en",
-        "width": "17.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/krisp_aexifh_j9kane.png",
-        "linkedUrl": "https://krisp.ai/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
-        "linkedUrl": "https://www.onetick.com/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/plat.AI_kbls29_zyqmmj.png",
-        "linkedUrl": "https://plat.ai/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/DeeM_nto7jv_n0shfv.png",
-        "linkedUrl": "https://deemcommunications.com/en/",
-        "width": "15.2em"
-      }
-    ],
-    "siteSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
-        "linkedUrl": "https://www.simplytechnologies.net/",
-        "width": "24.3em"
-      }
-    ]
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
+          "linkedUrl": "https://intent.ai/",
+          "width": "17.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
+          "linkedUrl": "https://www.digitain.com/",
+          "width": "24.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/PMI-Science1_e6il7c_llnuzg.png",
+          "linkedUrl": "https://www.pmiscience.com/en/",
+          "width": "24.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/Picsart_b3hyfy_fnplng.png",
+          "linkedUrl": "https://picsart.com/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/Portmind_kptrcs_vmhfyn.png",
+          "linkedUrl": "https://portmind.com",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+          "linkedUrl": "https://www.worldquant.com/",
+          "width": "15.2em"
+        }
+      ],
+      "sponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/AimStack_gn0hgk_wrrgmy.png",
+          "linkedUrl": "https://aimstack.io",
+          "width": "17.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661170494/datafest/Datafest%202022/Sponsors/AMD_q9hdcs.png",
+          "linkedUrl": "https://www.amd.com/en",
+          "width": "17.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/krisp_aexifh_j9kane.png",
+          "linkedUrl": "https://krisp.ai/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
+          "linkedUrl": "https://www.onetick.com/",
+          "width": "24.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/plat.AI_kbls29_zyqmmj.png",
+          "linkedUrl": "https://plat.ai/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/DeeM_nto7jv_n0shfv.png",
+          "linkedUrl": "https://deemcommunications.com/en/",
+          "width": "15.2em"
+        }
+      ],
+      "siteSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+          "linkedUrl": "https://www.simplytechnologies.net/",
+          "width": "24.3em"
+        }
+      ]
+    }
   },
   "agenda": {
     "btnText": "september 2-3",
@@ -833,7 +832,7 @@
         "linkedUrl": "https://www.linkedin.com/in/victoria-poghosyan-4a3265175/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660222788/datafest/Datafest%202022/Speakers/Victoria_Poghosian__bohds9_lit36f.png"
       },
-         {
+      {
         "name": "Arec",
         "surname": "Jamgochian",
         "position": "PhD Candidate",
@@ -841,7 +840,7 @@
         "linkedUrl": "https://www.linkedin.com/in/arec-jamgochian-77941073",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337649/datafest/Datafest%202022/Speakers/Arec_Jamgochian_1_kfzgvn.png"
       },
-         {
+      {
         "name": "Karen",
         "surname": "Hambardzumyan",
         "position": "Lead Machine Learning Researcher",
@@ -849,7 +848,7 @@
         "linkedUrl": "https://www.linkedin.com/in/mahnerak/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660906914/datafest/Datafest%202022/Speakers/KarenHambardzumyan_800x800__y1594k.png"
       },
-         {
+      {
         "name": "Ani",
         "surname": "Vanyan",
         "position": "Machine Learning Researcher",
@@ -865,14 +864,14 @@
         "linkedUrl": "https://www.linkedin.com/in/rikard-sandstr%C3%B6m-a0b3229/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661337812/datafest/Datafest%202022/Speakers/Rikard_Sandstroem_lnmhsn.png"
       },
-          {
+      {
         "name": "Manvel",
         "surname": "Avetisian",
         "position": "Sr. Software Engineering Manager",
         "company": "AMD",
         "linkedUrl": "https://www.linkedin.com/mwlite/in/manvelavetisian",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661750052/datafest/Datafest%202022/Speakers/Manvel_Avetisian_yublyx.jpg"
-      } 
+      }
     ]
   },
   "location": {

@@ -48,57 +48,59 @@
     "text": "Շնորհակալ ենք Դատաֆեստ Երևան 2023-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
     "aboveText": "",
     "bottomText": "",
-    "generalSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690434780/datafest/DataFest%202023/Sponsors/cognaize_uvxa9a.png",
-        "linkedUrl": "https://www.cognaize.com/",
-        "width": "17.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
-        "linkedUrl": "https://www.digitain.com/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
-        "linkedUrl": "https://intent.ai/",
-        "width": "16.5em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
-        "linkedUrl": "https://www.worldquant.com/",
-        "width": "15.2em"
-      }
-    ],
-    "sponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690435822/datafest/DataFest%202023/Sponsors/Adobe_xrizsi.png",
-        "linkedUrl": "https://www.adobe.com/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
-        "linkedUrl": "https://www.onetick.com/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692903163/datafest/DataFest%202023/Sponsors/plat-ai_slmqt4.png",
-        "linkedUrl": "https://plat.ai/",
-        "width": "14.9em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
-        "linkedUrl": "https://socialdiscoverygroup.com/",
-        "width": "15.2em"
-      }
-    ],
-    "siteSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
-        "linkedUrl": "https://www.simplytechnologies.net/",
-        "width": "24.3em"
-      }
-    ]
+    "categories": {
+      "generalSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690434780/datafest/DataFest%202023/Sponsors/cognaize_uvxa9a.png",
+          "linkedUrl": "https://www.cognaize.com/",
+          "width": "17.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/digitain_gysxxp_lwxryk.png",
+          "linkedUrl": "https://www.digitain.com/",
+          "width": "24.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/intent_bq2vk3_ge58ge.png",
+          "linkedUrl": "https://intent.ai/",
+          "width": "16.5em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+          "linkedUrl": "https://www.worldquant.com/",
+          "width": "15.2em"
+        }
+      ],
+      "sponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690435822/datafest/DataFest%202023/Sponsors/Adobe_xrizsi.png",
+          "linkedUrl": "https://www.adobe.com/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660224669/datafest/Datafest%202022/Sponsors/OMD_jxxyct_d2l9io.png",
+          "linkedUrl": "https://www.onetick.com/",
+          "width": "24.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692903163/datafest/DataFest%202023/Sponsors/plat-ai_slmqt4.png",
+          "linkedUrl": "https://plat.ai/",
+          "width": "14.9em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
+          "linkedUrl": "https://socialdiscoverygroup.com/",
+          "width": "15.2em"
+        }
+      ],
+      "siteSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+          "linkedUrl": "https://www.simplytechnologies.net/",
+          "width": "24.3em"
+        }
+      ]
+    }
   },
   "agenda": {
     "btnText": "սեպտեմբերի 8-9",
@@ -107,7 +109,7 @@
     "text": "ԴատաՖեստ Երևան 2023-ը տեղի կունենա սեպտեմբերի 8-ին և 9-ին",
     "aboveText": "",
     "bottomText": "",
-    "locations":  [
+    "locations": [
       {
         "text": "Manoogian",
         "id": 0
@@ -961,7 +963,7 @@
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/rafayel-mkrtchyan",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474241/datafest/DataFest%202023/Speakers/Rafayel-Mkrtchyan_lg5dge.png"
-     },
+      },
       {
         "name": "Ֆիլիպ",
         "surname": "Գևորգյան",
@@ -969,7 +971,7 @@
         "company": "YerevaNN",
         "linkedUrl": "#",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693474240/datafest/DataFest%202023/Speakers/Philipp-Guevorguian_zxv4xh.png"
-     },
+      },
       {
         "name": "Վահե",
         "surname": "Անդոնյանս",
@@ -977,7 +979,7 @@
         "company": "Cognaize",
         "linkedUrl": "https://www.linkedin.com/in/vaheandonians/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1693562893/datafest/DataFest%202023/Speakers/Vahe-Andonians_jsyvsu.png"
-     }
+      }
     ]
   },
   "location": {

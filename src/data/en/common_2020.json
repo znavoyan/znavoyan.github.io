@@ -48,30 +48,32 @@
     "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2020, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
-    "generalSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
-        "linkedUrl": "https://krisp.ai/",
-        "width": "10.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
-        "linkedUrl": "https://www.simplytechnologies.net/",
-        "width": "24.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
-        "linkedUrl": "https://webbfontaine.com/",
-        "width": "22.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
-        "linkedUrl": "https://picsart.com/",
-        "width": "17.3em"
-      }
-    ],
-    "sponsorsList": [],
-    "siteSponsorsList": []
+    "categories": {
+      "generalSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
+          "linkedUrl": "https://krisp.ai/",
+          "width": "10.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+          "linkedUrl": "https://www.simplytechnologies.net/",
+          "width": "24.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
+          "linkedUrl": "https://webbfontaine.com/",
+          "width": "22.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
+          "linkedUrl": "https://picsart.com/",
+          "width": "17.3em"
+        }
+      ],
+      "sponsors": [],
+      "siteSponsors": []
+    }
   },
   "agenda": {
     "btnText": "september 10-12",

@@ -48,67 +48,69 @@
     "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2021, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
-    "generalSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
-        "linkedUrl": "https://krisp.ai/",
-        "width": "10.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
-        "linkedUrl": "https://webbfontaine.com/",
-        "width": "22.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
-        "linkedUrl": "https://picsart.com/",
-        "width": "17.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692282/datafest/sponsors/ameria_white_vsbnxs.png",
-        "linkedUrl": "https://ameriabank.am/",
-        "width": "22.3em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630477841/datafest/sponsors/PMI_j6biev.png",
-        "linkedUrl": "https://www.pmi.com/",
-        "width": "22.3em"
-      }
-    ],
-    "sponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
-        "linkedUrl": "https://www.vmware.com/",
-        "width": "17.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
-        "linkedUrl": "https://www.intelinair.com/",
-        "width": "17.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628165152/datafest/sponsors/ST_Logo_Landscape_White_zr5y6w.png",
-        "linkedUrl": "https://www.servicetitan.com/",
-        "width": "18.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628243964/datafest/sponsors/envoy_logos_h0v281.png",
-        "linkedUrl": "https://www.envoymediagroup.com",
-        "width": "17.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628153108/datafest/sponsors/DISQO_Logo_AllWhite_roviyx.png",
-        "linkedUrl": "https://www.disqo.com/",
-        "width": "15.2em"
-      }
-    ],
-    "siteSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
-        "linkedUrl": "https://www.simplytechnologies.net/",
-        "width": "24.3em"
-      }
-    ]
+    "categories": {
+      "generalSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624704497/datafest/sponsors/krisp_wj8k4t.png",
+          "linkedUrl": "https://krisp.ai/",
+          "width": "10.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628239804/datafest/sponsors/wflogo_white-01_g0lmbk.png",
+          "linkedUrl": "https://webbfontaine.com/",
+          "width": "22.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692002/datafest/sponsors/Picsart-WHITE_sjneq2.png",
+          "linkedUrl": "https://picsart.com/",
+          "width": "17.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628692282/datafest/sponsors/ameria_white_vsbnxs.png",
+          "linkedUrl": "https://ameriabank.am/",
+          "width": "22.3em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1630477841/datafest/sponsors/PMI_j6biev.png",
+          "linkedUrl": "https://www.pmi.com/",
+          "width": "22.3em"
+        }
+      ],
+      "sponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1627995382/datafest/sponsors/vmw-logo-vmware-logo-white-300_txwxcs.png",
+          "linkedUrl": "https://www.vmware.com/",
+          "width": "17.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628163597/datafest/sponsors/Intelair_logo_white_w7bmss.png",
+          "linkedUrl": "https://www.intelinair.com/",
+          "width": "17.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628165152/datafest/sponsors/ST_Logo_Landscape_White_zr5y6w.png",
+          "linkedUrl": "https://www.servicetitan.com/",
+          "width": "18.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628243964/datafest/sponsors/envoy_logos_h0v281.png",
+          "linkedUrl": "https://www.envoymediagroup.com",
+          "width": "17.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628153108/datafest/sponsors/DISQO_Logo_AllWhite_roviyx.png",
+          "linkedUrl": "https://www.disqo.com/",
+          "width": "15.2em"
+        }
+      ],
+      "siteSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+          "linkedUrl": "https://www.simplytechnologies.net/",
+          "width": "24.3em"
+        }
+      ]
+    }
   },
   "agenda": {
     "btnText": "september 10-11",
@@ -201,7 +203,6 @@
             "title": "[Manoogian Hall] Khoren Petrosyan ",
             "text": "How to Build an AI Agent That Plays Poker"
           }
-          
         ]
       },
       {
@@ -334,7 +335,7 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-     {
+      {
         "name": "Mikhail",
         "surname": "Burtsev",
         "position": "Founder and Leader at DeepPavlov.ai, Scientific Director at",

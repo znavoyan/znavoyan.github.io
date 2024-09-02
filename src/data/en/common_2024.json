@@ -49,42 +49,44 @@
     "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2024, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
-    "generalSponsorsList": [
-     {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
-        "linkedUrl": "https://socialdiscoverygroup.com/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
-        "linkedUrl": "https://www.worldquant.com/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724883269/datafest/Datafest%202024/Sponsors/IMG_4773_ypfucw.png",
-        "linkedUrl": "https://www.pmiscience.com/",
-        "width": "15.2em"
-      }
-    ],
-    "sponsorsList": [
-    {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722934838/datafest/Datafest%202024/Sponsors/Podcastle_Logo_Main_kgzla6.png",
-        "linkedUrl": "https://podcastle.ai/",
-        "width": "15.2em"
-      },
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724965435/datafest/Datafest%202024/Sponsors/envoy_logo_white_horizontal_hgt1ot.png",
-        "linkedUrl": "https://www.envoymediagroup.com/",
-        "width": "15.2em"
-      }
-    ],
-    "siteSponsorsList": [
-      {
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
-        "linkedUrl": "https://www.simplytechnologies.net/",
-        "width": "24.3em"
-      }
-    ]
+    "categories": {
+      "generalSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1690486638/datafest/DataFest%202023/Sponsors/SDG_zz9g1t.png",
+          "linkedUrl": "https://socialdiscoverygroup.com/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+          "linkedUrl": "https://www.worldquant.com/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724883269/datafest/Datafest%202024/Sponsors/IMG_4773_ypfucw.png",
+          "linkedUrl": "https://www.pmiscience.com/",
+          "width": "15.2em"
+        }
+      ],
+      "sponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722934838/datafest/Datafest%202024/Sponsors/Podcastle_Logo_Main_kgzla6.png",
+          "linkedUrl": "https://podcastle.ai/",
+          "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724965435/datafest/Datafest%202024/Sponsors/envoy_logo_white_horizontal_hgt1ot.png",
+          "linkedUrl": "https://www.envoymediagroup.com/",
+          "width": "15.2em"
+        }
+      ],
+      "siteSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
+          "linkedUrl": "https://www.simplytechnologies.net/",
+          "width": "24.3em"
+        }
+      ]
+    }
   },
   "agenda": {
     "btnText": "september 6-7",
@@ -132,7 +134,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-           {
+          {
             "id": 20,
             "speaker": "Augustin Zidek",
             "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
@@ -141,9 +143,9 @@
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 0,
-             "abstract": ""
+            "abstract": ""
           },
-             {
+          {
             "id": 30,
             "speaker": "Lavrentin Arutyunyan",
             "title": "Measuring Quality of LLMs",
@@ -154,7 +156,7 @@
             "endMinutes": 30,
             "abstract": "We will explore how to effectively measure and improve the performance of a generative LLM, with the goal of surpassing state-of-the-art models in your specific domain. Using a practical example of an LLM designed for communication, we'll walk through a step-by-step process that focuses on analytics-driven improvement. This session will concentrate on the key metrics and techniques that can help you refine your model's output."
           },
-             {
+          {
             "id": 40,
             "speaker": "Shahane Tigranyan",
             "title": "Breaking Barriers in Stress Detection: An Inter-Subject Approach Using ECG Signals",
@@ -163,9 +165,9 @@
             "startMinutes": 5,
             "endHour": 12,
             "endMinutes": 30,
-             "abstract": "Stress has become a ubiquitous challenge, affecting individuals’ mental and physical health significantly. Early detection of stress can aid in timely interventions, mitigating long-term health risks. The wourk introduces a novel framework based on deep learning for inter-subject stress detection utilizing electrocardiography data."
+            "abstract": "Stress has become a ubiquitous challenge, affecting individuals’ mental and physical health significantly. Early detection of stress can aid in timely interventions, mitigating long-term health risks. The wourk introduces a novel framework based on deep learning for inter-subject stress detection utilizing electrocardiography data."
           },
-           {
+          {
             "id": 50,
             "key": "break",
             "title": "Coffee Break",
@@ -176,7 +178,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-            {
+          {
             "id": 60,
             "speaker": "Letitia Parcalabescu",
             "title": "On Measuring the Faithfulness of Natural Language Explanations of Large Language Models and Vision & Language Models",
@@ -185,9 +187,9 @@
             "startMinutes": 0,
             "endHour": 14,
             "endMinutes": 0,
-             "abstract": "The usefulness of natural language explanations (NLEs) from large language models (LLMs) depends on their faithfulness, or how accurately they reflect the model's inner workings. In this talk, we compare existing NLE faithfulness tests and characterise them as self-consistency tests. We introduce CC-SHAP, an edit-free measure that examines how model outputs relate to input processing. We present results across various LLMs and tasks, including the self-consistency of vision and language models."
+            "abstract": "The usefulness of natural language explanations (NLEs) from large language models (LLMs) depends on their faithfulness, or how accurately they reflect the model's inner workings. In this talk, we compare existing NLE faithfulness tests and characterise them as self-consistency tests. We introduce CC-SHAP, an edit-free measure that examines how model outputs relate to input processing. We present results across various LLMs and tasks, including the self-consistency of vision and language models."
           },
-           {
+          {
             "id": 70,
             "speaker": "Marianna Ohanyan",
             "title": "Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis",
@@ -196,9 +198,9 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 30,
-             "abstract": "We present Zero-Painter, a novel training-free frame- work for layout-conditional text-to-image synthesis that facilitates the creation of detailed and controlled imagery from textual prompts. Our method utilizes object masks and individual descriptions, coupled with a global text prompt, to generate images with high fidelity. Zero-Painter employs a two-stage process involving our novel Prompt- Adjusted Cross-Attention (PACA) and Region-Grouped Cross-Attention (ReGCA) blocks, ensuring precise align- ment of generated objects with textual prompts and mask shapes. Our extensive experiments demonstrate that Zero- Painter surpasses current state-of-the-art methods in pre- serving textual details and adhering to mask shapes."
+            "abstract": "We present Zero-Painter, a novel training-free frame- work for layout-conditional text-to-image synthesis that facilitates the creation of detailed and controlled imagery from textual prompts. Our method utilizes object masks and individual descriptions, coupled with a global text prompt, to generate images with high fidelity. Zero-Painter employs a two-stage process involving our novel Prompt- Adjusted Cross-Attention (PACA) and Region-Grouped Cross-Attention (ReGCA) blocks, ensuring precise align- ment of generated objects with textual prompts and mask shapes. Our extensive experiments demonstrate that Zero- Painter surpasses current state-of-the-art methods in pre- serving textual details and adhering to mask shapes."
           },
-              {
+          {
             "id": 80,
             "speaker": "Kamyar Azizzadenesheli",
             "title": "Neural Operators: A new era of scientific computing",
@@ -207,9 +209,9 @@
             "startMinutes": 0,
             "endHour": 14,
             "endMinutes": 0,
-             "abstract": "The fabric of our daily lives, from weather forecasts to stock market predictions, from the aerodynamics of vehicles to the development of innovative materials, and even in the realms of medicine and space exploration, relies heavily on scientific and engineering computing. While superintelligence in AI has made significant strides in language processing, visual recognition, and audio analysis, its potential in the vast domain of natural sciences and engineering remains largely untapped. In this talk, we delve into the evolution of AI from neural networks to neural operators, unlocking new frontiers in advanced scientific computing. Join this talk as we explore how these cutting-edge technologies are revolutionizing our approach to understanding and modeling the complexities of the natural world, paving the way for groundbreaking discoveries and innovations."
+            "abstract": "The fabric of our daily lives, from weather forecasts to stock market predictions, from the aerodynamics of vehicles to the development of innovative materials, and even in the realms of medicine and space exploration, relies heavily on scientific and engineering computing. While superintelligence in AI has made significant strides in language processing, visual recognition, and audio analysis, its potential in the vast domain of natural sciences and engineering remains largely untapped. In this talk, we delve into the evolution of AI from neural networks to neural operators, unlocking new frontiers in advanced scientific computing. Join this talk as we explore how these cutting-edge technologies are revolutionizing our approach to understanding and modeling the complexities of the natural world, paving the way for groundbreaking discoveries and innovations."
           },
-            {
+          {
             "id": 90,
             "speaker": "Tigran Grigoryan",
             "title": "Contrastive image-text models for satellite imagery",
@@ -218,9 +220,9 @@
             "startMinutes": 35,
             "endHour": 14,
             "endMinutes": 0,
-             "abstract": "My presentation will explore the creation of a new text-image pair dataset for remote sensing imagery, utilizing OpenStreetMap's tags with images from the FMoW dataset to train a custom CLIP model. The session will feature a comparative performance analysis of this model against OpenAI’s CLIP, demonstrating the effectiveness and potential applications in remote sensing data interpretation."
+            "abstract": "My presentation will explore the creation of a new text-image pair dataset for remote sensing imagery, utilizing OpenStreetMap's tags with images from the FMoW dataset to train a custom CLIP model. The session will feature a comparative performance analysis of this model against OpenAI’s CLIP, demonstrating the effectiveness and potential applications in remote sensing data interpretation."
           },
-           {
+          {
             "id": 100,
             "key": "break",
             "title": "Lunch break",
@@ -231,7 +233,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-           {
+          {
             "id": 110,
             "speaker": "Mikhail Burtsev",
             "title": "Promises and Failures of Large Language Models",
@@ -240,9 +242,9 @@
             "startMinutes": 0,
             "endHour": 16,
             "endMinutes": 0,
-             "abstract": "The ChatGPT release sent shockwaves through the entire IT industry. Generative AI powered by Large Language Models demonstrates impressive natural language understanding and coding capabilities. Indeed, LLMs are very powerful but cannot solve every task. How can we measure their capabilities? When do they shine, and when do they fail?"
+            "abstract": "The ChatGPT release sent shockwaves through the entire IT industry. Generative AI powered by Large Language Models demonstrates impressive natural language understanding and coding capabilities. Indeed, LLMs are very powerful but cannot solve every task. How can we measure their capabilities? When do they shine, and when do they fail?"
           },
-           {
+          {
             "id": 120,
             "speaker": "Viacheslav Romanov",
             "title": "Generative AI security - OWASP Top 10 for LLM",
@@ -251,7 +253,7 @@
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 30,
-             "abstract": "Generative AI–based applications have the most business impact when they have access to critical business data and are empowered to take actions on behalf of the user. However, these integrations raise important security questions outlined in the OWASP Top 10 for LLM vulnerabilities and NIST Adversarial Machine Learning frameworks. This lightning talk introduces high-level architectural patterns to effectively mitigate key OWASP Top 10 for LLM vulnerabilities through Zero Trust principles."
+            "abstract": "Generative AI–based applications have the most business impact when they have access to critical business data and are empowered to take actions on behalf of the user. However, these integrations raise important security questions outlined in the OWASP Top 10 for LLM vulnerabilities and NIST Adversarial Machine Learning frameworks. This lightning talk introduces high-level architectural patterns to effectively mitigate key OWASP Top 10 for LLM vulnerabilities through Zero Trust principles."
           },
           {
             "id": 130,
@@ -275,7 +277,7 @@
             "endMinutes": 30,
             "abstract": ""
           },
-            {
+          {
             "id": 150,
             "speaker": "Erik Arakelyan",
             "title": "Injecting Faithfullnes and Logic into LLMs",
@@ -284,7 +286,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 30,
-             "abstract": "We will dicuss the directions and techniques the current research proposed for more faithful generation, particularly how logic (commonsense, math etc.) can be applied to ensure higher quality of generations."
+            "abstract": "We will dicuss the directions and techniques the current research proposed for more faithful generation, particularly how logic (commonsense, math etc.) can be applied to ensure higher quality of generations."
           },
           {
             "id": 160,
@@ -295,9 +297,9 @@
             "startMinutes": 5,
             "endHour": 17,
             "endMinutes": 30,
-             "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
+            "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
           },
-               {
+          {
             "id": 390,
             "speaker": "Hakob Tamazyan",
             "title": "Benchmarking Robustness of Foundation Models for Remote Sensing",
@@ -306,9 +308,9 @@
             "startMinutes": 5,
             "endHour": 12,
             "endMinutes": 30,
-             "abstract": ""
+            "abstract": ""
           },
-                     {
+          {
             "id": 400,
             "collaborators": ["Nensi Hakobjanyan", "Stefan Christoph"],
             "title": "Unlocking the Power of LLMs: Next generation recommender systems",
@@ -317,9 +319,9 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 30,
-             "abstract": "Ever wondered if there's more to Large Language Models (LLMs) than chatbots and assistants? Join me and Stefan Christoph in this talk to learn about next-generation personalization based on language models. We will discuss the limitations of traditional recommender systems and how their task-specific nature leads to fragmented and inconsistent user experiences. Language modelling, on the other hand, can unify various personalization tasks under a single objective, enabling models to seamlessly transfer knowledge across channels and domains. In this talk, we will delve into the latest advancements in recommender system architectures, provides guidance on how to build a scalable personalization solution, that delivers seamless experience to your end-users across communication channels."
+            "abstract": "Ever wondered if there's more to Large Language Models (LLMs) than chatbots and assistants? Join me and Stefan Christoph in this talk to learn about next-generation personalization based on language models. We will discuss the limitations of traditional recommender systems and how their task-specific nature leads to fragmented and inconsistent user experiences. Language modelling, on the other hand, can unify various personalization tasks under a single objective, enabling models to seamlessly transfer knowledge across channels and domains. In this talk, we will delve into the latest advancements in recommender system architectures, provides guidance on how to build a scalable personalization solution, that delivers seamless experience to your end-users across communication channels."
           },
-                           {
+          {
             "id": 410,
             "speaker": "Tigran Fahradyan",
             "title": "Small Molecule Optimization with Large Language Models",
@@ -328,9 +330,9 @@
             "startMinutes": 0,
             "endHour": 16,
             "endMinutes": 0,
-             "abstract": ""
+            "abstract": ""
           },
-                             {
+          {
             "id": 420,
             "speaker": "Hasmik Mnatsakanyan",
             "title": "Exploring the Recall of Language Models: Case Study on Molecules",
@@ -339,7 +341,7 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-             "abstract": "Most of the current benchmarks evaluate generative LLMs based on the accuracy of the generated output. However, in some scenarios, it is also important to evaluate the recall of the generations, i.e., whether a model can generate all correct outputs. There are two challenges in evaluating recall: the lack of complete sets of correct outputs for any task and the existence of many distinct but similar outputs. In this paper, we propose a benchmark from the domain of small organic molecules. We define sets of molecules of varying complexity and fine-tune language models on a subset of those sets. We attempt to generate as many molecules from the target sets as possible and measure the recall, i.e., the percentage of molecules from the target set that were generated by the model. We examine the impact of the training loss function and sampling strategy on the recall. We propose a sampling strategy based on beam search that avoids duplicates and maximizes recall. Finally, we show that given a small validation set, one can predict the recall of the model without actually generating many samples, which can act as a model selection strategy for maximizing generation recall."
+            "abstract": "Most of the current benchmarks evaluate generative LLMs based on the accuracy of the generated output. However, in some scenarios, it is also important to evaluate the recall of the generations, i.e., whether a model can generate all correct outputs. There are two challenges in evaluating recall: the lack of complete sets of correct outputs for any task and the existence of many distinct but similar outputs. In this paper, we propose a benchmark from the domain of small organic molecules. We define sets of molecules of varying complexity and fine-tune language models on a subset of those sets. We attempt to generate as many molecules from the target sets as possible and measure the recall, i.e., the percentage of molecules from the target set that were generated by the model. We examine the impact of the training loss function and sampling strategy on the recall. We propose a sampling strategy based on beam search that avoids duplicates and maximizes recall. Finally, we show that given a small validation set, one can predict the recall of the model without actually generating many samples, which can act as a model selection strategy for maximizing generation recall."
           }
         ],
         "date": "September 6",
@@ -361,7 +363,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-             {
+          {
             "id": 170,
             "speaker": "Théo Moutakanni",
             "title": "Scaling Self-Supervised Learning: Engineering, Data, and Applications",
@@ -370,9 +372,9 @@
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 0,
-             "abstract": "Self-supervised learning models like DINOv2 have demonstrated remarkable capabilities, but how can they be effectively trained at scale? From the engineering behind massive model training to the importance of high-quality data, this talk explores the key challenges and opportunities in scaling SSL for real-world applications."
+            "abstract": "Self-supervised learning models like DINOv2 have demonstrated remarkable capabilities, but how can they be effectively trained at scale? From the engineering behind massive model training to the importance of high-quality data, this talk explores the key challenges and opportunities in scaling SSL for real-world applications."
           },
-             {
+          {
             "id": 180,
             "speaker": "Daniel Savenkov",
             "title": "Beyond Autocomplete: Local AI Code Completion Demystified",
@@ -381,9 +383,9 @@
             "startMinutes": 5,
             "endHour": 12,
             "endMinutes": 30,
-             "abstract": "The talk is about the details and motivation behind Local AI Code Completion by JetBrains that was released on the 4th of April 2024. I’ll start by talking about the current state of the most popular AI Code Completion tools. We’ll discuss the pros and cons of running language models for code in the cloud versus on the user’s machine. Then we’ll go through the main components of AI Code Completion which is much more than just a language model. We will discuss our approach to offline and online evaluation of AI Code Completion, prompt construction, and smart suggestion filtering. Also, we’ll discuss the rapid progress in efficient language model inference that we’re witnessing nowadays and the perspectives that local AI has given this progress. Finally, I’ll share some insights about the size of the team that made Local AI Code Completion for JetBrains IDEs happen, the model sizes that are currently used in production, and the cost of the models’ training."
+            "abstract": "The talk is about the details and motivation behind Local AI Code Completion by JetBrains that was released on the 4th of April 2024. I’ll start by talking about the current state of the most popular AI Code Completion tools. We’ll discuss the pros and cons of running language models for code in the cloud versus on the user’s machine. Then we’ll go through the main components of AI Code Completion which is much more than just a language model. We will discuss our approach to offline and online evaluation of AI Code Completion, prompt construction, and smart suggestion filtering. Also, we’ll discuss the rapid progress in efficient language model inference that we’re witnessing nowadays and the perspectives that local AI has given this progress. Finally, I’ll share some insights about the size of the team that made Local AI Code Completion for JetBrains IDEs happen, the model sizes that are currently used in production, and the cost of the models’ training."
           },
-             {
+          {
             "id": 190,
             "speaker": "Mark Hamazaspyan",
             "title": "VLMs for Document AI",
@@ -392,9 +394,9 @@
             "startMinutes": 5,
             "endHour": 12,
             "endMinutes": 30,
-             "abstract": "I will discuss what matters when building vision-language models for Document AI. First, I will cover vision-language models, then the state-of-the-art models, and finally, the results of our experiments, which led to the creation of a model named DOLMA."
+            "abstract": "I will discuss what matters when building vision-language models for Document AI. First, I will cover vision-language models, then the state-of-the-art models, and finally, the results of our experiments, which led to the creation of a model named DOLMA."
           },
-            {
+          {
             "id": 200,
             "speaker": "Mher Matevosyan",
             "title": "De novo small molecule generation with deep reinforcement learning",
@@ -403,9 +405,9 @@
             "startMinutes": 5,
             "endHour": 12,
             "endMinutes": 30,
-             "abstract": "We have employed a deep reinforcement learning (RL)-based molecule design platform with various modifications tailored to small molecule generation problem to generate a diverse set of compounds targeting the neuraminidase (NA) of influenza A and B viruses. A total of 60,291 compounds were generated, of which 86.5 % displayed superior physicochemical properties compared to oseltamivir. After narrowing down the selection through computational filters, nine compounds with non-sialic acid-like structures were selected for in vitro experiments. We identified two compounds, that effectively inhibited the NAs of both influenza A and B viruses (IAV and IBV), at low micromolar concentrations. Molecular dynamics simulations revealed a similar pattern of interaction with amino acid residues as oseltamivir. In cell-based assays, the 2 compounds inhibited IAV and IBV in a dose-dependent manner with EC50 values ranging from 0.29 μM to 2.31 μM. Furthermore, animal experiments showed that both compounds demonstrated antiviral activity in mice models as well."
+            "abstract": "We have employed a deep reinforcement learning (RL)-based molecule design platform with various modifications tailored to small molecule generation problem to generate a diverse set of compounds targeting the neuraminidase (NA) of influenza A and B viruses. A total of 60,291 compounds were generated, of which 86.5 % displayed superior physicochemical properties compared to oseltamivir. After narrowing down the selection through computational filters, nine compounds with non-sialic acid-like structures were selected for in vitro experiments. We identified two compounds, that effectively inhibited the NAs of both influenza A and B viruses (IAV and IBV), at low micromolar concentrations. Molecular dynamics simulations revealed a similar pattern of interaction with amino acid residues as oseltamivir. In cell-based assays, the 2 compounds inhibited IAV and IBV in a dose-dependent manner with EC50 values ranging from 0.29 μM to 2.31 μM. Furthermore, animal experiments showed that both compounds demonstrated antiviral activity in mice models as well."
           },
-           {
+          {
             "id": 210,
             "key": "break",
             "title": "Coffee Break",
@@ -416,7 +418,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-            {
+          {
             "id": 220,
             "speaker": "Aleksa Gordic",
             "title": "llm.c։ Training LLMs in C/CUDA",
@@ -425,9 +427,9 @@
             "startMinutes": 0,
             "endHour": 14,
             "endMinutes": 0,
-             "abstract": "We'll go through what LLMs are and how to train them for low resource languages."
+            "abstract": "We'll go through what LLMs are and how to train them for low resource languages."
           },
-            {
+          {
             "id": 230,
             "speaker": "Andranik Sargsyan",
             "title": "HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models",
@@ -436,9 +438,9 @@
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 30,
-             "abstract": "Recent progress in text-guided image inpainting, based on the unprecedented success of text-to-image diffusion models, has led to exceptionally realistic and visually plausible results. However, there is still significant potential for improvement in current text-to-image inpainting models, particularly in better aligning the inpainted area with user prompts and performing high-resolution inpainting. Therefore, we introduce HD-Painter, a training free approach that accurately follows prompts and coherently scales to high resolution image inpainting."
+            "abstract": "Recent progress in text-guided image inpainting, based on the unprecedented success of text-to-image diffusion models, has led to exceptionally realistic and visually plausible results. However, there is still significant potential for improvement in current text-to-image inpainting models, particularly in better aligning the inpainted area with user prompts and performing high-resolution inpainting. Therefore, we introduce HD-Painter, a training free approach that accurately follows prompts and coherently scales to high resolution image inpainting."
           },
-            {
+          {
             "id": 240,
             "speaker": "Olivia Viessmann",
             "title": "Reinforcement Learning in Generative Biomolecular Design",
@@ -447,9 +449,9 @@
             "startMinutes": 0,
             "endHour": 14,
             "endMinutes": 0,
-             "abstract": "RL has become a weapon of choice to tune generative models since the event of RLHF. Here, I will motivate why and how we use RL tuning in generative biomolecular design. I will share my experience on training different RL approaches for a variety of methods on concrete examples. "
+            "abstract": "RL has become a weapon of choice to tune generative models since the event of RLHF. Here, I will motivate why and how we use RL tuning in generative biomolecular design. I will share my experience on training different RL approaches for a variety of methods on concrete examples. "
           },
-              {
+          {
             "id": 250,
             "speaker": "Andrei Lukianenko",
             "title": "Fraud Detection via Face Recognition",
@@ -458,9 +460,9 @@
             "startMinutes": 35,
             "endHour": 14,
             "endMinutes": 0,
-             "abstract": ""
+            "abstract": ""
           },
-             {
+          {
             "id": 260,
             "key": "break",
             "title": "Lunch Break",
@@ -471,7 +473,7 @@
             "endMinutes": 0,
             "abstract": ""
           },
-              {
+          {
             "id": 270,
             "speaker": "Grigory Sapunov",
             "title": "Not only Transformers",
@@ -480,9 +482,9 @@
             "startMinutes": 0,
             "endHour": 16,
             "endMinutes": 0,
-             "abstract": "Are there any real alternative to the Transformer architecture? It seems there are! My talk will highlight some interesting neural network architecture developments of the last few years"
+            "abstract": "Are there any real alternative to the Transformer architecture? It seems there are! My talk will highlight some interesting neural network architecture developments of the last few years"
           },
-                {
+          {
             "id": 280,
             "speaker": "Yurii Orshulevich",
             "title": "LLM-Generated Text Detection",
@@ -491,9 +493,9 @@
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 30,
-             "abstract": "In the rapid realm of AI and NLP, the emergence of Large Language Models (LLMs) has cardinally changed text generation. Detecting machine-generated text has now become a significant challenge due to the increasing complexity of these models. Text detection, distinguishing between machine-generated and human-written text, has gained paramount importance. This presentation delves into the critical implications of text detection across various sectors and explores ongoing efforts through competitions and challenges. It assesses the current progress of the community in this task, highlighting the misleading simplicity of what appears to be a binary classification task. The talk also explores existing open-source solutions, highlighting their limitations and areas for enhancement, drawing insights from practical experience. It concludes with the introduction of a multimodal benchmark aimed at transparently evaluating performance metrics."
+            "abstract": "In the rapid realm of AI and NLP, the emergence of Large Language Models (LLMs) has cardinally changed text generation. Detecting machine-generated text has now become a significant challenge due to the increasing complexity of these models. Text detection, distinguishing between machine-generated and human-written text, has gained paramount importance. This presentation delves into the critical implications of text detection across various sectors and explores ongoing efforts through competitions and challenges. It assesses the current progress of the community in this task, highlighting the misleading simplicity of what appears to be a binary classification task. The talk also explores existing open-source solutions, highlighting their limitations and areas for enhancement, drawing insights from practical experience. It concludes with the introduction of a multimodal benchmark aimed at transparently evaluating performance metrics."
           },
-                {
+          {
             "id": 290,
             "speaker": "Evgeniy Glukhov",
             "title": "Long Code Arena: a Set of Benchmarks for Long-Context Code Models",
@@ -502,9 +504,9 @@
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 30,
-             "abstract": "Nowadays, the fields of code and natural language processing are evolving rapidly. In particular, models become better at processing long context windows --- supported context sizes have increased by orders of magnitude over the last few years. However, there is a shortage of benchmarks for code processing that go beyond a single file of context, while the most popular ones are limited to a single method. With this work, we aim to close this gap by introducing Long Code Arena, a suite of six benchmarks for code processing tasks that require project-wide context. These tasks cover different aspects of code processing: library-based code generation, CI builds repair, project-level code completion, commit message generation, bug localization, and module summarization. For each task, we provide a manually verified dataset for testing, an evaluation suite, and open-source baseline solutions based on popular LLMs to showcase the usage of the dataset and to simplify adoption by other researchers. We publish the benchmark page on HuggingFace Spaces with the leaderboard, links to HuggingFace Hub for all the datasets, and link to the GitHub repository with baselines: https://huggingface.co/spaces/JetBrains-Research/long-code-arena."
+            "abstract": "Nowadays, the fields of code and natural language processing are evolving rapidly. In particular, models become better at processing long context windows --- supported context sizes have increased by orders of magnitude over the last few years. However, there is a shortage of benchmarks for code processing that go beyond a single file of context, while the most popular ones are limited to a single method. With this work, we aim to close this gap by introducing Long Code Arena, a suite of six benchmarks for code processing tasks that require project-wide context. These tasks cover different aspects of code processing: library-based code generation, CI builds repair, project-level code completion, commit message generation, bug localization, and module summarization. For each task, we provide a manually verified dataset for testing, an evaluation suite, and open-source baseline solutions based on popular LLMs to showcase the usage of the dataset and to simplify adoption by other researchers. We publish the benchmark page on HuggingFace Spaces with the leaderboard, links to HuggingFace Hub for all the datasets, and link to the GitHub repository with baselines: https://huggingface.co/spaces/JetBrains-Research/long-code-arena."
           },
-                {
+          {
             "id": 300,
             "speaker": "Andre Kuzminykh",
             "title": "Personalization of Multi-Agent Systems for Automated Social Media Blogging",
@@ -513,9 +515,9 @@
             "startMinutes": 35,
             "endHour": 16,
             "endMinutes": 0,
-             "abstract": "The report will address the issue of personalizing autonomous multi-agent intelligent systems. Special attention will be given to the key components of intelligent agents and their levels of autonomy. Various approaches to ensuring agent autonomy will be presented, along with a brief overview and analysis of frameworks for developing multi-agent systems. Methods for personalizing agents will be illustrated using the example of automated social media blogging."
+            "abstract": "The report will address the issue of personalizing autonomous multi-agent intelligent systems. Special attention will be given to the key components of intelligent agents and their levels of autonomy. Various approaches to ensuring agent autonomy will be presented, along with a brief overview and analysis of frameworks for developing multi-agent systems. Methods for personalizing agents will be illustrated using the example of automated social media blogging."
           },
-                  {
+          {
             "id": 310,
             "speaker": "Gevorg Minasyan",
             "title": "Build and Scale Text-to-Speech Systems",
@@ -524,9 +526,9 @@
             "startMinutes": 35,
             "endHour": 16,
             "endMinutes": 0,
-             "abstract": "In this talk, I will discuss the challenges and solutions for building large-scale TTS systems with prompting mechanisms. I will explain the key components such as network architectures, training methods etc. Drawing from our ai-team experience at Podcastle, I will share practical examples and insights, highlighting both the problems we faced and the solutions we used. We will discuss their practical applications and impact in real-world scenarios."
+            "abstract": "In this talk, I will discuss the challenges and solutions for building large-scale TTS systems with prompting mechanisms. I will explain the key components such as network architectures, training methods etc. Drawing from our ai-team experience at Podcastle, I will share practical examples and insights, highlighting both the problems we faced and the solutions we used. We will discuss their practical applications and impact in real-world scenarios."
           },
-              {
+          {
             "id": 320,
             "key": "break",
             "title": "Coffee Break",
@@ -537,7 +539,7 @@
             "endMinutes": 30,
             "abstract": ""
           },
-                  {
+          {
             "id": 330,
             "speaker": "Spartak Bughdaryan",
             "title": "Empowering Armenian NLP: Insights into Embedding Models and Benchmarking",
@@ -546,9 +548,9 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-             "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
+            "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
           },
-                  {
+          {
             "id": 340,
             "speaker": "Menua Bedrosian",
             "title": "Scaling Deep Learning with FSDP: Concepts and Case Study from YerevaNN",
@@ -557,9 +559,9 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-             "abstract": "Training large deep learning models across multiple GPUs presents significant challenges, including memory limitations and communication overhead. Traditional data parallelism techniques often struggle with memory efficiency as model sizes grow. Fully Sharded Data Parallelism (FSDP) addresses these issues by sharding model parameters, gradients, and optimizer states across GPUs, enabling more efficient distributed training. In this talk, we'll explore the fundamentals of FSDP and its advantages over conventional methods. We'll dive into the core concepts behind FSDP, including how it manages memory and coordinates computations across multiple devices. Additionally, we'll present a case study on how we at YerevaNN leverage FSDP to train large language models on extensive datasets. "
+            "abstract": "Training large deep learning models across multiple GPUs presents significant challenges, including memory limitations and communication overhead. Traditional data parallelism techniques often struggle with memory efficiency as model sizes grow. Fully Sharded Data Parallelism (FSDP) addresses these issues by sharding model parameters, gradients, and optimizer states across GPUs, enabling more efficient distributed training. In this talk, we'll explore the fundamentals of FSDP and its advantages over conventional methods. We'll dive into the core concepts behind FSDP, including how it manages memory and coordinates computations across multiple devices. Additionally, we'll present a case study on how we at YerevaNN leverage FSDP to train large language models on extensive datasets. "
           },
-                {
+          {
             "id": 350,
             "speaker": "Nikolay Karpov",
             "title": "Multilingual Labeled Speech Transcription Pipeline for Common Crawl",
@@ -568,9 +570,9 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-             "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
+            "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
           },
-                {
+          {
             "id": 360,
             "speaker": "Artur Kiulian",
             "title": "Building Custom Tokenizers: AI for Underrepresented Languages",
@@ -579,9 +581,9 @@
             "startMinutes": 5,
             "endHour": 17,
             "endMinutes": 30,
-             "abstract": "In the growing domain of large language model (LLM) training and fine-tuning, the crucial aspect of tokenization is often overshadowed. Popular open-source language models frequently offer limited dictionaries for low-resource languages. This presentation illustrates a strategy for extending the token vocabulary and enhancing embeddings training specifically for the Ukrainian, Arabic and Georgian languages, using the Gemma model as a case study. Presentation will cover popular metrics like fertility and parity as well as custom metrics that were created for the specific evaluation of quality at inference."
+            "abstract": "In the growing domain of large language model (LLM) training and fine-tuning, the crucial aspect of tokenization is often overshadowed. Popular open-source language models frequently offer limited dictionaries for low-resource languages. This presentation illustrates a strategy for extending the token vocabulary and enhancing embeddings training specifically for the Ukrainian, Arabic and Georgian languages, using the Gemma model as a case study. Presentation will cover popular metrics like fertility and parity as well as custom metrics that were created for the specific evaluation of quality at inference."
           },
-                {
+          {
             "id": 370,
             "speaker": "Vahe Egiazaryan",
             "title": "LLM compression",
@@ -590,9 +592,9 @@
             "startMinutes": 5,
             "endHour": 17,
             "endMinutes": 30,
-             "abstract": "The emergence of accurate open large language models (LLMs) has led to a race towards performant quantization techniques, enabling their execution on end-user devices. In this talk, we will dive into different LLM compression techniques and talk about several recent quantization methods."
+            "abstract": "The emergence of accurate open large language models (LLMs) has led to a race towards performant quantization techniques, enabling their execution on end-user devices. In this talk, we will dive into different LLM compression techniques and talk about several recent quantization methods."
           },
-              {
+          {
             "id": 380,
             "speaker": "Liana Baghdasaryan",
             "title": "Achieving Studio-Quality Speech with Generative AI",
@@ -601,7 +603,7 @@
             "startMinutes": 5,
             "endHour": 17,
             "endMinutes": 30,
-             "abstract": "In this talk, I will explore the challenges inherent in speech enhancement and examine various approaches to overcoming these obstacles. I will outline the fundamental components required to construct a speech enhancement model, with a detailed look at our specific methodology. Insights into the developmental challenges faced and the innovative solutions applied will be shared. The presentation will conclude with demo examples showcasing the results of our system. "
+            "abstract": "In this talk, I will explore the challenges inherent in speech enhancement and examine various approaches to overcoming these obstacles. I will outline the fundamental components required to construct a speech enhancement model, with a detailed look at our specific methodology. Insights into the developmental challenges faced and the innovative solutions applied will be shared. The presentation will conclude with demo examples showcasing the results of our system. "
           }
         ],
         "date": "September 7",
@@ -649,46 +651,46 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-    {
+      {
         "name": "Letitia",
         "surname": "Parcalabescu",
         "position": "Researcher at",
         "company": "Heidelberg University / AI Coffee Break YouTube",
         "linkedUrl": "https://www.cl.uni-heidelberg.de/nlpgroup/person/parcalabescu",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1718179194/datafest/Datafest%202024/Speakers/parcalabescu_large_1_1_zfi1ou.jpg"
-    },
-    {
+      },
+      {
         "name": "Andrei",
         "surname": "Lukianenko",
         "position": "Senior Data Scientist at",
         "company": "Careem",
         "linkedUrl": "https://www.linkedin.com/in/andlukyane/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1718180735/datafest/Datafest%202024/Speakers/KPO_7345_full_tbosc0.webp"
-    },
-    {
+      },
+      {
         "name": "Kamyar",
         "surname": "Azizzadenesheli",
         "position": "Researcher at",
         "company": "Nvidia",
         "linkedUrl": "https://kamyar.page/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1718180375/datafest/Datafest%202024/Speakers/IMG_0958_1_1_kwh34w.png"
-    },
-   {
+      },
+      {
         "name": "Augustin",
         "surname": "Zidek",
         "position": "Research Engineer at",
         "company": "Google DeepMind",
         "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
-    },
-    {
+      },
+      {
         "name": "Mikhail",
         "surname": "Burtsev",
         "position": "Landau AI Fellow at",
         "company": "London Institute for Mathematical Sciences",
         "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719306589/datafest/Datafest%202024/Speakers/burtsev_port_2_ovrobd.jpg"
-    },
+      },
       {
         "name": "Spartak",
         "surname": "Bughdaryan",
@@ -696,7 +698,7 @@
         "company": "Yerevan State University / Metric",
         "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719475959/datafest/Datafest%202024/Speakers/87175397_2808306959227917_1187347290981924864_n_-_Spartak_Bughdaryan_lzovcv.jpg"
-    },
+      },
       {
         "name": "Tigran",
         "surname": "Grigoryan",
@@ -704,31 +706,31 @@
         "company": "YSU / Fimetech",
         "linkedUrl": "https://www.linkedin.com/in/tigran-grigoryan-ab3056221/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719478549/datafest/Datafest%202024/Speakers/IMG_6005_-_Tigran_Grigoryan_tsr76b_c_crop_ar_1_1_baqj4l.jpg"
-    },
-       {
+      },
+      {
         "name": "Yurii",
         "surname": "Orshulevich",
         "position": "Senior NLP Engineer at",
         "company": "SuperAnnotate",
         "linkedUrl": "https://www.linkedin.com/in/yurii-orshulevich/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1720442705/datafest/Datafest%202024/Speakers/Avatar_cropped_square_xkcfwm.png"
-    },
-       {
+      },
+      {
         "name": "Shahane",
         "surname": "Tigranyan",
         "position": "ML Engineer at",
         "company": "CAST",
         "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719830564/datafest/Datafest%202024/Speakers/datafest_nzrk8j_c_crop_ar_1_1_ktlz3w.jpg"
-    },
-        {
+      },
+      {
         "name": "Mark",
         "surname": "Hamazaspyan",
         "position": "Senior Machine Learning Engineer at",
         "company": "Metric LLC",
         "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1719479029/datafest/Datafest%202024/Speakers/12.02.2024_1821_-_Mark_Hamazaspyan_dgr0y8.jpg"
-    },
+      },
       {
         "name": "Grigory",
         "surname": "Sapunov",
@@ -736,15 +738,15 @@
         "company": "Intento",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
-    },
-       {
+      },
+      {
         "name": "Gevorg",
         "surname": "Minasyan",
         "position": "Lead AI Research Scientist at",
         "company": "Podcastle",
         "linkedUrl": "https://www.linkedin.com/in/gevorg-minasyan-42475a132/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1720438093/datafest/Datafest%202024/Speakers/2024-06-27_13.53.33_-_Gevorg_Minasyan_g68hsv.jpg"
-    },
+      },
       {
         "name": "Liana",
         "surname": "Baghdasaryan",
@@ -752,7 +754,7 @@
         "company": "Podcastle AI",
         "linkedUrl": "https://www.linkedin.com/in/liana-bagh/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
-    },
+      },
       {
         "name": "Aleksa",
         "surname": "Gordic",
@@ -760,15 +762,15 @@
         "company": "Runa AI. Ex-Google DeepMind, Ex-Microsoft.",
         "linkedUrl": "http://linkedin.com/in/aleksagordic",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722324097/datafest/Datafest%202024/Speakers/gordicaleksa_yerevan_wxsxbv_c_crop_ar_1_1_orikxb.jpg"
-    },
-       {
+      },
+      {
         "name": "Olivia",
         "surname": "Viessmann",
         "position": "Principal ML Scientist at",
         "company": "Flagship Pioneering",
         "linkedUrl": "https://www.flagshippioneering.com/people/olivia-viessmann",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721901235/datafest/Datafest%202024/Speakers/Screenshot_2024-07-22_at_9.24.10_AM_e7dgda_c_crop_ar_1_1_vi6aom.png"
-    },
+      },
       {
         "name": "Théo",
         "surname": "Moutakanni",
@@ -776,39 +778,39 @@
         "company": "Meta",
         "linkedUrl": "https://www.linkedin.com/in/theo-moutakanni/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721901668/datafest/Datafest%202024/Speakers/418551195_210688308802686_8314683239095376884_n_Cropped_ikuevz.jpg"
-    },
-       {
+      },
+      {
         "name": "Arman",
         "surname": "Isajanyan",
         "position": "ML Scientist at",
         "company": "Picsart",
         "linkedUrl": "https://www.linkedin.com/in/arman-isajanyan-b2558613a/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723113704/datafest/Datafest%202024/Speakers/A.Isajanyan_Cropped_ylwxt9.png"
-    },
-       {
+      },
+      {
         "name": "Artur",
         "surname": "Kiulian",
         "position": "CEO at",
         "company": "OpenBabylon",
         "linkedUrl": "https://www.linkedin.com/in/artur-kiulian/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723113563/datafest/Datafest%202024/Speakers/headshot-hq_crxrzk.jpg"
-    },
-        {
+      },
+      {
         "name": "Marianna",
         "surname": "Ohanyan",
         "position": "ML Scientist at",
         "company": "Picsart Inc.",
         "linkedUrl": "https://www.linkedin.com/feed/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721902826/datafest/Datafest%202024/Speakers/marianna_profile_cut_-_Mochi_Master_1_zgqjh4_c_crop_ar_1_1_jtrwjx.png"
-    },
-       {
+      },
+      {
         "name": "Andranik",
         "surname": "Sargsyan",
         "position": "Senior ML Scientist at",
         "company": "Picsart",
         "linkedUrl": "https://www.linkedin.com/in/andraniksargsyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1721903177/datafest/Datafest%202024/Speakers/photo_Andranik_Sargsyan_-_Andranik_Sargsyan_1_rntxwo_c_crop_ar_1_1_c1azbc.jpg"
-    },
+      },
       {
         "name": "Vahe",
         "surname": "Egiazaryan",
@@ -816,15 +818,15 @@
         "company": "Yandex",
         "linkedUrl": "https://www.linkedin.com/in/vahe1994/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722414923/datafest/Datafest%202024/Speakers/IMG_20240729_220548_809_ehw64h.jpg"
-    },
-       {
+      },
+      {
         "name": "Viacheslav",
         "surname": "Romanov",
         "position": "Senior Solutions Architect at",
         "company": "AWS",
         "linkedUrl": "https://www.linkedin.com/in/viacheslav-romanov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722590552/datafest/Datafest%202024/Speakers/Photo1_1_Cropped_dxqsfo.jpg"
-    },
+      },
       {
         "name": "Nikolay",
         "surname": "Karpov",
@@ -832,23 +834,23 @@
         "company": "Nvidia",
         "linkedUrl": "https://www.linkedin.com/in/nikolay-karpov-42955573",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722590760/datafest/Datafest%202024/Speakers/35x45_-_Nikolay_Karpov_1_Cropped_rfryr4.jpg"
-    },
-       {
+      },
+      {
         "name": "Daniel",
         "surname": "Savenkov",
         "position": "Senior ML Engineer at",
         "company": "JetBrains",
         "linkedUrl": "https://www.linkedin.com/in/daniel-savenkov-098b41149/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1722590935/datafest/Datafest%202024/Speakers/savenkov_photo_full_size_-_Danila_Savenkov_Cropped_qb1syx.jpg"
-    },
-       {
+      },
+      {
         "name": "Evgeniy",
         "surname": "Glukhov",
         "position": "ML Researcher at",
         "company": "JetBrains",
         "linkedUrl": "https://www.linkedin.com/in/evgeniy-glukhov-105686234",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
-    },
+      },
       {
         "name": "Stefan",
         "surname": "Christoph",
@@ -856,79 +858,79 @@
         "company": "Amazon Web Services",
         "linkedUrl": "https://www.linkedin.com/in/stefanchristoph/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112263/datafest/Datafest%202024/Speakers/Stefan_Christoph_-_Nancy_Hakobjanyan_1_Cropped_biz3xf.jpg"
-    },
-       {
+      },
+      {
         "name": "Nensi",
         "surname": "Hakobjanyan",
         "position": "Solutions Architect at",
         "company": "Amazon Web Services",
         "linkedUrl": "https://www.linkedin.com/in/nensihak/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112430/datafest/Datafest%202024/Speakers/Nensi_Hakobjanyan_-_Nancy_Hakobjanyan_1_Cropped_yktpfq.jpg"
-    },
-       {
+      },
+      {
         "name": "Andre",
         "surname": "Kuzminykh",
         "position": "Founder at",
         "company": "Andre AI Technologies",
         "linkedUrl": "https://www.linkedin.com/in/andre-kuzminykh/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112568/datafest/Datafest%202024/Speakers/photo_2024-08-05_11.49.01_-_Andre_Kuzminykh_1_unsibt.jpg"
-    },
-       {
+      },
+      {
         "name": "Erik",
         "surname": "Arakelyan",
         "position": "Researcher at",
         "company": "UCPH",
         "linkedUrl": "https://www.linkedin.com/in/erik-arakelyan-a6a84470/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723112692/datafest/Datafest%202024/Speakers/593344ce2008a2f2_-_Erik_Arakelyan_1_eojo9i.png"
-    },
-       {
+      },
+      {
         "name": "Lavrentin",
         "surname": "Arutyunyan",
         "position": "Senior Data Scientist at",
         "company": "Social Discovery Group",
         "linkedUrl": "https://www.linkedin.com/in/lavrentin-arutiunian/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1723802991/datafest/Datafest%202024/Speakers/photo_2024-07-16_10-46-53_-_Lavrentin_Arutiunian_hmx7sv_c_crop_ar_1_1_q2kcp3.jpg"
-    },
-       {
+      },
+      {
         "name": "Mher",
         "surname": "Matevosyan",
         "position": "CTO at",
         "company": "Denovo Sciences",
         "linkedUrl": "https://www.linkedin.com/in/mhermatevosyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724767788/datafest/Datafest%202024/Speakers/image_1_videlo.png"
-    },
-       {
+      },
+      {
         "name": "Menua",
         "surname": "Bedrosian",
         "position": "Machine Learning Researcher at",
         "company": "YerevaNN / YSU",
         "linkedUrl": "https://www.linkedin.com/in/menua-bedrosian",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724767943/datafest/Datafest%202024/Speakers/DSCF1266_-_Menoo_Bedrosian_adcvig.jpg"
-    },
-       {
+      },
+      {
         "name": "Hasmik",
         "surname": "Mnatsakanyan",
         "position": "R&D Engineer at",
         "company": "Deep Origin",
         "linkedUrl": "https://www.linkedin.com/in/hasmik-mnatsakanyan-8044a0276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724768059/datafest/Datafest%202024/Speakers/image_2_mgk6iy.png"
-    },
-         {
+      },
+      {
         "name": "Hakob",
         "surname": "Tamazyan",
         "position": "Machine Learning Researcher at",
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/hakob-tamazyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724930023/datafest/Datafest%202024/Speakers/image_3_rn8zy5.png"
-    },
-          {
+      },
+      {
         "name": "Tigran",
         "surname": "Fahradyan",
         "position": "Machine Learning Researcher at",
         "company": "AUA/YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/tigran-fahradyan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
-    }
+      }
     ]
   },
   "location": {
