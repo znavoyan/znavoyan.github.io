@@ -80,7 +80,13 @@
           "width": "16.1em"
         }
       ],
-      "venueSponsors": [],
+      "venueSponsors": [
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1725311559/datafest/Datafest%202024/Sponsors/woods_blue_n4bxtv.png",
+          "linkedUrl": "https://woodscenter.am/",
+          "width": "15.2em"
+        }
+      ],
       "siteSponsors": [
         {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1661872926/datafest/sponsors/Simply_white_logo_ugahwc.png",
