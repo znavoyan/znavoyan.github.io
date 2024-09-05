@@ -105,15 +105,15 @@
     "bottomText": "",
     "locations": [
       {
-        "text": "A",
+        "text": "Սրահ A (հարկ 3)",
         "id": 1
       },
       {
-        "text": "B",
+        "text": "Սրահ B (հարկ 2)",
         "id": 2
       },
       {
-        "text": "C",
+        "text": "Սրահ C (հարկ 5)",
         "id": 3
       }
     ],
