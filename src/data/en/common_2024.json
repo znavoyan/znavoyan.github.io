@@ -151,7 +151,7 @@
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 0,
-            "abstract": ""
+            "abstract": "The introduction of AlphaFold 2 has spurred a revolution in modelling the structure of proteins and their interactions, enabling a huge range of applications in protein modelling and design. In this talk, I will describe our new AlphaFold 3 model with a substantially updated diffusion-based architecture that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. I will also talk about the engineering principles behind the development of AlphaFold 1, 2, and 3, as well as the impact that AlphaFold has had so far."
           },
           {
             "id": 30,
