@@ -105,15 +105,15 @@
     "bottomText": "",
     "locations": [
       {
-        "text": "Hall A (floor 3)",
+        "text": "Hall A (3rd floor)",
         "id": 1
       },
       {
-        "text": "Hall B (floor 2)",
+        "text": "Hall B (2nd floor)",
         "id": 2
       },
       {
-        "text": "Hall C (floor 5)",
+        "text": "Hall C (5th floor)",
         "id": 3
       }
     ],
