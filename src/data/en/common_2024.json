@@ -578,9 +578,9 @@
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
+            "abstract": "We present a toolkit for multilingual speech data extraction, designed to handle web-scale data. As a proof of concept, we develop a pipeline around the Common Crawl corpus to find multilingual speech recording and transcription pairs for supervised automatic speech recognition training. The pipeline involves steps to filter the Common Crawl for suitable audio and transcription pairs; preprocess and normalize the text; perform audio segmentation and alignment; and finally assess and validate the quality of the results. The pipeline composes pretrained speech and text models and rule-based processing. We release the code and recipes of our data extraction pipeline that enable the community to reproduce the first version of the resulting CC Audio Dataset for four languages: English, German, French, and Polish."
           },
-          {
+            {
             "id": 360,
             "speaker": "Artur Kiulian",
             "title": "Building Custom Tokenizers: AI for Underrepresented Languages",
