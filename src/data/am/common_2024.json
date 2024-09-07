@@ -617,6 +617,17 @@
             "endHour": 17,
             "endMinutes": 30,
             "abstract": "In this talk, I will explore the challenges inherent in speech enhancement and examine various approaches to overcoming these obstacles. I will outline the fundamental components required to construct a speech enhancement model, with a detailed look at our specific methodology. Insights into the developmental challenges faced and the innovative solutions applied will be shared. The presentation will conclude with demo examples showcasing the results of our system. "
+          },
+            {
+            "id": 430,
+            "key": "break",
+            "title": "Networking Event at Ai9 (Avetik Isahakyan 9)",
+            "roomId": 1,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 23,
+            "endMinutes": 0,
+            "abstract": ""
           }
         ]
       }
