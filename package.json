@@ -18,16 +18,15 @@
     "@testing-library/user-event": "^7.2.1",
     "classnames": "^2.2.6",
     "date-fns": "^2.29.1",
-    "google-maps-react": "^2.0.6",
     "i18next": "^19.7.0",
     "leaflet": "^1.8.0",
-    "node-sass": "^4.14.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^11.7.1",
     "react-leaflet": "^4.0.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^5.0.1",
+    "sass": "^1.79.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,13 +35,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "engines": {
-    "node": "12.16.0",
-    "npm": "6.13.7"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
   },
   "browserslist": [
     ">0.2%",
