@@ -14,17 +14,17 @@
         "key": "agenda"
       }
     ],
-    "pastEvents": [2020, 2021, 2022, 2023],
+    "pastEvents": [2020, 2021, 2022, 2023, 2024],
     "register": "Գրանցվել այստեղ",
-    "registerUrl": "https://www.eventbrite.co.uk/e/datafest-yerevan-2024-tickets-977590929787?aff=oddtdtcreator&fbclid=IwY2xjawEhOFlleHRuA2FlbQIxMAABHTfK3hiWslSvDhKLgaXPyHH4CbDDuxO5zMnPvOhRX7UdiyAd_E8GtOXppQ_aem_SO_2sTlUtp7CBMuDrB4ZVg"
+    "registerUrl": ""
   },
   "home": {
     "main": {
       "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
       "register": "Գրանցվել այստեղ",
-      "registerUrl": "https://www.eventbrite.co.uk/e/datafest-yerevan-2024-tickets-977590929787?aff=oddtdtcreator&fbclid=IwY2xjawEhOFlleHRuA2FlbQIxMAABHTfK3hiWslSvDhKLgaXPyHH4CbDDuxO5zMnPvOhRX7UdiyAd_E8GtOXppQ_aem_SO_2sTlUtp7CBMuDrB4ZVg",
+      "registerUrl": "",
       "scrollDown": "Դեպի ներքև",
-      "eventDate": "Սեպտեմբերի 6-7, 2024, Վուդս Կենտրոն"
+      "eventDate": "Սեպտեմբեր 2025, Վուդս Կենտրոն"
     },
     "about": {
       "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
