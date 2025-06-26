@@ -152,7 +152,134 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-     
+       {
+        "name": "Էլի",
+        "surname": "Բակուշ",
+        "position": "Հետազոտող ինժեներ",
+        "company": "HuggingFace",
+        "linkedUrl": "https://www.linkedin.com/in/eliebak/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Elie_Bakouch_vkizw1.png"
+      },
+      {
+        "name": "Ավգուստին",
+        "surname": "Ժիդեկ",
+        "position": "Հետազոտող ինժեներ",
+        "company": "Google DeepMind / AlphaFold team",
+        "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+       {
+        "name": "Սայան",
+        "surname": "Ռանու",
+        "position": "Դոցենտ",
+        "company": "Indian Institute of Technology Delhi",
+        "linkedUrl": "https://www.cse.iitd.ac.in/~sayan/index.html",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Sayan_Ranu_x6j87n.png"
+      },
+       {
+        "name": "Դմիտրի",
+        "surname": "Վետրով",
+        "position": "Համակարգչային գիտությունների պրոֆեսոր",
+        "company": "Constructor University",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Dmitry_Vetrov_vljffk.png"
+      },
+        {
+        "name": "Հայնեկ",
+        "surname": "Կիդլիչեկ",
+        "position": "Հետազոտող ինժեներ",
+        "company": "HuggingFace",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Hynek_Kydlicek_kv7jqo.png"
+      },
+       {
+        "name": "Օգանես",
+        "surname": "Մանասյան",
+        "position": "ՄՈՒ ինժեներ",
+        "company": "DeepJudge",
+        "linkedUrl": "https://www.linkedin.com/in/oganes-manasian/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Oganes_Manasian_gdp0ra.png"
+      },
+        {
+        "name": "Սերգ",
+        "surname": "Շեստակով",
+        "position": "Գլխավոր գործադիր տնօրեն",
+        "company": "MPP Insights",
+        "linkedUrl": "https://linkedin.com/in/sergs",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Serg_Shestakov_yjyxcc.png"
+      },
+       {
+        "name": "Դմիտրի",
+        "surname": "Դորոֆեև",
+        "position": "Հետազոտությունների և զարգացման ղեկավար",
+        "company": "MPP Labs",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
+        "name": "Վիկտորյա",
+        "surname": "Պողոսյան",
+        "position": "ՄՈՒ ինժեներ",
+        "company": "Center of Advanced Software Technologies (CAST)",
+        "linkedUrl": "https://www.linkedin.com/in/viktorya-poghosyan-11795124a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Viktorya_Poghosyan_fdnjip.png"
+      },
+     {
+        "name": "Քրիստինա",
+        "surname": "Վոլկովա",
+        "position": "Ծրագրային ապահովման ավագ ինժեներ",
+        "company": "Quantori",
+        "linkedUrl": "https://www.linkedin.com/in/kristina-volkova-86670627/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
+        "name": "Շահանե",
+        "surname": "Տիգրանյան",
+        "position": "ՄՈՒ ինժեներ",
+        "company": "CAST, Russian-Armenian University",
+        "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Shahane_Tigranyan_tz6erf.png"
+      },
+        {
+        "name": "Սպարտակ",
+        "surname": "Բուղդարյան",
+        "position": "Ավագ NLP ինժեներ",
+        "company": "Metric",
+        "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Spartak_Bughdaryan_xuhhrj.png"
+      },
+   {
+        "name": "Լիանա",
+        "surname": "Միքայելյան",
+        "position": "Լուծումների ճարտարապետ",
+        "company": "NVIDIA",
+        "linkedUrl": "https://www.linkedin.com/in/liana-mikaelyan-55317a17a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Liana_Mikaelyan_noaq7a.png"
+      },
+     {
+        "name": "Ստեֆան",
+        "surname": "Պապպ",
+        "position": "",
+        "company": "",
+        "linkedUrl": "https://www.linkedin.com/in/stefanpapp/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Stefan_Papp_zitc24.png"
+      },
+     {
+        "name": "Առնակ",
+        "surname": "Պողոսյան",
+        "position": "Մաթեմատիկայի և ԱԲ պրոդուկտի ղեկավար",
+        "company": "PMI",
+        "linkedUrl": "https://www.linkedin.com/in/arnak-poghosyan-2778793",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Arnak_Poghosyan_o2fark.png"
+      },
+     {
+        "name": "Իգոր",
+        "surname": "Տետկո",
+        "position": "Քիմիաինֆորմատիկայի խմբի ղեկավար",
+        "company": "Helmholtz Munich",
+        "linkedUrl": "https://www.linkedin.com/in/itetko",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Igor_Tetko_sboh9l.png"
+      },
     ]
   },
   "location": {
