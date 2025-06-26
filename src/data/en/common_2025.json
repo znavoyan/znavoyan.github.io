@@ -154,7 +154,30 @@
     "aboveText": "",
     "bottomText": "",
     "speakersList": [
-     
+       {
+        "name": "Elie",
+        "surname": "Bakouch",
+        "position": "Research Engineer at",
+        "company": "HuggingFace",
+        "linkedUrl": "https://www.linkedin.com/in/eliebak/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Elie_Bakouch_vkizw1.png"
+      },
+      {
+        "name": "Augustin",
+        "surname": "Zidek",
+        "position": "Research Engineer at",
+        "company": "Google DeepMind / AlphaFold team",
+        "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+       {
+        "name": "Sayan",
+        "surname": "Ranu",
+        "position": "Associate Professor at",
+        "company": "Indian Institute of Technology Delhi",
+        "linkedUrl": "https://www.cse.iitd.ac.in/~sayan/index.html",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Sayan_Ranu_x6j87n.png"
+      },
     ]
   },
   "location": {
