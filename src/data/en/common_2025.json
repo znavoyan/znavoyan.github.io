@@ -178,6 +178,110 @@
         "linkedUrl": "https://www.cse.iitd.ac.in/~sayan/index.html",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Sayan_Ranu_x6j87n.png"
       },
+       {
+        "name": "Dmitry",
+        "surname": "Vetrov",
+        "position": "Professor of Computer Science at",
+        "company": "Constructor University",
+        "linkedUrl": "https://www.linkedin.com/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Dmitry_Vetrov_vljffk.png"
+      },
+        {
+        "name": "Hynek",
+        "surname": "Kydlicek",
+        "position": "Research Engineer at",
+        "company": "HuggingFace",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Hynek_Kydlicek_kv7jqo.png"
+      },
+       {
+        "name": "Oganes",
+        "surname": "Manasian",
+        "position": "Machine Learning Engineer at",
+        "company": "DeepJudge",
+        "linkedUrl": "https://www.linkedin.com/in/oganes-manasian/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Oganes_Manasian_gdp0ra.png"
+      },
+        {
+        "name": "Serg",
+        "surname": "Shestakov",
+        "position": "CEO at",
+        "company": "MPP Insights",
+        "linkedUrl": "https://linkedin.com/in/sergs",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Serg_Shestakov_yjyxcc.png"
+      },
+       {
+        "name": "Dmitry",
+        "surname": "Dorofeev",
+        "position": "Head of R&D at",
+        "company": "MPP Labs",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
+        "name": "Viktorya",
+        "surname": "Poghosyan",
+        "position": "ML Engineer at",
+        "company": "Center of Advanced Software Technologies (CAST)",
+        "linkedUrl": "https://www.linkedin.com/in/viktorya-poghosyan-11795124a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Viktorya_Poghosyan_fdnjip.png"
+      },
+     {
+        "name": "Kristina",
+        "surname": "Volkova",
+        "position": "Senior Software Engineer at",
+        "company": "Quantori",
+        "linkedUrl": "https://www.linkedin.com/in/kristina-volkova-86670627/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
+        "name": "Shahane",
+        "surname": "Tigranyan",
+        "position": "ML Engineer at",
+        "company": "CAST, Russian-Armenian University",
+        "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Shahane_Tigranyan_tz6erf.png"
+      },
+        {
+        "name": "Spartak",
+        "surname": "Bughdaryan",
+        "position": "Senior NLP Engineer at",
+        "company": "Metric",
+        "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Spartak_Bughdaryan_xuhhrj.png"
+      },
+   {
+        "name": "Liana",
+        "surname": "Mikaelyan",
+        "position": "Solutions Architect at",
+        "company": "NVIDIA",
+        "linkedUrl": "https://www.linkedin.com/in/liana-mikaelyan-55317a17a/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Liana_Mikaelyan_noaq7a.png"
+      },
+     {
+        "name": "Stefan",
+        "surname": "Papp",
+        "position": "",
+        "company": "",
+        "linkedUrl": "https://www.linkedin.com/in/stefanpapp/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Stefan_Papp_zitc24.png"
+      },
+     {
+        "name": "Arnak",
+        "surname": "Poghosyan",
+        "position": "Manager Math and Product AI at",
+        "company": "PMI",
+        "linkedUrl": "https://www.linkedin.com/in/arnak-poghosyan-2778793",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Arnak_Poghosyan_o2fark.png"
+      },
+     {
+        "name": "Igor",
+        "surname": "Tetko",
+        "position": "Group Leader Chemoinformatics at",
+        "company": "Helmholtz Munich",
+        "linkedUrl": "https://www.linkedin.com/in/itetko",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Igor_Tetko_sboh9l.png"
+      },
     ]
   },
   "location": {
