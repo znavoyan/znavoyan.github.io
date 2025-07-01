@@ -322,6 +322,22 @@
         "linkedUrl": "https://www.linkedin.com/in/itetko",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Igor_Tetko_sboh9l.png"
       },
+      {
+        "name": "Ջոնաթան",
+        "surname": "Լաուլայնեն",
+        "position": "Տեխնոլոգիայի գլխավոր տնօրեն",
+        "company": "altrove",
+        "linkedUrl": "https://www.linkedin.com/in/joonatan-laulainen/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751393535/datafest/DataFest%202025/Speakers/DF25_Joonatan_Laulainen.png"
+      },
+      {
+        "name": "Եվգենիյ",
+        "surname": "Գլուխով",
+        "position": "ՄՈՒ հետազոտող",
+        "company": "JetBrains",
+        "linkedUrl": "https://www.linkedin.com/in/evgeniy-glukhov-105686234/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
        {
         "name": "Գրիգորի",
         "surname": "Սապունով",
