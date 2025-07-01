@@ -171,6 +171,22 @@
     "bottomText": "",
     "speakersList": [
        {
+        "name": "Ջեյսոն",
+        "surname": "Սթենլի",
+        "position": "ԱԲ հետազոտությունների տեղակայման ղեկավար",
+        "company": "ServiceNow",
+        "linkedUrl": "https://www.linkedin.com/in/jasonstanley2/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Jason_Stanley.png"
+      },
+      {
+        "name": "Թիմուր",
+        "surname": "Գալիմզյանով",
+        "position": "ՄՈՒ հետազոտող",
+        "company": "JetBrains Research",
+        "linkedUrl": "https://www.linkedin.com/in/timur-galimzyanov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383202/datafest/DataFest%202025/Speakers/DF25_Timur_Galimzyanov.jpg"
+      },
+      {
         "name": "Էլի",
         "surname": "Բակուշ",
         "position": "Հետազոտող ինժեներ",
@@ -249,6 +265,14 @@
         "company": "Quantori",
         "linkedUrl": "https://www.linkedin.com/in/kristina-volkova-86670627/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+      },
+      {
+        "name": "Թոմ",
+        "surname": "Աուգեր",
+        "position": "Ծրագրային ապահովման ավագ ինժեներ",
+        "company": "TUMO",
+        "linkedUrl": "https://linkedin.com/in/taugr/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Thomas_Auger.png"
       },
       {
         "name": "Շահանե",
