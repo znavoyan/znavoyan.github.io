@@ -53,18 +53,27 @@
     "categories": {
       "generalSponsors": [
        {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
-          "linkedUrl": "https://www.worldquant.com/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379668/datafest/DataFest%202025/Sponsors/Freedom_Broker_Logo_sjmah6.png",
+          "linkedUrl": "https://ffin.am/",
           "width": "15.2em"
         },
         {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724883269/datafest/Datafest%202024/Sponsors/IMG_4773_ypfucw.png",
           "linkedUrl": "https://www.pmiscience.com/",
           "width": "15.2em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+          "linkedUrl": "https://www.worldquant.com/",
+          "width": "15.2em"
         }
       ],
       "sponsors": [
-       
+       {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379878/datafest/DataFest%202025/Sponsors/jetbrains-mono-white_zrp22l.png",
+          "linkedUrl": "https://www.jetbrains.com/",
+          "width": "20.9em"
+        }
       ],
       "venueSponsors": [
         {
