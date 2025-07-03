@@ -347,6 +347,14 @@
         "company": "Intento",
         "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1692615802/datafest/DataFest%202023/Speakers/Grigory-Sapunov_sepbqw.png"
+      },
+      {
+        "name": "Erik",
+        "surname": "Arakelyan",
+        "position": "Senior Researcher at",
+        "company": "NVIDIA",
+        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751548071/datafest/DataFest%202025/Speakers/DF_Erik_Arakelyan.jpg"
       }
     ]
   },
