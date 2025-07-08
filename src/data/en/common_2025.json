@@ -54,7 +54,7 @@
       "generalSponsors": [
        {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379668/datafest/DataFest%202025/Sponsors/Freedom_Broker_Logo_sjmah6.png",
-          "linkedUrl": "https://ffin.am/",
+          "linkedUrl": "https://www.ffin.am/",
           "width": "15.2em"
         },
         {
@@ -78,7 +78,7 @@
       "venueSponsors": [
         {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1725311559/datafest/Datafest%202024/Sponsors/woods_blue_n4bxtv.png",
-          "linkedUrl": "https://woodscenter.am/",
+          "linkedUrl": "https://www.woodscenter.am/",
           "width": "15.2em"
         }
       ],
@@ -363,6 +363,14 @@
         "company": "Majid Al Futtaim",
         "linkedUrl": "https://www.linkedin.com/in/androsabashvili/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751973111/datafest/DataFest%202025/Speakers/DF25_Andro_Sabashvili.jpg"
+      },
+      {
+        "name": "Michal",
+        "surname": "Valko",
+        "position": "Chief Models Officer at",
+        "company": "Stealth AI Startup / Inria / ENS",
+        "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751982691/datafest/DataFest%202025/Speakers/DF25_Michal_Valko.jpg"
       }
     ]
   },
