@@ -379,6 +379,14 @@
         "company": "Stealth AI Startup / Inria / ENS",
         "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751982691/datafest/DataFest%202025/Speakers/DF25_Michal_Valko.jpg"
+      },
+      {
+        "name": "Shant",
+        "surname": "Navasardyan",
+        "position": "Staff ML Scientist / Team Lead at",
+        "company": "Picsart Inc",
+        "linkedUrl": "http://linkedin.com/in/shant-navasardyan-1302aa149",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753091070/datafest/DataFest%202025/Speakers/DF25_Shant_Navasardyan.jpg"
       }
     ]
   },
