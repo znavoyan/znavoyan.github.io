@@ -220,6 +220,14 @@
         "linkedUrl": "https://www.linkedin.com/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Dmitry_Vetrov_vljffk.png"
       },
+      {
+        "name": "Pierre",
+        "surname": "Ménard",
+        "position": "Research Scientist at",
+        "company": "Meta",
+        "linkedUrl": "https://menardprr.github.io/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753090306/datafest/DataFest%202025/Speakers/DF25_Pierre_M%C3%A9nard.png"
+      },
         {
         "name": "Hynek",
         "surname": "Kydlicek",
