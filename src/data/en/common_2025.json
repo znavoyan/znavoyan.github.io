@@ -22,7 +22,7 @@
     "main": {
       "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
       "register": "Register here",
-      "registerUrl": "",
+      "registerUrl": "https://datafest25.eventbrite.com",
       "scrollDown": "Scroll down",
       "eventDate": "September 12–13, 2025, at Woods Center"
     },
