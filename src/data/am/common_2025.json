@@ -16,13 +16,13 @@
     ],
     "pastEvents": [2020, 2021, 2022, 2023, 2024],
     "register": "Գրանցվել այստեղ",
-    "registerUrl": ""
+    "registerUrl": "https://datafest25.eventbrite.com"
   },
   "home": {
     "main": {
       "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
       "register": "Գրանցվել այստեղ",
-      "registerUrl": "",
+      "registerUrl": "https://datafest25.eventbrite.com",
       "scrollDown": "Դեպի ներքև",
       "eventDate": "Սեպտեմբեր 12-13, 2025, Վուդս Կենտրոն"
     },
