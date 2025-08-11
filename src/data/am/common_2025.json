@@ -70,6 +70,11 @@
       ],
       "sponsors": [
        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724965435/datafest/Datafest%202024/Sponsors/envoy_logo_white_horizontal_hgt1ot.png",
+          "linkedUrl": "https://www.envoymediagroup.com/",
+          "width": "20.9em"
+        },
+        {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379878/datafest/DataFest%202025/Sponsors/jetbrains-mono-white_zrp22l.png",
           "linkedUrl": "https://www.jetbrains.com/",
           "width": "20.9em"
