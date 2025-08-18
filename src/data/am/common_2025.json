@@ -438,6 +438,14 @@
         "company": "ClickHouse",
         "linkedUrl": "https://www.linkedin.com/in/tylerhannan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755516417/datafest/DataFest%202025/Speakers/DF25_Tyler_Hannan.jpg"
+      },
+      {
+        "name": "Դավիթ",
+        "surname": "Սարգսյան",
+        "position": "ՄՈՒ պրակտիկայի ղեկավար",
+        "company": "Provectus",
+        "linkedUrl": "https://www.linkedin.com/in/david-sarkisyan-phd-80428130/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755529407/datafest/DataFest%202025/Speakers/DF25_David_Sarkisyan.jpg"
       }
     ]
   },
