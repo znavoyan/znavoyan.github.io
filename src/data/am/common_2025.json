@@ -430,6 +430,14 @@
         "company": "Softconstruct",
         "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755505157/datafest/DataFest%202025/Speakers/DF25_Arsen_Yeghiazaryan.jpg"
+      },
+      {
+        "name": "Թայլեր",
+        "surname": "Հաննան",
+        "position": "Ծրագրավորողների հետ աշխատանքների ավագ տնօրեն",
+        "company": "ClickHouse",
+        "linkedUrl": "https://www.linkedin.com/in/tylerhannan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755516417/datafest/DataFest%202025/Speakers/DF25_Tyler_Hannan.jpg"
       }
     ]
   },
