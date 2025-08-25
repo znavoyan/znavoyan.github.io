@@ -41,13 +41,13 @@
     }
   },
   "sponsors": {
-    "title": "Our <span>Sponsors</span>",
-    "generalSponsorsTitle": "<span>Gold Sponsors</span>",
-    "sponsorsTitle": "<span>Silver Sponsors</span>",
-    "venueSponsorsTitle": "<span>Venue Sponsor</span>",
-    "siteSponsorsTitle": "<span>Site Sponsor</span>",
+    "title": "Our <span>Partners</span>",
+    "generalSponsorsTitle": "<span>Gold Partners</span>",
+    "sponsorsTitle": "<span>Silver Partners</span>",
+    "venueSponsorsTitle": "<span>Venue Partner</span>",
+    "siteSponsorsTitle": "<span>Site Partner</span>",
     "seeAll": "See all",
-    "text": "We gratefully acknowledge the following sponsors of DataFest Yerevan 2025, whose support made this event possible",
+    "text": "We gratefully acknowledge the following partners of DataFest Yerevan 2025, whose support made this event possible",
     "aboveText": "",
     "bottomText": "",
     "categories": {
