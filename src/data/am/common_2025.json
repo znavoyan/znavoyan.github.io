@@ -6,7 +6,7 @@
         "key": "speakers"
       },
       {
-        "name": "հովանավորներ",
+        "name": "գործընկերներ",
         "key": "sponsors"
       },
       {
@@ -41,13 +41,13 @@
     }
   },
   "sponsors": {
-    "title": "Մեր <span>Հովանավորները</span>",
-    "generalSponsorsTitle": "<span>Ոսկե հովանավորները</span>",
-    "sponsorsTitle": "<span>Արծաթե հովանավորները</span>",
-    "venueSponsorsTitle": "<span>Տարածքի հովանավոր</span>",
-    "siteSponsorsTitle": "<span>Կայքի հովանավոր</span>",
+    "title": "Մեր <span>Գործընկերները</span>",
+    "generalSponsorsTitle": "<span>Ոսկե գործընկերները</span>",
+    "sponsorsTitle": "<span>Արծաթե գործընկերները</span>",
+    "venueSponsorsTitle": "<span>Տարածքի գործընկեր</span>",
+    "siteSponsorsTitle": "<span>Կայքի գործընկեր</span>",
     "seeAll": "Տեսնել ամբողջը",
-    "text": "Շնորհակալ ենք Դատաֆեստ Երևան 2025-ի թվարկված հովանավորներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
+    "text": "Շնորհակալ ենք Դատաֆեստ Երևան 2025-ի թվարկված գործընկերներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
     "aboveText": "",
     "bottomText": "",
     "categories": {
