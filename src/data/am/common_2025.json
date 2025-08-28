@@ -63,6 +63,11 @@
           "width": "15.2em"
         },
         {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755852582/datafest/DataFest%202025/Sponsors/Softcostruct_Logo.png",
+          "linkedUrl": "https://www.softconstruct.com/",
+          "width": "15.2em"
+        },
+        {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
           "linkedUrl": "https://www.worldquant.com/",
           "width": "15.2em"
@@ -294,6 +299,14 @@
         "company": "Metric",
         "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Spartak_Bughdaryan_xuhhrj.png"
+      },
+      {
+        "name": "Անդրեյ",
+        "surname": "Նարցև",
+        "position": "ՄՈՒ ծրագրավորող",
+        "company": "Yandex.Delivery",
+        "linkedUrl": "",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
       },
    {
         "name": "Լիանա",
