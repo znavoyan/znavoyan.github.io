@@ -155,7 +155,7 @@
             "startHour": 10,
             "startMinutes": 0,
             "endHour": 10,
-            "endMinutes": 20,
+            "endMinutes": 10,
             "abstract": ""
           },
           {
@@ -164,7 +164,7 @@
             "title": "Designing for Trust: System-Level Approaches to Reliable and Impactful AI",
             "roomId": 1,
             "startHour": 10,
-            "startMinutes": 0,
+            "startMinutes": 10,
             "endHour": 11,
             "endMinutes": 0,
             "abstract": "As enterprise adoption of AI accelerates, organizations are running up against a central challenge: trust. On one side, issues of reliability and resilience are limiting the use of AI in high-stakes and execution-critical applications. On the other, mounting concerns about privacy, security, and systemic risks are slowing deployment and raising regulatory scrutiny. Trust has become the decisive barrier to impact. And the key to unlocking it lies not just in the model, but mostly in the system around the model. This talk explores trust as a multi-faceted property -- to be trustworthy, AI systems must be valid and reliable, safe, secure and resilient, transparent and explainable, privacy-respecting and fair. I will examine what it means to move beyond model-centric thinking toward system-centric design, where architectural choices (like context engineering, memory management, and agent coordination) play critical roles. But designing for trust also requires shifting focus from the risks in the 'produced good' (i.e., the AI system) to risks in the production process itself. I will explore how supply chain factors (e.g., data provenance, data poisoning) and value chain design  (e.g., platform-level vs. product-level testing and monitoring) shape outcomes. Ultimately, I argue that trust must be designed in from the very beginning, both in what we build and in how we build it."
@@ -284,10 +284,10 @@
             "speaker": "Pierre Ménard",
             "title": "Nash Learning for Human Feedback and Proximal Methods",
             "roomId": 1,
-            "startHour": 14,
-            "startMinutes": 30,
+            "startHour": 15,
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 0,
+            "endMinutes": 30,
             "abstract": "Traditional Reinforcement Learning from Human Feedback typically relies on reward models and preference structures such as the Bradley–Terry model. While effective in some cases, these assumptions fail to capture the richness of human preferences, which often exhibit phenomena such as intransitivity. In this talk, we present Nash Learning from Human Feedback, a more direct alternative that frames the problem as finding a Nash equilibrium in a game induced by human preferences. This perspective provides a principled way to model complex, potentially non-transitive preferences without the need to introduce a reward model. We will survey methods for approximating Nash equilibria in this setting, with a focus on fine-tuning large language models. In particular, we show how (approximate) proximal optimization methods—notably the Mirror Prox algorithm—can be adapted to achieve fast and stable convergence in this setting. Finally, we discuss practical strategies for efficiently implementing these approximate proximal methods in large-scale training."
           },
           {
@@ -306,10 +306,10 @@
             "speaker": "Kristina Volkova",
             "title": "Advanced CUDA for ML",
             "roomId": 2,
-            "startHour": 14,
-            "startMinutes": 30,
+            "startHour": 15,
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 0,
+            "endMinutes": 30,
             "abstract": "plan for the presentation: 1. Basic CUDA Concepts - Threads and execution model 2. Kernel Optimizations - Launch configuration - Shared memory access - Constant memory usage - CPU-GPU interaction 3. Practical Benefits & Applications in Deep Learning and HPC - Achieve 2–10× speedup by selecting the right memory types - Get ready-to-use CUDA best practices - Learn optimization techniques used in deep learning, rendering, and high-performance computing (HPC)"
           },
           {
@@ -502,10 +502,10 @@
             "speaker": "Artur Shatveryan",
             "title": "Leveraging LLMs and Textual Embedding Models to Build Domain Specific Information Retrieval System",
             "roomId": 1,
-            "startHour": 14,
-            "startMinutes": 30,
+            "startHour": 15,
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 0,
+            "endMinutes": 30,
             "abstract": "This talk presents a practical methodology for designing, collecting, and evaluating domain-specific search datasets to benchmark and optimize vector search systems. Using real-world application search queries as the foundation, we outline how Large Language Models (LLMs) can be leveraged to generate graded relevance variations of queries—covering fully matched, similar, semi-similar, and dissimilar cases. We demonstrate how this multi-level relevance structure enables a more nuanced evaluation of text embedding models, allowing practitioners to select the most effective model for their specific domain. The session covers the complete workflow, from data extraction and augmentation to evaluation metric selection, and shares insights gained from applying this approach in an industrial application search context."
           },
           {
@@ -524,10 +524,10 @@
             "speaker": "Andrei Nartsev",
             "title": "How we increase efficiency in Yandex.Delivery: analytical methods, unsupervised learning and LLM to improve navigation accuracy",
             "roomId": 2,
-            "startHour": 14,
-            "startMinutes": 30,
+            "startHour": 15,
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 0,
+            "endMinutes": 30,
             "abstract": "The effectiveness of couriers depends largely on how accurately and quickly they can find the pick-up point.  We have found that problems related to inaccuracies in coordinates and difficulties with landmarks regularly slow down performers, reducing the effectiveness of our service. To solve these problems, we have proposed an approach that combines analytical methods, unsupervised machine learning methods, and large language models. This approach allowed us not only to identify problem areas and understand the causes of delays, but also to create a solution for automatically adjusting couriers' routes. In the report, we will analyze the analytical insights and ML challenges that have arisen on the way to implementing our solution, as well as share practical recommendations that have significantly improved the accuracy of navigation and the experience of performers."
           },
           {
@@ -546,10 +546,10 @@
             "speaker": "Andro Sabashvili",
             "title": "Conditional Conformal Prediction: Methods and Benchmarks",
             "roomId": 3,
-            "startHour": 14,
-            "startMinutes": 30,
+            "startHour": 15,
+            "startMinutes": 0,
             "endHour": 15,
-            "endMinutes": 0,
+            "endMinutes": 30,
             "abstract": "Conformal prediction provides a robust, distribution-free framework for constructing prediction intervals with valid marginal coverage even in the finite sample setting. But In practice, model performance and thus prediction uncertainty often varies across the input space. This requires algorithms providing conditional coverage in addition to marginal one. In this talk, we will first introduce vanilla conformal prediction algorithms, discussing their performance and scalability. We will then review and benchmark advanced methods for constructing conditional prediction intervals. Attendees will gain practical insights into building prediction intervals and applying these methods to enhance their predictive modeling efforts."
           },
           {
