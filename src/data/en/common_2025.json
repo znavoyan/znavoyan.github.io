@@ -1,469 +1,699 @@
 {
-  "header": {
-    "navbarItems": [
-      {
-        "name": "speakers",
-        "key": "speakers"
-      },
-      {
-        "name": "partners",
-        "key": "sponsors"
-      },
-      {
-        "name": "agenda",
-        "key": "agenda"
-      }
-    ],
-    "pastEvents": [2020, 2021, 2022, 2023, 2024],
-    "register": "Register here",
-    "registerUrl": "https://datafest25.eventbrite.com"
-  },
-  "home": {
-    "main": {
-      "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
+    "header": {
+      "navbarItems": [
+        {
+          "name": "speakers",
+          "key": "speakers"
+        },
+        {
+          "name": "partners",
+          "key": "sponsors"
+        },
+        {
+          "name": "agenda",
+          "key": "agenda"
+        }
+      ],
+      "pastEvents": [2020, 2021, 2022, 2023, 2024],
       "register": "Register here",
-      "registerUrl": "https://datafest25.eventbrite.com",
-      "scrollDown": "Scroll down",
-      "eventDate": "September 12–13, 2025, at Woods Center"
+      "registerUrl": "https://datafest25.eventbrite.com"
     },
-    "about": {
-      "title": "What is <span>DataFest Yerevan</span>",
-      "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
-      "followUs": "Follow us",
-      "facebookPage": "Follow us on Facebook -",
-      "facebookEventPage": "Facebook event page -",
-      "facebookPageUrl": "https://facebook.com/datafestYerevan",
-      "facebookEventPageUrl": "https://www.facebook.com/events/1116080056939530",
-      "facebookPageText": "Facebook page",
-      "facebookEventText": "Facebook event",
-      "youTubePageText": "YouTube page",
-      "youTubeEventPageUrl": "https://www.youtube.com/@DataFestYerevan"
-    }
-  },
-  "sponsors": {
-    "title": "Our <span>Partners</span>",
-    "generalSponsorsTitle": "<span>Gold Partners</span>",
-    "sponsorsTitle": "<span>Silver Partners</span>",
-    "venueSponsorsTitle": "<span>Venue Partner</span>",
-    "siteSponsorsTitle": "<span>Site Partner</span>",
-    "seeAll": "See all",
-    "text": "We gratefully acknowledge the following partners of DataFest Yerevan 2025, whose support made this event possible",
-    "aboveText": "",
-    "bottomText": "",
-    "categories": {
-      "generalSponsors": [
-       {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379668/datafest/DataFest%202025/Sponsors/Freedom_Broker_Logo_sjmah6.png",
-          "linkedUrl": "https://www.ffin.am/",
-          "width": "15.2em"
+    "home": {
+      "main": {
+        "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
+        "register": "Register here",
+        "registerUrl": "https://datafest25.eventbrite.com",
+        "scrollDown": "Scroll down",
+        "eventDate": "September 12–13, 2025, at Woods Center"
+      },
+      "about": {
+        "title": "What is <span>DataFest Yerevan</span>",
+        "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
+        "followUs": "Follow us",
+        "facebookPage": "Follow us on Facebook -",
+        "facebookEventPage": "Facebook event page -",
+        "facebookPageUrl": "https://facebook.com/datafestYerevan",
+        "facebookEventPageUrl": "https://www.facebook.com/events/1116080056939530",
+        "facebookPageText": "Facebook page",
+        "facebookEventText": "Facebook event",
+        "youTubePageText": "YouTube page",
+        "youTubeEventPageUrl": "https://www.youtube.com/@DataFestYerevan"
+      }
+    },
+    "sponsors": {
+      "title": "Our <span>Partners</span>",
+      "generalSponsorsTitle": "<span>Gold Partners</span>",
+      "sponsorsTitle": "<span>Silver Partners</span>",
+      "venueSponsorsTitle": "<span>Venue Partner</span>",
+      "siteSponsorsTitle": "<span>Site Partner</span>",
+      "seeAll": "See all",
+      "text": "We gratefully acknowledge the following partners of DataFest Yerevan 2025, whose support made this event possible",
+      "aboveText": "",
+      "bottomText": "",
+      "categories": {
+        "generalSponsors": [
+         {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379668/datafest/DataFest%202025/Sponsors/Freedom_Broker_Logo_sjmah6.png",
+            "linkedUrl": "https://www.ffin.am/",
+            "width": "15.2em"
+          },
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751380605/datafest/DataFest%202025/Sponsors/PMI_Science_White.png",
+            "linkedUrl": "https://www.pmiscience.com/",
+            "width": "15.2em"
+          },
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755852582/datafest/DataFest%202025/Sponsors/Softcostruct_Logo.png",
+            "linkedUrl": "https://www.softconstruct.com/",
+            "width": "25em"
+          },
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
+            "linkedUrl": "https://www.worldquant.com/",
+            "width": "15.2em"
+          }
+        ],
+        "sponsors": [
+         {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724965435/datafest/Datafest%202024/Sponsors/envoy_logo_white_horizontal_hgt1ot.png",
+            "linkedUrl": "https://www.envoymediagroup.com/",
+            "width": "20.9em"
+          },
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379878/datafest/DataFest%202025/Sponsors/jetbrains-mono-white_zrp22l.png",
+            "linkedUrl": "https://www.jetbrains.com/",
+            "width": "20.9em"
+          },
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756484206/datafest/DataFest%202025/Sponsors/Yandex_Logo.png",
+            "linkedUrl": "https://yandex.com/",
+            "width": "15.9em"
+          }
+        ],
+        "venueSponsors": [
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1725311559/datafest/Datafest%202024/Sponsors/woods_blue_n4bxtv.png",
+            "linkedUrl": "https://www.woodscenter.am/",
+            "width": "15.2em"
+          }
+        ],
+        "siteSponsors": [
+          {
+            "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1752826382/datafest/DataFest%202025/Sponsors/Simply_Logo.png",
+            "linkedUrl": "https://www.simplytechnologies.net/",
+            "width": "24.3em"
+          }
+        ]
+      }
+    },
+    "agenda": {
+      "btnText": "september 12-13",
+      "title": "Our <span>Agenda</span>",
+      "yerevanTime": "All times are in Yerevan time (UTC+4)",
+      "text": "DataFest Yerevan 2025 will be held on September 12 and 13.",
+      "aboveText": "",
+      "bottomText": "",
+      "locations": [
+        {
+          "text": "Hall A (3rd floor)",
+          "id": 1
         },
         {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751380605/datafest/DataFest%202025/Sponsors/PMI_Science_White.png",
-          "linkedUrl": "https://www.pmiscience.com/",
-          "width": "15.2em"
+          "text": "Hall B (2nd floor)",
+          "id": 2
         },
         {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755852582/datafest/DataFest%202025/Sponsors/Softcostruct_Logo.png",
-          "linkedUrl": "https://www.softconstruct.com/",
-          "width": "25em"
-        },
-        {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1660722125/datafest/Datafest%202022/Sponsors/WorldQuant_eiwent.png",
-          "linkedUrl": "https://www.worldquant.com/",
-          "width": "15.2em"
+          "text": "Hall C (5th floor)",
+          "id": 3
         }
       ],
-      "sponsors": [
-       {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1724965435/datafest/Datafest%202024/Sponsors/envoy_logo_white_horizontal_hgt1ot.png",
-          "linkedUrl": "https://www.envoymediagroup.com/",
-          "width": "20.9em"
+      "days": [
+        {
+          "1": [
+            {
+              "id": 0,
+              "key": "break",
+              "title": "Registration",
+              "roomId": 1,
+              "startHour": 10,
+              "startMinutes": 0,
+              "endHour": 10,
+              "endMinutes": 40,
+              "abstract": ""
+            },
+            {
+              "id": 10,
+              "key": "break",
+              "title": "Conference Opening",
+              "roomId": 1,
+              "startHour": 10,
+              "startMinutes": 40,
+              "endHour": 11,
+              "endMinutes": 0,
+              "abstract": ""
+            },
+            {
+              "id": 20,
+              "speaker": "Augustin Zidek",
+              "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+              "roomId": 1,
+              "startHour": 11,
+              "startMinutes": 0,
+              "endHour": 12,
+              "endMinutes": 0,
+              "abstract": "The introduction of AlphaFold 2 has spurred a revolution in modelling the structure of proteins and their interactions, enabling a huge range of applications in protein modelling and design. In this talk, I will describe our new AlphaFold 3 model with a substantially updated diffusion-based architecture that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. I will also talk about the engineering principles behind the development of AlphaFold 1, 2, and 3, as well as the impact that AlphaFold has had so far."
+            },
+            {
+              "id": 30,
+              "speaker": "Lavrentin Arutyunyan",
+              "title": "Measuring Quality of LLMs",
+              "roomId": 1,
+              "startHour": 12,
+              "startMinutes": 5,
+              "endHour": 12,
+              "endMinutes": 30,
+              "abstract": "We will explore how to effectively measure and improve the performance of a generative LLM, with the goal of surpassing state-of-the-art models in your specific domain. Using a practical example of an LLM designed for communication, we'll walk through a step-by-step process that focuses on analytics-driven improvement. This session will concentrate on the key metrics and techniques that can help you refine your model's output."
+            },
+            {
+              "id": 40,
+              "speaker": "Shahane Tigranyan",
+              "title": "Breaking Barriers in Stress Detection: An Inter-Subject Approach Using ECG Signals",
+              "roomId": 3,
+              "startHour": 12,
+              "startMinutes": 5,
+              "endHour": 12,
+              "endMinutes": 30,
+              "abstract": "Stress has become a ubiquitous challenge, affecting individuals’ mental and physical health significantly. Early detection of stress can aid in timely interventions, mitigating long-term health risks. The wourk introduces a novel framework based on deep learning for inter-subject stress detection utilizing electrocardiography data."
+            },
+            {
+              "id": 50,
+              "key": "break",
+              "title": "Coffee Break",
+              "roomId": 1,
+              "startHour": 12,
+              "startMinutes": 30,
+              "endHour": 13,
+              "endMinutes": 0,
+              "abstract": ""
+            },
+            {
+              "id": 60,
+              "speaker": "Letitia Parcalabescu",
+              "title": "On Measuring the Faithfulness of Natural Language Explanations of Large Language Models and Vision & Language Models",
+              "roomId": 1,
+              "startHour": 13,
+              "startMinutes": 0,
+              "endHour": 14,
+              "endMinutes": 0,
+              "abstract": "The usefulness of natural language explanations (NLEs) from large language models (LLMs) depends on their faithfulness, or how accurately they reflect the model's inner workings. In this talk, we compare existing NLE faithfulness tests and characterise them as self-consistency tests. We introduce CC-SHAP, an edit-free measure that examines how model outputs relate to input processing. We present results across various LLMs and tasks, including the self-consistency of vision and language models."
+            },
+            {
+              "id": 70,
+              "speaker": "Marianna Ohanyan",
+              "title": "Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis",
+              "roomId": 2,
+              "startHour": 13,
+              "startMinutes": 0,
+              "endHour": 13,
+              "endMinutes": 30,
+              "abstract": "We present Zero-Painter, a novel training-free frame- work for layout-conditional text-to-image synthesis that facilitates the creation of detailed and controlled imagery from textual prompts. Our method utilizes object masks and individual descriptions, coupled with a global text prompt, to generate images with high fidelity. Zero-Painter employs a two-stage process involving our novel Prompt- Adjusted Cross-Attention (PACA) and Region-Grouped Cross-Attention (ReGCA) blocks, ensuring precise align- ment of generated objects with textual prompts and mask shapes. Our extensive experiments demonstrate that Zero- Painter surpasses current state-of-the-art methods in pre- serving textual details and adhering to mask shapes."
+            },
+            {
+              "id": 80,
+              "speaker": "Kamyar Azizzadenesheli",
+              "title": "Neural Operators: A new era of scientific computing",
+              "roomId": 3,
+              "startHour": 13,
+              "startMinutes": 0,
+              "endHour": 14,
+              "endMinutes": 0,
+              "abstract": "The fabric of our daily lives, from weather forecasts to stock market predictions, from the aerodynamics of vehicles to the development of innovative materials, and even in the realms of medicine and space exploration, relies heavily on scientific and engineering computing. While superintelligence in AI has made significant strides in language processing, visual recognition, and audio analysis, its potential in the vast domain of natural sciences and engineering remains largely untapped. In this talk, we delve into the evolution of AI from neural networks to neural operators, unlocking new frontiers in advanced scientific computing. Join this talk as we explore how these cutting-edge technologies are revolutionizing our approach to understanding and modeling the complexities of the natural world, paving the way for groundbreaking discoveries and innovations."
+            },
+            {
+              "id": 90,
+              "speaker": "Tigran Grigoryan",
+              "title": "Contrastive image-text models for satellite imagery",
+              "roomId": 2,
+              "startHour": 13,
+              "startMinutes": 35,
+              "endHour": 14,
+              "endMinutes": 0,
+              "abstract": "My presentation will explore the creation of a new text-image pair dataset for remote sensing imagery, utilizing OpenStreetMap's tags with images from the FMoW dataset to train a custom CLIP model. The session will feature a comparative performance analysis of this model against OpenAI’s CLIP, demonstrating the effectiveness and potential applications in remote sensing data interpretation."
+            },
+            {
+              "id": 100,
+              "key": "break",
+              "title": "Lunch break",
+              "roomId": 1,
+              "startHour": 14,
+              "startMinutes": 0,
+              "endHour": 15,
+              "endMinutes": 0,
+              "abstract": ""
+            },
+            {
+              "id": 110,
+              "speaker": "Mikhail Burtsev",
+              "title": "Promises and Failures of Large Language Models",
+              "roomId": 1,
+              "startHour": 15,
+              "startMinutes": 0,
+              "endHour": 16,
+              "endMinutes": 0,
+              "abstract": "The ChatGPT release sent shockwaves through the entire IT industry. Generative AI powered by Large Language Models demonstrates impressive natural language understanding and coding capabilities. Indeed, LLMs are very powerful but cannot solve every task. How can we measure their capabilities? When do they shine, and when do they fail?"
+            },
+            {
+              "id": 120,
+              "speaker": "Viacheslav Romanov",
+              "title": "Generative AI security - OWASP Top 10 for LLM",
+              "roomId": 2,
+              "startHour": 15,
+              "startMinutes": 0,
+              "endHour": 15,
+              "endMinutes": 30,
+              "abstract": "Generative AI–based applications have the most business impact when they have access to critical business data and are empowered to take actions on behalf of the user. However, these integrations raise important security questions outlined in the OWASP Top 10 for LLM vulnerabilities and NIST Adversarial Machine Learning frameworks. This lightning talk introduces high-level architectural patterns to effectively mitigate key OWASP Top 10 for LLM vulnerabilities through Zero Trust principles."
+            },
+            {
+              "id": 130,
+              "speaker": "Arman Isajanyan",
+              "title": "Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community",
+              "roomId": 2,
+              "startHour": 15,
+              "startMinutes": 35,
+              "endHour": 16,
+              "endMinutes": 0,
+              "abstract": "Social reward as a form of community recognition provides a strong source of motivation for users of online platforms to engage and contribute with content. The recent progress of text-conditioned image synthesis has ushered in a collaborative era where AI empowers users to craft original visual artworks seeking community validation. Nevertheless, assessing these models in the context of collective community preference introduces distinct challenges. Existing evaluation methods predominantly center on limited size user studies guided by image quality and prompt alignment. This work pioneers a paradigm shift, unveiling Social Reward - an innovative reward modeling framework that leverages implicit feedback from social network users engaged in creative editing of generated images. We embark on an extensive journey of dataset curation and refinement, drawing from Picsart: an online visual creation and editing platform, yielding a first million-user-scale dataset of implicit human preferences for user-generated visual art named Picsart Image-Social. Our analysis exposes the shortcomings of current metrics in modeling community creative preference of text-to-image models’ outputs, compelling us to introduce a novel predictive model explicitly tailored to address these limitations. Rigorous quantitative experiments and user study show that our Social Reward model aligns better with social popularity than existing metrics. Furthermore, we utilize Social Reward to fine-tune text-to-image models, yielding images that are more favored by not only Social Reward, but also other established metrics. These findings highlight the relevance and effectiveness of Social Reward in assessing community appreciation for AI-generated artworks, establishing a closer alignment with users’ creative goals: creating popular visual art"
+            },
+            {
+              "id": 140,
+              "key": "break",
+              "title": "Coffee Break",
+              "roomId": 1,
+              "startHour": 16,
+              "startMinutes": 0,
+              "endHour": 16,
+              "endMinutes": 30,
+              "abstract": ""
+            },
+            {
+              "id": 150,
+              "speaker": "Erik Arakelyan",
+              "title": "Injecting Faithfullnes and Logic into LLMs",
+              "roomId": 1,
+              "startHour": 16,
+              "startMinutes": 30,
+              "endHour": 17,
+              "endMinutes": 30,
+              "abstract": "We will dicuss the directions and techniques the current research proposed for more faithful generation, particularly how logic (commonsense, math etc.) can be applied to ensure higher quality of generations."
+            },
+            {
+              "id": 160,
+              "speaker": "Spartak Bughdaryan",
+              "title": "Large Language Models for Biomedical Knowledge Graph Construction: Information extraction from EMR notes",
+              "roomId": 3,
+              "startHour": 17,
+              "startMinutes": 5,
+              "endHour": 17,
+              "endMinutes": 30,
+              "abstract": "The automatic construction of knowledge graphs (KGs) is an important research area in medicine, with far-reaching applications spanning drug discovery and clinical trial design. These applications hinge on the accurate identification of interactions among medical and biological entities. In this study, we propose an end-to-end machine learning solution based on large language models (LLMs) that utilize electronic medical record notes to construct KGs."
+            },
+            {
+              "id": 390,
+              "speaker": "Hakob Tamazyan",
+              "title": "Benchmarking Robustness of Foundation Models for Remote Sensing",
+              "roomId": 2,
+              "startHour": 12,
+              "startMinutes": 5,
+              "endHour": 12,
+              "endMinutes": 30,
+              "abstract": ""
+            },
+            {
+              "id": 400,
+              "collaborators": ["Nensi Hakobjanyan", "Stefan Christoph"],
+              "title": "Unlocking the Power of LLMs: Next generation recommender systems",
+              "roomId": 2,
+              "startHour": 16,
+              "startMinutes": 30,
+              "endHour": 17,
+              "endMinutes": 30,
+              "abstract": "Ever wondered if there's more to Large Language Models (LLMs) than chatbots and assistants? Join me and Stefan Christoph in this talk to learn about next-generation personalization based on language models. We will discuss the limitations of traditional recommender systems and how their task-specific nature leads to fragmented and inconsistent user experiences. Language modelling, on the other hand, can unify various personalization tasks under a single objective, enabling models to seamlessly transfer knowledge across channels and domains. In this talk, we will delve into the latest advancements in recommender system architectures, provides guidance on how to build a scalable personalization solution, that delivers seamless experience to your end-users across communication channels."
+            },
+            {
+              "id": 410,
+              "speaker": "Tigran Fahradyan",
+              "title": "Small Molecule Optimization with Large Language Models",
+              "roomId": 3,
+              "startHour": 15,
+              "startMinutes": 0,
+              "endHour": 16,
+              "endMinutes": 0,
+              "abstract": ""
+            },
+            {
+              "id": 420,
+              "speaker": "Hasmik Mnatsakanyan",
+              "title": "Exploring the Recall of Language Models: Case Study on Molecules",
+              "roomId": 3,
+              "startHour": 16,
+              "startMinutes": 30,
+              "endHour": 17,
+              "endMinutes": 0,
+              "abstract": "Most of the current benchmarks evaluate generative LLMs based on the accuracy of the generated output. However, in some scenarios, it is also important to evaluate the recall of the generations, i.e., whether a model can generate all correct outputs. There are two challenges in evaluating recall: the lack of complete sets of correct outputs for any task and the existence of many distinct but similar outputs. In this paper, we propose a benchmark from the domain of small organic molecules. We define sets of molecules of varying complexity and fine-tune language models on a subset of those sets. We attempt to generate as many molecules from the target sets as possible and measure the recall, i.e., the percentage of molecules from the target set that were generated by the model. We examine the impact of the training loss function and sampling strategy on the recall. We propose a sampling strategy based on beam search that avoids duplicates and maximizes recall. Finally, we show that given a small validation set, one can predict the recall of the model without actually generating many samples, which can act as a model selection strategy for maximizing generation recall."
+            }
+          ],
+          "date": "September 12",
+          "dateIndex": "1",
+          "year": 2025,
+          "month": 9,
+          "day": 12
         },
         {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379878/datafest/DataFest%202025/Sponsors/jetbrains-mono-white_zrp22l.png",
-          "linkedUrl": "https://www.jetbrains.com/",
-          "width": "20.9em"
-        },
-        {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756484206/datafest/DataFest%202025/Sponsors/Yandex_Logo.png",
-          "linkedUrl": "https://yandex.com/",
-          "width": "15.9em"
-        }
-      ],
-      "venueSponsors": [
-        {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1725311559/datafest/Datafest%202024/Sponsors/woods_blue_n4bxtv.png",
-          "linkedUrl": "https://www.woodscenter.am/",
-          "width": "15.2em"
-        }
-      ],
-      "siteSponsors": [
-        {
-          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1752826382/datafest/DataFest%202025/Sponsors/Simply_Logo.png",
-          "linkedUrl": "https://www.simplytechnologies.net/",
-          "width": "24.3em"
+          "2": [
+            
+          ],
+          "date": "September 13",
+          "dateIndex": "2",
+          "year": 2025,
+          "month": 9,
+          "day": 13
         }
       ]
+    },
+    "organisers": {
+      "title": "Organisers",
+      "teamTitle": "DataFest Team",
+      "organisersList": [],
+      "teamList": [
+        {
+          "name": "Arsen",
+          "surname": "Yeghiazaryan",
+          "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+        },
+        {
+          "name": "Hrant",
+          "surname": "Khachatrian",
+          "linkedUrl": "https://www.linkedin.com/in/hrant-khachatrian-b97425206/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+        },
+        {
+          "name": "Zaven",
+          "surname": "Navoyan",
+          "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+        },
+        {
+          "name": "Andranik",
+          "surname": "Khachatryan",
+          "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+        }
+      ]
+    },
+    "speakers": {
+      "title": "Our <span>Speakers</span>",
+      "btnText": "More",
+      "aboveText": "",
+      "bottomText": "",
+      "speakersList": [
+         {
+          "name": "Jason",
+          "surname": "Stanley",
+          "position": "Head of AI Research Deployment at",
+          "company": "ServiceNow",
+          "linkedUrl": "https://www.linkedin.com/in/jasonstanley2/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Jason_Stanley.png"
+        },
+        {
+          "name": "Timur",
+          "surname": "Galimzyanov",
+          "position": "ML Researcher at",
+          "company": "JetBrains Research",
+          "linkedUrl": "https://www.linkedin.com/in/timur-galimzyanov/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383202/datafest/DataFest%202025/Speakers/DF25_Timur_Galimzyanov.jpg"
+        },
+        {
+          "name": "Elie",
+          "surname": "Bakouch",
+          "position": "Research Engineer at",
+          "company": "HuggingFace",
+          "linkedUrl": "https://www.linkedin.com/in/eliebak/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Elie_Bakouch_vkizw1.png"
+        },
+        {
+          "name": "Augustin",
+          "surname": "Zidek",
+          "position": "Research Engineer at",
+          "company": "Google DeepMind / AlphaFold team",
+          "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
+        },
+         {
+          "name": "Sayan",
+          "surname": "Ranu",
+          "position": "Associate Professor at",
+          "company": "Indian Institute of Technology Delhi",
+          "linkedUrl": "https://www.cse.iitd.ac.in/~sayan/index.html",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Sayan_Ranu_x6j87n.png"
+        },
+         {
+          "name": "Dmitry",
+          "surname": "Vetrov",
+          "position": "Professor of Computer Science at",
+          "company": "Constructor University",
+          "linkedUrl": "https://www.linkedin.com/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Dmitry_Vetrov_vljffk.png"
+        },
+        {
+          "name": "Pierre",
+          "surname": "Ménard",
+          "position": "Research Scientist at",
+          "company": "Meta",
+          "linkedUrl": "https://menardprr.github.io/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753090306/datafest/DataFest%202025/Speakers/DF25_Pierre_M%C3%A9nard.png"
+        },
+          {
+          "name": "Hynek",
+          "surname": "Kydlicek",
+          "position": "Research Engineer at",
+          "company": "HuggingFace",
+          "linkedUrl": "",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Hynek_Kydlicek_kv7jqo.png"
+        },
+          {
+          "name": "Serg",
+          "surname": "Shestakov",
+          "position": "CEO at",
+          "company": "MPP Insights",
+          "linkedUrl": "https://linkedin.com/in/sergs",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Serg_Shestakov_yjyxcc.png"
+        },
+         {
+          "name": "Dmitry",
+          "surname": "Dorofeev",
+          "position": "Head of R&D at",
+          "company": "MPP Labs",
+          "linkedUrl": "",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751546270/datafest/DataFest%202025/Speakers/DF25_Dmitry_Dorofeev.jpg"
+        },
+        {
+          "name": "Viktorya",
+          "surname": "Poghosyan",
+          "position": "ML Engineer at",
+          "company": "Center of Advanced Software Technologies (CAST)",
+          "linkedUrl": "https://www.linkedin.com/in/viktorya-poghosyan-11795124a/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Viktorya_Poghosyan_fdnjip.png"
+        },
+       {
+          "name": "Kristina",
+          "surname": "Volkova",
+          "position": "Senior Software Engineer at",
+          "company": "Quantori",
+          "linkedUrl": "https://www.linkedin.com/in/kristina-volkova-86670627/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1752206423/datafest/DataFest%202025/Speakers/DF25_Kristina_Volkova.jpg"
+        },
+        {
+          "name": "Tom",
+          "surname": "Auger",
+          "position": "Senior Software Engineer at",
+          "company": "TUMO",
+          "linkedUrl": "https://linkedin.com/in/taugr/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Thomas_Auger.png"
+        },
+        {
+          "name": "Shahane",
+          "surname": "Tigranyan",
+          "position": "ML Engineer at",
+          "company": "CAST, Russian-Armenian University",
+          "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Shahane_Tigranyan_tz6erf.png"
+        },
+          {
+          "name": "Spartak",
+          "surname": "Bughdaryan",
+          "position": "Senior NLP Engineer at",
+          "company": "Metric",
+          "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Spartak_Bughdaryan_xuhhrj.png"
+        },
+        {
+          "name": "Andrei",
+          "surname": "Nartsev",
+          "position": "ML Developer at",
+          "company": "Yandex.Delivery",
+          "linkedUrl": "https://www.linkedin.com/in/andrei-nartsev-55b350205/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756473780/datafest/DataFest%202025/Speakers/DF25_Andrei_Nartsev.jpg"
+        },
+     {
+          "name": "Liana",
+          "surname": "Mikaelyan",
+          "position": "Solutions Architect at",
+          "company": "NVIDIA",
+          "linkedUrl": "https://www.linkedin.com/in/liana-mikaelyan-55317a17a/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Liana_Mikaelyan_noaq7a.png"
+        },
+       {
+          "name": "Stefan",
+          "surname": "Papp",
+          "position": "",
+          "company": "",
+          "linkedUrl": "https://www.linkedin.com/in/stefanpapp/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Stefan_Papp_zitc24.png"
+        },
+       {
+          "name": "Levon",
+          "surname": "Berberyan",
+          "position": "Senior Math and Product AI Engineer at",
+          "company": "PMI",
+          "linkedUrl": "",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755713628/datafest/DataFest%202025/Speakers/DF25_Levon_Berberyan.jpg"
+        },
+       {
+          "name": "Igor",
+          "surname": "Tetko",
+          "position": "Group Leader Chemoinformatics at",
+          "company": "Helmholtz Munich",
+          "linkedUrl": "https://www.linkedin.com/in/itetko/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Igor_Tetko_sboh9l.png"
+        },
+        {
+          "name": "Joonatan",
+          "surname": "Laulainen",
+          "position": "CTO at",
+          "company": "altrove",
+          "linkedUrl": "https://www.linkedin.com/in/joonatan-laulainen/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751393535/datafest/DataFest%202025/Speakers/DF25_Joonatan_Laulainen.png"
+        },
+        {
+          "name": "Evgeniy",
+          "surname": "Glukhov",
+          "position": "ML Researcher at",
+          "company": "JetBrains",
+          "linkedUrl": "https://www.linkedin.com/in/evgeniy-glukhov-105686234/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753282345/datafest/DataFest%202025/Speakers/DF25_Evgeniy_Glukhov.jpg"
+        },
+        {
+          "name": "Erik",
+          "surname": "Arakelyan",
+          "position": "Senior Researcher at",
+          "company": "NVIDIA",
+          "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751548071/datafest/DataFest%202025/Speakers/DF_Erik_Arakelyan.jpg"
+        },
+        {
+          "name": "Andro",
+          "surname": "Sabashvili",
+          "position": "Staff Data Scientist at",
+          "company": "Majid Al Futtaim",
+          "linkedUrl": "https://www.linkedin.com/in/androsabashvili/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751973111/datafest/DataFest%202025/Speakers/DF25_Andro_Sabashvili.jpg"
+        },
+        {
+          "name": "Michal",
+          "surname": "Valko",
+          "position": "Chief Models Officer at",
+          "company": "Stealth AI Startup / Inria / ENS",
+          "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751982691/datafest/DataFest%202025/Speakers/DF25_Michal_Valko.jpg"
+        },
+        {
+          "name": "Shant",
+          "surname": "Navasardyan",
+          "position": "Staff ML Scientist / Team Lead at",
+          "company": "Picsart Inc",
+          "linkedUrl": "http://linkedin.com/in/shant-navasardyan-1302aa149",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753091070/datafest/DataFest%202025/Speakers/DF25_Shant_Navasardyan.jpg"
+        },
+        {
+          "name": "Mark",
+          "surname": "Hamazaspyan",
+          "position": "ML Team Lead at",
+          "company": "Metric",
+          "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753098612/datafest/DataFest%202025/Speakers/DF25_Mark_Hamazaspyan.jpg"
+        },
+        {
+          "name": "Max",
+          "surname": "Pershin",
+          "position": "Principal Data Scientist at",
+          "company": "Horizon21",
+          "linkedUrl": "https://www.linkedin.com/in/maximpershin/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753956744/datafest/DataFest%202025/Speakers/DF25_Max_Pershin.jpg"
+        },
+        {
+          "name": "Mikhail",
+          "surname": "Burtsev",
+          "position": "Landau AI Fellow at",
+          "company": "London Institute for Mathematical Sciences",
+          "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1754733102/datafest/DataFest%202025/Speakers/DF25_Mikhail_Burtsev.jpg"
+        },
+        {
+          "name": "Artur",
+          "surname": "Shatveryan",
+          "position": "ML Scientist at",
+          "company": "Picsart Inc",
+          "linkedUrl": "https://www.linkedin.com/in/arthur-shatveryan-561007144/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1754932635/datafest/DataFest%202025/Speakers/DF25_Artur_Shatveryan.jpg"
+        },
+        {
+          "name": "Arsen",
+          "surname": "Yeghiazaryan",
+          "position": "Deputy Chief AI Officer at",
+          "company": "Softconstruct",
+          "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755505157/datafest/DataFest%202025/Speakers/DF25_Arsen_Yeghiazaryan.jpg"
+        },
+        {
+          "name": "Tyler",
+          "surname": "Hannan",
+          "position": "Senior Director, Developer Relations at",
+          "company": "ClickHouse",
+          "linkedUrl": "https://www.linkedin.com/in/tylerhannan/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755516417/datafest/DataFest%202025/Speakers/DF25_Tyler_Hannan.jpg"
+        },
+        {
+          "name": "David",
+          "surname": "Sarkisyan",
+          "position": "ML Practice Lead at",
+          "company": "Provectus",
+          "linkedUrl": "https://www.linkedin.com/in/david-sarkisyan-phd-80428130/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755529407/datafest/DataFest%202025/Speakers/DF25_David_Sarkisyan.jpg"
+        },
+        {
+          "name": "Alena",
+          "surname": "Zaytseva",
+          "position": "Head of AI and Logistics Projects Group at",
+          "company": "Yandex Lavka",
+          "linkedUrl": "https://telegram.me/alena_zayts/",
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755706899/datafest/DataFest%202025/Speakers/DF25_Alena_Zaytseva.jpg"
+        }
+      ]
+    },
+    "location": {
+      "title": "Woods Center, Yerevan, Garni Road, Close to Jrvezh State Forest Park",
+      "lat": "40.1837318004724",
+      "lng": "44.629297210056556"
     }
-  },
-  "agenda": {
-    "btnText": "september 12-13",
-    "title": "Our <span>Agenda</span>",
-    "yerevanTime": "All times are in Yerevan time (UTC+4)",
-    "text": "DataFest Yerevan 2025 will be held on September 12 and 13.",
-    "aboveText": "",
-    "bottomText": "",
-    "locations": [
-      {
-        "text": "Hall A (3rd floor)",
-        "id": 1
-      },
-      {
-        "text": "Hall B (2nd floor)",
-        "id": 2
-      },
-      {
-        "text": "Hall C (5th floor)",
-        "id": 3
-      }
-    ],
-    "days": [
-      {
-        "1": [
-         
-        ],
-        "date": "September 12",
-        "dateIndex": "1",
-        "year": 2025,
-        "month": 9,
-        "day": 12
-      },
-      {
-        "2": [
-          
-        ],
-        "date": "September 13",
-        "dateIndex": "2",
-        "year": 2025,
-        "month": 9,
-        "day": 13
-      }
-    ]
-  },
-  "organisers": {
-    "title": "Organisers",
-    "teamTitle": "DataFest Team",
-    "organisersList": [],
-    "teamList": [
-      {
-        "name": "Arsen",
-        "surname": "Yeghiazaryan",
-        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
-      },
-      {
-        "name": "Hrant",
-        "surname": "Khachatrian",
-        "linkedUrl": "https://www.linkedin.com/in/hrant-khachatrian-b97425206/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
-      },
-      {
-        "name": "Zaven",
-        "surname": "Navoyan",
-        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
-      },
-      {
-        "name": "Andranik",
-        "surname": "Khachatryan",
-        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
-      }
-    ]
-  },
-  "speakers": {
-    "title": "Our <span>Speakers</span>",
-    "btnText": "More",
-    "aboveText": "",
-    "bottomText": "",
-    "speakersList": [
-       {
-        "name": "Jason",
-        "surname": "Stanley",
-        "position": "Head of AI Research Deployment at",
-        "company": "ServiceNow",
-        "linkedUrl": "https://www.linkedin.com/in/jasonstanley2/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Jason_Stanley.png"
-      },
-      {
-        "name": "Timur",
-        "surname": "Galimzyanov",
-        "position": "ML Researcher at",
-        "company": "JetBrains Research",
-        "linkedUrl": "https://www.linkedin.com/in/timur-galimzyanov/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383202/datafest/DataFest%202025/Speakers/DF25_Timur_Galimzyanov.jpg"
-      },
-      {
-        "name": "Elie",
-        "surname": "Bakouch",
-        "position": "Research Engineer at",
-        "company": "HuggingFace",
-        "linkedUrl": "https://www.linkedin.com/in/eliebak/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Elie_Bakouch_vkizw1.png"
-      },
-      {
-        "name": "Augustin",
-        "surname": "Zidek",
-        "position": "Research Engineer at",
-        "company": "Google DeepMind / AlphaFold team",
-        "linkedUrl": "https://www.linkedin.com/in/augustinzidek/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
-      },
-       {
-        "name": "Sayan",
-        "surname": "Ranu",
-        "position": "Associate Professor at",
-        "company": "Indian Institute of Technology Delhi",
-        "linkedUrl": "https://www.cse.iitd.ac.in/~sayan/index.html",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Sayan_Ranu_x6j87n.png"
-      },
-       {
-        "name": "Dmitry",
-        "surname": "Vetrov",
-        "position": "Professor of Computer Science at",
-        "company": "Constructor University",
-        "linkedUrl": "https://www.linkedin.com/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Dmitry_Vetrov_vljffk.png"
-      },
-      {
-        "name": "Pierre",
-        "surname": "Ménard",
-        "position": "Research Scientist at",
-        "company": "Meta",
-        "linkedUrl": "https://menardprr.github.io/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753090306/datafest/DataFest%202025/Speakers/DF25_Pierre_M%C3%A9nard.png"
-      },
-        {
-        "name": "Hynek",
-        "surname": "Kydlicek",
-        "position": "Research Engineer at",
-        "company": "HuggingFace",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Hynek_Kydlicek_kv7jqo.png"
-      },
-        {
-        "name": "Serg",
-        "surname": "Shestakov",
-        "position": "CEO at",
-        "company": "MPP Insights",
-        "linkedUrl": "https://linkedin.com/in/sergs",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Serg_Shestakov_yjyxcc.png"
-      },
-       {
-        "name": "Dmitry",
-        "surname": "Dorofeev",
-        "position": "Head of R&D at",
-        "company": "MPP Labs",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751546270/datafest/DataFest%202025/Speakers/DF25_Dmitry_Dorofeev.jpg"
-      },
-      {
-        "name": "Viktorya",
-        "surname": "Poghosyan",
-        "position": "ML Engineer at",
-        "company": "Center of Advanced Software Technologies (CAST)",
-        "linkedUrl": "https://www.linkedin.com/in/viktorya-poghosyan-11795124a/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Viktorya_Poghosyan_fdnjip.png"
-      },
-     {
-        "name": "Kristina",
-        "surname": "Volkova",
-        "position": "Senior Software Engineer at",
-        "company": "Quantori",
-        "linkedUrl": "https://www.linkedin.com/in/kristina-volkova-86670627/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1752206423/datafest/DataFest%202025/Speakers/DF25_Kristina_Volkova.jpg"
-      },
-      {
-        "name": "Tom",
-        "surname": "Auger",
-        "position": "Senior Software Engineer at",
-        "company": "TUMO",
-        "linkedUrl": "https://linkedin.com/in/taugr/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Thomas_Auger.png"
-      },
-      {
-        "name": "Shahane",
-        "surname": "Tigranyan",
-        "position": "ML Engineer at",
-        "company": "CAST, Russian-Armenian University",
-        "linkedUrl": "https://www.linkedin.com/in/shahane-tigranyan-47b096173/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Shahane_Tigranyan_tz6erf.png"
-      },
-        {
-        "name": "Spartak",
-        "surname": "Bughdaryan",
-        "position": "Senior NLP Engineer at",
-        "company": "Metric",
-        "linkedUrl": "https://www.linkedin.com/in/spartak-bughdaryan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Spartak_Bughdaryan_xuhhrj.png"
-      },
-      {
-        "name": "Andrei",
-        "surname": "Nartsev",
-        "position": "ML Developer at",
-        "company": "Yandex.Delivery",
-        "linkedUrl": "https://www.linkedin.com/in/andrei-nartsev-55b350205/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756473780/datafest/DataFest%202025/Speakers/DF25_Andrei_Nartsev.jpg"
-      },
-   {
-        "name": "Liana",
-        "surname": "Mikaelyan",
-        "position": "Solutions Architect at",
-        "company": "NVIDIA",
-        "linkedUrl": "https://www.linkedin.com/in/liana-mikaelyan-55317a17a/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Liana_Mikaelyan_noaq7a.png"
-      },
-     {
-        "name": "Stefan",
-        "surname": "Papp",
-        "position": "",
-        "company": "",
-        "linkedUrl": "https://www.linkedin.com/in/stefanpapp/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Stefan_Papp_zitc24.png"
-      },
-     {
-        "name": "Levon",
-        "surname": "Berberyan",
-        "position": "Senior Math and Product AI Engineer at",
-        "company": "PMI",
-        "linkedUrl": "",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755713628/datafest/DataFest%202025/Speakers/DF25_Levon_Berberyan.jpg"
-      },
-     {
-        "name": "Igor",
-        "surname": "Tetko",
-        "position": "Group Leader Chemoinformatics at",
-        "company": "Helmholtz Munich",
-        "linkedUrl": "https://www.linkedin.com/in/itetko/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Igor_Tetko_sboh9l.png"
-      },
-      {
-        "name": "Joonatan",
-        "surname": "Laulainen",
-        "position": "CTO at",
-        "company": "altrove",
-        "linkedUrl": "https://www.linkedin.com/in/joonatan-laulainen/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751393535/datafest/DataFest%202025/Speakers/DF25_Joonatan_Laulainen.png"
-      },
-      {
-        "name": "Evgeniy",
-        "surname": "Glukhov",
-        "position": "ML Researcher at",
-        "company": "JetBrains",
-        "linkedUrl": "https://www.linkedin.com/in/evgeniy-glukhov-105686234/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753282345/datafest/DataFest%202025/Speakers/DF25_Evgeniy_Glukhov.jpg"
-      },
-      {
-        "name": "Erik",
-        "surname": "Arakelyan",
-        "position": "Senior Researcher at",
-        "company": "NVIDIA",
-        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751548071/datafest/DataFest%202025/Speakers/DF_Erik_Arakelyan.jpg"
-      },
-      {
-        "name": "Andro",
-        "surname": "Sabashvili",
-        "position": "Staff Data Scientist at",
-        "company": "Majid Al Futtaim",
-        "linkedUrl": "https://www.linkedin.com/in/androsabashvili/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751973111/datafest/DataFest%202025/Speakers/DF25_Andro_Sabashvili.jpg"
-      },
-      {
-        "name": "Michal",
-        "surname": "Valko",
-        "position": "Chief Models Officer at",
-        "company": "Stealth AI Startup / Inria / ENS",
-        "linkedUrl": "https://www.linkedin.com/in/michalvalko/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751982691/datafest/DataFest%202025/Speakers/DF25_Michal_Valko.jpg"
-      },
-      {
-        "name": "Shant",
-        "surname": "Navasardyan",
-        "position": "Staff ML Scientist / Team Lead at",
-        "company": "Picsart Inc",
-        "linkedUrl": "http://linkedin.com/in/shant-navasardyan-1302aa149",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753091070/datafest/DataFest%202025/Speakers/DF25_Shant_Navasardyan.jpg"
-      },
-      {
-        "name": "Mark",
-        "surname": "Hamazaspyan",
-        "position": "ML Team Lead at",
-        "company": "Metric",
-        "linkedUrl": "https://www.linkedin.com/in/mark-hamazaspyan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753098612/datafest/DataFest%202025/Speakers/DF25_Mark_Hamazaspyan.jpg"
-      },
-      {
-        "name": "Max",
-        "surname": "Pershin",
-        "position": "Principal Data Scientist at",
-        "company": "Horizon21",
-        "linkedUrl": "https://www.linkedin.com/in/maximpershin/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753956744/datafest/DataFest%202025/Speakers/DF25_Max_Pershin.jpg"
-      },
-      {
-        "name": "Mikhail",
-        "surname": "Burtsev",
-        "position": "Landau AI Fellow at",
-        "company": "London Institute for Mathematical Sciences",
-        "linkedUrl": "https://www.linkedin.com/in/mikhail-burtsev-85a47b9/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1754733102/datafest/DataFest%202025/Speakers/DF25_Mikhail_Burtsev.jpg"
-      },
-      {
-        "name": "Artur",
-        "surname": "Shatveryan",
-        "position": "ML Scientist at",
-        "company": "Picsart Inc",
-        "linkedUrl": "https://www.linkedin.com/in/arthur-shatveryan-561007144/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1754932635/datafest/DataFest%202025/Speakers/DF25_Artur_Shatveryan.jpg"
-      },
-      {
-        "name": "Arsen",
-        "surname": "Yeghiazaryan",
-        "position": "Deputy Chief AI Officer at",
-        "company": "Softconstruct",
-        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755505157/datafest/DataFest%202025/Speakers/DF25_Arsen_Yeghiazaryan.jpg"
-      },
-      {
-        "name": "Tyler",
-        "surname": "Hannan",
-        "position": "Senior Director, Developer Relations at",
-        "company": "ClickHouse",
-        "linkedUrl": "https://www.linkedin.com/in/tylerhannan/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755516417/datafest/DataFest%202025/Speakers/DF25_Tyler_Hannan.jpg"
-      },
-      {
-        "name": "David",
-        "surname": "Sarkisyan",
-        "position": "ML Practice Lead at",
-        "company": "Provectus",
-        "linkedUrl": "https://www.linkedin.com/in/david-sarkisyan-phd-80428130/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755529407/datafest/DataFest%202025/Speakers/DF25_David_Sarkisyan.jpg"
-      },
-      {
-        "name": "Alena",
-        "surname": "Zaytseva",
-        "position": "Head of AI and Logistics Projects Group at",
-        "company": "Yandex Lavka",
-        "linkedUrl": "https://telegram.me/alena_zayts/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755706899/datafest/DataFest%202025/Speakers/DF25_Alena_Zaytseva.jpg"
-      }
-    ]
-  },
-  "location": {
-    "title": "Woods Center, Yerevan, Garni Road, Close to Jrvezh State Forest Park",
-    "lat": "40.1837318004724",
-    "lng": "44.629297210056556"
   }
-}
