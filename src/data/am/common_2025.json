@@ -155,7 +155,7 @@
             "startHour": 10,
             "startMinutes": 0,
             "endHour": 10,
-            "endMinutes": 20,
+            "endMinutes": 10,
             "abstract": ""
           },
           {
@@ -164,7 +164,7 @@
             "title": "Designing for Trust: System-Level Approaches to Reliable and Impactful AI",
             "roomId": 1,
             "startHour": 10,
-            "startMinutes": 0,
+            "startMinutes": 10,
             "endHour": 11,
             "endMinutes": 0,
             "abstract": "As enterprise adoption of AI accelerates, organizations are running up against a central challenge: trust. On one side, issues of reliability and resilience are limiting the use of AI in high-stakes and execution-critical applications. On the other, mounting concerns about privacy, security, and systemic risks are slowing deployment and raising regulatory scrutiny. Trust has become the decisive barrier to impact. And the key to unlocking it lies not just in the model, but mostly in the system around the model. This talk explores trust as a multi-faceted property -- to be trustworthy, AI systems must be valid and reliable, safe, secure and resilient, transparent and explainable, privacy-respecting and fair. I will examine what it means to move beyond model-centric thinking toward system-centric design, where architectural choices (like context engineering, memory management, and agent coordination) play critical roles. But designing for trust also requires shifting focus from the risks in the 'produced good' (i.e., the AI system) to risks in the production process itself. I will explore how supply chain factors (e.g., data provenance, data poisoning) and value chain design  (e.g., platform-level vs. product-level testing and monitoring) shape outcomes. Ultimately, I argue that trust must be designed in from the very beginning, both in what we build and in how we build it."
