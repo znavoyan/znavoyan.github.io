@@ -522,7 +522,7 @@
           {
             "id": 130,
             "speaker": "Andrei Nartsev",
-            "title": "How we increase efficiency in Yandex.Delivery: analytical methods, unsupervised learning and LLM to improve navigation accuracy",
+            "title": "Boosting Delivery Efficiency with Unsupervised Learning and LLMs",
             "roomId": 2,
             "startHour": 15,
             "startMinutes": 0,
@@ -743,7 +743,7 @@
       {
         "name": "Andrei",
         "surname": "Nartsev",
-        "position": "ML Developer at",
+        "position": "Head of Applied ML Team at",
         "company": "Yandex.Delivery",
         "linkedUrl": "https://www.linkedin.com/in/andrei-nartsev-55b350205/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756473780/datafest/DataFest%202025/Speakers/DF25_Andrei_Nartsev.jpg"
@@ -801,7 +801,7 @@
         "surname": "Arakelyan",
         "position": "Senior Researcher at",
         "company": "NVIDIA",
-        "linkedUrl": "https://www.linkedin.com/in/grigorysapunov/",
+        "linkedUrl": "",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751548071/datafest/DataFest%202025/Speakers/DF_Erik_Arakelyan.jpg"
       },
       {
@@ -877,20 +877,12 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755516417/datafest/DataFest%202025/Speakers/DF25_Tyler_Hannan.jpg"
       },
       {
-        "name": "David",
-        "surname": "Sarkisyan",
-        "position": "ML Practice Lead at",
-        "company": "Provectus",
-        "linkedUrl": "https://www.linkedin.com/in/david-sarkisyan-phd-80428130/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755529407/datafest/DataFest%202025/Speakers/DF25_David_Sarkisyan.jpg"
-      },
-      {
-        "name": "Alena",
-        "surname": "Zaytseva",
-        "position": "Head of AI and Logistics Projects Group at",
-        "company": "Yandex Lavka",
-        "linkedUrl": "https://telegram.me/alena_zayts/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755706899/datafest/DataFest%202025/Speakers/DF25_Alena_Zaytseva.jpg"
+        "name": "Adam",
+        "surname": "Bittlingmayer",
+        "position": "CEO at",
+        "company": "ModelFront",
+        "linkedUrl": "https://www.modelfront.com",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756738890/datafest/DataFest%202025/Speakers/DF25_Adam_Bittlingmayer.png"
       }
     ]
   },
