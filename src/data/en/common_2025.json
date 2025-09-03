@@ -126,15 +126,15 @@
     "bottomText": "",
     "locations": [
       {
-        "text": "Hall A (3rd floor)",
+        "text": "Hall A (block II, 3rd floor)",
         "id": 1
       },
       {
-        "text": "Hall B (2nd floor)",
+        "text": "Hall B (block II, 2nd floor)",
         "id": 2
       },
       {
-        "text": "Hall C (5th floor)",
+        "text": "Hall C (block III, 1th floor)",
         "id": 3
       }
     ],
