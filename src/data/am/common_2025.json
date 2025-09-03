@@ -149,21 +149,21 @@
           {
             "id": 0,
             "key": "break",
-            "title": "Registration",
+            "title": "Գրանցում",
             "roomId": 1,
             "startHour": 9,
             "startMinutes": 0,
             "endHour": 9,
-            "endMinutes": 50,
+            "endMinutes": 45,
             "abstract": ""
           },
           {
             "id": 10,
             "key": "break",
-            "title": "Conference Opening",
+            "title": "Կոնֆերանսի բացում",
             "roomId": 1,
             "startHour": 9,
-            "startMinutes": 50,
+            "startMinutes": 45,
             "endHour": 10,
             "endMinutes": 0,
             "abstract": ""
@@ -757,14 +757,6 @@
         "company": "Yandex Armenia",
         "linkedUrl": "https://www.linkedin.com/in/andrei-nartsev-55b350205/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756473780/datafest/DataFest%202025/Speakers/DF25_Andrei_Nartsev.jpg"
-      },
-      {
-        "name": "Լիանա",
-        "surname": "Միքայելյան",
-        "position": "Լուծումների ճարտարապետ",
-        "company": "NVIDIA",
-        "linkedUrl": "https://www.linkedin.com/in/liana-mikaelyan-55317a17a/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Liana_Mikaelyan_noaq7a.png"
       },
       {
         "name": "Ստեֆան",
