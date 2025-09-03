@@ -92,7 +92,12 @@
         },
         {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756756492/datafest/DataFest%202025/Sponsors/Provectus_Logo_White.png",
-          "linkedUrl": "https://www.provectus.com",
+          "linkedUrl": "https://www.provectus.com/",
+          "width": "20.9em"
+        },
+        {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756899221/datafest/DataFest%202025/Sponsors/Eleveight_Logo.png",
+          "linkedUrl": "https://www.eleveight.ai/",
           "width": "20.9em"
         },
         {
