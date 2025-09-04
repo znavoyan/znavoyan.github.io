@@ -552,17 +552,6 @@
             "abstract": "The stochastic optimization of a loss function during the training of deep neural networks shares many similarities with classical thermodynamical systems. By the end of training, the neural network reaches an equilibrium state that can be described by rules resembling the ideal gas law. It appears possible to define analogues of temperature, pressure, and volume for neural networks and to consider \"isothermal,\" \"isobaric,\" and \"isochoric\" processes within the deep learning context. In this talk, we will derive these rules and demonstrate how they can be applied to analyze the behavior of neural networks."
           },
           {
-            "id": 150,
-            "speaker": "Andro Sabashvili",
-            "title": "Conditional Conformal Prediction: Methods and Benchmarks",
-            "roomId": 3,
-            "startHour": 15,
-            "startMinutes": 0,
-            "endHour": 15,
-            "endMinutes": 30,
-            "abstract": "Conformal prediction provides a robust, distribution-free framework for constructing prediction intervals with valid marginal coverage even in the finite sample setting. But In practice, model performance and thus prediction uncertainty often varies across the input space. This requires algorithms providing conditional coverage in addition to marginal one. In this talk, we will first introduce vanilla conformal prediction algorithms, discussing their performance and scalability. We will then review and benchmark advanced methods for constructing conditional prediction intervals. Attendees will gain practical insights into building prediction intervals and applying these methods to enhance their predictive modeling efforts."
-          },
-          {
             "id": 160,
             "key": "break",
             "title": "☕ Coffee Break",
