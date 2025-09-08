@@ -874,6 +874,14 @@
         "company": "ModelFront",
         "linkedUrl": "https://www.modelfront.com",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756738890/datafest/DataFest%202025/Speakers/DF25_Adam_Bittlingmayer.png"
+      },
+      {
+        "name": "Khoren",
+        "surname": "Petrosyan",
+        "position": "ML Researcher at",
+        "company": "YerevaNN",
+        "linkedUrl": "https://www.linkedin.com/in/khoren-petrosyan/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757306348/datafest/DataFest%202025/Speakers/DF25_Khoren_Petrosyan.jpg"
       }
     ]
   },
