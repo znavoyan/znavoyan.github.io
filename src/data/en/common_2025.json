@@ -152,9 +152,9 @@
             "title": "Registration",
             "roomId": 1,
             "startHour": 9,
-            "startMinutes": 0,
-            "endHour": 9,
-            "endMinutes": 45,
+            "startMinutes": 30,
+            "endHour": 10,
+            "endMinutes": 0,
             "abstract": ""
           },
           {
@@ -162,10 +162,10 @@
             "key": "break",
             "title": "Conference Opening",
             "roomId": 1,
-            "startHour": 9,
-            "startMinutes": 45,
+            "startHour": 10,
+            "startMinutes": 0,
             "endHour": 10,
-            "endMinutes": 0,
+            "endMinutes": 20,
             "abstract": ""
           },
           {
@@ -204,13 +204,13 @@
           {
             "id": 50,
             "speaker": "Arsen Yeghiazaryan",
-            "title": "On A/B testing (to be edited)",
+            "title": "A/B Testing Under Skew: Techniques for Reliable Inference on Heavy-Tailed Metrics",
             "roomId": 3,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": "Comprehensive guide to A/B testing in AI and machine learning contexts. This talk covers experimental design, statistical significance, bias mitigation, and best practices for testing AI-powered features in production environments."
+            "abstract": "Traditional A/B testing methods often break down when applied to metrics with highly skewed or heavy-tailed distributions, leading to inflated variance and unreliable conclusions. In this talk, I will walk through practical techniques to reduce variance and improve test power, including stratification of users and variance-stabilizing transformations. I will also discuss decomposition of complex metrics (e.g., turnover) into interpretable factors, and the hidden pitfalls that come with it."
           },
           {
             "id": 60,
@@ -576,7 +576,7 @@
           {
             "id": 160,
             "speaker": "Elie Bakouch",
-            "title": "Training smol and large LLMs (to be confirmed)",
+            "title": "Training smol and large LLMs",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 0,
