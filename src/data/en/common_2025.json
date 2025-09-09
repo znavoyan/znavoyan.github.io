@@ -598,11 +598,11 @@
           {
             "id": 400,
             "key": "break",
-            "title": "Afterparty",
+            "title": "Afterparty at Yandex Hall (up to midnight)",
             "roomId": 1,
             "startHour": 20,
             "startMinutes": 0,
-            "endHour": 22,
+            "endHour": 21,
             "endMinutes": 0,
             "abstract": ""
           }
@@ -923,6 +923,14 @@
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/alla-barseghyan-069540214/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757309800/datafest/DataFest%202025/Speakers/DF25_Alvard_Barseghyan.jpg"
+      },
+      {
+        "name": "David",
+        "surname": "Sarkisyan",
+        "position": "Machine Learning Practice Lead at",
+        "company": "Provectus",
+        "linkedUrl": "https://www.linkedin.com/in/david-sarkisyan-phd-80428130/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757419694/datafest/DataFest%202025/Speakers/DF25_-_David_Sarkisyan_elqzye.jpg"
       }
     ]
   },
