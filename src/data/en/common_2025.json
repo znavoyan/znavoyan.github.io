@@ -594,6 +594,17 @@
             "endHour": 17,
             "endMinutes": 0,
             "abstract": "The stochastic optimization of a loss function during the training of deep neural networks shares many similarities with classical thermodynamical systems. By the end of training, the neural network reaches an equilibrium state that can be described by rules resembling the ideal gas law. It appears possible to define analogues of temperature, pressure, and volume for neural networks and to consider \"isothermal,\" \"isobaric,\" and \"isochoric\" processes within the deep learning context. In this talk, we will derive these rules and demonstrate how they can be applied to analyze the behavior of neural networks."
+          },
+          {
+            "id": 400,
+            "key": "break",
+            "title": "Afterparty",
+            "roomId": 1,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 22,
+            "endMinutes": 0,
+            "abstract": ""
           }
         ],
         "date": "September 13",
@@ -912,14 +923,6 @@
         "company": "YerevaNN",
         "linkedUrl": "https://www.linkedin.com/in/alla-barseghyan-069540214/",
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757309800/datafest/DataFest%202025/Speakers/DF25_Alvard_Barseghyan.jpg"
-      },
-      {
-        "name": "David",
-        "surname": "Sarkisyan",
-        "position": "Machine Learning Practice Lead at",
-        "company": "Provectus",
-        "linkedUrl": "https://www.linkedin.com/in/david-sarkisyan-phd-80428130/",
-        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757419694/datafest/DataFest%202025/Speakers/DF25_-_David_Sarkisyan_elqzye.jpg"
       }
     ]
   },
