@@ -26,6 +26,7 @@ const Tabs = ({ days, locations }) => {
   const appointments = selectedDay[0][activeIndex].map((speakerInfo) => {
     const filteredSpeakerInfo = {
       id: speakerInfo.id,
+      speakerIds: speakerInfo.speakerIds,
       speaker: speakerInfo.speaker,
       collaborators: speakerInfo.collaborators,
       key: speakerInfo.key,
