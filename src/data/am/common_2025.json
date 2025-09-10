@@ -309,13 +309,13 @@
             "id": 140,
             "speakerIds": ["erik-arakelyan"],
             "speaker": "Erik Arakelyan",
-            "title": "On KV Cache and Efficient Reasoning",
+            "title": "Compressing LLMs - The Good, the Bad, and the Ugly",
             "roomId": 3,
             "startHour": 14,
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 0,
-            "abstract": "Deep dive into Key-Value cache optimization techniques for efficient reasoning in large language models. This talk covers memory management strategies, attention mechanisms, computational trade-offs, and novel approaches to accelerate inference while maintaining model quality."
+            "abstract": "Increasing the efficiency and access to Deep Learning models has been at the forefront of every significant development since the outset of the field. The problem rings ever true with the introduction of models with billions of parameters that support 128K+ context. As efforts to increase model capacity progress, so do attempts to compress them, enabling these models to be served to a broader audience. In this talk, we will cover the research on compressing LLMs and their inference components, aiming to gather insights from the respective compression attempts."
           },
           {
             "id": 150,
