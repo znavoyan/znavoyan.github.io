@@ -30,7 +30,7 @@ const Tabs = ({ days, locations }) => {
       speaker: speakerInfo.speaker,
       collaborators: speakerInfo.collaborators,
       key: speakerInfo.key,
-      isFullWidth: speakerInfo.isFullWidth,
+      colSpan: speakerInfo.colSpan,
       title: speakerInfo.title,
       roomId: speakerInfo.roomId,
       startDate: new Date(
