@@ -8,13 +8,13 @@ import CustomTooltip from "./CustomTooltip";
 
 const CustomAppointment = ({ style, ...restProps }) => {
   const [visibility, setVisibility] = useState(false);
+  const [containerWidth, setContainerWidth] = useState(0);
   const { t } = useTranslation("common");
   const speakersList = t("speakers.speakersList", { returnObjects: true });
   const locations = t("agenda.locations", { returnObjects: true });
 
   const ref = useRef(null);
-  const colSpanRef = useRef(null);
-
+  const containerRef = useRef(null);
   const sessionSpeakers = (restProps.data.speakerIds || [])
   .map((id) => speakersList.find((speaker) => speaker.id === id))
   .filter(Boolean);
@@ -54,26 +54,23 @@ const CustomAppointment = ({ style, ...restProps }) => {
     }
   };
 
+  // Add ResizeObserver to handle dynamic width changes
   useEffect(() => {
-    if (ref && ref.current) {
-      const parent = ref.current.parentElement;
-      parent.parentElement.classList.add("toggleWidth");
-      document
-        .querySelectorAll(".break-info")
-        .forEach(
-          (element) =>
-            (element.closest(".custom-appointment").parentElement.style.width =
-              "100%")
-        );
-    }
+    if (!containerRef.current) return;
 
-    if (colSpanRef && colSpanRef.current) {
-      document.querySelectorAll(".col-span").forEach(element =>
-        (element.closest(".custom-appointment").parentElement.style.width =
-          "100%")
-      );
-    }
-  }, [restProps]);
+    const resizeObserver = new ResizeObserver((entries) => {
+      for (let entry of entries) {
+        const width = entry.contentRect.width;
+        setContainerWidth(width);
+      }
+    });
+
+    resizeObserver.observe(containerRef.current);
+
+    return () => {
+      resizeObserver.disconnect();
+    };
+  }, []);
 
   function getCurrentRoom(roomId) {
     return locations.filter((location) => location.id === roomId)[0];
@@ -86,7 +83,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
     ((restProps.data.endDate - restProps.data.startDate) / 1000 / 60) * 3.3333;  
 
   return (
-    <div className="custom-appointment" id="box">
+    <div className="custom-appointment" id="box" ref={containerRef}>
       <CustomTooltip onClose={popupCloseHandler} show={visibility}>
         {currentSpeaker && !areCollaborators && (
           <div className="flex column">
@@ -161,10 +158,13 @@ const CustomAppointment = ({ style, ...restProps }) => {
       <Appointments.AppointmentContent {...restProps}>
         {sessionSpeakers.length > 0 && (
           <div
-            className={restProps.data.isFullWidth === true ? "agenda-container col-span" : "agenda-container"}
+            className="agenda-container"
             onClick={openTooltip}
-            style={{ height: `${timeHeight}px` }}
-            ref={colSpanRef}
+            style={{
+              position: "absolute",
+              height: `${timeHeight}px`, 
+              width: (restProps.data.colSpan && containerWidth > 0)  ? `${Math.ceil(containerWidth * restProps.data.colSpan)}px` : "100%"
+            }}
           >
             <div className="time">
               <div className="time-preview">
@@ -191,7 +191,11 @@ const CustomAppointment = ({ style, ...restProps }) => {
           <div
             className="break-info"
             ref={ref}
-            style={{ width: "100%", height: `${timeHeight}px` }}
+            style={{
+              position: "absolute",
+              height: `${timeHeight}px`,
+              width: (restProps.data.colSpan && containerWidth > 0)  ? `${Math.ceil(containerWidth * restProps.data.colSpan)}px` : "100%"
+            }}
           >
             <div className="time-preview">
               <span>{format(restProps.data.startDate, "HH:mm")}</span>
