@@ -152,9 +152,9 @@
             "title": "Registration",
             "roomId": 1,
             "startHour": 9,
-            "startMinutes": 30,
-            "endHour": 10,
-            "endMinutes": 0,
+            "startMinutes": 0,
+            "endHour": 9,
+            "endMinutes": 40,
             "abstract": ""
           },
           {
@@ -162,10 +162,10 @@
             "key": "break",
             "title": "Conference Opening",
             "roomId": 1,
-            "startHour": 10,
-            "startMinutes": 0,
+            "startHour": 9,
+            "startMinutes": 40,
             "endHour": 10,
-            "endMinutes": 20,
+            "endMinutes": 0,
             "abstract": ""
           },
           {
