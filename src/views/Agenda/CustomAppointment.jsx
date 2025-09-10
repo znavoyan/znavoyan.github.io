@@ -13,6 +13,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
   const locations = t("agenda.locations", { returnObjects: true });
 
   const ref = useRef(null);
+  const colSpanRef = useRef(null);
 
   const currentSpeaker = speakersList.find(
     (speaker) => `${speaker.name} ${speaker.surname}` === restProps.data.speaker
@@ -71,6 +72,13 @@ const CustomAppointment = ({ style, ...restProps }) => {
             (element.closest(".custom-appointment").parentElement.style.width =
               "100%")
         );
+    }
+
+    if (colSpanRef && colSpanRef.current) {
+      document.querySelectorAll(".col-span").forEach(element =>
+        (element.closest(".custom-appointment").parentElement.style.width =
+          "100%")
+      );
     }
   }, [restProps]);
 
@@ -160,9 +168,10 @@ const CustomAppointment = ({ style, ...restProps }) => {
       <Appointments.AppointmentContent {...restProps}>
         {(restProps.data.speaker || restProps.data.collaborators) && (
           <div
-            className="agenda-container"
+            className={restProps.data.isFullWidth === true ? "agenda-container col-span" : "agenda-container"}
             onClick={openTooltip}
             style={{ height: `${timeHeight}px` }}
+            ref={colSpanRef}
           >
             <div className="time">
               <div className="time-preview">
