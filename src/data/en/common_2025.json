@@ -148,7 +148,7 @@
             "startHour": 9,
             "startMinutes": 0,
             "endHour": 9,
-            "endMinutes": 45,
+            "endMinutes": 40,
             "abstract": ""
           },
           {
@@ -157,7 +157,7 @@
             "title": "Conference Opening",
             "roomId": 1,
             "startHour": 9,
-            "startMinutes": 45,
+            "startMinutes": 40,
             "endHour": 10,
             "endMinutes": 0,
             "abstract": ""
@@ -189,7 +189,7 @@
             "id": 40,
             "speaker": "Timur Galimzyanov",
             "title": "An Empirical Analysis of Retrieval Components for Code-Oriented RAG",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
@@ -199,13 +199,13 @@
           {
             "id": 50,
             "speaker": "Arsen Yeghiazaryan",
-            "title": "On A/B testing (to be edited)",
-            "roomId": 3,
+            "title": "A/B Testing Under Skew: Techniques for Reliable Inference on Heavy-Tailed Metrics",
+            "roomId": 2,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": "Comprehensive guide to A/B testing in AI and machine learning contexts. This talk covers experimental design, statistical significance, bias mitigation, and best practices for testing AI-powered features in production environments."
+            "abstract": "Traditional A/B testing methods often break down when applied to metrics with highly skewed or heavy-tailed distributions, leading to inflated variance and unreliable conclusions. In this talk, I will walk through practical techniques to reduce variance and improve test power, including stratification of users and variance-stabilizing transformations. I will also discuss decomposition of complex metrics (e.g., turnover) into interpretable factors, and the hidden pitfalls that come with it."
           },
           {
             "id": 60,
@@ -231,31 +231,31 @@
           },
           {
             "id": 80,
-            "collaborators": ["Serg Shestakov", "Dmitry Dorofeev"],
-            "title": "Applying AI/ML to Data Engineering",
-            "roomId": 2,
+            "speaker": "Evgeniy Glukhov",
+            "title": "Context Collection Competition",
+            "roomId": 3,
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 12,
             "endMinutes": 30,
-            "abstract": "Modern LLMs can help with writing programs in languages like Python or Java, some may write SQL, but none can handle complex ETL tasks combined with ad-hoc analytics. What if we embed prompts and models right into visual ETL tool to help data engineers with their daily tasks? Meet MPP Insights!"
+            "abstract": "The rapid advancement of workflows and methods for software engineering based on Artificial Intelligence (AI) urges the need for systematic evaluation and analysis of their ability to leverage information from the entire project, especially in large code bases. To foster this research, we are organizing a community competition on designing context collection strategies for AI-based code completion tools. In the Code Completion Context Collection Optimization Challenge, organized by JetBrains in collaboration with Mistral AI, the participants will design efficient mechanisms for context collection from source code repositories to enhance fill-in-the-middle code completions across Python and Kotlin programming languages. In this talk we share the experience of organizing the competition. Also, we are going to present technical details such as data collection and evaluation framework."
           },
           {
             "id": 90,
-            "speaker": "Evgeniy Glukhov",
-            "title": "Context Collection Competition",
-            "roomId": 2,
+            "speaker": "Tyler Hannan",
+            "title": "The State of Observability in the Era of AI",
+            "roomId": 3,
             "startHour": 12,
             "startMinutes": 30,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": "The rapid advancement of workflows and methods for software engineering based on Artificial Intelligence (AI) urges the need for systematic evaluation and analysis of their ability to leverage information from the entire project, especially in large code bases. To foster this research, we are organizing a community competition on designing context collection strategies for AI-based code completion tools. In the Code Completion Context Collection Optimization Challenge, organized by JetBrains in collaboration with Mistral AI, the participants will design efficient mechanisms for context collection from source code repositories to enhance fill-in-the-middle code completions across Python and Kotlin programming languages. In this talk we share the experience of organizing the competition. Also, we are going to present technical details such as data collection and evaluation framework."
+            "abstract": "Many successful paradigms in engineering and computer science are the result of two distinct approaches colliding with each other, leading to broader and more powerful applications. In this talk, we'll look at the parallel backgrounds of two established paradigms: SQL and Observability. We'll be tracing back the history of both paradigms. How they managed to avoid each other despite SQL being the lingua franca of data manipulation, and how the industry standardization, fueled by open-source innovation, has now propelled SQL back into the game as an observability language. We will then expand our analysis to include an overview of OLAP database capabilities (vector search, MCP) and their applicability in an era of modern AI tooling."
           },
           {
             "id": 100,
             "speaker": "Augustin Žídek",
             "title": "The Hidden Gems in AlphaFold 3",
-            "roomId": 3,
+            "roomId": 2,
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
@@ -286,20 +286,20 @@
           },
           {
             "id": 130,
-            "speaker": "Pierre Ménard",
-            "title": "Nash Learning for Human Feedback and Proximal Methods",
+            "speaker": "Artur Shatveryan",
+            "title": "Leveraging LLMs and Textual Embedding Models to Build Domain Specific Information Retrieval System",
             "roomId": 1,
             "startHour": 15,
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 30,
-            "abstract": "Traditional Reinforcement Learning from Human Feedback typically relies on reward models and preference structures such as the Bradley–Terry model. While effective in some cases, these assumptions fail to capture the richness of human preferences, which often exhibit phenomena such as intransitivity. In this talk, we present Nash Learning from Human Feedback, a more direct alternative that frames the problem as finding a Nash equilibrium in a game induced by human preferences. This perspective provides a principled way to model complex, potentially non-transitive preferences without the need to introduce a reward model. We will survey methods for approximating Nash equilibria in this setting, with a focus on fine-tuning large language models. In particular, we show how (approximate) proximal optimization methods—notably the Mirror Prox algorithm—can be adapted to achieve fast and stable convergence in this setting. Finally, we discuss practical strategies for efficiently implementing these approximate proximal methods in large-scale training."
+            "abstract": "This talk presents a practical methodology for designing, collecting, and evaluating domain-specific search datasets to benchmark and optimize vector search systems. Using real-world application search queries as the foundation, we outline how Large Language Models (LLMs) can be leveraged to generate graded relevance variations of queries—covering fully matched, similar, semi-similar, and dissimilar cases. We demonstrate how this multi-level relevance structure enables a more nuanced evaluation of text embedding models, allowing practitioners to select the most effective model for their specific domain. The session covers the complete workflow, from data extraction and augmentation to evaluation metric selection, and shares insights gained from applying this approach in an industrial application search context."
           },
           {
             "id": 140,
             "speaker": "Erik Arakelyan",
             "title": "On KV Cache and Efficient Reasoning",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 14,
             "startMinutes": 0,
             "endHour": 15,
@@ -310,7 +310,7 @@
             "id": 150,
             "speaker": "Kristina Volkova",
             "title": "Advanced CUDA for ML",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 15,
             "startMinutes": 0,
             "endHour": 15,
@@ -321,7 +321,7 @@
             "id": 160,
             "speaker": "Mikhail Burtsev",
             "title": "GENA-LM: a family of open-source foundational DNA language models",
-            "roomId": 3,
+            "roomId": 2,
             "startHour": 14,
             "startMinutes": 0,
             "endHour": 15,
@@ -330,6 +330,17 @@
           },
           {
             "id": 170,
+            "speaker": "Khoren Petrosyan",
+            "title": "From 0.02% Samples to Full Radio Maps: Physics‑Informed U‑Net for Indoor Pathloss",
+            "roomId": 2,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+            "abstract": "We reconstruct indoor pathloss radio maps from 0.02–0.5% sparse measurements by pairing physics‑informed inputs with a U‑Net. The inputs are expanded to eight channels including the materials (reflectance/transmittance), free‑space pathloss, cumulative transmittance loss, log‑distance, frequency, sparse‑measurement channel, and a padding mask enabling multi‑scale CNNs to respect propagation priors with physics‑consistent augmentations. On the MLSP‑2025 challenge, the model attains 5.17 dB weighted RMSE with ~65 ms end‑to‑end inference per map, an order‑of‑magnitude faster than ray tracing."
+          },
+          {
+            "id": 180,
             "key": "break",
             "title": "☕ Coffee Break",
             "roomId": 1,
@@ -340,37 +351,37 @@
             "abstract": ""
           },
           {
-            "id": 180,
-            "speaker": "Hynek Kydlíček",
-            "title": "FineWeb 2: How to Scale Web Data Curation to 1,000+ Languages",
+            "id": 190,
+            "speaker": "Tom Auger",
+            "title": "Engineering AI for Education",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "In this talk, we'll walk through the core challenges of building FineWeb 2, a large-scale multilingual web corpus spanning 1,000+ languages - from choosing the right multilingual evaluations, to scaling language filtering and adaptive heuristics, and finally improving overall data quality through simple deduplication technique."
+            "abstract": "At TUMO, we've been reimagining how the next generation engages with artificial intelligence - not by simply handing students a chatbot, but by building new ways for them to learn, explore, and create with AI. In this talk, we'll share what we've learned from developing and prototyping AI workshops for teens, and how we're using AI not just as a topic, but as a teaching tool. We'll show how we built our AI-driven applications that guide self-learning, adapt to each student's pace and interests, and help them build their own learning path."
           },
           {
-            "id": 190,
-            "speaker": "David Sarkisyan",
-            "title": "Agentic AI in the Wild: Applied Workflows for Insurance & Financial Services",
-            "roomId": 2,
+            "id": 200,
+            "speaker": "Adam Bittlingmayer",
+            "title": "Scaling human-quality translation in the real world — Building verification for the original generative task",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 16,
+            "endMinutes": 30,
+            "abstract": "Generation alone failed to accelerate human-quality translation, because humans still had to manually verify every word. Adam quit Google Translate to build verification — ✓ or ✗ for each sentence — that works in the real world. He'll share the accuracy requirements, a prod system overview, models, numbers and open problems."
+          },
+          {
+            "id": 210,
+            "speaker": "Andrei Nartsev",
+            "title": "Boosting Delivery Efficiency with Unsupervised Learning and LLMs",
+            "roomId": 3,
             "startHour": 16,
             "startMinutes": 30,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "Agentic AI is rapidly moving from research labs into production systems, especially in regulated industries like insurance and financial services. This talk presents real-world architectures, workflows, and lessons learned from deploying autonomous AI agents at scale. We will walk through practical use cases — from AI-powered claims triage to underwriting co-pilots and broker assistants — and break down the underlying technical building blocks: multi-agent orchestration, long-term memory, knowledge graphs, and tool integrations."
-          },
-          {
-            "id": 200,
-            "speaker": "Joonatan Laulainen",
-            "title": "AI For Materials Discovery in Practice",
-            "roomId": 3,
-            "startHour": 16,
-            "startMinutes": 0,
-            "endHour": 17,
-            "endMinutes": 0,
-            "abstract": "How can we discover new materials (new arrangements of atoms with industrially relevant properties) using the advances in graph networks, AI, diffusion and more? More importantly, how do computational prediction translate to physical assets? This talk will cover an overview of the Materials-AI space, unique insights from altrove's approach, and key challenges due to both model architectures and data. It will include technical discussions of  model architectures, representation/transfer learning from high-data to low-data regimes, as well as an outlook on the space as a whole."
+            "abstract": "The effectiveness of couriers depends largely on how accurately and quickly they can find the pick-up point.  We have found that problems related to inaccuracies in coordinates and difficulties with landmarks regularly slow down performers, reducing the effectiveness of our service. To solve these problems, we have proposed an approach that combines analytical methods, unsupervised machine learning methods, and large language models. This approach allowed us not only to identify problem areas and understand the causes of delays, but also to create a solution for automatically adjusting couriers' routes. In the report, we will analyze the analytical insights and ML challenges that have arisen on the way to implementing our solution, as well as share practical recommendations that have significantly improved the accuracy of navigation and the experience of performers."
           }
         ],
         "date": "September 12",
@@ -408,7 +419,7 @@
             "id": 20,
             "speaker": "Max Pershin",
             "title": "LLM-based Agentic Approach for Call Centers",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
@@ -417,14 +428,14 @@
           },
           {
             "id": 30,
-            "speaker": "Tyler Hannan",
-            "title": "The State of Observability in the Era of AI",
-            "roomId": 3,
+            "collaborators": ["Serg Shestakov", "Dmitry Dorofeev"],
+            "title": "Applying AI/ML to Data Engineering",
+            "roomId": 2,
             "startHour": 11,
             "startMinutes": 0,
             "endHour": 11,
             "endMinutes": 30,
-            "abstract": "Many successful paradigms in engineering and computer science are the result of two distinct approaches colliding with each other, leading to broader and more powerful applications. In this talk, we'll look at the parallel backgrounds of two established paradigms: SQL and Observability. We'll be tracing back the history of both paradigms. How they managed to avoid each other despite SQL being the lingua franca of data manipulation, and how the industry standardization, fueled by open-source innovation, has now propelled SQL back into the game as an observability language. We will then expand our analysis to include an overview of OLAP database capabilities (vector search, MCP) and their applicability in an era of modern AI tooling."
+            "abstract": "Modern LLMs can help with writing programs in languages like Python or Java, some may write SQL, but none can handle complex ETL tasks combined with ad-hoc analytics. What if we embed prompts and models right into visual ETL tool to help data engineers with their daily tasks? Meet MPP Insights!"
           },
           {
             "id": 40,
@@ -439,20 +450,20 @@
           },
           {
             "id": 50,
-            "speaker": "Elie Bakouch",
-            "title": "Training smol and large LLMs (to be confirmed)",
+            "speaker": "Levon Berberyan",
+            "title": "Enhancing Device Diagnostics with AI",
             "roomId": 1,
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
             "endMinutes": 0,
-            "abstract": "(subject to change since we might release new model in between) Explaining what's new in pre-training: optimization tricks, MoE, stability hacks and much more. Everything you need to build better LLMs."
+            "abstract": "This is an initiative focused on device diagnostics through the application of machine learning techniques. We delve into the innovative methodologies and tools to enhance the accuracy and efficiency of diagnosing device issues. Key topics will include the implementation of diagnostic algorithms powered by AI, the integration of real-time monitoring systems, and the development of explainable solutions. Incorporating explainability into diagnostics models allows for a deeper understanding of the underlying mechanisms and provides insights into the factors contributing to device aging. This transparency is essential for improving model reliability and gaining the trust of stakeholders.Overall, we show how the solutions can significantly optimize device performance, and streamline maintenance processes."
           },
           {
             "id": 60,
             "speaker": "Viktorya Poghosyan",
             "title": "Fast and Accurate Speaker Diarization with Dedicated Overlap Handling",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 12,
@@ -463,7 +474,7 @@
             "id": 70,
             "speaker": "Shahane Tigranyan",
             "title": "A Hybrid Approach to Speech Emotion Recognition with Audio-TextAlignment",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 12,
             "startMinutes": 30,
             "endHour": 13,
@@ -474,7 +485,7 @@
             "id": 80,
             "speaker": "Igor Tetko",
             "title": "Which modern AI methods provide accurate predictions of toxicological endpoints? Analysis of Tox24 challenge results.",
-            "roomId": 3,
+            "roomId": 2,
             "startHour": 12,
             "startMinutes": 0,
             "endHour": 13,
@@ -505,50 +516,50 @@
           },
           {
             "id": 110,
-            "speaker": "Artur Shatveryan",
-            "title": "Leveraging LLMs and Textual Embedding Models to Build Domain Specific Information Retrieval System",
+            "speaker": "Pierre Ménard",
+            "title": "Nash Learning for Human Feedback and Proximal Methods",
             "roomId": 1,
             "startHour": 15,
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 30,
-            "abstract": "This talk presents a practical methodology for designing, collecting, and evaluating domain-specific search datasets to benchmark and optimize vector search systems. Using real-world application search queries as the foundation, we outline how Large Language Models (LLMs) can be leveraged to generate graded relevance variations of queries—covering fully matched, similar, semi-similar, and dissimilar cases. We demonstrate how this multi-level relevance structure enables a more nuanced evaluation of text embedding models, allowing practitioners to select the most effective model for their specific domain. The session covers the complete workflow, from data extraction and augmentation to evaluation metric selection, and shares insights gained from applying this approach in an industrial application search context."
+            "abstract": "Traditional Reinforcement Learning from Human Feedback typically relies on reward models and preference structures such as the Bradley–Terry model. While effective in some cases, these assumptions fail to capture the richness of human preferences, which often exhibit phenomena such as intransitivity. In this talk, we present Nash Learning from Human Feedback, a more direct alternative that frames the problem as finding a Nash equilibrium in a game induced by human preferences. This perspective provides a principled way to model complex, potentially non-transitive preferences without the need to introduce a reward model. We will survey methods for approximating Nash equilibria in this setting, with a focus on fine-tuning large language models. In particular, we show how (approximate) proximal optimization methods—notably the Mirror Prox algorithm—can be adapted to achieve fast and stable convergence in this setting. Finally, we discuss practical strategies for efficiently implementing these approximate proximal methods in large-scale training."
           },
           {
             "id": 120,
-            "speaker": "Tom Auger",
-            "title": "Engineering AI for Education",
-            "roomId": 2,
-            "startHour": 14,
-            "startMinutes": 0,
-            "endHour": 15,
-            "endMinutes": 0,
-            "abstract": "At TUMO, we've been reimagining how the next generation engages with artificial intelligence - not by simply handing students a chatbot, but by building new ways for them to learn, explore, and create with AI. In this talk, we'll share what we've learned from developing and prototyping AI workshops for teens, and how we're using AI not just as a topic, but as a teaching tool. We'll show how we built our AI-driven applications that guide self-learning, adapt to each student's pace and interests, and help them build their own learning path."
-          },
-          {
-            "id": 130,
-            "speaker": "Andrei Nartsev",
-            "title": "Boosting Delivery Efficiency with Unsupervised Learning and LLMs",
-            "roomId": 2,
-            "startHour": 15,
-            "startMinutes": 0,
-            "endHour": 15,
-            "endMinutes": 30,
-            "abstract": "The effectiveness of couriers depends largely on how accurately and quickly they can find the pick-up point.  We have found that problems related to inaccuracies in coordinates and difficulties with landmarks regularly slow down performers, reducing the effectiveness of our service. To solve these problems, we have proposed an approach that combines analytical methods, unsupervised machine learning methods, and large language models. This approach allowed us not only to identify problem areas and understand the causes of delays, but also to create a solution for automatically adjusting couriers' routes. In the report, we will analyze the analytical insights and ML challenges that have arisen on the way to implementing our solution, as well as share practical recommendations that have significantly improved the accuracy of navigation and the experience of performers."
-          },
-          {
-            "id": 140,
-            "speaker": "Dmitry Vetrov",
-            "title": "Thermodynamical Analogies in Deep Learning",
+            "speaker": "Hynek Kydlíček",
+            "title": "FineWeb 2: How to Scale Web Data Curation to 1,000+ Languages",
             "roomId": 3,
             "startHour": 14,
             "startMinutes": 0,
             "endHour": 15,
             "endMinutes": 0,
-            "abstract": "The stochastic optimization of a loss function during the training of deep neural networks shares many similarities with classical thermodynamical systems. By the end of training, the neural network reaches an equilibrium state that can be described by rules resembling the ideal gas law. It appears possible to define analogues of temperature, pressure, and volume for neural networks and to consider \"isothermal,\" \"isobaric,\" and \"isochoric\" processes within the deep learning context. In this talk, we will derive these rules and demonstrate how they can be applied to analyze the behavior of neural networks."
+            "abstract": "In this talk, we'll walk through the core challenges of building FineWeb 2, a large-scale multilingual web corpus spanning 1,000+ languages - from choosing the right multilingual evaluations, to scaling language filtering and adaptive heuristics, and finally improving overall data quality through simple deduplication technique."
           },
           {
-            "id": 160,
+            "id": 130,
+            "speaker": "Alla Barseghyan",
+            "title": "Less is More? Data Specialization for various modalities",
+            "roomId": 3,
+            "startHour": 15,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 30,
+            "abstract": "What if your available compute is limited, while your dataset is far larger than you can process? What if the quality of your pretraining data is uncertain? And what if you actually need much less data than you have? Data specialization techniques can help identify a compact and effective subset of data, aligned with a given architecture, objective, and compute budget. In this work, we compare different data filtering algorithms across multiple modalities—including natural images (ImageNet), remote sensing imagery, and X-ray scans—to identify effective strategies for curating high-quality datasets."
+          },
+          {
+            "id": 140,
+            "speaker": "Joonatan Laulainen",
+            "title": "AI For Materials Discovery in Practice",
+            "roomId": 2,
+            "startHour": 14,
+            "startMinutes": 0,
+            "endHour": 15,
+            "endMinutes": 0,
+            "abstract": "How can we discover new materials (new arrangements of atoms with industrially relevant properties) using the advances in graph networks, AI, diffusion and more? More importantly, how do computational prediction translate to physical assets? This talk will cover an overview of the Materials-AI space, unique insights from altrove's approach, and key challenges due to both model architectures and data. It will include technical discussions of  model architectures, representation/transfer learning from high-data to low-data regimes, as well as an outlook on the space as a whole."
+          },
+          {
+            "id": 150,
             "key": "break",
             "title": "☕ Coffee Break",
             "roomId": 1,
@@ -559,15 +570,37 @@
             "abstract": ""
           },
           {
-            "id": 170,
-            "speaker": "Levon Berberyan",
-            "title": "Enhancing Device Diagnostics with AI",
-            "roomId": 2,
+            "id": 160,
+            "speaker": "Elie Bakouch",
+            "title": "Training smol and large LLMs",
+            "roomId": 1,
             "startHour": 16,
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "This is an initiative focused on device diagnostics through the application of machine learning techniques. We delve into the innovative methodologies and tools to enhance the accuracy and efficiency of diagnosing device issues. Key topics will include the implementation of diagnostic algorithms powered by AI, the integration of real-time monitoring systems, and the development of explainable solutions. Incorporating explainability into diagnostics models allows for a deeper understanding of the underlying mechanisms and provides insights into the factors contributing to device aging. This transparency is essential for improving model reliability and gaining the trust of stakeholders.Overall, we show how the solutions can significantly optimize device performance, and streamline maintenance processes."
+            "abstract": "(subject to change since we might release new model in between) Explaining what's new in pre-training: optimization tricks, MoE, stability hacks and much more. Everything you need to build better LLMs."
+          },
+          {
+            "id": 170,
+            "speaker": "Dmitry Vetrov",
+            "title": "Thermodynamical Analogies in Deep Learning",
+            "roomId": 3,
+            "startHour": 16,
+            "startMinutes": 0,
+            "endHour": 17,
+            "endMinutes": 0,
+            "abstract": "The stochastic optimization of a loss function during the training of deep neural networks shares many similarities with classical thermodynamical systems. By the end of training, the neural network reaches an equilibrium state that can be described by rules resembling the ideal gas law. It appears possible to define analogues of temperature, pressure, and volume for neural networks and to consider \"isothermal,\" \"isobaric,\" and \"isochoric\" processes within the deep learning context. In this talk, we will derive these rules and demonstrate how they can be applied to analyze the behavior of neural networks."
+          },
+          {
+            "id": 400,
+            "key": "break",
+            "title": "Afterparty at Yandex Hall (up to midnight)",
+            "roomId": 1,
+            "startHour": 20,
+            "startMinutes": 0,
+            "endHour": 21,
+            "endMinutes": 0,
+            "abstract": ""
           }
         ],
         "date": "September 13",
