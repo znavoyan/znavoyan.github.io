@@ -53,6 +53,11 @@
     "categories": {
       "generalSponsors": [
         {
+          "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757520894/datafest/DataFest%202025/Sponsors/Firebird_Logo.png",
+          "linkedUrl": "https://www.firebird.ai/",
+          "width": "15.2em"
+        },
+        {
           "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751379668/datafest/DataFest%202025/Sponsors/Freedom_Broker_Logo_sjmah6.png",
           "linkedUrl": "https://www.ffin.am/",
           "width": "15.2em"
