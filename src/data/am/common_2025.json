@@ -14,13 +14,7 @@
         "key": "agenda"
       }
     ],
-    "pastEvents": [
-      2020,
-      2021,
-      2022,
-      2023,
-      2024
-    ],
+    "pastEvents": [2020, 2021, 2022, 2023, 2024],
     "register": "Գրանցվել այստեղ",
     "registerUrl": "https://datafest25.eventbrite.com"
   },
@@ -171,6 +165,7 @@
           {
             "id": 20,
             "speaker": "Jason Stanley",
+            "isFullWidth": true,
             "title": "Designing for Trust: System-Level Approaches to Reliable and Impactful AI",
             "roomId": 1,
             "startHour": 10,
@@ -411,6 +406,7 @@
           {
             "id": 1,
             "speaker": "Michal Valko",
+            "isFullWidth": true,
             "title": "Powerful LLM alignment",
             "roomId": 1,
             "startHour": 10,
@@ -443,7 +439,7 @@
           },
           {
             "id": 30,
-            "speaker": "Serg Shestakov & Dmitry Dorofeev",
+            "collaborators": ["Serg Shestakov", "Dmitry Dorofeev"],
             "title": "Applying AI/ML to Data Engineering",
             "roomId": 2,
             "startHour": 11,
