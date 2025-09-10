@@ -164,6 +164,7 @@
           },
           {
             "id": 20,
+            "speakerIds": ["jason-stanley"],
             "speaker": "Jason Stanley",
             "isFullWidth": true,
             "title": "Designing for Trust: System-Level Approaches to Reliable and Impactful AI",
@@ -176,6 +177,7 @@
           },
           {
             "id": 30,
+            "speakerIds": ["spartak-bughdaryan"],
             "speaker": "Spartak Bughdaryan",
             "title": "Empowering Armenian NLP: Insights into Armenian LLM",
             "roomId": 1,
@@ -187,6 +189,7 @@
           },
           {
             "id": 40,
+            "speakerIds": ["timur-galimzyanov"],
             "speaker": "Timur Galimzyanov",
             "title": "An Empirical Analysis of Retrieval Components for Code-Oriented RAG",
             "roomId": 3,
@@ -198,6 +201,7 @@
           },
           {
             "id": 50,
+            "speakerIds": ["arsen-yeghiazaryan"],
             "speaker": "Arsen Yeghiazaryan",
             "title": "A/B Testing Under Skew: Techniques for Reliable Inference on Heavy-Tailed Metrics",
             "roomId": 2,
@@ -220,6 +224,7 @@
           },
           {
             "id": 70,
+            "speakerIds": ["sayan-ranu"],
             "speaker": "Sayan Ranu",
             "title": "Learning to Compute Graph Similarity Using LLM-generated Code",
             "roomId": 1,
@@ -231,6 +236,7 @@
           },
           {
             "id": 80,
+            "speakerIds": ["evgeniy-glukhov"],
             "speaker": "Evgeniy Glukhov",
             "title": "Context Collection Competition",
             "roomId": 3,
@@ -242,6 +248,7 @@
           },
           {
             "id": 90,
+            "speakerIds": ["tyler-hannan"],
             "speaker": "Tyler Hannan",
             "title": "The State of Observability in the Era of AI",
             "roomId": 3,
@@ -253,6 +260,7 @@
           },
           {
             "id": 100,
+            "speakerIds": ["augustin-zidek"],
             "speaker": "Augustin Žídek",
             "title": "The Hidden Gems in AlphaFold 3",
             "roomId": 2,
@@ -275,6 +283,7 @@
           },
           {
             "id": 120,
+            "speakerIds": ["mark-hamazaspyan"],
             "speaker": "Mark Hamazaspyan",
             "title": "Visual Document Retrieval",
             "roomId": 1,
@@ -286,6 +295,7 @@
           },
           {
             "id": 130,
+            "speakerIds": ["artur-shatveryan"],
             "speaker": "Artur Shatveryan",
             "title": "Leveraging LLMs and Textual Embedding Models to Build Domain Specific Information Retrieval System",
             "roomId": 1,
@@ -297,6 +307,7 @@
           },
           {
             "id": 140,
+            "speakerIds": ["erik-arakelyan"],
             "speaker": "Erik Arakelyan",
             "title": "On KV Cache and Efficient Reasoning",
             "roomId": 3,
@@ -308,6 +319,7 @@
           },
           {
             "id": 150,
+            "speakerIds": ["kristina-volkova"],
             "speaker": "Kristina Volkova",
             "title": "Advanced CUDA for ML",
             "roomId": 3,
@@ -319,6 +331,7 @@
           },
           {
             "id": 160,
+            "speakerIds": ["mikhail-burtsev"],
             "speaker": "Mikhail Burtsev",
             "title": "GENA-LM: a family of open-source foundational DNA language models",
             "roomId": 2,
@@ -330,6 +343,7 @@
           },
           {
             "id": 170,
+            "speakerIds": ["khoren-petrosyan"],
             "speaker": "Khoren Petrosyan",
             "title": "From 0.02% Samples to Full Radio Maps: Physics‑Informed U‑Net for Indoor Pathloss",
             "roomId": 2,
@@ -352,6 +366,7 @@
           },
           {
             "id": 190,
+            "speakerIds": ["tom-auger"],
             "speaker": "Tom Auger",
             "title": "Engineering AI for Education",
             "roomId": 1,
@@ -363,6 +378,7 @@
           },
           {
             "id": 200,
+            "speakerIds": ["adam-bittlingmayer"],
             "speaker": "Adam Bittlingmayer",
             "title": "Scaling human-quality translation in the real world — Building verification for the original generative task",
             "roomId": 3,
@@ -374,6 +390,7 @@
           },
           {
             "id": 210,
+            "speakerIds": ["andrei-nartsev"],
             "speaker": "Andrei Nartsev",
             "title": "Boosting Delivery Efficiency with Unsupervised Learning and LLMs",
             "roomId": 3,
@@ -394,6 +411,7 @@
         "2": [
           {
             "id": 0,
+            "speakerIds": ["michal-valko"],
             "speaker": "Michal Valko",
             "isFullWidth": true,
             "title": "Powerful LLM alignment",
@@ -406,6 +424,7 @@
           },
           {
             "id": 10,
+            "speakerIds": ["shant-navasardyan"],
             "speaker": "Shant Navasardyan",
             "title": "Doing Research in Industry: Learnings from (Un)published Papers and (Un)shipped Products",
             "roomId": 1,
@@ -417,6 +436,7 @@
           },
           {
             "id": 20,
+            "speakerIds": ["max-pershin"],
             "speaker": "Max Pershin",
             "title": "LLM-based Agentic Approach for Call Centers",
             "roomId": 3,
@@ -428,6 +448,7 @@
           },
           {
             "id": 30,
+            "speakerIds": ["serg-shestakov", "dmitry-dorofeev"],
             "collaborators": ["Serg Shestakov", "Dmitry Dorofeev"],
             "title": "Applying AI/ML to Data Engineering",
             "roomId": 2,
@@ -450,6 +471,7 @@
           },
           {
             "id": 50,
+            "speakerIds": ["levon-berberyan"],
             "speaker": "Levon Berberyan",
             "title": "Enhancing Device Diagnostics with AI",
             "roomId": 1,
@@ -461,6 +483,7 @@
           },
           {
             "id": 60,
+            "speakerIds": ["viktorya-poghosyan"],
             "speaker": "Viktorya Poghosyan",
             "title": "Fast and Accurate Speaker Diarization with Dedicated Overlap Handling",
             "roomId": 3,
@@ -472,6 +495,7 @@
           },
           {
             "id": 70,
+            "speakerIds": ["shahane-tigranyan"],
             "speaker": "Shahane Tigranyan",
             "title": "A Hybrid Approach to Speech Emotion Recognition with Audio-TextAlignment",
             "roomId": 3,
@@ -483,6 +507,7 @@
           },
           {
             "id": 80,
+            "speakerIds": ["igor-tetko"],
             "speaker": "Igor Tetko",
             "title": "Which modern AI methods provide accurate predictions of toxicological endpoints? Analysis of Tox24 challenge results.",
             "roomId": 2,
@@ -505,6 +530,7 @@
           },
           {
             "id": 100,
+            "speakerIds": ["stefan-papp"],
             "speaker": "Stefan Papp",
             "title": "Deep Insights into Investment Analysis",
             "roomId": 1,
@@ -516,6 +542,7 @@
           },
           {
             "id": 110,
+            "speakerIds": ["pierre-menard"],
             "speaker": "Pierre Ménard",
             "title": "Nash Learning for Human Feedback and Proximal Methods",
             "roomId": 1,
@@ -527,6 +554,7 @@
           },
           {
             "id": 120,
+            "speakerIds": ["hynek-kydlicsek"],
             "speaker": "Hynek Kydlíček",
             "title": "FineWeb 2: How to Scale Web Data Curation to 1,000+ Languages",
             "roomId": 3,
@@ -538,6 +566,7 @@
           },
           {
             "id": 130,
+            "speakerIds": ["alla-barseghyan"],
             "speaker": "Alla Barseghyan",
             "title": "Less is More? Data Specialization for various modalities",
             "roomId": 3,
@@ -549,6 +578,7 @@
           },
           {
             "id": 140,
+            "speakerIds": ["joonatan-laulainen"],
             "speaker": "Joonatan Laulainen",
             "title": "AI For Materials Discovery in Practice",
             "roomId": 2,
@@ -571,6 +601,7 @@
           },
           {
             "id": 160,
+            "speakerIds": ["elie-bakouch"],
             "speaker": "Elie Bakouch",
             "title": "Training smol and large LLMs",
             "roomId": 1,
@@ -582,6 +613,7 @@
           },
           {
             "id": 170,
+            "speakerIds": ["dmitry-vetrov"],
             "speaker": "Dmitry Vetrov",
             "title": "Thermodynamical Analogies in Deep Learning",
             "roomId": 3,
@@ -649,6 +681,7 @@
     "bottomText": "",
     "speakersList": [
       {
+        "id": "jason-stanley",
         "name": "Jason",
         "surname": "Stanley",
         "position": "Head of AI Research Deployment at",
@@ -657,6 +690,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Jason_Stanley.png"
       },
       {
+        "id": "timur-galimzyanov",
         "name": "Timur",
         "surname": "Galimzyanov",
         "position": "ML Researcher at",
@@ -665,6 +699,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383202/datafest/DataFest%202025/Speakers/DF25_Timur_Galimzyanov.jpg"
       },
       {
+        "id": "elie-bakouch",
         "name": "Elie",
         "surname": "Bakouch",
         "position": "Research Engineer at",
@@ -673,6 +708,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Elie_Bakouch_vkizw1.png"
       },
       {
+        "id": "augustin-zidek",
         "name": "Augustin",
         "surname": "Žídek",
         "position": "Research Engineer at",
@@ -681,6 +717,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1688554342/datafest/DataFest%202023/Speakers/Augustin-Zidek_oyiepr.png"
       },
       {
+        "id": "sayan-ranu",
         "name": "Sayan",
         "surname": "Ranu",
         "position": "Associate Professor at",
@@ -689,6 +726,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Sayan_Ranu_x6j87n.png"
       },
       {
+        "id": "dmitry-vetrov",
         "name": "Dmitry",
         "surname": "Vetrov",
         "position": "Professor of Computer Science at",
@@ -697,6 +735,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Dmitry_Vetrov_vljffk.png"
       },
       {
+        "id": "pierre-menard",
         "name": "Pierre",
         "surname": "Ménard",
         "position": "Research Scientist at",
@@ -705,6 +744,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753090306/datafest/DataFest%202025/Speakers/DF25_Pierre_M%C3%A9nard.png"
       },
       {
+        "id": "hynek-kydlicsek",
         "name": "Hynek",
         "surname": "Kydlíček",
         "position": "Research Engineer at",
@@ -713,6 +753,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Hynek_Kydlicek_kv7jqo.png"
       },
       {
+        "id": "serg-shestakov",
         "name": "Serg",
         "surname": "Shestakov",
         "position": "CEO at",
@@ -721,6 +762,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Serg_Shestakov_yjyxcc.png"
       },
       {
+        "id": "dmitry-dorofeev",
         "name": "Dmitry",
         "surname": "Dorofeev",
         "position": "Head of R&D at",
@@ -729,6 +771,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751546270/datafest/DataFest%202025/Speakers/DF25_Dmitry_Dorofeev.jpg"
       },
       {
+        "id": "viktorya-poghosyan",
         "name": "Viktorya",
         "surname": "Poghosyan",
         "position": "ML Engineer at",
@@ -737,6 +780,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Viktorya_Poghosyan_fdnjip.png"
       },
       {
+        "id": "kristina-volkova",
         "name": "Kristina",
         "surname": "Volkova",
         "position": "Senior Software Engineer at",
@@ -745,6 +789,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1752206423/datafest/DataFest%202025/Speakers/DF25_Kristina_Volkova.jpg"
       },
       {
+        "id": "tom-auger",
         "name": "Tom",
         "surname": "Auger",
         "position": "Senior Software Engineer at",
@@ -753,6 +798,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751383203/datafest/DataFest%202025/Speakers/DF25_Thomas_Auger.png"
       },
       {
+        "id": "shahane-tigranyan",
         "name": "Shahane",
         "surname": "Tigranyan",
         "position": "ML Engineer at",
@@ -761,6 +807,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Shahane_Tigranyan_tz6erf.png"
       },
       {
+        "id": "spartak-bughdaryan",
         "name": "Spartak",
         "surname": "Bughdaryan",
         "position": "Senior NLP Engineer at",
@@ -769,6 +816,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Spartak_Bughdaryan_xuhhrj.png"
       },
       {
+        "id": "andrei-nartsev",
         "name": "Andrei",
         "surname": "Nartsev",
         "position": "Head of Applied ML Team at",
@@ -777,6 +825,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756473780/datafest/DataFest%202025/Speakers/DF25_Andrei_Nartsev.jpg"
       },
       {
+        "id": "stefan-papp",
         "name": "Stefan",
         "surname": "Papp",
         "position": "",
@@ -785,6 +834,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960982/datafest/DataFest%202025/Speakers/DF25_Stefan_Papp_zitc24.png"
       },
       {
+        "id": "levon-berberyan",
         "name": "Levon",
         "surname": "Berberyan",
         "position": "Senior Math and Product AI Engineer at",
@@ -793,6 +843,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755713628/datafest/DataFest%202025/Speakers/DF25_Levon_Berberyan.jpg"
       },
       {
+        "id": "igor-tetko",
         "name": "Igor",
         "surname": "Tetko",
         "position": "Group Leader Chemoinformatics at",
@@ -801,6 +852,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1750960981/datafest/DataFest%202025/Speakers/DF25_Igor_Tetko_sboh9l.png"
       },
       {
+        "id": "joonatan-laulainen",
         "name": "Joonatan",
         "surname": "Laulainen",
         "position": "CTO at",
@@ -809,6 +861,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751393535/datafest/DataFest%202025/Speakers/DF25_Joonatan_Laulainen.png"
       },
       {
+        "id": "evgeniy-glukhov",
         "name": "Evgeniy",
         "surname": "Glukhov",
         "position": "ML Researcher at",
@@ -817,6 +870,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753282345/datafest/DataFest%202025/Speakers/DF25_Evgeniy_Glukhov.jpg"
       },
       {
+        "id": "erik-arakelyan",
         "name": "Erik",
         "surname": "Arakelyan",
         "position": "Senior Researcher at",
@@ -825,6 +879,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751548071/datafest/DataFest%202025/Speakers/DF_Erik_Arakelyan.jpg"
       },
       {
+        "id": "andro-sabashvili",
         "name": "Andro",
         "surname": "Sabashvili",
         "position": "Staff Data Scientist at",
@@ -833,6 +888,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751973111/datafest/DataFest%202025/Speakers/DF25_Andro_Sabashvili.jpg"
       },
       {
+        "id": "michal-valko",
         "name": "Michal",
         "surname": "Valko",
         "position": "Chief Models Officer at",
@@ -841,6 +897,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1751982691/datafest/DataFest%202025/Speakers/DF25_Michal_Valko.jpg"
       },
       {
+        "id": "shant-navasardyan",
         "name": "Shant",
         "surname": "Navasardyan",
         "position": "Staff ML Scientist / Team Lead at",
@@ -849,6 +906,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753091070/datafest/DataFest%202025/Speakers/DF25_Shant_Navasardyan.jpg"
       },
       {
+        "id": "mark-hamazaspyan",
         "name": "Mark",
         "surname": "Hamazaspyan",
         "position": "ML Team Lead at",
@@ -857,6 +915,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753098612/datafest/DataFest%202025/Speakers/DF25_Mark_Hamazaspyan.jpg"
       },
       {
+        "id": "max-pershin",
         "name": "Max",
         "surname": "Pershin",
         "position": "Principal Data Scientist at",
@@ -865,6 +924,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1753956744/datafest/DataFest%202025/Speakers/DF25_Max_Pershin.jpg"
       },
       {
+        "id": "mikhail-burtsev",
         "name": "Mikhail",
         "surname": "Burtsev",
         "position": "Landau AI Fellow at",
@@ -873,6 +933,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1754733102/datafest/DataFest%202025/Speakers/DF25_Mikhail_Burtsev.jpg"
       },
       {
+        "id": "artur-shatveryan",
         "name": "Artur",
         "surname": "Shatveryan",
         "position": "ML Scientist at",
@@ -881,6 +942,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1754932635/datafest/DataFest%202025/Speakers/DF25_Artur_Shatveryan.jpg"
       },
       {
+        "id": "arsen-yeghiazaryan",
         "name": "Arsen",
         "surname": "Yeghiazaryan",
         "position": "Deputy Chief AI Officer at",
@@ -889,6 +951,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755505157/datafest/DataFest%202025/Speakers/DF25_Arsen_Yeghiazaryan.jpg"
       },
       {
+        "id": "tyler-hannan",
         "name": "Tyler",
         "surname": "Hannan",
         "position": "Senior Director, Developer Relations at",
@@ -897,6 +960,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1755516417/datafest/DataFest%202025/Speakers/DF25_Tyler_Hannan.jpg"
       },
       {
+        "id": "adam-bittlingmayer",
         "name": "Adam",
         "surname": "Bittlingmayer",
         "position": "CEO at",
@@ -905,6 +969,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1756738890/datafest/DataFest%202025/Speakers/DF25_Adam_Bittlingmayer.png"
       },
       {
+        "id": "khoren-petrosyan",
         "name": "Khoren",
         "surname": "Petrosyan",
         "position": "ML Researcher at",
@@ -913,6 +978,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757306348/datafest/DataFest%202025/Speakers/DF25_Khoren_Petrosyan.jpg"
       },
       {
+        "id": "alla-barseghyan",
         "name": "Alla",
         "surname": "Barseghyan",
         "position": "ML Researcher at",
@@ -921,6 +987,7 @@
         "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1757309800/datafest/DataFest%202025/Speakers/DF25_Alvard_Barseghyan.jpg"
       },
       {
+        "id": "david-sarkisyan",
         "name": "David",
         "surname": "Sarkisyan",
         "position": "Machine Learning Practice Lead at",

@@ -15,19 +15,12 @@ const CustomAppointment = ({ style, ...restProps }) => {
   const ref = useRef(null);
   const colSpanRef = useRef(null);
 
-  const currentSpeaker = speakersList.find(
-    (speaker) => `${speaker.name} ${speaker.surname}` === restProps.data.speaker
-  );
+  const sessionSpeakers = (restProps.data.speakerIds || [])
+  .map((id) => speakersList.find((speaker) => speaker.id === id))
+  .filter(Boolean);
 
-  let collaborators = [];
-
-  if (restProps.data.collaborators) {
-    collaborators = restProps.data.collaborators.map((collaborator) =>
-      speakersList.find(
-        (speaker) => collaborator === `${speaker.name} ${speaker.surname}`
-      )
-    );
-  }
+  const currentSpeaker = sessionSpeakers[0];
+  const areCollaborators = sessionSpeakers.length > 1;
 
   const popupCloseHandler = (event) => {
     setVisibility(false);
@@ -90,12 +83,12 @@ const CustomAppointment = ({ style, ...restProps }) => {
   }
 
   const timeHeight =
-    ((restProps.data.endDate - restProps.data.startDate) / 1000 / 60) * 3.3333;
+    ((restProps.data.endDate - restProps.data.startDate) / 1000 / 60) * 3.3333;  
 
   return (
     <div className="custom-appointment" id="box">
       <CustomTooltip onClose={popupCloseHandler} show={visibility}>
-        {currentSpeaker && (
+        {currentSpeaker && !areCollaborators && (
           <div className="flex column">
             <a
               href={currentSpeaker.linkedUrl}
@@ -124,10 +117,10 @@ const CustomAppointment = ({ style, ...restProps }) => {
             <div className="space-10-height"></div>
           </div>
         )}
-        {collaborators.length > 0 && (
+        {areCollaborators && (
           <div className="flex column">
             <div className="collaborators">
-              {collaborators.map((collaborator) => {
+              {sessionSpeakers.map((collaborator) => {
                 return (
                   <a
                     href={collaborator.linkedUrl}
@@ -166,7 +159,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
         )}
       </CustomTooltip>
       <Appointments.AppointmentContent {...restProps}>
-        {(restProps.data.speaker || restProps.data.collaborators) && (
+        {sessionSpeakers.length > 0 && (
           <div
             className={restProps.data.isFullWidth === true ? "agenda-container col-span" : "agenda-container"}
             onClick={openTooltip}
@@ -182,9 +175,7 @@ const CustomAppointment = ({ style, ...restProps }) => {
               <div className="course-info">
                 <div className="progress-container">
                   <span className="speaker-text">
-                    {restProps.data.speaker
-                      ? restProps.data.speaker
-                      : restProps.data.collaborators.join(", ")}
+                    {sessionSpeakers.map((speaker) => `${speaker.name} ${speaker.surname}`).join(", ")}
                   </span>
                   <br></br>
                   <span className="progress-text">{restProps.data.title}</span>
