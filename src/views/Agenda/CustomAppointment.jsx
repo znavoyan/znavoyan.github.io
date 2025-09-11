@@ -2,11 +2,15 @@ import React, { useEffect, useRef, useState } from "react";
 import { format } from "date-fns";
 import { useTranslation } from "react-i18next";
 
+import { useMediaQuery } from 'react-responsive'
 import { Appointments } from "@devexpress/dx-react-scheduler-material-ui";
 
 import CustomTooltip from "./CustomTooltip";
 
 const CustomAppointment = ({ style, ...restProps }) => {
+  const isMobile = !useMediaQuery({
+    minWidth: "850px",
+  });
   const [visibility, setVisibility] = useState(false);
   const [containerWidth, setContainerWidth] = useState(0);
   const { t } = useTranslation("common");
@@ -160,11 +164,13 @@ const CustomAppointment = ({ style, ...restProps }) => {
           <div
             className="agenda-container"
             onClick={openTooltip}
-            style={{
-              position: "absolute",
-              height: `${timeHeight}px`, 
-              width: (restProps.data.colSpan && containerWidth > 0)  ? `${Math.ceil(containerWidth * restProps.data.colSpan)}px` : "100%"
-            }}
+            style={isMobile ? {
+              height: `${timeHeight}px`,
+            } : {
+                  position: "absolute",
+                  height: `${timeHeight}px`,
+                  width: (restProps.data.colSpan && containerWidth > 0)  ? `${Math.ceil(containerWidth * restProps.data.colSpan)}px` : "100%"
+              }}
           >
             <div className="time">
               <div className="time-preview">
@@ -191,11 +197,15 @@ const CustomAppointment = ({ style, ...restProps }) => {
           <div
             className="break-info"
             ref={ref}
-            style={{
-              position: "absolute",
-              height: `${timeHeight}px`,
-              width: (restProps.data.colSpan && containerWidth > 0)  ? `${Math.ceil(containerWidth * restProps.data.colSpan)}px` : "100%"
-            }}
+            style={
+              isMobile ? {
+                height: `${timeHeight}px`,
+              } : {
+                position: "absolute",
+                height: `${timeHeight}px`,
+                width: (restProps.data.colSpan && containerWidth > 0)  ? `${Math.ceil(containerWidth * restProps.data.colSpan)}px` : "100%"
+              }
+            }
           >
             <div className="time-preview">
               <span>{format(restProps.data.startDate, "HH:mm")}</span>
