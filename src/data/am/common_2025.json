@@ -413,12 +413,12 @@
           {
             "id": 400,
             "key": "break",
-            "title": "Աֆթերփարթի Yandex Hall-ում (մինչ կեսգիշեր)",
+            "title": "Աֆթերփարթի Yandex Hall-ում (20:00-23:00)",
             "colSpan": 3,
             "roomId": 1,
             "startHour": 20,
             "startMinutes": 0,
-            "endHour": 21,
+            "endHour": 23,
             "endMinutes": 0,
             "abstract": ""
           }
