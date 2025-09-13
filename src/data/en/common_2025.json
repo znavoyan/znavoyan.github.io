@@ -613,28 +613,28 @@
             "abstract": ""
           },
           {
-            "id": 160,
-            "speakerIds": ["elie-bakouch"],
-            "speaker": "Elie Bakouch",
-            "title": "Training smol and large LLMs",
+            "id": 170,
+            "speakerIds": ["dmitry-vetrov"],
+            "speaker": "Dmitry Vetrov",
+            "title": "Thermodynamical Analogies in Deep Learning",
             "roomId": 1,
             "startHour": 16,
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "(subject to change since we might release new model in between) Explaining what's new in pre-training: optimization tricks, MoE, stability hacks and much more. Everything you need to build better LLMs."
+            "abstract": "The stochastic optimization of a loss function during the training of deep neural networks shares many similarities with classical thermodynamical systems. By the end of training, the neural network reaches an equilibrium state that can be described by rules resembling the ideal gas law. It appears possible to define analogues of temperature, pressure, and volume for neural networks and to consider \"isothermal,\" \"isobaric,\" and \"isochoric\" processes within the deep learning context. In this talk, we will derive these rules and demonstrate how they can be applied to analyze the behavior of neural networks."
           },
           {
-            "id": 170,
-            "speakerIds": ["dmitry-vetrov"],
-            "speaker": "Dmitry Vetrov",
-            "title": "Thermodynamical Analogies in Deep Learning",
-            "roomId": 3,
+            "id": 1000,
+            "speakerIds": ["augustin-zidek"],
+            "speaker": "Augustin Žídek",
+            "title": "The Hidden Gems in AlphaFold 3",
+            "roomId": 2,
             "startHour": 16,
             "startMinutes": 0,
             "endHour": 17,
             "endMinutes": 0,
-            "abstract": "The stochastic optimization of a loss function during the training of deep neural networks shares many similarities with classical thermodynamical systems. By the end of training, the neural network reaches an equilibrium state that can be described by rules resembling the ideal gas law. It appears possible to define analogues of temperature, pressure, and volume for neural networks and to consider \"isothermal,\" \"isobaric,\" and \"isochoric\" processes within the deep learning context. In this talk, we will derive these rules and demonstrate how they can be applied to analyze the behavior of neural networks."
+            "abstract": "AlphaFold 2 and 3 caused a revolution in structural biology and lead to the 2024 Nobel Prize in Chemistry. In this talk, we will explore relatively unknown interesting parts of the AlphaFold 3 codebase in more detail and discuss the engineering process and thinking  behind them. This talk should provide an insight into how to design a codebase for a research team and how to build useful programming abstractions for dealing with complex domain-specific problems."
           },
           {
             "id": 400,
