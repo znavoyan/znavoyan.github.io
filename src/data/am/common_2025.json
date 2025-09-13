@@ -577,8 +577,8 @@
             "abstract": "Traditional Reinforcement Learning from Human Feedback typically relies on reward models and preference structures such as the Bradley–Terry model. While effective in some cases, these assumptions fail to capture the richness of human preferences, which often exhibit phenomena such as intransitivity. In this talk, we present Nash Learning from Human Feedback, a more direct alternative that frames the problem as finding a Nash equilibrium in a game induced by human preferences. This perspective provides a principled way to model complex, potentially non-transitive preferences without the need to introduce a reward model. We will survey methods for approximating Nash equilibria in this setting, with a focus on fine-tuning large language models. In particular, we show how (approximate) proximal optimization methods—notably the Mirror Prox algorithm—can be adapted to achieve fast and stable convergence in this setting. Finally, we discuss practical strategies for efficiently implementing these approximate proximal methods in large-scale training."
           },
           {
-            "id": 120,
-            "speakerIds": ["hynek-kydlíček"],
+            "id": 125,
+            "speakerIds": ["hynek-kydlícek"],
             "speaker": "Hynek Kydlíček",
             "title": "FineWeb 2: How to Scale Web Data Curation to 1,000+ Languages",
             "roomId": 3,
@@ -589,11 +589,11 @@
             "abstract": "In this talk, we'll walk through the core challenges of building FineWeb 2, a large-scale multilingual web corpus spanning 1,000+ languages - from choosing the right multilingual evaluations, to scaling language filtering and adaptive heuristics, and finally improving overall data quality through simple deduplication technique."
           },
           {
-            "id": 130,
+            "id": 135,
             "speakerIds": ["alla-barseghyan"],
             "speaker": "Alla Barseghyan",
             "title": "Less is More? Data Specialization for various modalities",
-            "roomId": 2,
+            "roomId": 3,
             "startHour": 15,
             "startMinutes": 0,
             "endHour": 15,
