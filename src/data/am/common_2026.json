@@ -1,0 +1,156 @@
+{
+  "header": {
+    "navbarItems": [
+      {
+        "name": "խոսնակներ",
+        "key": "speakers"
+      },
+      {
+        "name": "գործընկերներ",
+        "key": "sponsors"
+      },
+      {
+        "name": "օրակարգ",
+        "key": "agenda"
+      }
+    ],
+    "pastEvents": [2020, 2021, 2022, 2023, 2024, 2025],
+    "register": "Գրանցվել այստեղ",
+    "registerUrl": ""
+  },
+  "home": {
+    "main": {
+      "text": "Միջազգային <span>&#x00023;ԴատաՖեստ</span> Երևան",
+      "register": "Գրանցվել այստեղ",
+      "registerUrl": "",
+      "scrollDown": "Դեպի ներքև",
+      "eventDate": ""
+    },
+    "about": {
+      "title": "Ինչ է <span>ԴատաՖեստ Երևանը</span>",
+      "text": "Դատաֆեստ Երևանը մեքենայական ուսուցմանը նվիրված կոնֆերանս է, ուր քննարկվելու են ոլորտի տարաբնույթ թեմաներ՝ շեշտադրելով ինժեներական և կիրառական խնդիրները։ Այն մտքերի փոխանակման և համագործակցության խթանման հարթակ է։",
+      "followUs": "Հետևեք մեզ",
+      "facebookPage": "Հետևեք մեզ ֆեյսբուքում -",
+      "facebookEventPage": "Ֆեյսբուքյան միջոցառման հղում -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://www.facebook.com/events/6253742918081830",
+      "facebookPageText": "Ֆեյսբուքյան էջ",
+      "facebookEventText": "Ֆեյսբուքյան միջոցառում",
+      "youTubePageText": "Յութուբյան Էջ",
+      "youTubeEventPageUrl": "https://www.youtube.com/playlist?list=PLvwlJZXG6IkW-Yk4EJjSIwHuoXrr9_hsY"
+    }
+  },
+  "sponsors": {
+    "title": "Մեր <span>Գործընկերները</span>",
+    "generalSponsorsTitle": "<span>Ոսկե գործընկերները</span>",
+    "sponsorsTitle": "<span>Արծաթե գործընկերները</span>",
+    "venueSponsorsTitle": "<span>Տարածքի գործընկեր</span>",
+    "siteSponsorsTitle": "<span>Կայքի գործընկեր</span>",
+    "seeAll": "Տեսնել ամբողջը",
+    "text": "Շնորհակալ ենք Դատաֆեստ Երևան 2025-ի թվարկված գործընկերներին, որոնց աջակցությամբ միայն հնարավոր դարձավ այս միջոցառումը։",
+    "aboveText": "",
+    "bottomText": "",
+    "categories": {
+      "generalSponsors": [
+      ],
+      "sponsors": [
+    
+      ],
+      "venueSponsors": [
+       
+      ],
+      "siteSponsors": [
+  
+      ]
+    }
+  },
+  "agenda": {
+    "btnText": "",
+    "title": "Մեր <span>Օրակարգը</span>",
+    "yerevanTime": "Բոլոր ժամերը Երևանի ժամանակով են (UTC+4)",
+    "text": "",
+    "aboveText": "",
+    "bottomText": "",
+    "locations": [
+      {
+        "text": "Սրահ A (2րդ մասնաշենք, 3րդ հարկ)",
+        "id": 1
+      },
+      {
+        "text": "Սրահ B (2րդ մասնաշենք, 2րդ հարկ)",
+        "id": 2
+      },
+      {
+        "text": "Սրահ C (3րդ մասնաշենք, 1ին հարկ)",
+        "id": 3
+      }
+    ],
+    "days": [
+      {
+        "1": [
+         
+        ],
+        "date": "",
+        "dateIndex": "1",
+        "year": 2027,
+        "month": 6,
+        "day": 12
+      },
+      {
+        "2": [
+          
+        ],
+        "date": "",
+        "dateIndex": "2",
+        "year": 2026,
+        "month": 6,
+        "day": 13
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Կազմակերպիչներ",
+    "teamTitle": "Դատաֆեստ Թիմ",
+    "organisersList": [],
+    "teamList": [
+      {
+        "name": "Արսեն",
+        "surname": "Եղիազարյան",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+      },
+      {
+        "name": "Հրանտ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "https://www.linkedin.com/in/hrant-khachatrian-b97425206/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Զավեն",
+        "surname": "Նավոյան",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Անդրանիկ",
+        "surname": "Խաչատրյան",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Մեր <span>Խոսնակները</span>",
+    "btnText": "Ավելին",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+     
+    ]
+  },
+  "location": {
+    "title": "Վուդս Կենտրոն, Երևան-Գառնի ճանապարհ, Ջրվեժ անտառապարկի մոտակայք",
+    "lat": "40.1837318004724",
+    "lng": "44.629297210056556"
+  }
+}
