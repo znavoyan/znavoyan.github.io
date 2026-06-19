@@ -1,0 +1,156 @@
+{
+  "header": {
+    "navbarItems": [
+      {
+        "name": "speakers",
+        "key": "speakers"
+      },
+      {
+        "name": "partners",
+        "key": "sponsors"
+      },
+      {
+        "name": "agenda",
+        "key": "agenda"
+      }
+    ],
+    "pastEvents": [2020, 2021, 2022, 2023, 2024, 2025],
+    "register": "Register here",
+    "registerUrl": ""
+  },
+  "home": {
+    "main": {
+      "text": "International <span>&#x00023;DataFestival</span> in Yerevan",
+      "register": "Register here",
+      "registerUrl": "",
+      "scrollDown": "Scroll down",
+      "eventDate": ""
+    },
+    "about": {
+      "title": "What is <span>DataFest Yerevan</span>",
+      "text": "DataFest Yerevan is a conference covering diverse topics in machine learning, with a strong focus on engineering and applications. It is a forum for sharing ideas and fostering collaboration.",
+      "followUs": "Follow us",
+      "facebookPage": "Follow us on Facebook -",
+      "facebookEventPage": "Facebook event page -",
+      "facebookPageUrl": "https://facebook.com/datafestYerevan",
+      "facebookEventPageUrl": "https://www.facebook.com/events/1116080056939530",
+      "facebookPageText": "Facebook page",
+      "facebookEventText": "Facebook event",
+      "youTubePageText": "YouTube page",
+      "youTubeEventPageUrl": "https://www.youtube.com/@DataFestYerevan"
+    }
+  },
+  "sponsors": {
+    "title": "Our <span>Partners</span>",
+    "generalSponsorsTitle": "<span>Gold Partners</span>",
+    "sponsorsTitle": "<span>Silver Partners</span>",
+    "venueSponsorsTitle": "<span>Venue Partner</span>",
+    "siteSponsorsTitle": "<span>Site Partner</span>",
+    "seeAll": "See all",
+    "text": "We gratefully acknowledge the following partners of DataFest Yerevan 2025, whose support made this event possible",
+    "aboveText": "",
+    "bottomText": "",
+    "categories": {
+      "generalSponsors": [
+       
+      ],
+      "sponsors": [
+        
+      ],
+      "venueSponsors": [
+       
+      ],
+      "siteSponsors": [
+        
+      ]
+    }
+  },
+  "agenda": {
+    "btnText": "",
+    "title": "Our <span>Agenda</span>",
+    "yerevanTime": "All times are in Yerevan time (UTC+4)",
+    "text": "",
+    "aboveText": "",
+    "bottomText": "",
+    "locations": [
+      {
+        "text": "Hall A (block II, 3rd floor)",
+        "id": 1
+      },
+      {
+        "text": "Hall B (block II, 2nd floor)",
+        "id": 2
+      },
+      {
+        "text": "Hall C (block III, 1st floor)",
+        "id": 3
+      }
+    ],
+    "days": [
+      {
+        "1": [
+    
+        ],
+        "date": "",
+        "dateIndex": "1",
+        "year": 2027,
+        "month": 6,
+        "day": 12
+      },
+      {
+        "2": [
+         
+        ],
+        "date": "",
+        "dateIndex": "2",
+        "year": 2027,
+        "month": 6,
+        "day": 13
+      }
+    ]
+  },
+  "organisers": {
+    "title": "Organisers",
+    "teamTitle": "DataFest Team",
+    "organisersList": [],
+    "teamList": [
+      {
+        "name": "Arsen",
+        "surname": "Yeghiazaryan",
+        "linkedUrl": "https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1628507913/datafest/speakers/Arsen_Yeghiazaryan_emit7a.jpg"
+      },
+      {
+        "name": "Hrant",
+        "surname": "Khachatrian",
+        "linkedUrl": "https://www.linkedin.com/in/hrant-khachatrian-b97425206/",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639416/datafest/speakers/Hrant_Khachatrian_v975hp.jpg"
+      },
+      {
+        "name": "Zaven",
+        "surname": "Navoyan",
+        "linkedUrl": "https://www.linkedin.com/in/zavennavoyan",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639439/datafest/speakers/Zaven_Navoyan_hxmcoc.jpg"
+      },
+      {
+        "name": "Andranik",
+        "surname": "Khachatryan",
+        "linkedUrl": "https://www.linkedin.com/in/andranik-khachatryan-4b6b82145",
+        "imgUrl": "https://res.cloudinary.com/datafest/image/upload/v1624639448/datafest/speakers/Andranik_Khachatryan_tjgb2c.jpg"
+      }
+    ]
+  },
+  "speakers": {
+    "title": "Our <span>Speakers</span>",
+    "btnText": "More",
+    "aboveText": "",
+    "bottomText": "",
+    "speakersList": [
+    ]
+  },
+  "location": {
+    "title": "Woods Center, Yerevan, Garni Road, Close to Jrvezh State Forest Park",
+    "lat": "40.1837318004724",
+    "lng": "44.629297210056556"
+  }
+}
